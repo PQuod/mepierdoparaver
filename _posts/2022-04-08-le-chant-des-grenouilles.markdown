@@ -5,9 +5,9 @@ date:   2022-06-06 15:19:10 +0200
 categories: son
 carousels:
   - images:
-    - image: {{ site.baseurl }}/imgs/grenouilles01.jpg
-    - image: {{ site.baseurl }}/imgs/grenouilles02.jpg
-    - image: {{ site.baseurl }}/imgs/grenouilles03.jpg
+    - image: /imgs/grenouilles01.jpg
+    - image: /imgs/grenouilles02.jpg
+    - image: /imgs/grenouilles03.jpg
 ---
 **Le fond de la mar** est un projet d'expérimentation sonore entre [Florine Mougel](https://mouflow.com/) (lampes de poche) et moi (basse + machines, corne).
 
