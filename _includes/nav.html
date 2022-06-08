@@ -2,7 +2,7 @@
   <div class="menu">
   <h2>Travaux</h2>
     {% for post in site.posts %}
-        <a href="{{ site.baseurl }}{{ post.url }}">
+        <a href="{{ post.url }}">
           {% if post.categories contains "son" %}&#9732;{%endif%}
           {% if post.categories contains "video" %}&#9737;{%endif%}
           {% if post.categories contains "edition" %}&#9739;{%endif%}
