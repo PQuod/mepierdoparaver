@@ -12,7 +12,7 @@
 /* Général */
 body{
   color:var(--color);
-  background-image: url("/imgs/fond-tempo.png");
+  background-image: url("{{ site.baseurl }}/imgs/fond-tempo.png");
   font-family: 'EB Garamond', serif;
 }
 
