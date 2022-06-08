@@ -1,0 +1,148 @@
+/* Les variables */
+:root{
+--font-size:1em;
+--line-height:1.9em;
+--b-color: #fff;
+--color: #2c2c2c;
+--f-title: 'Oswald', sans-serif;
+--f-cdt: '';
+--h-color: #505050;
+}
+
+/* Général */
+body{
+  color:var(--color);
+  background-image: url("/imgs/fond-tempo.png");
+  font-family: 'EB Garamond', serif;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: var(--f-title);
+    text-transform:uppercase;
+    letter-spacing: 1px;
+}
+
+a{
+  color: var(--color);
+  text-decoration: none;
+}
+
+ul, li{
+  list-style: none;
+}
+
+p{
+  margin-bottom:1em;
+}
+
+h2 a:hover{
+  color: var(--b-color);
+  -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: var(--color);
+}
+
+a:hover{
+  color: var(--h-color);
+}
+
+#entrer{
+  width:100%;
+  height:100vh;
+  background: var(--color);
+}
+
+.tempo{
+  color:white;
+  text-align:center;
+  padding-top:200px;
+}
+.button-entrer{
+  font-family:var(--f-title);
+  text-transform: uppercase;
+  position:absolute;
+  top:50%;
+  left:45%;
+  color:white;
+  box-shadow:  0 0 0 1px white,
+  0 0 0 6px var(--color),
+  0 0 0 10px white;
+  padding:10px;
+}
+
+.button-entrer:hover{
+  opacity: 0.6;
+  cursor:pointer;
+}
+
+header {
+  width:80%;
+  margin:auto;
+  height:4em;
+  padding-top:1.5em;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.head-nav{
+  display:inline-block;
+  background-color: var(--b-color);
+  box-shadow:  0 0 0 1px var(--color),
+  0 0 0 2px var(--b-color),
+  0 0 0 6px var(--color);
+  margin:auto;
+}
+
+.head-nav h2{
+  padding:5px;
+  height:1.5em;
+  font-weight:700;
+  text-align: center;
+}
+
+nav{
+  width:30%;
+  position:relative;
+  float:left;
+}
+
+.menu, .legende{
+  background:var(--b-color);
+  margin-left: 2em;
+  margin-top: 2em;
+  box-shadow:  0 0 0 1px var(--color),
+  0 0 0 2px var(--b-color),
+  0 0 0 6px var(--color);
+  padding:10px;
+}
+
+
+nav a{
+  cursor: pointer;
+}
+
+main{
+  position:relative;
+  float:right;
+  margin-top:2em;
+  margin-right: 2em;
+  width:60%;
+}
+
+.home-contenu{
+  background-color:var(--b-color);
+  padding:2em;
+}
+
+.home-contenu h2{
+  text-align: center;
+  margin-bottom:1em;
+}
+
+.home-contenu h2::before, .home-contenu h2::after{
+  content: " ■ ";
+  font-size:1.8em;
+}
+
+.home-contenu a::before{
+  content: "► "
+}

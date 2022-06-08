@@ -1,0 +1,23 @@
+<nav>
+  <div class="menu">
+  <h2>Travaux</h2>
+    {% for post in site.posts %}
+        <a href="{{ post.url }}">
+          {% if post.categories contains "son" %}&#9732;{%endif%}
+          {% if post.categories contains "video" %}&#9737;{%endif%}
+          {% if post.categories contains "edition" %}&#9739;{%endif%}
+          {% if post.categories contains "dessin" %}&#9736;{%endif%}
+          {{ post.title }}
+        </a><br>
+    {% endfor %}
+    </div>
+    <div class="legende">
+      <h2>Légende</h2>
+      <ul>
+        <li>&#9732; Son</li>
+        <li>&#9737; Vidéo</li>
+        <li>&#9739; Édition</li>
+        <li>&#9736; Dessin</li>
+      </ul>
+    </div>
+</nav>
