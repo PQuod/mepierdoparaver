@@ -17,23 +17,6 @@ fields:
   label: date
   hidden: true
   default: now
-- type: select
-  name: categories
-  label: Medium
-  description: Choisir un ou plusieurs mediums pour cette pièce
-  hidden: false
-  config:
-      source:
-        type: custom
-      options:
-          - "Son"
-          - "Vidéo"
-          - "Edition"
-          - "Dessin"
-          - "Volume"
-- type: text
-  name: categories
-  label: categories
 - type: field_group_list
   name: carousels
   label: carousels
@@ -45,3 +28,18 @@ fields:
     - type: file
       name: image
       label: image
+- name: medium
+  type: list
+  config:
+    use_select: true
+    min: 1
+    max: 
+    source:
+      type: simple
+    options:
+    - son
+    - vidéo
+    - divers
+    - volume
+    - dessin
+  label: Medium
