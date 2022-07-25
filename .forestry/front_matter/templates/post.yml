@@ -17,7 +17,7 @@ fields:
   label: date
   hidden: true
   default: now
-- type: select
+- type: list
   name: categories
   label: Medium
   description: Choisir un ou plusieurs mediums pour cette pièce
@@ -31,9 +31,6 @@ fields:
           - "Edition"
           - "Dessin"
           - "Volume"
-- type: text
-  name: categories
-  label: categories
 - type: field_group_list
   name: carousels
   label: carousels
