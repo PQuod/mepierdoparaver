@@ -23,18 +23,20 @@ fields:
   description: Choisir un ou plusieurs mediums pour cette pièce
   hidden: false
   config:
-      source:
-        type: custom
-      options:
-          - "Son"
-          - "Vidéo"
-          - "Edition"
-          - "Dessin"
-          - "Volume"
-          - "Autres"
+    source:
+      type: simple
+    options:
+    - Son
+    - Vidéo
+    - Edition
+    - Dessin
+    - Volume
+    - Autres
+    required: true
+  default: Autres
 - type: field_group_list
   name: carousels
-  label: carousels
+  label: Carousel des images
   fields:
   - type: field_group_list
     name: images
@@ -43,3 +45,4 @@ fields:
     - type: file
       name: image
       label: image
+    hidden: true
