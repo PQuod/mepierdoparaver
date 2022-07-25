@@ -46,3 +46,4 @@ fields:
       name: image
       label: image
     hidden: true
+  hidden: true
