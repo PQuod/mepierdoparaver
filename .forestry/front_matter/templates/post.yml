@@ -17,17 +17,23 @@ fields:
   label: date
   hidden: true
   default: now
-- type: field_group_list
+- type: select
   name: categories
   label: Medium
   description: Choisir un ou plusieurs mediums pour cette pièce
   hidden: false
-  fields:
-  - type: text
-    name: category
-    label: "Son"
-      config:
-      required: true
+  config:
+      source:
+        type: custom
+      options:
+          - "Son"
+          - "Vidéo"
+          - "Edition"
+          - "Dessin"
+          - "Volume"
+- type: text
+  name: categories
+  label: categories
 - type: field_group_list
   name: carousels
   label: carousels
