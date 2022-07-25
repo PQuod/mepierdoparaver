@@ -7,6 +7,20 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: select
+  name: categories
+  label: Medium
+  description: Choisir un ou plusieurs mediums pour cette pièce
+  hidden: false
+  config:
+      source:
+        type: custom
+      options:
+          - "Son"
+          - "Vidéo"
+          - "Edition"
+          - "Dessin"
+          - "Volume"
 upload_dir: imgs
 public_path: "/imgs"
 front_matter_path: ''
@@ -22,17 +36,3 @@ build:
   working_dir: "/srv"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     -d _site
-type: select
-name: categories
-label: Medium
-description: Choisir un ou plusieurs mediums pour cette pièce
-hidden: false
-config:
-    source:
-      type: custom
-    options:
-        - "Son"
-        - "Vidéo"
-        - "Edition"
-        - "Dessin"
-        - "Volume"
