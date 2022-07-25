@@ -17,6 +17,20 @@ fields:
   label: date
   hidden: true
   default: now
+- type: select
+  name: categories
+  label: Medium
+  description: Choisir un ou plusieurs mediums pour cette pièce
+  hidden: false
+  config:
+      source:
+        type: custom
+      options:
+          - "Son"
+          - "Vidéo"
+          - "Edition"
+          - "Dessin"
+          - "Volume"
 - type: text
   name: categories
   label: categories

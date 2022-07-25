@@ -1,26 +1,12 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path:
+webhook_url:
 sections:
 - type: jekyll-posts
   label: Posts
   create: all
-- type: select
-  name: categories
-  label: Medium
-  description: Choisir un ou plusieurs mediums pour cette pièce
-  hidden: false
-  config:
-      source:
-        type: custom
-      options:
-          - "Son"
-          - "Vidéo"
-          - "Edition"
-          - "Dessin"
-          - "Volume"
 upload_dir: imgs
 public_path: "/imgs"
 front_matter_path: ''
