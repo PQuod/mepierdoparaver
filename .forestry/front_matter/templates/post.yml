@@ -32,9 +32,6 @@ fields:
           - "Dessin"
           - "Volume"
           - "Autres"
-- type: text
-  name: categories
-  label: categories
 - type: field_group_list
   name: carousels
   label: carousels
