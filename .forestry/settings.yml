@@ -5,6 +5,18 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: es
+  label: Pages en espagnol
+  create: documents
+  match: "**/*"
+- type: directory
+  path: es/_posts
+  label: Posts en espagnol
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
   path: fr
   label: Pages en français
   create: documents
