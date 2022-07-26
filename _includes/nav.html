@@ -1,7 +1,9 @@
 <nav>
   <div class="menu">
   <h2>Travaux</h2>
+    <ul>
     {% for post in site.posts %}
+      <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {% if post.categories contains "son" %}&#9732;{%endif%}
           {% if post.categories contains "video" %}&#9737;{%endif%}
@@ -10,8 +12,10 @@
           {% if post.categories contains "volume" %}&#9750;{%endif%}
           {% if post.categories contains "divers" %}&#9883;{%endif%}
           {{ post.title }}
-        </a><br>
+        </a>
+      </li>
     {% endfor %}
+    </ul>
     </div>
     <div class="legende">
       <h2>Légende</h2>
