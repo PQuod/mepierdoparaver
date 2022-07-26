@@ -2,6 +2,7 @@
 layout: post
 title:  "Le chant des grenouilles"
 date:   2022-06-06 15:19:10 +0200
+lang: fr
 id: "grenouilles"
 categories: son
 carousels:
