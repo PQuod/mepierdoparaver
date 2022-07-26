@@ -5,12 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: fr
   label: Pages en français
   create: documents
   match: "**/*"
 - type: directory
-  path: _posts
+  path: fr/_posts
   label: Posts en français
   create: documents
   match: "**/*"
