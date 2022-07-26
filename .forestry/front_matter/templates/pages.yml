@@ -5,15 +5,32 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre
+  config:
+    required: true
+- name: lang
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - es
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Langue
 - type: text
   name: lang-ref
-  label: lang-ref
-- type: text
-  name: lang
-  label: lang
+  label: Titre commun aux deux langues
+  config:
+    required: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
