@@ -7,12 +7,15 @@
 --f-title: 'Oswald', sans-serif;
 --f-cdt: '';
 --h-color: #505050;
+--box-border: 0 0 0 1px var(--color),
+              0 0 0 2px var(--b-color),
+              0 0 0 6px var(--color);
 }
 
 /* Général */
 body{
   color:var(--color);
-  background-image: url("/mepierdoparaver/imgs/fond-tempo.png");
+  background-image: url("/mepierdoparaver/imgs/fond-jour.png");
   font-family: 'EB Garamond', serif;
 }
 
@@ -38,7 +41,7 @@ p{
 h2 a:hover{
   color: var(--b-color);
   -webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: var(--color);
+  -webkit-text-stroke-color: var(--color);
 }
 
 a:hover{
@@ -63,9 +66,7 @@ a:hover{
   top:50%;
   left:45%;
   color:white;
-  box-shadow:  0 0 0 1px white,
-  0 0 0 6px var(--color),
-  0 0 0 10px white;
+  box-shadow:  var(--box-border);
   padding:10px;
 }
 
@@ -80,15 +81,13 @@ header {
   height:4em;
   padding-top:1.5em;
   display:grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .head-nav{
   display:inline-block;
   background-color: var(--b-color);
-  box-shadow:  0 0 0 1px var(--color),
-  0 0 0 2px var(--b-color),
-  0 0 0 6px var(--color);
+  box-shadow:  var(--box-border);
   margin:auto;
 }
 
@@ -109,9 +108,7 @@ nav{
   background:var(--b-color);
   margin-left: 2em;
   margin-top: 2em;
-  box-shadow:  0 0 0 1px var(--color),
-  0 0 0 2px var(--b-color),
-  0 0 0 6px var(--color);
+  box-shadow: var(--box-border);
   padding:10px;
 }
 
@@ -131,6 +128,7 @@ main{
 .home-contenu{
   background-color:var(--b-color);
   padding:2em;
+  box-shadow: var(--box-border);
 }
 
 .home-contenu h2{
