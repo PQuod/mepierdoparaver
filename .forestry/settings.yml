@@ -8,7 +8,7 @@ sections:
   path: es
   label: Pages en espagnol
   create: documents
-  match: "**/*"
+  match: "**/*.md"
 - type: directory
   path: es/_posts
   label: Posts en espagnol
@@ -20,7 +20,7 @@ sections:
   path: fr
   label: Pages en français
   create: documents
-  match: "**/*"
+  match: "**/*.md"
 - type: directory
   path: fr/_posts
   label: Posts en français
