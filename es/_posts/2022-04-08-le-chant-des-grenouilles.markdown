@@ -3,7 +3,7 @@ layout: post
 title:  "El canto de las ranas"
 date:   2022-06-06 15:19:10 +0200
 lang: es
-id: "grenouilles"
+lang-ref: "grenouilles"
 categories: son
 carousels:
   - images:

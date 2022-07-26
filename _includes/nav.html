@@ -1,8 +1,9 @@
 <nav>
   <div class="menu">
-  <h2>Travaux</h2>
+  <h2>{{ site.data.trad['travaux'][page.lang] }}</h2>
     <ul>
-    {% for post in site.posts %}
+    {% assign related = site.posts | where: "lang", page.lang %}
+    {% for post in related %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {% if post.categories contains "son" %}&#9732;{%endif%}
@@ -18,7 +19,7 @@
     </ul>
     </div>
     <div class="legende">
-      <h2>Légende</h2>
+      <h2>{{ site.data.trad['legende'][page.lang] }}</h2>
       <ul>
         <li>&#9732; Son</li>
         <li>&#9737; Vidéo</li>

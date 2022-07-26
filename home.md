@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Actualités
+lang-ref: "home"
+lang: fr
 permalink: /home/
 ---
 

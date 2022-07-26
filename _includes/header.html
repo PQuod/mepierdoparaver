@@ -1,11 +1,19 @@
 <header>
-<div class="head-nav"><h2><a href="{{ site.baseurl }}/home/">Accueil</a></h2></div>
-<div class="head-nav"><h2><a href="{{ site.baseurl }}/about/">À propos</a></h2></div>
-{% assign posts=site.posts | where: "id", page.id | sort:"lang" %}
+{% assign pages=site.pages | where: "lang", page.lang | reverse %}
+  {% for page in pages %}
+  <div class="head-nav"><h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2></div>
+  {% endfor %}
+{% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
 {% if posts.size == 0 %}
-  {% assign posts=site.pages | where:"id", page.id | sort: 'lang' %}
+  {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
 {% endif %}
+{% if posts.size > 1 %}
 {% for post in posts %}
-  <div class="head-nav"><h2><a class="{{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a></h2></div>
+  <div class="head-nav">
+    <h2>
+      <a class="{{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
+    </h2>
+  </div>
 {% endfor %}
+{% endif %}
 </header>

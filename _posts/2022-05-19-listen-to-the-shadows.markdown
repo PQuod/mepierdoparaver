@@ -2,8 +2,8 @@
 layout: post
 title:  "Listen to the shadows"
 date:   2022-05-08 15:19:10 +0200
-id: "shadows"
 lang: fr
+lang-ref: "shadows"
 categories: [video, son, edition]
 carousels:
   - images:

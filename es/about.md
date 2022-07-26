@@ -1,7 +1,8 @@
 ---
 layout: page
-title: À propos
-permalink: /about/
+title: ¿Quién soy?
+lang: es
+lang-ref: "about"
 ---
 
 Version espagnole

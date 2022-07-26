@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Actualités
-permalink: /home/
+title: Actualidad
+lang-ref: "home"
+lang: es
 ---
 
 Version espagnole
