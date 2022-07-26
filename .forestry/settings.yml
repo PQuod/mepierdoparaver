@@ -4,9 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Posts
-  create: all
+- type: directory
+  path: ''
+  label: Pages en français
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _posts
+  label: Posts en français
+  create: documents
+  match: "**/*"
+  templates:
+  - post
 upload_dir: imgs
 public_path: "/imgs"
 front_matter_path: ''
