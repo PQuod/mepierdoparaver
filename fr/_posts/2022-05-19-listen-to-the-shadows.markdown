@@ -15,9 +15,9 @@ medium:
 - edition
 
 ---
-<iframe src="[https://player.vimeo.com/video/636620154?h=19db6d6a52](https://player.vimeo.com/video/636620154?h=19db6d6a52 "https://player.vimeo.com/video/636620154?h=19db6d6a52")" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<p><a href="[https://vimeo.com/636620154](https://vimeo.com/636620154 "https://vimeo.com/636620154")">Listen to the Shadows (wander)</a> from <a href="[https://vimeo.com/mepierdoparaver](https://vimeo.com/mepierdoparaver "https://vimeo.com/mepierdoparaver")">mepierdoparaver</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="[https://player.vimeo.com/video/636620154?h=19db6d6a52](https://player.vimeo.com/video/636620154?h=19db6d6a52 "https://player.vimeo.com/video/636620154?h=19db6d6a52")" allowfullscreen></iframe>
+</div>
 
 ###### _Listen to the Shadows (wander), 2021, vidéo monocanal, son, 02:48 env. en boucle._
 
