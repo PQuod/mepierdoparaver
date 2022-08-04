@@ -13,11 +13,8 @@ medium:
 - son
 - video
 - edition
-<<<<<<< HEAD
-=======
 vimeoId: ''
 
->>>>>>> 128c0e453c759817dee8ee2350ea8464771cf649
 ---
 ###### _Listen to the Shadows (wander), 2021, vidéo monocanal, son, 02:48 env. en boucle._
 
