@@ -14,6 +14,7 @@ medium:
 - video
 - edition
 vimeoId: 636620154?h=19db6d6a52
+
 ---
 {% include vimeo.html id=page.vimeoId %}
 
