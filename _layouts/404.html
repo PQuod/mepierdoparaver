@@ -1,0 +1,24 @@
+
+  {%- include head.html -%}
+    <main aria-label="Content">
+      <div id="content">
+        {{ content }}
+      </div>
+    </main>
+    <script>
+      var root = document.documentElement;
+      var body = document.body;
+      var updateHour = () => {
+	       var hour = new Date().getHours();
+         var colombieHour = hour-7;
+         console.log(colombieHour);
+         if ((colombieHour <= 6) || (colombieHour >18)){
+	       root.style.setProperty("--color", "#fff");
+         root.style.setProperty("--b-color", "#2c2c2c");
+         body.style.setProperty("background-image", 'url("/mepierdoparaver/imgs/fond-nuit.png")');
+       }
+      };
+      setInterval(updateHour, 60000);
+      updateHour();
+    </script>
+  {%- include footer.html -%}

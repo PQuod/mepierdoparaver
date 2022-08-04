@@ -58,21 +58,21 @@ p{
   margin-bottom:1em;
 }
 
+iframe{
+  width:100%;
+}
+
+#player{
+  width:100%;
+}
+
 h2 a:hover{
   color: var(--b-color);
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: var(--color);
 }
 
-#entrer{
-  width:100%;
-  height:100vh;
-    background-image: url('mepierdoparaver/imgs/caminandojuntas.gif');
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding:0;
-    margin:0;
-}
+
 
 .tempo{
   color:white;
@@ -139,7 +139,7 @@ nav{
   float:left;
 }
 
-.menu, .legende, .titre, .header-mobile{
+.menu, .legende, .titre, .header-mobile, .random{
   background:var(--b-color);
   margin-left: 2em;
   margin-top: 2em;

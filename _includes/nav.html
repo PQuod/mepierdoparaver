@@ -39,12 +39,15 @@
     <div class="legende">
       <h2>{{ site.data.trad['legende'][page.lang] }}</h2>
       <ul>
-        <li>&#9732; Son</li>
-        <li>&#9737; Vidéo</li>
-        <li>&#9739; Édition</li>
-        <li>&#9736; Dessin</li>
-        <li>&#9750; Volume</li>
-        <li>&#9883; Divers</li>
+        <li>&#9732; {{ site.data.trad['son'][page.lang] }}</li>
+        <li>&#9737; {{ site.data.trad['video'][page.lang] }}</li>
+        <li>&#9739; {{ site.data.trad['edition'][page.lang] }}</li>
+        <li>&#9736; {{ site.data.trad['dessin'][page.lang] }}</li>
+        <li>&#9750; {{ site.data.trad['volume'][page.lang] }}</li>
+        <li>&#9883; {{ site.data.trad['divers'][page.lang] }}</li>
       </ul>
+    </div>
+    <div class="random">
+      <a href="{{site.baseurl}}/random/">{{ site.data.trad['seperdre'][page.lang] }}</a>
     </div>
 </nav>

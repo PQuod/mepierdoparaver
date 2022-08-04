@@ -4,3 +4,24 @@ travaux:
 legende:
   fr: "Légende"
   es: "Leyenda"
+seperdre:
+  fr: "Se perdre pour voir"
+  es: "Perderse para ver"
+son:
+  fr: "Son"
+  es: "Sonido"
+video:
+  fr: "Vidéo"
+  es: "Vídeo"
+edition:
+  fr: "Edition"
+  es: "Edición"
+dessin:
+  fr: "Dessin"
+  es: "Dibujo"
+volume:
+  fr: "Volume"
+  es: "Escultura"
+divers:
+  fr: "Divers"
+  es: "Miscelánea"
