@@ -132,6 +132,9 @@ main{
   padding:2em;
   box-shadow: var(--box-border);
 }
+.home-contenu {
+  border: 1px solid #eee;
+}
 
 .home-contenu h2{
   text-align: center;
@@ -153,4 +156,8 @@ main{
 .home-contenu a:hover{
   background:none;
   color:var(--color);
+}
+
+@media (max-width: 800px){
+
 }
