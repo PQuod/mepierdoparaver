@@ -17,7 +17,6 @@ vimeoId: 636620154?h=19db6d6a52
 soundcloudId: "1136569246"
 
 ---
-
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Listen to the Shadows (wander), 2021, vidéo monocanal, son, 02:48 env. en boucle._
