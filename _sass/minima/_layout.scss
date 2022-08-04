@@ -100,12 +100,16 @@ nav{
   float:left;
 }
 
-.menu, .legende{
+.menu, .legende, .titre{
   background:var(--b-color);
   margin-left: 2em;
   margin-top: 2em;
   box-shadow: var(--box-border);
   padding:10px;
+}
+
+.titre{
+  font-family: var(--f-title);
 }
 
 nav a{

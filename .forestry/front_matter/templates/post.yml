@@ -22,23 +22,12 @@ fields:
   label: date
   hidden: true
   default: now
-- type: field_group_list
-  name: carousels
-  label: carousels
-  fields:
-  - type: field_group_list
-    name: images
-    label: images
-    fields:
-    - type: file
-      name: image
-      label: image
 - name: medium
   type: list
   config:
     use_select: true
     min: 1
-    max: 
+    max:
     source:
       type: simple
     options:
