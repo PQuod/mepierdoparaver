@@ -50,8 +50,8 @@ fields:
   config:
     required: false
   label: Nom du morceau Soundcloud
-  description: Pour ajouter une vidéo dans le corps de l'article, sélectionner { }
-    (Snippets) en bas à gauche de l'éditeur, puis cliquer sur Soundcloud
+  description: Pour ajouter du son dans le corps de l'article, sélectionner { } (Snippets)
+    en bas à gauche de l'éditeur, puis cliquer sur Soundcloud
 - name: youtubeId
   type: text
   config:
