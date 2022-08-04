@@ -29,6 +29,11 @@ h6 + p{
   margin-top:var(--line-height);
 }
 
+h6 + .embed-container{
+  margin-top:var(--line-height);
+
+}
+
 a{
   color: var(--color);
   text-decoration: none;

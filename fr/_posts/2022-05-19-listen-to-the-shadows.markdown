@@ -14,6 +14,7 @@ medium:
 - video
 - edition
 vimeoId: 636620154?h=19db6d6a52
+soundcloudId: 1136569246
 ---
 {% include vimeo.html id=page.vimeoId %}
 
@@ -27,7 +28,8 @@ vimeoId: 636620154?h=19db6d6a52
 
 ###### (vue d’exposition), _L'ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, centre culturel Le Pont des arts, Parc de Bourgchevreuil, 35510 Cesson-Sévigné, France.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="[https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1136569246&color=686868](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1136569246&color=686868 "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1136569246&color=686868")"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="[https://soundcloud.com/soundslikeabook](https://soundcloud.com/soundslikeabook "https://soundcloud.com/soundslikeabook")" title="Sounds like a book" target="_blank" style="color: #cccccc; text-decoration: none;">Sounds like a book</a> · <a href="[https://soundcloud.com/soundslikeabook/carlos-bernal-barrera-listen-to-the-shadows-dialogue](https://soundcloud.com/soundslikeabook/carlos-bernal-barrera-listen-to-the-shadows-dialogue "https://soundcloud.com/soundslikeabook/carlos-bernal-barrera-listen-to-the-shadows-dialogue")" title="Carlos Bernal Barrera  - Listen To The Shadows (dialogue)" target="_blank" style="color: #cccccc; text-decoration: none;">Carlos Bernal Barrera  - Listen To The Shadows (dialogue)</a></div>
+{% include soundcloud.html id=page.soundcloudId %}
+
 
 ###### _Listen to the Shadows (dialogue)_, 2021, pièce sonore, son stéréo, 12:36 env.
 
