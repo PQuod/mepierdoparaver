@@ -21,10 +21,6 @@ medium:
 
 ###### _Listen to the Shadows (wander), 2021, vidéo monocanal, son, 02:48 env. en boucle._
 
-La marche comme un dialogue, l’écoute de l’ombre.
-Une promenade erratique qui – peut-être – mène inévitablement au silence.
-Ici on n’entend que l’ombre, ses paroles.
-
 ![](/mepierdoparaver/imgs/shadows01.jpg)
 
 ###### À gauche : _Listen to the Shadows (wander)_, 2021, vidéo monocanal, son, 02:48 env. en boucle.
