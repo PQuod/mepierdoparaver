@@ -15,9 +15,9 @@ medium:
 - edition
 
 ---
-    <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
-    </div>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+</div>
 
 ###### _Listen to the Shadows (wander), 2021, vidéo monocanal, son, 02:48 env. en boucle._
 
