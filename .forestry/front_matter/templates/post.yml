@@ -48,3 +48,10 @@ fields:
   config:
     required: false
   label: Nom du morceau Soundcloud
+- name: youtubeId
+  type: text
+  config:
+    required: false
+  label: Nom de la vidéo Youtube
+  description: Pour ajouter une vidéo dans le corps de l'article, sélectionner { }
+    (Snippets) en bas à gauche de l'éditeur, puis cliquer sur Youtube
