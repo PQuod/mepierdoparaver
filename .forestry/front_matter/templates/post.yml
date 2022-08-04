@@ -38,3 +38,13 @@ fields:
     - video
     - edition
   label: Médiums
+- name: vimeoId
+  type: text
+  config:
+    required: false
+  label: Nom de la vidéo Viméo
+- name: soundcloudId
+  type: text
+  config:
+    required: false
+  label: Nom du morceau Soundcloud
