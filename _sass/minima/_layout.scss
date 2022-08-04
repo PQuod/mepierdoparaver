@@ -166,6 +166,10 @@ main{
   color:var(--color);
 }
 
+.post-content img{
+  max-width:100%;
+}
+
 @media (max-width: 800px){
 
 }
