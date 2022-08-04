@@ -13,11 +13,9 @@ medium:
 - son
 - video
 - edition
-vimeoId: 636620154?h=19db6d6a52
+vimeoId: ''
 
 ---
-{% include vimeo.html id=page.vimeoId %}
-
 ###### _Listen to the Shadows (wander), 2021, vidéo monocanal, son, 02:48 env. en boucle._
 
 ![](/mepierdoparaver/imgs/shadows01.jpg)
@@ -28,8 +26,7 @@ vimeoId: 636620154?h=19db6d6a52
 
 ###### (vue d’exposition), _L'ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, centre culturel Le Pont des arts, Parc de Bourgchevreuil, 35510 Cesson-Sévigné, France.
 
-
-
+{% include soundcloud.html id=page.soundcloudId %}
 
 ###### _Listen to the Shadows (dialogue)_, 2021, pièce sonore, son stéréo, 12:36 env.
 
