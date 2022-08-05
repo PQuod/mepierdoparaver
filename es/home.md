@@ -5,4 +5,6 @@ lang-ref: home
 lang: es
 
 ---
-Version espagnole
+¡Nada de nada por el momento!
+
+_Sitio en mantenimiento_
