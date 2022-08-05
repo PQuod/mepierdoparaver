@@ -21,6 +21,8 @@ soundcloudId: "1136569246"
 
 ###### _Listen to the Shadows (wander)_, 2021, vidéo monocanal, son, 02:48 env. en boucle.
 
+![](/mepierdoparaver/imgs/fond-jour.png)
+
 ![](/mepierdoparaver/imgs/shadows01.jpg)
 
 ###### À gauche : _Listen to the Shadows (wander)_, 2021, vidéo monocanal, son, 02:48 env. en boucle.
