@@ -47,7 +47,7 @@ Le mélange de ces deux couches-là peut être considéré comme une discussion 
 
 #### Elle recueille une sélection de matériel visuel issu du principe de la transduction.
 
-#### Une promenade erratique où l’on est invité à expérimenter autant l’image d’un son que le son d’une ombre et le scan-impression d’une vidéo.
+### Une promenade erratique où l’on est invité à expérimenter autant l’image d’un son que le son d’une ombre et le scan-impression d’une vidéo.
 
 ![](/mepierdoparaver/imgs/shadows03.png)
 
