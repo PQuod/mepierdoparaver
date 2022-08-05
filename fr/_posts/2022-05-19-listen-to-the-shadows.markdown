@@ -19,7 +19,7 @@ soundcloudId: "1136569246"
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-###### <h1 style="text-align:center;">_Listen to the Shadows (wander)_, 2021, vidéo monocanal, son, 02:48 env. en boucle.</h1>
+###### _Listen to the Shadows (wander)_, 2021, vidéo monocanal, son, 02:48 env. en boucle.
 
 ![](/mepierdoparaver/imgs/shadows01.jpg)
 
