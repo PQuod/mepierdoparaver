@@ -43,11 +43,11 @@ Le mélange de ces deux couches-là peut être considéré comme une discussion 
 
 ###### (vue d’exposition), _Sounds Like a Book BUZZZZ_, exposition du 08 au 17 octobre 2021, Galeria Posibilă, Popa Petre 6, 020804, Bucarest, Roumanie.
 
-#### Édition expérimentale faite manuellement par l’artiste.
+Édition expérimentale faite manuellement par l’artiste.
 
-### Elle recueille une sélection de matériel visuel issu du principe de la transduction.
+Elle recueille une sélection de matériel visuel issu du principe de la transduction.
 
-## Une promenade erratique où l’on est invité à expérimenter autant l’image d’un son que le son d’une ombre et le scan-impression d’une vidéo.
+Une promenade erratique où l’on est invité à expérimenter autant l’image d’un son que le son d’une ombre et le scan-impression d’une vidéo.
 
 ![](/mepierdoparaver/imgs/shadows03.png)
 
