@@ -37,7 +37,7 @@ Pièce sonore expérimentale composée de deux sources sonores : D’un côté, 
 
 Le mélange de ces deux couches-là peut être considéré comme une discussion entre mon ombre et moi. Un dialogue qui se produit sans la parole, au milieu d’une promenade erratique qui – peut-être – mène inévitablement au silence.
 
----
+***
 
 ![](/mepierdoparaver/imgs/shadows02.jpg)
 
@@ -50,6 +50,8 @@ Le mélange de ces deux couches-là peut être considéré comme une discussion 
 Elle recueille une sélection de matériel visuel issu du principe de la transduction.
 
 Une promenade erratique où l’on est invité à expérimenter autant l’image d’un son que le son d’une ombre et le scan-impression d’une vidéo.
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/shadows03.png)
 
