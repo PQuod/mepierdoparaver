@@ -1,3 +1,4 @@
+<div id="top"></div>
 <header>
 {% assign pages=site.pages | where: "lang", page.lang | reverse %}
   {% for page in pages %}
@@ -11,13 +12,14 @@
 
   <div class="head-nav">
     {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
+      {% assign language=page.lang %}
     {% if posts.size == 0 %}
       {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
     {% endif %}
     {% if posts.size > 1 %}
     {% for post in posts %}
-    <h2 class="bttn-lang">
-      <a class="{{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
+    <h2 class="bttn-lang {% if post.lang == language %}active{% endif %}">
+      <a class="{{post.lang}}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
     </h2>
     {% endfor %}
     {% endif %}

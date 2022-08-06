@@ -38,6 +38,7 @@ h1, h2, h3, h4, h5{
 
 h2{
   font-size:20px;
+  white-space: nowrap;
 }
 
 .respiration{
@@ -161,8 +162,12 @@ header {
   display:inline-block;
 }
 
-.es, .fr{
-  background: var(--color);
+.active{
+  background:var(--color);
+}
+
+.active a{
+    color: var(--b-color);
 }
 
 nav{
@@ -195,6 +200,7 @@ nav a:hover{
 .titre a{
     color:var(--b-color);
     font-size: 20px;
+    white-space: normal;
 }
 
 .titre a:hover{
@@ -213,6 +219,11 @@ nav a:hover{
 
 .lang-mobile{
   font-family: var(--f-title);
+  display: inline-block;
+}
+
+.lang-mobile:not(:last-of-type)::after{
+  content:" / "
 }
 
 .titre{
@@ -232,6 +243,15 @@ main{
   padding:2em 2em 0 2em;
   border: var(--box-border);
   margin-bottom:2em;
+}
+
+.arrow-top{
+  position:fixed;
+  bottom:0;
+  right:0;
+  font-size:40px;
+  padding-right:1.5em;
+  padding-bottom:10px;
 }
 
 .titre-page{

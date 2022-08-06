@@ -15,7 +15,9 @@
     {% endif %}
     {% if posts.size > 1 %}
     {% for post in posts %}
-        <a class="{{ post.lang }} lang-mobile" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
+    <h2 class="lang-mobile">
+        <a class="{{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
+    </h2>
     {% endfor %}
     {% endif %}
   </div>
