@@ -41,7 +41,7 @@ h2{
 }
 
 .respiration{
-  line-height: clac(var(--line-height)*3);
+  line-height: calc(var(--line-height)*3);
 }
 
 h6{
@@ -159,6 +159,10 @@ header {
 
 .bttn-lang{
   display:inline-block;
+}
+
+.es, .fr{
+  background: var(--color);
 }
 
 nav{
