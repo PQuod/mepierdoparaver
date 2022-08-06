@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Le chant des grenouilles"
-date:   2022-06-06 15:19:10 +0200
+title: Le chant des grenouilles
+date: 2022-06-06T15:19:10.000+02:00
 lang: fr
-lang-ref: "grenouilles"
+lang-ref: grenouilles
 categories: son
+id: chatngrenouilles
+medium:
+- son
+
 ---
 **Le fond de la mar** est un projet d'expérimentation sonore entre [Florine Mougel](https://mouflow.com/) (lampes de poche) et moi (basse + machines, corne).
 

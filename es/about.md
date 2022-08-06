@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ¿Quién soy?
+title: A propósito
 lang: es
-lang-ref: "about"
----
+lang-ref: about
 
+---
 Version espagnole

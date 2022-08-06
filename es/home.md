@@ -1,8 +1,10 @@
 ---
 layout: home
-title: Actualidad
-lang-ref: "home"
+title: Actualidades
+lang-ref: home
 lang: es
----
 
-Version espagnole
+---
+¡Nada de nada por el momento!
+
+_Sitio en mantenimiento_

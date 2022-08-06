@@ -59,3 +59,6 @@ fields:
   label: Nom de la vidéo Youtube
   description: Pour ajouter une vidéo dans le corps de l'article, sélectionner { }
     (Snippets) en bas à gauche de l'éditeur, puis cliquer sur Youtube
+pages:
+- es/_posts/2022-08-05-f5.md
+- fr/_posts/2022-08-05-f5.md
