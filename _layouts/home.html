@@ -3,7 +3,15 @@ layout: default
 ---
 <div class="home">
   <div class="home-contenu">
-    <h2>{{page.title}}</h2>
+    <h2 class="titre-page">{{page.title}}</h2>
+    <div class="cat-page">
+    {% if page.categories contains "son" %}&#9732;{%endif%}
+    {% if page.categories contains "video" %}&#9737;{%endif%}
+    {% if page.categories contains "edition" %}&#9739;{%endif%}
+    {% if page.categories contains "dessin" %}&#9736;{%endif%}
+    {% if page.categories contains "volume" %}&#9750;{%endif%}
+    {% if page.categories contains "divers" %}&#9883;{%endif%}
+    </div>
     {{ content | markdownify }}
   </div>
 </div>

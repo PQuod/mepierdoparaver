@@ -3,17 +3,23 @@
   {% for page in pages %}
   <div class="head-nav"><h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2></div>
   {% endfor %}
-{% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
-{% if posts.size == 0 %}
-  {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-{% endif %}
-{% if posts.size > 1 %}
-{% for post in posts %}
+<div class="head-nav">
+  <h2>
+    <a href="{{site.baseurl}}/random/">{{ site.data.trad['seperdre'][page.lang] }}</a>
+  </h2>
+</div>
+
   <div class="head-nav">
-    <h2>
+    {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
+    {% if posts.size == 0 %}
+      {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+    {% for post in posts %}
+    <h2 class="bttn-lang">
       <a class="{{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
     </h2>
+    {% endfor %}
+    {% endif %}
   </div>
-{% endfor %}
-{% endif %}
 </header>

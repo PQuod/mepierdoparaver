@@ -7,9 +7,7 @@
 --f-title: 'Oswald', sans-serif;
 --f-cdt: '';
 --h-color: #505050;
---box-border: 0 0 0 1px var(--color),
-              0 0 0 2px var(--b-color),
-              0 0 0 6px var(--color);
+--box-border: 3px solid var(--color);
 }
 #background-video {
 height: 100vh;
@@ -29,6 +27,7 @@ body{
   background-image: url("/mepierdoparaver/imgs/caminandojuntas.gif");
   font-family: 'EB Garamond', serif;
       background-size: cover;
+      background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5{
@@ -37,12 +36,21 @@ h1, h2, h3, h4, h5{
     letter-spacing: 1px;
 }
 
+h2{
+  font-size:20px;
+}
+
+h6{
+  text-align:center;
+  font-size:9px;
+}
+
 h6 + p{
-  margin-top:var(--line-height);
+  margin-top:calc(var(--line-height)*3);
 }
 
 h6 + .embed-container{
-  margin-top:var(--line-height);
+  margin-top:calc(var(--line-height)*3);
 }
 
 a{
@@ -56,8 +64,13 @@ ul, li{
 
 p{
   margin-bottom:1em;
+  font-size: 14px;
 }
 
+hr{
+  margin-top:calc(var(--line-height)*3);
+  margin-bottom:calc(var(--line-height)*3);
+}
 iframe{
   width:100%;
 }
@@ -73,7 +86,6 @@ h2 a:hover{
 }
 
 
-
 .tempo{
   color:white;
   text-align:center;
@@ -86,7 +98,7 @@ h2 a:hover{
   top:50%;
   left:45%;
   color:white;
-  box-shadow:0 0 0 1px black,
+  border:0 0 0 1px black,
                 0 0 0 2px white,
                 0 0 0 6px black;
   background:white;
@@ -122,15 +134,19 @@ header {
 .head-nav{
   display:inline-block;
   background-color: var(--b-color);
-  box-shadow:  var(--box-border);
+  border: var(--box-border);
   margin:auto;
 }
 
 .head-nav h2{
-  padding:5px;
+  padding:5px 10px 5px 10px;
   height:1.5em;
   font-weight:700;
   text-align: center;
+}
+
+.bttn-lang{
+  display:inline-block;
 }
 
 nav{
@@ -139,11 +155,43 @@ nav{
   float:left;
 }
 
-.menu, .legende, .titre, .header-mobile, .random{
-  background:var(--b-color);
+nav li{
+  cursor: pointer;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 12px;
+  line-height:calc(var(--line-height)/1.5);
+}
+
+nav a:hover{
+  background: var(--color);
+  color: var(--b-color);
+}
+
+.titre{
+  background:var(--color);
+  color:var(--b-color);
   margin-left: 2em;
   margin-top: 2em;
-  box-shadow: var(--box-border);
+  padding:10px;
+}
+
+.titre a{
+    color:var(--b-color);
+    font-size: 20px;
+}
+
+.titre a:hover{
+  color:var(--b-color);
+  -webkit-text-stroke-width: 0px;
+  -webkit-text-stroke-color: var(--color);
+}
+
+.menu, .legende, .header-mobile{
+  background:var(--b-color);
+  margin-left: 2em;
+  margin-top: 1em;
+  border: var(--box-border);
   padding:10px;
 }
 
@@ -153,17 +201,6 @@ nav{
 
 .titre{
   font-family: var(--f-title);
-}
-
-nav a{
-  cursor: pointer;
-  padding-left: 2px;
-  padding-right: 2px;
-}
-
-nav a:hover{
-  background: var(--color);
-  color: var(--b-color);
 }
 
 main{
@@ -177,20 +214,22 @@ main{
 .home-contenu{
   background-color:var(--b-color);
   padding:2em;
-  box-shadow: var(--box-border);
-}
-.home-contenu {
-  border: 1px solid #eee;
+  border: var(--box-border);
 }
 
-.home-contenu h2{
-  text-align: center;
-  margin-bottom:1em;
+.titre-page{
+  text-align:center;
 }
 
-.home-contenu h2::before, .home-contenu h2::after{
+.titre-page::before, .titre-page::after{
   content: " ■ ";
   font-size:1.8em;
+}
+
+.cat-page{
+  text-align:center;
+  font-size:12px;
+  margin-bottom:4em;
 }
 
 .home-contenu a{

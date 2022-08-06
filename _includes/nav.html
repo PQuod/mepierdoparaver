@@ -1,6 +1,8 @@
 <nav>
   <div class="titre">
-    <a href="{{site.baseurl}}/">Carlos BERNAL BARRERA</a>
+    <h2>
+      <a href="{{site.baseurl}}/">Carlos BERNAL BARRERA</a>
+    </h2>
   </div>
   <div class="header-mobile">
     {% assign pages=site.pages | where: "lang", page.lang | reverse %}
@@ -46,8 +48,5 @@
         <li>&#9750; {{ site.data.trad['volume'][page.lang] }}</li>
         <li>&#9883; {{ site.data.trad['divers'][page.lang] }}</li>
       </ul>
-    </div>
-    <div class="random">
-      <a href="{{site.baseurl}}/random/">{{ site.data.trad['seperdre'][page.lang] }}</a>
     </div>
 </nav>
