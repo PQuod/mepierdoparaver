@@ -37,6 +37,8 @@ Pièce sonore expérimentale composée de deux sources sonores : D’un côté, 
 
 Le mélange de ces deux couches-là peut être considéré comme une discussion entre mon ombre et moi. Un dialogue qui se produit sans la parole, au milieu d’une promenade erratique qui – peut-être – mène inévitablement au silence.
 
+---
+
 ![](/mepierdoparaver/imgs/shadows02.jpg)
 
 ###### _Listen to the Shadows_, 2021, édition d'artiste, impression laser, 12 x 16 cm. env. Photo : Sounds Like a Book.
