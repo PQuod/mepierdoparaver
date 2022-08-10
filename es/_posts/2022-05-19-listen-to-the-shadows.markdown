@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Listen to the shadows"
-date:   2022-05-08 15:19:10 +0200
+title: Listen to the shadows
+date: 2022-05-08T15:19:10.000+02:00
 lang: es
-lang-ref: "shadows"
-categories: [video, son, edition]
+lang-ref: listenshadows
+categories:
+- video
+- son
+- edition
+
 ---
+
 Version espagnole
