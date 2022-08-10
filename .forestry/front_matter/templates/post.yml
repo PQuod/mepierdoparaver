@@ -36,7 +36,7 @@ fields:
   label: date
   hidden: true
   default: now
-- name: medium
+- name: categories
   type: list
   config:
     use_select: true
