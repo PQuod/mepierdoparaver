@@ -46,6 +46,12 @@ h2{
 .respiration{
   height: calc(var(--line-height)*3);
   width:100%;
+}
+
+.end-post{
+  margin-top: calc(var(--line-height)*1.5);
+  margin-bottom: calc(var(--line-height)*1.5);
+  width:100%;
   text-align:center;
 }
 
