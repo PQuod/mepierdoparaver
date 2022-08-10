@@ -32,8 +32,6 @@ Pieza sonora experimental compuesta de dos fuentes: Por una parte, la grabación
 
 La mezcla de esas dos capas puede ser considerada como una discusión entre mi sombra y yo. Un diálogo que se produce sin palabras, en medio de una caminata errática que –de pronto– lleva inevitablemente al silencio.
 
-{% include respiration.html %}
-
 ***
 
 ![](/mepierdoparaver/imgs/shadows02.jpg)
@@ -47,6 +45,8 @@ Libro experimental realizado manualmente por el artista.
 Este junta una selección de material visual producido a partir del principio de transducción.
 
 Una caminata errática donde se invita a experimentar tanto la imagen de un sonido como el sonido de una sombra y el escaneo-impresión de un video.
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/shadows03.png)
 

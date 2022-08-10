@@ -51,6 +51,8 @@ Elle recueille une sélection de matériel visuel issu du principe de la transdu
 
 Une promenade erratique où l’on est invité à expérimenter autant l’image d’un son que le son d’une ombre et le scan-impression d’une vidéo.
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/shadows03.png)
 
 ![](/mepierdoparaver/imgs/shadows04.png)
