@@ -10,5 +10,6 @@ categories:
 - edition
 
 ---
+{% include vimeo.html id=page.vimeoId %}
 
 Version espagnole
