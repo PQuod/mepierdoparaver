@@ -31,3 +31,17 @@ Pieza sonora experimental compuesta de dos fuentes: Por una parte, la grabación
 La mezcla de esas dos capas puede ser considerada como una discusión entre mi sombra y yo. Un diálogo que se produce sin palabras, en medio de una caminata errática que –de pronto– lleva inevitablemente al silencio.
 
 {% include respiration.html %}
+
+***
+
+![](/mepierdoparaver/imgs/shadows02.jpg)
+
+###### _Listen to the Shadows_, 2021, libro de artista, impresión laser, 12 x 16 cm. aprox. Foto : Sounds Like a Book.
+
+###### (vista de exposición), _Sounds Like a Book BUZZZZ_, exposición del 08 al 17 de octubre 2021, Galeria Posibilă, Popa Petre 6, 020804, Bucarest, Rumania.
+
+Édition expérimentale faite manuellement par l’artiste.
+
+Elle recueille une sélection de matériel visuel issu du principe de la transduction.
+
+Une promenade erratique où l’on est invité à expérimenter autant l’image d’un son que le son d’une ombre et le scan-impression d’une vidéo.
