@@ -13,4 +13,4 @@ vimeoId: "636620154"
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-Version espagnole
+###### _Listen to the Shadows (wander)_, 2021, video monocanal, sonido, 02:48 aprox. en boucle.
