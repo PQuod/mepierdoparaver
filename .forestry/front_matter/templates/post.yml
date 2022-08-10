@@ -13,7 +13,7 @@ fields:
   config:
     required: true
 - type: text
-  name: id
+  name: lang-ref
   label: Titre commun aux deux langues
   config:
     required: true
