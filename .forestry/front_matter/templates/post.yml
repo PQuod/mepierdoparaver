@@ -12,6 +12,20 @@ fields:
   label: Titre
   config:
     required: true
+- name: lang
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - es
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Langue
 - type: text
   name: lang-ref
   label: Titre commun aux deux langues
