@@ -25,3 +25,6 @@ volume:
 divers:
   fr: "Divers"
   es: "Miscelánea"
+mentions:
+  fr: "Mentions légales"
+  es: "Notas legales"

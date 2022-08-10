@@ -49,7 +49,7 @@ h2{
 
 h6{
   text-align:center;
-  font-size:9px;
+  font-size:11px;
 }
 
 h6 + p{
@@ -72,7 +72,7 @@ ul, li{
 
 p{
   margin-bottom:1em;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 hr{
@@ -94,18 +94,13 @@ iframe{
   width:100%;
 }
 
-h2 a:hover{
-  color: var(--b-color);
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: var(--color);
-}
-
 
 .tempo{
   color:white;
   text-align:center;
   padding-top:200px;
 }
+
 .button-entrer{
   font-family:var(--f-title);
   text-transform: uppercase;
@@ -113,24 +108,18 @@ h2 a:hover{
   top:50%;
   left:45%;
   color:white;
-  border:0 0 0 1px black,
-                0 0 0 2px white,
-                0 0 0 6px black;
+  border:3px solid black;
   background:white;
   color:black;
   padding:10px;
 }
 
-.button-entrer h1::before{
-  content:'entrer';
-}
-
-.button-entrer h1:hover::before{
-  content:'entrar';
-}
-
 .button-entrer:hover{
   cursor:pointer;
+  background: black;
+    h1{
+    color:white;
+    }
 }
 
 header {
@@ -160,6 +149,13 @@ header {
   text-align: center;
 }
 
+.head-nav:hover{
+    background: var(--color);
+    a{
+      color: var(--b-color);
+    }
+}
+
 .bttn-lang{
   display:inline-block;
 }
@@ -172,17 +168,20 @@ header {
     color: var(--b-color);
 }
 
-nav{
-  width:30%;
-  position:relative;
-  float:left;
+#wrap{
+  width:100%;
+  height:100%;
+  display:grid;
+  grid-template-columns: 0.4fr 1fr;
+  grid-gap: 2em;
 }
+
 
 nav li{
   cursor: pointer;
   padding-left: 2px;
   padding-right: 2px;
-  font-size: 12px;
+  font-size: 14px;
   line-height:calc(var(--line-height)/1.5);
 }
 
@@ -207,8 +206,6 @@ nav a:hover{
 
 .titre a:hover{
   color:var(--b-color);
-  -webkit-text-stroke-width: 0px;
-  -webkit-text-stroke-color: var(--color);
 }
 
 .menu, .legende, .header-mobile{
@@ -233,11 +230,8 @@ nav a:hover{
 }
 
 main{
-  position:relative;
-  float:right;
   margin-top:2em;
   margin-right: 2em;
-  width:60%;
 }
 
 .home-contenu{
@@ -245,15 +239,6 @@ main{
   padding:2em 2em 0 2em;
   border: var(--box-border);
   margin-bottom:2em;
-}
-
-.arrow-top{
-  position:fixed;
-  bottom:0;
-  right:0;
-  font-size:40px;
-  padding-right:1.5em;
-  padding-bottom:10px;
 }
 
 .titre-page{
@@ -291,6 +276,31 @@ main{
   margin-top:var(--line-height);
   margin-bottom:var(--line-height);
   text-align:center;
+}
+
+.arrow-top{
+  position:fixed;
+  bottom:0;
+  right:0;
+  font-size:40px;
+  padding-right:1.5em;
+  padding-bottom:10px;
+}
+
+#arrow{
+  color:var(--color);
+  background:none;
+}
+
+
+footer{
+  width:100%;
+  text-align:center;
+  margin-top:15em;
+}
+
+footer p{
+    font-size:9px;
 }
 
 @media (max-width: 800px){
