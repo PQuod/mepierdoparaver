@@ -2,13 +2,13 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: es
   label: Pages en espagnol
   create: none
-  match: "**/*.md"
+  match: "*.md"
 - type: directory
   path: es/_posts
   label: Posts en espagnol
@@ -20,7 +20,7 @@ sections:
   path: fr
   label: Pages en français
   create: none
-  match: "**/*.md"
+  match: "*.md"
 - type: directory
   path: fr/_posts
   label: Posts en français
