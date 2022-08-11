@@ -76,17 +76,17 @@ fields:
   description: Pour ajouter une vidéo dans le corps de l'article, sélectionner { }
     (Snippets) en bas à gauche de l'éditeur, puis cliquer sur Youtube
 pages:
+- es/_posts/2016-12-31-los-ojos-cerrados.md
 - es/_posts/2017-07-01-estar-frontera.md
 - es/_posts/2019-06-01-dessiccation.md
 - es/_posts/2022-08-10-f5.md
 - es/_posts/fantasmas.md
-- es/_posts/los-ojos-cerrados.md
 - es/_posts/manchas-solares.md
 - es/_posts/ninguna-medida-es-exacta.md
+- fr/_posts/2017-01-01-les-yeux-fermes.md
 - fr/_posts/2020-02-01-taches-solaires.md
 - fr/_posts/2022-08-05-f5.md
 - fr/_posts/aucune-mesure-n-est-exacte.md
 - fr/_posts/dessiccation.md
 - fr/_posts/estar-frontera.md
 - fr/_posts/fantomes.md
-- fr/_posts/les-yeux-fermes.md
