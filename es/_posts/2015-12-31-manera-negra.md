@@ -13,21 +13,21 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/mn-up-a.jpg)
 
-###### _Manière noire_, 2015-2016, stylo-bille sur papier, 28,4 x 32,5 cm. env.
+###### _Manera negra_, 2015-2016, lapicero sobre papel, 28,4 x 32,5 cm. aprox.
 
 ![](/mepierdoparaver/imgs/mn-up-b.jpg)
 
 ![](/mepierdoparaver/imgs/mn-up-c.jpg)
 
-###### _Manière noire_, détails.
+###### _Manera negra_, detalles.
 
 {% include respiration.html %}
 
-Remplissage du format.
+Relleno del formato.
 
-Dessin qui est à la main et qui prétend demeurer.
+Dibujo que es a la mano y que pretende seguir estando.
 
-Se déplacer pour mieux percevoir comme principe.
+Desplazarse para percibir mejor como principio.
 
 {% include respiration.html %}
 
