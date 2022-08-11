@@ -22,11 +22,11 @@ youtubeId: ''
 
 ![](/mepierdoparaver/imgs/disseccation-03.jpg)
 
-###### _Dessiccation_, détail.
+###### _Dessiccation_, détails.
 
 ![](/mepierdoparaver/imgs/disseccation-04.jpg)
 
-###### (vue d’exposition), SKULDUR, exposition du 17 au 20 septembre 2020, Hôtel dieu, Rennes, France.
+###### (vue d’exposition), _SKULDUR_, exposition du 17 au 20 septembre 2020, Hôtel dieu, Rennes, France.
 
 dessin > gravure > bas-relief
 
