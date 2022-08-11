@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2022-08-11 21:53:58 +0000
+date: 2011-05-31 22:00:00 +0000
 title: Flâneur
 lang-ref: flaneur
 categories:
