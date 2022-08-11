@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Le chant des grenouilles
-date: 2022-06-06T15:19:10.000+02:00
+date: 2021-06-01 13:19:10 +0000
 lang: fr
-lang-ref: grenouilles
+lang-ref: chantgrenouilles
 categories: son
 id: chatngrenouilles
 medium:
@@ -14,6 +14,6 @@ medium:
 
 Nous cherchons à mettre l'ambiance en improvisant des atmosphères sonores denses et très peu rythmées. Quelque part entre drone metal et power electronics, on s'attache surtout à modeler des textures bruitistes abrasives et détaillées.
 
-*Le chant des grenouilles* est notre premier travail (D.I.Y.) édité en ligne et en K7.
+_Le chant des grenouilles_ est notre premier travail (D.I.Y.) édité en ligne et en K7.
 
-[Ecouter ici (avec casque de préférence)](https://lefonddelamar.bandcamp.com/releases)
+[ÉCOUTER ICI (AVEC CASQUE DE PRÉFÉRENCE)](https://lefonddelamar.bandcamp.com/releases)
