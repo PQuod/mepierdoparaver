@@ -14,12 +14,13 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/carlosbernal-conlosojoscerrados.gif)
 
-###### _Les yeux fermés_, 2017, image animée, muette, ∞ env. en boucle.
+###### _Los ojos cerrados_, 2017, imagen animada, muda, ∞ aprox. en boucle.
 
-Suite à l’invitation de la part d’Adrien Abline, chercheur en arts plastiques, j’ai participé à son projet d’exposition [33 au cube](http://ablineadrien.com/33aucube). Le principe était de penser une œuvre qui allait être exposée dans un coffre fort grand de 33 cm de long, de large et de profondeur loué pour un an à une banque.  
-Les yeux fermés est le titre de ma proposition pour ce projet, pour lequel j’ai demandé à Adrien de déposer de l’ombre dans le coffre. Cela à travers un geste simple : ouvrir et fermer la porte du coffre dans le noir total, empêchant ainsi quelque rayon de lumière d’y pénétrer. Simultanément, sur le site internet de [33 au cube](http://ablineadrien.com/33aucube) j’ai proposé un hyperlien vers un dessin animé représentant des yeux qui s’ouvrent et se ferment sans cesse.
+Luego de la invitación de Adrien Abline, investigador en artes plásticas, participé en su proyecto de exposición [33 au cube](http://ablineadrien.com/33aucube). Este tenía como principio pensar una obra que iba a ser expuesta en una caja fuerte de 33 cm de largo, ancho y alto, alquilada durante un año en un banco.
 
-Ma proposition a été accueillie du 10 janvier au 1 février 2017.
+Los ojos cerrados es el título de mi propuesta, en la cual le pedí a Adrien que depositara sombra en la caja fuerte. Esto a través de un gesto simple: abris y cerrar la puerta de la caja en la oscuridad total, impidiendo así a cualquier rayo de luz penetrar. Simultáneamente, en el sitio web de  [33 au cube](http://ablineadrien.com/33aucube) propuse un hipervínculo hacia una imagen animada que representa unos ojos que se abren y se cierran sin cesar.
+
+Mi propuesta fue acogida del 10 de enero al 1 de febrero 2017.
 
 {% include respiration.html %}
 
@@ -27,13 +28,13 @@ Ma proposition a été accueillie du 10 janvier au 1 février 2017.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/33cube-catalogue-web-1.jpg)
+![](/mepierdoparaver/imgs/33cube-catalogue-web-1.png)
 
-###### _33 au cube_, 2017, couverture du catalogue d'exposition.
+###### _33 au cube_, 2017, portada del catálogo de exposición.
 
-Ce projet s'est distingué en deux temporalités : Premièrement, le coffre fut transformé en espace d’exposition du 23 mars 2016 au 23 mars 2017. Puis, la deuxième étape de ce projet fut la publication d’un catalogue relatant l’ensemble des expositions qui y ont eu lieu durant cette période.
+Este proyecto tuvo dos momentos: Primero, una caja fuerte fue transformada en espacio de exposición del 23 de marzo 2016 al 23 de marzo 2017. Luego, la segunda etapa fue la publicación de un catálogo que relata la totalidad de exposiciones que tuvieron lugar en ese periodo.
 
-Pour ce catalogue il a donc fallu réfléchir aux diverses manières de représentation et d’exposition du travail. Cela parce qu’il était interdit de prendre en photo la salle des coffres.
+Para este catálogo había que pensar en diferentes formas de representación y exposición del trabajo. Esto debido a que estaba prohibido tomar fotografías en la sala de las cajas fuertes.
 
 {% include respiration.html %}
 
