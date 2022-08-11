@@ -87,7 +87,7 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 
 ###### _Fantasma_ 2 \[Atelier 3\], 2015, rcinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), Atelier 3, exposition le 24 juin 2015, Université Rennes 2 - bâtiment M (Mussat), campus Villejean, place du recteur Henri le Moal, 35000 Rennes, France.
+###### (vista de exposición), Atelier 3, exposición el 24 de junio 2015, Universidad Rennes 2 - bâtiment M (Mussat), campus Villejean, place du recteur Henri le Moal, 35000 Rennes, Francia.
 
 {% include respiration.html %}
 
