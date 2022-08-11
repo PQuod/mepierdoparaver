@@ -30,7 +30,7 @@ youtubeId: ''
 
  > dibujo > grabado > bajo relieve > 
 
-(o las aventuras de un gesto)
+(o las aventuras de un gesto manual)
 
 {% include respiration.html %}
 

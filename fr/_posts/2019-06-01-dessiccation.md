@@ -30,7 +30,7 @@ youtubeId: ''
 
  > dessin > gravure > bas-relief > 
 
-(ou les aventures d'un geste)
+(ou les aventures d'un geste manuel)
 
 {% include respiration.html %}
 
