@@ -150,18 +150,20 @@ header {
   display:none;
 }
 
-.head-nav{
+.head-nav, .lang-nav{
   display:inline-block;
-  background-color: var(--b-color);
   border: var(--box-border);
   margin:auto;
+    h2{
+    padding:5px 10px 5px 10px;
+    height:1.5em;
+    font-weight:700;
+    text-align: center;
+  }
 }
 
-.head-nav h2{
-  padding:5px 10px 5px 10px;
-  height:1.5em;
-  font-weight:700;
-  text-align: center;
+.head-nav{
+    background:var(--b-color);
 }
 
 .head-nav:hover{
@@ -171,17 +173,34 @@ header {
     }
 }
 
+.lang-nav{
+  background:var(--color);
+}
+
+
 .bttn-lang{
   display:inline-block;
+  background-color: var(--b-color);
+}
+
+.bttn-lang:hover{
+  background: var(--color);
+  a{
+  color: var(--b-color);
+  }
 }
 
 .active{
   background:var(--color);
+  cursor:default;
 }
 
 .active a{
     color: var(--b-color);
+    cursor:default;
 }
+
+
 
 #wrap{
   width:100%;
@@ -290,7 +309,6 @@ main{
   width:100%;
   margin:auto;
 }
-
 
 .arrow-top{
   position:fixed;
