@@ -14,7 +14,7 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/disseccation-01.jpg)
 
-###### _Dessiccation_, 2019, plâtre taillé à la main, plaque de plâtre pigmenté réalisée par [Hélène Farges](http://base.ddab.org/helene-farges), 14 x 9 x 1,2 cm. env. Photo : Alix Desaubliaux.
+###### _Dessiccation_, 2019, plâtre taillé à la main, plaque de plâtre pigmenté réalisée par [Hélène Farges](https://helenefarges.net/), 14 x 9 x 1,2 cm. env. Photo : Alix Desaubliaux.
 
 ###### (vue d’exposition), _SKULDUR_, exposition du 17 au 20 septembre 2020, Hôtel dieu, Rennes, France.
 
