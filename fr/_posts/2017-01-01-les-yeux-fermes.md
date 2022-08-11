@@ -27,7 +27,7 @@ Ma proposition a été accueillie du 10 janvier au 1 février 2017.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/33cube-catalogue-web-1.jpg)
+![](/mepierdoparaver/imgs/33cube-catalogue-web-1.png)
 
 ###### _33 au cube_, 2017, couverture du catalogue d'exposition.
 
