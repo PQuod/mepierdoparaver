@@ -71,6 +71,8 @@ Listen to the Shadows est une œuvre composée d'une vidéo, une pièce sonore e
 
 {% include end-post.html %}
 
+{% include respiration.html %}
+
 ###### _> Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}
