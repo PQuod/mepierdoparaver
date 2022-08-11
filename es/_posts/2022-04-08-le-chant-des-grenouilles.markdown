@@ -12,6 +12,8 @@ medium:
 ---
 **![](/mepierdoparaver/imgs/grenouilles01.jpg)**
 
+{% include respiration.html %}
+
 **Le fond de la mar** es un proyecto de experimentación sonora entre [Florine Mougel](https://mouflow.com/) (lámparas de bolsillo) y yo (bajo + máquinas, cuerno).
 
 Nosotros buscamos a crear ambientes improvisando atmósferas sonoras densas y poco rítmicas. En alguna parte entre el drone metal y el power electronics, nos concentramos en modelar texturas ruidistas envolventes y detalladas.
