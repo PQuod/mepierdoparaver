@@ -1,13 +1,33 @@
 ---
 layout: post
 title: El canto de las ranas
-date: 2022-06-06T15:19:10.000+02:00
+date: 2021-06-01 13:19:10 +0000
 lang: es
-lang-ref: grenouilles
+lang-ref: chantgrenouilles
 categories: son
 id: chantgrenouilles
 medium:
 - son
 
 ---
-Version espagnole
+**![](/mepierdoparaver/imgs/grenouilles01.jpg)**
+
+**Le fond de la mar** es un proyecto de experimentación sonora entre [Florine Mougel](https://mouflow.com/) (lámparas de bolsillo) y yo (bajo + máquinas, cuerno).
+
+Nosotros buscamos a crear ambientes improvisando atmósferas sonoras densas y poco rítmicas. En alguna parte entre el drone metal y el power electronics, nos concentramos en modelar texturas ruidistas envolventes y detalladas.
+
+_El canto de las ranas_ es nuestro primer trabajo (D.I.Y.) publicado en línea y en casete.
+
+{% include respiration.html %}
+
+![](/mepierdoparaver/imgs/grenouilles02.jpg)
+
+{% include respiration.html %}
+
+ESCUCHAR ACÁ (CON AURICULARES PREFERENTEMENTE)
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
