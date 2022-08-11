@@ -55,7 +55,7 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 
 ###### (vista de exposición), _KCP!_, restitución de fin de residencia 4 de agosto 2017, 4 Kadzandstraat, 8400 Oostende, Bélgica.
 
-###### ![](/mepierdoparaver/imgs/fantome06-up.jpg)
+![](/mepierdoparaver/imgs/fantome06-up.jpg)
 
 ###### _Fantasma 6 \[l'Aparté\]_, 2016, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
