@@ -8,6 +8,8 @@ categories:
 - edition
 vimeoId: ''
 soundcloudId: ''
-youtubeId: ''
+youtubeId: gVltVR8efqE
 
 ---
+
+{% include youtube.html id=page.youtubeId %}
