@@ -14,7 +14,7 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/disseccation-01.jpg)
 
-###### _Desecación_, 2019, yeso tallado a mano, placa de yeso pigmentado realizado por [Hélène Farges](http://base.ddab.org/helene-farges), 14 x 9 x 1,2 cm. aprox. Foto : Alix Desaubliaux.
+###### _Desecación_, 2019, yeso tallado a mano, placa de yeso pigmentado realizado por [Hélène Farges](https://helenefarges.net/), 14 x 9 x 1,2 cm. aprox. Foto : Alix Desaubliaux.
 
 ###### (vista de exposición), _SKULDUR_, exposición del 17 al 20 de septiembre 2020, Hôtel dieu, Rennes, Francia.
 
