@@ -76,9 +76,9 @@ fields:
   description: Pour ajouter une vidéo dans le corps de l'article, sélectionner { }
     (Snippets) en bas à gauche de l'éditeur, puis cliquer sur Youtube
 pages:
+- es/_posts/2017-07-01-estar-frontera.md
 - es/_posts/2019-06-01-dessiccation.md
 - es/_posts/2022-08-10-f5.md
-- es/_posts/estar-frontera.md
 - es/_posts/fantasmas.md
 - es/_posts/manchas-solares.md
 - es/_posts/ninguna-medida-es-exacta.md
