@@ -45,6 +45,8 @@ La présence des facteurs physiques, comme les décalages inhérents à l’impr
 
 (env.)
 
+{% include respiration.html %}
+
 \[Version multiple éditée et en vente à [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1376-Aucune-mesure-n-est-exacte).\]
 
 {% include respiration.html %}
@@ -53,6 +55,6 @@ La présence des facteurs physiques, comme les décalages inhérents à l’impr
 
 {% include respiration.html %}
 
-> Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).
+###### _> Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}
