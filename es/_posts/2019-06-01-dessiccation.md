@@ -28,9 +28,7 @@ youtubeId: ''
 
 ###### (vista de exposición), _SKULDUR_, exposición del 17 al 20 de septiembre 2020, Hôtel dieu, Rennes, Francia.
 
- > dibujo > grabado > bajo relieve > 
-
-(o las aventuras de un gesto manual)
+ dibujo > grabado > bajo relieve (o las aventuras de un gesto manual)
 
 {% include respiration.html %}
 
