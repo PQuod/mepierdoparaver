@@ -24,3 +24,5 @@ La manera más potente que he encontrado para ocuparme de dichas nociones es la 
 Las tres nociones citadas comparten por un eje suplementario que es el estudio de las imágenes propias a cada una de ellas. En un mundo hiper-mediático, las imágenes pueden servir para otorgarle credibilidad a todo tipo de argumentos. Así yo las observo –y trabajo– con cautela. Evidentemente, lo que me cuestiona son las etiquetas, los atajos, los lugares comunes y los estereotipos. Por eso desconfío de la uniformización de un arte (demasiado) fotogénico.
 
 \[ Intuiciones clave: ninguna medida es exacta / la espera como conducta / perderse para ver / ser frontera / lo casi invisible \]
+
+{% include respiration.html %}
