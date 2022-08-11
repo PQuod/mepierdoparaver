@@ -15,7 +15,9 @@ youtubeId: ''
 
 ###### _Manière noire_, 2015-2016, stylo-bille sur papier, 28,4 x 32,5 cm. env.
 
-![](/mepierdoparaver/imgs/mn-up-b.jpg)![](/mepierdoparaver/imgs/mn-up-c.jpg)
+![](/mepierdoparaver/imgs/mn-up-b.jpg)
+
+![](/mepierdoparaver/imgs/mn-up-c.jpg)
 
 ###### _Manière noire_, détails.
 
