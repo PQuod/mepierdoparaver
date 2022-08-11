@@ -26,13 +26,17 @@ soundcloudId: "1136569246"
 
 {% include soundcloud.html id=page.soundcloudId %}
 
-{% include respiration.html %}
+###### _Listen to the Shadows (dialogue)_, 2021, pieza sonora, sonido estéreo, 12:36 aprox.
 
 Pieza sonora experimental compuesta de dos fuentes: Por una parte, la grabación con un micrófono de contacto del sonido de una sombra que –misteriosamente– revela pulsaciones profundas y uniformemente rítmicas. Por otra parte, la grabación de una sesión de improvisación sonora con un controlador midi que muestra un intuitifo y ecléctico flujo de sonoridades.
 
 La mezcla de esas dos capas puede ser considerada como una discusión entre mi sombra y yo. Un diálogo que se produce sin palabras, en medio de una caminata errática que –de pronto– lleva inevitablemente al silencio.
 
-***
+{% include respiration.html %}
+
+{% include separation.html %}
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/shadows02.jpg)
 
@@ -62,4 +66,8 @@ _Listen to the Shadows_ es una obra compuesta de un video, una pieza sonora y un
 
 {% include end-post.html %}
 
+{% include respiration.html %}
+
 ###### _> Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+
+{% include respiration.html %}
