@@ -23,7 +23,7 @@ youtubeId: ''
 
 ###### (vue d'exposition), _Kadzand cartography project!_, restitution de fin de résidence 4 août 2017, 4 Kadzandstraat, 8400 Oostende, Belgique.
 
-Habiter la frontière, devenir frontière, être frontière, s’allier aux flux qu’elle porte en soi, contempler son entourage sans cesse en agitation. C’est la décision que j’ai pris au bord de la mer (ou de la terre ?). Quand on est-là, dans le lieu où la mer et la terre se rencontrent, on peut devenir partie active du dialogue entre, de la force cyclique des vagues et la résistance des sédiments de la terre. Je me suis laissé aller du côté des sédiments, où j’ai demeuré.
+Habiter la frontière, devenir frontière, être frontière, s’allier aux flux qu’elle porte en soi, contempler son entourage sans cesse en agitation. C’est la décision que j’ai pris au bord de la mer (ou de la terre ?). Quand on est-là, dans le lieu où la mer et la terre se rencontrent, on peut devenir partie active du dialogue entre la force cyclique des vagues et la résistance des sédiments de la terre. Je me suis laissé aller du côté des sédiments, où j’ai demeuré.
 
 Abandonnée à la merci des vagues, la caméra n’a pas arrêté d’enregistrer des images vidéo. On peut dire que pendant ce moment-là elle est devenue partie de l’environnement. Si l’on considère que les vagues sculptent les galets, les coquillages et tous les sédiments qui se trouvent dans l’eau, les images produites par la caméra ont-elles été également sculptées par la mer ?
 
