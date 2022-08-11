@@ -64,6 +64,8 @@ Una caminata errática donde se invita a experimentar tanto la imagen de un soni
 
 _Listen to the Shadows_ es una obra compuesta de un video, una pieza sonora y un libro de artista. Resultado de una residencia experimental de creación artística que tuvo lugar en Sona (Rumania) durante el verando 2021. Proyecto de residencia organizado por el colectivo [Sounds Like a Book](https://soundslikeabook.com/).
 
+{% include respiration.html %}
+
 {% include end-post.html %}
 
 {% include respiration.html %}
