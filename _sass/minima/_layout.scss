@@ -55,6 +55,13 @@ h2{
   text-align:center;
 }
 
+.separation{
+  margin-top:calc(var(--line-height)*1.5);
+  margin-bottom:calc(var(--line-height)*1.5);
+  width:100%;
+  text-align:center;
+}
+
 h6{
   text-align:center;
   font-size:11px;
@@ -116,15 +123,15 @@ iframe{
   top:50%;
   left:45%;
   color:white;
-  border:3px solid black;
+  border:3px solid #2C2C2C;
   background:white;
-  color:black;
+  color:#2C2C2C;
   padding:10px;
 }
 
 .button-entrer:hover{
   cursor:pointer;
-  background: black;
+  background: #2C2C2C;
     h1{
     color:white;
     }
@@ -186,7 +193,6 @@ header {
 
 
 nav li{
-  cursor: pointer;
   padding-left: 2px;
   padding-right: 2px;
   font-size: 14px;
@@ -222,6 +228,10 @@ nav a:hover{
   margin-top: 1em;
   border: var(--box-border);
   padding:10px;
+}
+
+.menu a{
+    cursor: pointer;
 }
 
 .lang-mobile{
@@ -281,11 +291,6 @@ main{
   margin:auto;
 }
 
-.end-page{
-  margin-top:var(--line-height);
-  margin-bottom:var(--line-height);
-  text-align:center;
-}
 
 .arrow-top{
   position:fixed;

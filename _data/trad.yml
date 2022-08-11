@@ -15,16 +15,16 @@ video:
   es: "Vídeo"
 edition:
   fr: "Edition"
-  es: "Edición"
+  es: "Libro"
 dessin:
   fr: "Dessin"
   es: "Dibujo"
 volume:
   fr: "Volume"
-  es: "Escultura"
+  es: "Volumen"
 divers:
   fr: "Divers"
-  es: "Miscelánea"
+  es: "Varios"
 mentions:
   fr: "Mentions légales"
   es: "Notas legales"
