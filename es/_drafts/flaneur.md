@@ -15,15 +15,15 @@ youtubeId: ''
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-###### _Flâneur_, 2011, vidéo monocanal, son, 05:13 env.
+###### _Flâneur_, 2011, video monocanal, sonido, 05:13 aprox.
 
-Ce sera toujours différent de dire : 
+SIempre sera diferente decir:
 
-« aujourd’hui je prends le bus ! » (parce que j'y suis obligé), 
+"¡hoy tomo el bus! » (porque estoy obligado),
 
 que,
 
-« aujourd’hui je prends le bus ! » (parce que j’ai décidé de le faire).
+"¡hoy tomo el bus! » (porque así lo he decidido).
 
 ![](/mepierdoparaver/imgs/fla007-up.jpg)
 
@@ -35,11 +35,11 @@ que,
 
 ![](/mepierdoparaver/imgs/fla014-up.jpg)
 
-###### _Flâneur_, 2011, série de dessins dans le bus, stylo-bille sur carnet, 24 x 8 cm. env.
+###### _Flâneur_, 2011, serie de dibujos en el bus, slapicero sobre libreta, 24 x 8 cm. aprox.
 
-Quand la qualité de la ligne devient plus importante que ce qu’elle prétend représenter.
+Cuando la calidad de la lína deviene más importante que lo que ella pretende representar.
 
-La ligne dessinée comme interprétation du monde.
+La línea dibujada como interpretación del mundo.
 
 {% include respiration.html %}
 
