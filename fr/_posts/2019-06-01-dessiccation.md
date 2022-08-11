@@ -28,7 +28,7 @@ youtubeId: ''
 
 ###### (vue d’exposition), _SKULDUR_, exposition du 17 au 20 septembre 2020, Hôtel dieu, Rennes, France.
 
-dessin > gravure > bas-relief (ou les aventures d'un geste manuel)
+dessin > gravure > bas-relief (ou les aventures d'un geste manuel).
 
 {% include respiration.html %}
 
