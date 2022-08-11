@@ -11,5 +11,12 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-
 {% include vimeo.html id=page.vimeoId %}
+
+Estar frontera, 2017, vidéo monocanal, son, 06:22 env. en boucle.
+
+(VIDEO2)
+
+Estar frontera, 2017, vidéo monocanal, son, 06:22 env. en boucle.  
+  
+(vue d'exposition), Kadzand cartography project!, restitution de fin de résidence 4 août 2017, 4 Kadzandstraat, 8400 Oostende, Belgique.
