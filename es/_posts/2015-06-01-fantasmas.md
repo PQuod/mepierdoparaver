@@ -31,15 +31,15 @@ Dibujar sobre las ventanas con cinta adhesiva transparente. Un infraleve orgáni
 
 ###### _Fantasma 10 \[Atelier Alain Le Bras\]_, 2020, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com), exposition du 23 au 31 juillet 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, France.
+###### (vista de exposición), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com), exposición del 23 al 31 de julio 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, Francia.
 
 ![](/mepierdoparaver/imgs/fantome09-up.jpg)
 
 ###### _Fantasma 9 \[El Lugar\]_, 2019, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _El Lugar, Las Dudas_, restitution de fin de résidence 30 et 31 juillet 2019, El Lugar, calle 43A #9-98, Bogotá D.C., Colombie.
+###### (vista de exposición), _El Lugar, Las Dudas_, restitución de fin de residencia 30 y 31 de julio 2019, El Lugar, calle 43A #9-98, Bogotá D.C., Colombia.
 
-Je n’ai pas fini, je me suis arrêté ; et cela ne veut pas dire que je souhaite continuer...
+Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a continuar...
 
 {% include respiration.html %}
 
@@ -47,21 +47,21 @@ Je n’ai pas fini, je me suis arrêté ; et cela ne veut pas dire que je souhai
 
 ###### _Fantasma 8 \[Maison des ARTisanes\]_, 2019, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _1L Y 4 TR0P D3 LUM13R3 D4N5 L3 M0ND3_, exposition du 10 septembre 2018 au 10 janvier 2019, Passage Insolite, Maison des ARTisanes, 56220 Rochefort-en-Terre, France.
+###### (vista de exposición), _1L Y 4 TR0P D3 LUM13R3 D4N5 L3 M0ND3_, exposición del 10 de septembre 2018 al 10 de enero 2019, Passage Insolite, Maison des ARTisanes, 56220 Rochefort-en-Terre, Francia.
 
 ![](/mepierdoparaver/imgs/fantome07-up.jpg)
 
 ###### _Fantasma 7 \[Kadzand\]_, 2017, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _KCP!_, restitution de fin de résidence 4 août 2017, 4 Kadzandstraat, 8400 Oostende, Belgique.
+###### (vista de exposición), _KCP!_, restitución de fin de residencia 4 de agosto 2017, 4 Kadzandstraat, 8400 Oostende, Bélgica.
 
 ###### ![](/mepierdoparaver/imgs/fantome06-up.jpg)
 
 ###### _Fantasma 6 \[l'Aparté\]_, 2016, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _Souvenir de l'impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
+###### (vista de exposición), _Souvenir de l'impermanence_, exposición del 14 de octubre al 2 de diciembre 2016, L’aparté lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, Francia.
 
-Est-il possible de terminer sans avoir commencé ?
+¿Es posible terminar sin haber comenzado?
 
 {% include respiration.html %}
 
@@ -69,19 +69,19 @@ Est-il possible de terminer sans avoir commencé ?
 
 ###### _Fantasma 5 \[POL'n\]_, 2016, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _Sur place ou à diffuser_, exposition du 10 au 17 juin 2016, POL'n, 11 rue des Olivettes, 44000 Nantes, France.
+###### (vista de exposición), _Sur place ou à diffuser_, exposición del 10 al 17 de junio 2016, POL'n, 11 rue des Olivettes, 44000 Nantes, Francia.
 
 ![](/mepierdoparaver/imgs/fantome-4-up.jpg)
 
 ###### _Fantasma 4 \[Hôtel Pasteur\]_, 2016, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _Un peu de soupçon_, Carlos Bernal Barrera, [Anna Mermet](http://mermet.wixsite.com/annamermet) et [Adrien Abline](http://ablineadrien.com/), exposition du 27 janvier au 10 février 2017, Hôtel Pasteur, 35000 Rennes, France.
+###### (vista de exposición), _Un peu de soupçon_, Carlos Bernal Barrera, [Anna Mermet](http://mermet.wixsite.com/annamermet) et [Adrien Abline](http://ablineadrien.com/), exposición del 27 de enero al 10 de febrero 2017, Hôtel Pasteur, 35000 Rennes, Francia.
 
 ![](/mepierdoparaver/imgs/fantome03-up.jpg)
 
 ###### _Fantasma 3 \[Kuldiga Art Gallery\]_, 2015, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables.
 
-###### (vista de exposición), _Kā tas nāk_, exposition du 7 août au 31 octobre 2015, Kuldiga Art Gallery, Pils iela 2, Kuldiga, Letonnie.
+###### (vista de exposición), _Kā tas nāk_, exposición del 7 de agosto al 31 de octubre 2015, Kuldiga Art Gallery, Pils iela 2, Kuldiga, Letonia.
 
 ![](/mepierdoparaver/imgs/fantome02-up.jpg)
 
