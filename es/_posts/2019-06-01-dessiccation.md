@@ -30,6 +30,8 @@ youtubeId: ''
 
  > dibujo > grabado > bajo relieve > 
 
+(o las aventuras de un gesto)
+
 {% include respiration.html %}
 
 {% include end-post.html %}
