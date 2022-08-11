@@ -90,17 +90,6 @@ p{
   font-size: 18px;
 }
 
-hr{
-  margin-top:calc(var(--line-height)*1.5);
-  margin-bottom:calc(var(--line-height)*1.5);
-  border:none;
-  text-align:center;
-}
-
-hr::after{
-  content: "+";
-}
-
 iframe{
   width:100%;
 }
