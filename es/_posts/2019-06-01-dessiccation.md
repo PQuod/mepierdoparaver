@@ -3,7 +3,7 @@ layout: post
 lang: es
 date: 2019-01-01 13:14:49 +0000
 title: Desecación
-lang-ref: Dessiccation
+lang-ref: dessiccation
 categories:
 - dessin
 - volume
