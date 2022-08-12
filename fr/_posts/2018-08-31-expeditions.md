@@ -12,15 +12,14 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Expéditions_, 2018, (extrait), vidéo monocanal, son, 29:41 env.
 
-Expéditions est une pièce audiovisuelle conçue pour être vécue comme une sorte de vidéo-concert.  
-  
-Cette pièce a été construite à partir de l’addition et de l’assemblage de plusieurs enregistrements sonores (faits avec une basse électrique) à la manière des couches successives qui se mélangent, ayant comme point de départ l’image vidéo d’une errance. Une errance au bord de mer, où l’agitation cyclique des marées sculpte la sédimentation présente créant des paysages insoupçonnés.  
-  
+_Expéditions_ est une pièce audiovisuelle conçue pour être vécue comme une sorte de vidéo-concert.
+
+Cette pièce a été construite à partir de l’addition et de l’assemblage de plusieurs enregistrements sonores (faits avec une basse électrique) à la manière des couches successives qui se mélangent, ayant comme point de départ l’image vidéo d’une errance. Une errance au bord de mer, où l’agitation cyclique des marées sculpte la sédimentation présente créant des paysages insoupçonnés.
+
 Le processus de création a été le suivant : d’abord les images ont été enregistrées, éditées et montées de telle façon qu’une version initiale de l’image vidéo soit matérialisée. Ensuite, lors du visionnage du début à la fin de cette image vidéo, un premier enregistrement des sons produits par la basse électrique a été fait. Puis, toujours avec le même instrument musical, un deuxième enregistrement sonore a été fait pendant que l’image vidéo de base ainsi que le premier enregistrement sonore ont été observés et écoutés simultanément. Suivant et répétant ces « règles de jeu », plusieurs couches d’enregistrements sonores ont été produites jusqu’à compléter la totalité de la composition. Pendant le processus de capture du son, le rythme des images a été transformé en fonction des rythmes sonores apparus, obtenant de cette manière la version définitive de la pièce.
 
 Image vidéo > Enregistrement sonore 1
