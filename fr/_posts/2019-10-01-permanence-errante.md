@@ -57,6 +57,6 @@ Peut-être, dans le labyrinthe se cache la preuve qu’au fond ce qui est perman
 
 {% include respiration.html %}
 
-###### _— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}
