@@ -11,15 +11,15 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-_El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de mes expérimentations sonores en solo avec la basse électrique. Je les ai réalisées pendant une résidence de création/expérimentation en Colombie entre juin et juillet 2019. Ces expérimentations ont finalement pris forme de disque (en version numérique) avec huit morceaux.
+_El Lugar, Las Dudas_ es el resultado (una selección) de mis experimentaciones sonoras en solitario con el bajo eléctrico. Las he realizado durante una residencia de creación/experimentación en Colombia entre junio y julio 2019. Dichas experimentaciones finalmente tomaron forma de disco (en versión digital) compuesto de ocho pistas.
 
 {% include respiration.html %}
 
-[ÉCOUTER ICI (AVEC CASQUE DE PRÉFÉRENCE)](https://mepierdoparaver.bandcamp.com/releases)
+[ESCUCHAR ACÁ (CON AURICULARES PREFERENTEMENTE)](https://mepierdoparaver.bandcamp.com/releases)
 
 {% include respiration.html %}
 
-Les images ci-bas appartiennent au livret qui complémente cette aventure.
+Las imágenes aquí abajo pertenecen al folleto que complementa esta aventura.
 
 {% include respiration.html %}
 
@@ -47,13 +47,13 @@ Les images ci-bas appartiennent au livret qui complémente cette aventure.
 
 ![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-12.jpg)
 
-###### _El Lugar, Las Dudas_, 2019, livret CD, édition numérique, 12 x 12 cm. env.
+###### _El Lugar, Las Dudas_, 2019, folleto CD, publicación en línea, 12 x 12 cm. aprox.
 
 {% include respiration.html %}
 
 {% include respiration.html %}
 
-###### Ces sons et photographies sont le produit d'une résidence de création/expérimentation artistique réalisée dans les villes de Bogotá D.C. (El Lugar) et de Cali (Las Dudas), Colombie, durant les mois de juin et juillet 2019 par Carlos Bernal Barrera (©). // Ce projet a bénéficié d'une bourse d'aide à la création de la Ville de Rennes-Rennes Métropole. // Le présent matériel sonore n'aurait pu exister sans le soutien de [Julia Bejarano López](https://www.instagram.com/juliabejaranolopez/) qui a permis l'utilisation de son atelier à Bogotá D.C.
+###### Estos sonidos y fotografías son producto de una residencia de creación/experimentación artística realizada en las ciudades de Bogotá D.C. (El Lugar) y Cali (Las Dudas), Colombia, durante los meses de junio y julio 2019 por Carlos Bernal Barrera (©). // Este proyecto benefició de una beca de creación de la Ciudad de Rennes-Rennes Métropole. // El presente material sonoro no hubiese podido existir sin el apooyo de [Julia Bejarano López](https://www.instagram.com/juliabejaranolopez/) quien permitió la utilización de su taller en Bogotá D.C. 
 
 {% include respiration.html %}
 
