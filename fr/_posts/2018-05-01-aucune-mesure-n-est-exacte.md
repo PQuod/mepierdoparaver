@@ -51,10 +51,10 @@ La présence des facteurs physiques, comme les décalages inhérents à l’impr
 
 {% include respiration.html %}
 
-{% include end-post.html %}
+###### — _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}
 
-###### — _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+{% include end-post.html %}
 
 {% include respiration.html %}
