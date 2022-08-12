@@ -53,7 +53,7 @@ Les images ci-bas appartiennent au livret qui complémente cette aventure.
 
 {% include respiration.html %}
 
-###### Ces sons et photographies sont le produit d'une résidence de création/expérimentation artistique réalisée dans les villes de Bogotá D.C. (El Lugar) et de Cali (Las Dudas), Colombie, durant les mois de juin et juillet 2019 par Carlos Bernal Barrera (©). // Ce projet a bénéficié d'une bourse d'aide à la création de la Ville de Rennes-Rennes Métropole. // Le présent matériel sonore n'aurait pu exister sans le soutien de [Julia Bejarano López](https://www.instagram.com/juliabejaranolopez/) qui a permis l'utilisation de son atelier à Bogotá D.C.
+###### Ces sons et photographies sont le produit d'une résidence de création/expérimentation artistique réalisée dans les villes de Bogotá D.C. (El Lugar) et de Cali (Las Dudas), Colombie, durant les mois de juin et juillet 2019 par Carlos Bernal Barrera (©). // Ce projet a bénéficié d'une bourse d'aide à la création de la Ville de Rennes-Rennes Métropole. // Le présent matériel sonore n'aurait pu exister sans le soutien de [Julia Bejarano López](https://vimeo.com/user39594498) qui a permis l'utilisation de son atelier à Bogotá D.C.
 
 {% include respiration.html %}
 
