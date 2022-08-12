@@ -2,7 +2,7 @@
 layout: post
 lang: fr
 date: 2013-04-30 22:00:00 +0000
-title: Ser Piedra
+title: Être Pierre
 lang-ref: serpiedra
 categories:
 - video
@@ -13,7 +13,7 @@ youtubeId: ''
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-###### _Ser piedra_, 2013, vidéo monocanal, son, 04:22 env.
+###### _Être Pierre_, 2013, vidéo monocanal, son, 04:22 env.
 
 ![](/mepierdoparaver/imgs/carlos-bernal-ser-piedra-3-up.jpg)
 
