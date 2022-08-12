@@ -16,21 +16,25 @@ youtubeId: ''
 
 ###### _Expediciones_, 2018, (extracto), video monocanal, sonido, 29:41 aprox.
 
-Expéditions est une pièce audiovisuelle conçue pour être vécue comme une sorte de vidéo-concert.
+Expediciones es una pieza audiovusial concebida para ser vivida como una especie de video-concierto.
 
-Cette pièce a été construite à partir de l’addition et de l’assemblage de plusieurs enregistrements sonores (faits avec une basse électrique) à la manière des couches successives qui se mélangent, ayant comme point de départ l’image vidéo d’une errance. Une errance au bord de mer, où l’agitation cyclique des marées sculpte la sédimentation présente créant des paysages insoupçonnés.
+Esta pieza fue construida a partir de la adición y ensamblaje de varias grabaciones sonoras (hechas con un bajo eléctrico) como si fueran capas sucesivas que se mezclan, teniendo como punto de partida la imagen video de una errancia. Una errancia en la costa, lugar donde la agitación cíclica de las olas y mareas esculpe la sedimentación presente creando paisajes insospechados.
 
-Le processus de création a été le suivant : d’abord les images ont été enregistrées, éditées et montées de telle façon qu’une version initiale de l’image vidéo soit matérialisée. Ensuite, lors du visionnage du début à la fin de cette image vidéo, un premier enregistrement des sons produits par la basse électrique a été fait. Puis, toujours avec le même instrument musical, un deuxième enregistrement sonore a été fait pendant que l’image vidéo de base ainsi que le premier enregistrement sonore ont été observés et écoutés simultanément. Suivant et répétant ces « règles de jeu », plusieurs couches d’enregistrements sonores ont été produites jusqu’à compléter la totalité de la composition. Pendant le processus de capture du son, le rythme des images a été transformé en fonction des rythmes sonores apparus, obtenant de cette manière la version définitive de la pièce.
+El proceso de creación fue el siguiente: primero las imágenes fueron grabadas, editadas y montadas de tal manera que una versión inicial de la imagen video se materialice. Luego, durante el visionado de principio a fin de esta imagen video, una primera grabación de sonidos producidos por el bajo eléctrico fue realizada. Después, con el mismo instrumento musical, se realizó una segunda grabación sonora al mismo tiempo que la imagen video inicial así como la primera grabación sonora fueron vistas y escuchadas simultáneamente. Siguiendo y repitiendo estas "reglas de juego", varias capas de grabaciones sonoras fueron producidas hasta completar la totalidad de la composición. Durante el proceso de captura del sonido, el ritmo de las imágenes fue evolucionando dependiendo de los rítmos sonores que fueron apareciendo, obteniendo de esta forma la versión definitiva de la pieza.
 
-Image vidéo > Enregistrement sonore 1
+{% include respiration.html %}
 
-Image vidéo + Enregistrement sonore 1 > Enregistrement sonore 2
+Imagen video > Grabación sonora 1
 
-Image vidéo + Enregistrement sonore 1 + Enregistrement sonore 2 > Enregistrement sonore 3
+Imagen video + Grabación sonora 1 > Grabación sonora 2
 
-et cætera (+ évolution de l’Image vidéo) = Pièce finale
+Imagen video + Grabación sonora 1 + Grabación sonora > Grabación sonora 3
 
-Ainsi, _Expéditions_ montre des errances audio-visuelles qui ont pour but de présenter un univers en particulier. Un univers composite où absolument rien n’est égal. Une accumulation de différences et de similitudes, de multiplicités et d’unicités qui se croisent. On découvre le multiple grâce à l’observation des variations de ce qui, dans une autre échelle, paraît uniforme. La sérialité uniformisante est-elle exclusivement humaine ?
+etcétera (+ evolución de la Imagen video) = Pieza final
+
+{% include respiration.html %}
+
+Así, _Expediciones_ muestra errancias audio-visuales que tienen como fin presentar un universo particular. Un universo heterogéneo donde absolutamente nada es igual. Una acumulación de diferencias y de similitudes, de multiplicidades y de unicidades que se entrecruzan. El descubrimiento de lo múltiple gracias a la observación de las variaciones de eso que, a una escala diferente, parece uniforme. ¿La serialidad uniformisante es exclusivamente humana?
 
 {% include respiration.html %}
 
