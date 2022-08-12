@@ -51,10 +51,10 @@ La presencia de factores físicos, como los desfases inherentes a la impresora o
 
 {% include respiration.html %}
 
-{% include end-post.html %}
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
-###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+{% include end-post.html %}
 
 {% include respiration.html %}
