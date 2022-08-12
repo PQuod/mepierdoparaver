@@ -35,6 +35,6 @@ La capacidad de la fuerza del mar de “esculpir imágenes”, es para mí una a
 
 {% include respiration.html %}
 
-###### _> Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
