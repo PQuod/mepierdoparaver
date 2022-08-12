@@ -13,7 +13,7 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/grilla-a-01-72.jpg)
 
-###### _(in)voluntario_, 2014, conjunto de ciento noventa y seis dibujos indisociables, lapicero sobre tíquet de metro, dimensiones variables.
+###### _(in)voluntario_, 2014, conjunto de ciento noventa y seis dibujos indisociables, lapicero sobre tíquet de metro, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/grilla-a-01-72-d2.jpg)
 
