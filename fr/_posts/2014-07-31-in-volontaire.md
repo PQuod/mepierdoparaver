@@ -33,6 +33,8 @@ Ils sont triés et rangés morphologiquement, cherchant une suite logique qui é
 
 Ici, la répétition automatisée et sérialisée des machines a servi de base à la répétition délibérée de mes mains.
 
+{% include respiration.html %}
+
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _(in)volontaire_, 2014, image animée, muette, écran de 4,8 pouces, 03:16 env. en boucle.
