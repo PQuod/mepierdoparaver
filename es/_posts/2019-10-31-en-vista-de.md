@@ -5,6 +5,7 @@ date: 2019-10-31 23:00:00 +0000
 title: En vista de
 lang-ref: auregardde
 categories:
+- son
 - video
 vimeoId: 351389664?h=dbfd97dcde
 soundcloudId: ''
