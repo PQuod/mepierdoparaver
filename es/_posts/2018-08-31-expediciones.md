@@ -7,7 +7,7 @@ lang-ref: expediciones
 categories:
 - son
 - video
-vimeoId: ''
+vimeoId: 291505846?h=a6b6194d3e
 soundcloudId: ''
 youtubeId: ''
 
@@ -16,7 +16,7 @@ youtubeId: ''
 
 ###### _Expediciones_, 2018, (extracto), video monocanal, sonido, 29:41 aprox.
 
-Expediciones es una pieza audiovusial concebida para ser vivida como una especie de video-concierto.
+_Expediciones_ es una pieza audiovusial concebida para ser vivida como una especie de video-concierto.
 
 Esta pieza fue construida a partir de la adición y ensamblaje de varias grabaciones sonoras (hechas con un bajo eléctrico) como si fueran capas sucesivas que se mezclan, teniendo como punto de partida la imagen video de una errancia. Una errancia en la costa, lugar donde la agitación cíclica de las olas y mareas esculpe la sedimentación presente creando paisajes insospechados.
 
