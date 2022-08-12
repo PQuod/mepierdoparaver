@@ -53,10 +53,10 @@ Quizás, en el laberinto se oculta la prueba de que en el fondo lo que es perman
 
 {% include respiration.html %}
 
-{% include end-post.html %}
+###### _— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
-###### _— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+{% include end-post.html %}
 
 {% include respiration.html %}
