@@ -21,7 +21,7 @@ youtubeId: ''
 
 \[...\], verbe trans. Découvrir dans une perception présente (principalement visuelle, auditive ou tactile) l’image, la notion ou le nom de quelqu’un ou de quelque chose dont on a déjà eu l’expérience ailleurs ou dans le passé.
 
-{% include separation.html %}
+{% include respiration.html %}
 
 Voir pour la deuxième fois !
 
