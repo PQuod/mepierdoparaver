@@ -19,9 +19,9 @@ youtubeId: ''
 
 ###### _Reconocer_, detalle.
 
-\[...\], verbo trans. Descubrir en una percepción presente (principalmente visual, auditiva o táctil) la imagen, la noción o el nombre de alguien o algo que ya se ha experimentado en el pasado. 
+\[...\], verbo trans. Descubrir en una percepción presente (principalmente visual, auditiva o táctil) la imagen, la noción o el nombre de alguien o algo que ya se ha experimentado en el pasado.
 
-{% include separation.html %}
+{% include respiration.html %}
 
 ¡Ver por segunda vez!
 
