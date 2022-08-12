@@ -17,7 +17,7 @@ youtubeId: ''
 
 ![](/mepierdoparaver/imgs/a-un-certain-moment-2-up.jpg)
 
-###### _À un certain moment_, 2017, vidéo monocanal, son, vidéo-projection, papier contrecollé sur bois, 04:03 env.
+###### _À un certain moment_, 2017, vidéo monocanal, son, vidéo-projection, papier noir collé sur bois, 04:03 env.
 
 ###### (vue d’exposition), _La timidité des hippocampes_, exposition du 12 au 22 septembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, France.
 

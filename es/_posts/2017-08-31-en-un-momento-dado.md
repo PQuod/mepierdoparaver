@@ -13,17 +13,17 @@ youtubeId: ''
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-###### _À un certain moment_, 2017, vidéo monocanal, son, 04:03 env.
+###### _En un momento dado_, 2017, video monocanal, sonido, 04:03 aprox.
 
 ![](/mepierdoparaver/imgs/a-un-certain-moment-2-up.jpg)
 
-###### _À un certain moment_, 2017, vidéo monocanal, son, vidéo-projection, papier contrecollé sur bois, 04:03 env.
+###### _En un momento dado_, 2017, video monocanal, sonido, video-proyección, papel negro pegado sobre madera, 04:03 aprox.
 
-###### (vue d’exposition), _La timidité des hippocampes_, exposition du 12 au 22 septembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, France.
+###### (vista de exposición), _La timidité des hippocampes_, exposición del 12 al 22 de septiembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, Francia.
 
 ![](/mepierdoparaver/imgs/a-un-certain-moment-4-up.jpg)
 
-###### (vue d’exposition), _La timidité des hippocampes_, exposition du 12 au 22 septembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, France.
+###### (vista de exposición), _La timidité des hippocampes_, exposición del 12 al 22 de septiembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, Francia.
 
 Mi trabajo durante la residencia en Oostende se construyó a partir de derivas a pie en esa ciudad hasta el momento desconocida. Perdido, mi mirada se posó en las sombras, las cuales registré con mi cámara de video. Este trabajo de observación anticipó la extériorisación de mis reflexiones sobre las nociones de disponibilidad e indisponibilidad.
 
@@ -48,7 +48,7 @@ Proyectar sombras es a mi parecer una forma de equilibrio entre: por un lado, la
 
 ![](/mepierdoparaver/imgs/a-un-certain-moment-1-up.jpg)
 
-###### (vue d’exposition), _La timidité des hippocampes_, exposition du 12 au 22 septembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, France.
+###### (vista de exposición), _La timidité des hippocampes_, exposición del 12 al 22 de septiembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, Francia.
 
 {% include respiration.html %}
 
