@@ -34,7 +34,9 @@ et cætera (+ évolution de l’Image vidéo) = Pièce finale
 
 {% include respiration.html %}
 
-Ainsi, _Expéditions_ montre des errances audio-visuelles qui ont pour but de présenter un univers en particulier. Un univers composite où absolument rien n’est égal. Une accumulation de différences et de similitudes, de multiplicités et d’unicités qui se croisent. On découvre le multiple grâce à l’observation des variations de ce qui, dans une autre échelle, paraît uniforme. La sérialité uniformisante est-elle exclusivement humaine ?
+Ainsi, _Expéditions_ montre des errances audio-visuelles qui ont pour but de présenter un univers en particulier. Un univers composite où absolument rien n’est égal. Une accumulation de différences et de similitudes, de multiplicités et d’unicités qui se croisent. On découvre le multiple grâce à l’observation des variations de ce qui, dans une autre échelle, paraît uniforme. 
+
+La sérialité uniformisante est-elle exclusivement humaine ?
 
 {% include respiration.html %}
 
