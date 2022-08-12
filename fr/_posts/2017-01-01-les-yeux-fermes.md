@@ -41,3 +41,7 @@ Pour ce catalogue il a donc fallu réfléchir aux diverses manières de représe
 [VOIR LE CATALOGUE D'EXPOSITION](https://fr.calameo.com/read/006090984d9a0a1cf7a73)
 
 {% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
