@@ -43,6 +43,6 @@ Ainsi, la vidéo propose au spectateur une balade vers des états de contemplati
 
 {% include respiration.html %}
 
-###### **_—_** Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).
+###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}
