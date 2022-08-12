@@ -17,7 +17,7 @@ youtubeId: ''
 
 ![](/mepierdoparaver/imgs/dsc_2207-up.jpg)
 
-###### Manchas solares, 2019-2020, vidrio grabado, dimensiones variables.
+###### Manchas solares, 2019-2020, vidrio grabado, dimensiones variables aprox.
 
 ###### (vista de exposición), _Brut’image #1 - Sons, cinémas, résistances_, exposición el 7 y 8 de febrero 2020, Les Ateliers de Bitche, Nantes, Francia.
 

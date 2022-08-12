@@ -17,7 +17,7 @@ youtubeId: ''
 
 ![](/mepierdoparaver/imgs/dsc_2207-up.jpg)
 
-###### _Taches solaires_, 2019-2020, verre gravé, dimensions variables.
+###### _Taches solaires_, 2019-2020, verre gravé, dimensions variables env.
 
 ###### (vue d’exposition), _Brut’image #1 - Sons, cinémas, résistances_, exposition le 7 et 8 février 2020, Les Ateliers de Bitche, Nantes, France.
 
