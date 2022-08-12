@@ -29,10 +29,10 @@ Contemplar en la imaginación lo bello de la mancha inherente a eso que es en ap
 
 {% include respiration.html %}
 
-{% include end-post.html %}
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
-###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+{% include end-post.html %}
 
 {% include respiration.html %}
