@@ -37,7 +37,7 @@ Este cuaderno cuadriculado es la reproducción de un ejemplar realizado manualme
 
 2\. Imprimir el archivo página por página, introduciendo cada vez la misma hoja (del mismo lado y en el mismo sentido) en la impresora.
 
-3\. Una vez completada la primera cara de la hoja, recomenzar la impresión en la segunda cara. 
+3\. Una vez completada la primera cara de la hoja, recomenzar la impresión en la segunda cara.
 
 4\. Siguiendo el mismo procedimiento, imprimir quince hojas A4; al final éstas constituirán las páginas internas del cuaderno.
 
@@ -55,6 +55,6 @@ La presencia de factores físicos, como los desfases inherentes a la impresora o
 
 {% include respiration.html %}
 
-###### _> Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
