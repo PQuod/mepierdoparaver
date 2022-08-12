@@ -33,6 +33,6 @@ Contemplar en la imaginación lo bello de la mancha inherente a eso que es en ap
 
 {% include respiration.html %}
 
-###### _> Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
