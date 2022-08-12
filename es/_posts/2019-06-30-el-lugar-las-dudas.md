@@ -53,7 +53,7 @@ Las imágenes aquí abajo pertenecen al folleto que complementa esta aventura.
 
 {% include respiration.html %}
 
-###### Estos sonidos y fotografías son producto de una residencia de creación/experimentación artística realizada en las ciudades de Bogotá D.C. (El Lugar) y Cali (Las Dudas), Colombia, durante los meses de junio y julio 2019 por Carlos Bernal Barrera (©). // Este proyecto benefició de una beca de creación de la Ciudad de Rennes-Rennes Métropole. // El presente material sonoro no hubiese podido existir sin el apooyo de [Julia Bejarano López](https://www.instagram.com/juliabejaranolopez/) quien permitió la utilización de su taller en Bogotá D.C. 
+###### Estos sonidos y fotografías son producto de una residencia de creación/experimentación artística realizada en las ciudades de Bogotá D.C. (El Lugar) y Cali (Las Dudas), Colombia, durante los meses de junio y julio 2019 por Carlos Bernal Barrera (©). // Este proyecto benefició de una beca de creación de la Ciudad de Rennes-Rennes Métropole. // El presente material sonoro no hubiese podido existir sin el apooyo de [Julia Bejarano López ](https://vimeo.com/user39594498)quien permitió la utilización de su taller en Bogotá D.C.
 
 {% include respiration.html %}
 
