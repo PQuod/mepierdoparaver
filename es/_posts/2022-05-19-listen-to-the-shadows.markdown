@@ -66,10 +66,10 @@ _Listen to the Shadows_ es una obra compuesta de un video, una pieza sonora y un
 
 {% include respiration.html %}
 
-{% include end-post.html %}
+###### _— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
-###### _— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+{% include end-post.html %}
 
 {% include respiration.html %}
