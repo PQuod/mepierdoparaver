@@ -95,6 +95,6 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 
 {% include respiration.html %}
 
-###### _> Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
