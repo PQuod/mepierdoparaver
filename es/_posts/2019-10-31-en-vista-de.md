@@ -21,7 +21,7 @@ youtubeId: ''
 
 El video revela una imagen donde las nociones de proporción y escala se tornan ambiguas; uno se encuentra en medio de un diálogo entre un _aquí_ y un _allá_ indefinidos.
 
-El sonido, creado con un bajo eléctrico, es producto de la repetición de un solo gesto –inexacto y cambiante– del intérprete, lo cual produce micro-variaciones que s'encadenan y acumulan progresivamente a lo largo de la pieza.
+El sonido, creado con un bajo eléctrico, es producto de la repetición de un solo gesto –inexacto y cambiante– del intérprete, lo cual produce micro-variaciones que se encadenan y acumulan progresivamente a lo largo de la pieza.
 
 Así, el video propone al espectador un paseo hacia estados de contemplación donde permanecer y esperar devienen los protagonistas.
 
