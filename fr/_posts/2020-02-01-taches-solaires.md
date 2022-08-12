@@ -33,6 +33,6 @@ Contempler dans l'imagination la beauté de la tache inhérente à ce qui est en
 
 {% include respiration.html %}
 
-###### _> Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+###### — _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}
