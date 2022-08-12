@@ -13,7 +13,11 @@ youtubeId: ''
 ---
 _El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de mes expérimentations sonores en solo avec la basse électrique. Je les ai réalisées pendant une résidence de création/expérimentation en Colombie entre juin et juillet 2019. Ces expérimentations ont finalement pris forme de disque (en version numérique) avec huit morceaux.
 
+{% include respiration.html %}
+
 [ÉCOUTER ICI (AVEC CASQUE DE PRÉFÉRENCE)](https://mepierdoparaver.bandcamp.com/releases)
+
+{% include respiration.html %}
 
 Les images ci-bas appartiennent au livret qui complémente cette aventure.
 
