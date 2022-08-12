@@ -31,7 +31,7 @@ youtubeId: ''
 
 ###### (vista de exposición), _Atelier 1_, exposición el 22 de mayo 2014, Universidad Rennes 2 - bâtiment M (Mussat), campus Villejean, place du recteur Henri le Moal, 35000 Rennes, Francia.
 
-Dessin qui est volonté et découverte.
+Dibujo que es voluntad y descubrimiento.
 
 {% include respiration.html %}
 
