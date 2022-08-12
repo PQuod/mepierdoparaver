@@ -13,28 +13,27 @@ youtubeId: ''
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-###### _Au regard de_, 2019, (extrait), vidéo monocanal, son, 14:03 env.
+###### _En vista de_, 2019, (extracto), video monocanal, sonido, 14:03 aprox.
 
 ![](/mepierdoparaver/imgs/vlcsnap-00002-up.jpg)
 
-###### (vue d’exposition), _Brut’image #1 - Sons, cinémas, résistances_, exposition le 7 et 8 février 2020, Les Ateliers de Bitche, Nantes, France.
+###### (vista de exposición), _Brut’image #1 - Sons, cinémas, résistances_, exposición el 7 y 8 de febrero 2020, Les Ateliers de Bitche, Nantes, Francia.
 
-La vidéo révèle une image où les notions de proportion et d’échelle deviennent ambiguës ; on se retrouve au milieu du dialogue entre un _ici_ et un _là-bas_ indéfinis. 
+El video revela una imagen donde las nociones de proporción y escala se tornan ambiguas; uno se encuentra en medio de un diálogo entre un _aquí_ y un _allá_ indefinidos.
 
-Le son, produit avec une basse éléctrique, est issu de la répétition d’un seul geste – inexacte et variable – de l’interprète, cela produit des micro-variations qui s'enchaînent et accumulent progressivement tout le long de la pièce.
+El sonido, creado con un bajo eléctrico, es producto de la repetición de un solo gesto –inexacto y cambiante– del intérprete, lo cual produce micro-variaciones que s'encadenan y acumulan progresivamente a lo largo de la pieza.
 
-Ainsi, la vidéo propose au spectateur une balade vers des états de contemplation où demeurer et attendre deviennent les protagonistes.
-
-{% include respiration.html %}
-
-[VOIR-ÉCOUTER LA VERSION COMPLÈTE (AVEC CASQUE DE PRÉFÉRENCE)](https://youtu.be/ouUvLWgmy_o)
+Así, el video propone al espectador un paseo hacia estados de contemplación donde permanecer y esperar devienen los protagonistas.
 
 {% include respiration.html %}
 
-  
+[VER-ESCUCHAR LA VERSIÓN COPLETA (CON AURICULARES PREFERENTEMENTE)](https://youtu.be/ouUvLWgmy_o)
+
+{% include respiration.html %}
+
 (VIDEO 2)
 
-###### _ed drager ua (ombre)_, 2020, vidéo monocanal, muette, ∞ env. en boucle.
+###### _ed atsiv ne (sombra)_, 2020, video monocanal, mudo, ∞ aprox. en boucle.
 
 {% include respiration.html %}
 
@@ -42,6 +41,6 @@ Ainsi, la vidéo propose au spectateur une balade vers des états de contemplati
 
 {% include respiration.html %}
 
-###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+###### _— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
