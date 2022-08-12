@@ -2,7 +2,7 @@
 layout: post
 lang: fr
 date: 2019-07-01 08:30:15 +0000
-title: Le Lieu, Les Doutes
+title: El Lugar, Las Dudas
 lang-ref: lugardudas
 categories:
 - edition
@@ -12,9 +12,11 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-_El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de mes expérimentations sonores en solo avec la basse électrique, lesquelles j'ai réalisé pendant une résidence de création/expérimentation en Colombie entre juin et juillet 2019. J’ai décidé de lui donner forme de disque (en version numérique) avec huit morceaux, d’où le livret ci-dessous contenant un complément photographique de cette aventure.
+_El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de mes expérimentations sonores en solo avec la basse électrique. Je les ai réalisées pendant une résidence de création/expérimentation en Colombie entre juin et juillet 2019. Ces expérimentations ont finalement pris forme de disque (en version numérique) avec huit morceaux.
 
 [ÉCOUTER ICI (AVEC CASQUE DE PRÉFÉRENCE)](https://mepierdoparaver.bandcamp.com/releases)
+
+Les images ci-bas appartiennent au livret qui complémente cette aventure.
 
 ![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-1.jpg)
 
@@ -40,7 +42,9 @@ _El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de
 
 ![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-12.jpg)
 
-###### El Lugar, Las Dudas, 2019, livret CD, page intérieure, édition numérique, 12 x 12 cm. env.
+###### _El Lugar, Las Dudas_, 2019, livret CD, édition numérique, 12 x 12 cm. env.
+
+{% include respiration.html %}
 
 {% include respiration.html %}
 
