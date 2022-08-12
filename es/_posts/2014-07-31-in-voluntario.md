@@ -19,7 +19,7 @@ youtubeId: ''
 
 ![](/mepierdoparaver/imgs/grilla-a-01-72-d1.jpg)
 
-###### _(in)voluntario_, détails.
+###### _(in)voluntario_, detalles.
 
 ![](/mepierdoparaver/imgs/dsc_6227-1-up.jpg)
 
