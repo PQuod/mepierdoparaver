@@ -25,7 +25,7 @@ youtubeId: ''
 
 ###### (vista de exposición) _Le changement, Des mutismes et des résistances_, exposición del 4 de septiembre al de 30 octubre 2014, Consulado de la Colombia en París, 12 rue de Berri, 75008, París, Francia.
 
-Recuperados en Buenos Aires durante un viaje entre el 2009 el 2010, estos tíquets de subte han viajado con migo hasta hoy.
+Recuperados en Buenos Aires durante un viaje entre el 2009 y el 2010, estos tíquets de subte han viajado con migo hasta hoy.
 
 En 2014 decidi dibujar sobre ellos con lapicero azul unas formas orgánicas de manera aleatoria. El principio era no preconcebir esas formas sino privilegiar la espontaneidad del gesto de dibujo, como un reflejo automático en respuesta al carácter deliberado y normalizado, incluso predeterminado de los tíquets de subte utilizados.
 
