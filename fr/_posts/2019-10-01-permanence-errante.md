@@ -25,7 +25,7 @@ youtubeId: ''
 
 ###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables.
 
-###### ![](/mepierdoparaver/imgs/04-dsc_2017-up.jpg)
+![](/mepierdoparaver/imgs/04-dsc_2017-up.jpg)
 
 ###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'intérieur, dimensions variables.
 
