@@ -13,21 +13,21 @@ youtubeId: ''
 ---
 ###### ![](/mepierdoparaver/imgs/01-20191018_121719-up.jpg)
 
-###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables.
+###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables env.
 
 ###### (vue d’exposition), _Nouvelles présentations_, exposition du 12 octobre au 17 novembre 2019, Salle des pas-perdus, Parlement de Bretagne, Rennes, France.
 
 ![](/mepierdoparaver/imgs/02-20191010_143702-up.jpg)
 
-###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables.
+###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables env.
 
 ![](/mepierdoparaver/imgs/03-dsc_2090-up.jpg)
 
-###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables.
+###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables env.
 
 ![](/mepierdoparaver/imgs/04-dsc_2017-up.jpg)
 
-###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'intérieur, dimensions variables.
+###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'intérieur, dimensions variables env.
 
 ###### (vue d’exposition), _Nouvelles présentations_, exposition du 12 octobre au 17 novembre 2019, Salle des pas-perdus, Parlement de Bretagne, Rennes, France.
 
