@@ -32,10 +32,10 @@ dibujo > grabado > bajo relieve (o las aventuras de un gesto manual).
 
 {% include respiration.html %}
 
-{% include end-post.html %}
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
-###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+{% include end-post.html %}
 
 {% include respiration.html %}
