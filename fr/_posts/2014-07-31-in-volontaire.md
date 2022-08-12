@@ -13,7 +13,7 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/grilla-a-01-72.jpg)
 
-###### _(in)volontaire_, 2014, ensemble de cent quatre-vingt-seize dessins indissociables, stylo-bille sur ticket de métro, dimensions variables.
+###### _(in)volontaire_, 2014, ensemble de cent quatre-vingt-seize dessins indissociables, stylo-bille sur ticket de métro, dimensions variables env.
 
 ![](/mepierdoparaver/imgs/grilla-a-01-72-d2.jpg)
 
