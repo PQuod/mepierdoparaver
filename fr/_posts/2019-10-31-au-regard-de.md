@@ -33,7 +33,7 @@ Ainsi, la vidéo propose au spectateur une balade vers des états de contemplati
 {% include respiration.html %}
 
   
-VIDEO 2
+(VIDEO 2)
 
 ###### _ed drager ua (ombre)_, 2020, vidéo monocanal, muette, ∞ env. en boucle.
 
