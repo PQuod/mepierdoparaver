@@ -38,7 +38,7 @@ De cette façon j’ai voulu jouer avec la polysémie du mot « projection » :
 
 Ainsi, il m’a paru juste de projeter des ombres grâce à la lumière : ici, une seule source lumineuse produit simultanément de la lumière, donc des ombres et enfin, leurs représentations.
 
-Projeter des ombres est à mon sens une forme d’équilibre entre la saturation d’images issue de la projection de l’absent, et le fait d’être au présent.
+Projeter des ombres est à mon sens une forme d’équilibre entre : d'une part, la saturation propre à la projection-invention de ce qui est absent, et de l'autre part, le fait d’accepter-voir ce qui advient dans le présent.
 
 {% include respiration.html %}
 
