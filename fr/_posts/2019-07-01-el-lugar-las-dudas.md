@@ -21,6 +21,8 @@ _El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de
 
 Les images ci-bas appartiennent au livret qui complémente cette aventure.
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-1.jpg)
 
 ![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-2.jpg)
