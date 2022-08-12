@@ -33,8 +33,8 @@ J’ai proposé une vidéo-installation où l’image est projetée sur une surf
 
 De cette façon j’ai voulu jouer avec la polysémie du mot « projection » :
 
-1. D’une part, grâce à la projection de la lumière, avec un vidéoprojecteur par exemple, on produit des images.
-2. D’autre part, se projeter, c’est donner une forme (à travers des images) à un certain moment, à quelque chose qui n’est pas encore réalisé. Cherchant à exprimer une critique d’une société de « projectistes », dans laquelle nous avons une tendance à confondre le futur imaginé qu’est la projection, avec le concret du présent.
+1. Grâce à la projection de la lumière, avec un vidéoprojecteur par exemple, on produit des images.
+2. Se projeter, c’est donner une forme (à travers des images) à un certain moment, à quelque chose qui n’est pas encore réalisé. Cherchant à exprimer une critique d’une société de « projectistes », dans laquelle nous avons une tendance à confondre le futur imaginé qu’est la projection, avec le concret du présent.
 
 Ainsi, il m’a paru juste de projeter des ombres grâce à la lumière : ici, une seule source lumineuse produit simultanément de la lumière, donc des ombres et enfin, leurs représentations.
 

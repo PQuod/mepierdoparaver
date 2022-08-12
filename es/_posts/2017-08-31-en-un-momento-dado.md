@@ -33,9 +33,8 @@ Por consiguiente propuse una video-instalación donde la imagen es proyectada so
 
 De este modo quise jugar con la polisemia de la palabra “proyección”:
 
-1\. De un lado, gracias a la proyección de luz, con un video-projector por ejemplo, se pueden producir imágenes.
-
-2\. Por otra lado, proyectarse, es darle forma (a través de imágenes) en un momento dado, a algo que aún no se ha realizado. Buscando así la manifestación de la crítica a una sociedad de “proyectistas”, en la cual tendemos a confundir el futuro imaginado que es la proyección con lo concreto del presente.
+1. Gracias a la proyección de luz, con un video-projector por ejemplo, se pueden producir imágenes.
+2. Proyectarse, es darle forma (a través de imágenes) en un momento dado, a algo que aún no se ha realizado. Buscando así la manifestación de la crítica a una sociedad de “proyectistas”, en la cual tendemos a confundir el futuro imaginado que es la proyección con lo concreto del presente.
 
 Me pareció conveniente proyectar sombras gracias a la luz: aquí, una única fuente luminosa produce simultáneamente luz, lo que implica sombras y, sus representaciones.
 
