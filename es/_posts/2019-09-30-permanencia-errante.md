@@ -47,7 +47,7 @@ youtubeId: ''
 
 ###### _Permanencia-errante_, sombra proyectada en el suelo.
 
-Una forma circularse dibuja sobre los vidrios. Esta forma contiene un patrón laberíntico, grabado a mano, que invita a la pérdida en la contemplación. Así, uno se encuentra en un diálogo entre la transparencia del soporte y el reflejo de la luz (constantemente cambiante) sobre los trazos del dibujo.
+Una forma circular se dibuja sobre los vidrios. Esta forma contiene un patrón laberíntico, grabado a mano, que invita a la pérdida en la contemplación. Así, uno se encuentra en un diálogo entre la transparencia del soporte y el reflejo de la luz (constantemente cambiante) sobre los trazos del dibujo.
 
 Quizás, en el laberinto se oculta la prueba de que en el fondo lo que es permanente es errante.
 
