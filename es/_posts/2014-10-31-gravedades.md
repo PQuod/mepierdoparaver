@@ -1,8 +1,8 @@
 ---
 layout: post
-lang: fr
+lang: es
 date: 2014-10-31 23:00:00 +0000
-title: Gravités
+title: Gravedades
 lang-ref: gravites
 categories:
 - video
@@ -13,7 +13,7 @@ youtubeId: ''
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-###### _Gravités_, 2014, (extrait), vidéo monocanal, son, réalisée en collaboration avec Lou Berave, 45:53 env. en boucle.
+###### _Gravedades_, 2014, (extrait), vidéo monocanal, son, réalisée en collaboration avec Lou Berave, 45:53 env. en boucle.
 
 ![](/mepierdoparaver/imgs/carlos-bernal-et-eva-reboul-gravites-6-up.jpg)
 
