@@ -13,17 +13,17 @@ youtubeId: ''
 ---
 {% include vimeo.html id=page.vimeoId %}
 
-###### _Gravedades_, 2014, (extrait), vidéo monocanal, son, réalisée en collaboration avec Lou Berave, 45:53 env. en boucle.
+###### _Gravedades_, 2014, (extracto), video monocanal, sonido, realizado en colaboración con Lou Berave, 45:53 aprox. en boucle.
 
 ![](/mepierdoparaver/imgs/carlos-bernal-et-eva-reboul-gravites-6-up.jpg)
 
-###### (vidéo-installation), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposition du 5 au 22 novembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, France.
+###### (video-instalación), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 
-Jeu et répétition. L’évocation d’une force universelle et archaïque qu’est la gravité.
+Juego de repetición. La evocación de una fuerza universal y arcáica que es la gravedad.
 
 {% include respiration.html %}
 
-###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
