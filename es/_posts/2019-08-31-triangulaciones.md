@@ -41,7 +41,11 @@ EL PRODUCTO FINAL NO ES MÚSICA, EL PRODUCTO FINAL ES EXPERIENCIA.
 
 ![](/mepierdoparaver/imgs/cd-triangulaciones-cover-up.png)
 
+{% include respiration.html %}
+
 [ESCUCHAR AQUÍ (CON AURICULARES PREFERIBLEMENTE)](https://triangulaciones.bandcamp.com)
+
+{% include respiration.html %}
 
 ###### TRIANGULACIONES son: Carlos Bernal Barrera (bajo eléctrico + máquinas), [Jonnathan Blake Pinto](https://vimeo.com/jonnathanblake) (guitarra eléctrica + máquinas). // La finalización del presente material sonoro no hubiese podido ocurrir sin el apoyo de [Julia Bejarano López](https://vimeo.com/user39594498) quien estuvo a cargo de la mezcla y masterización. // Este documento es el resultado de una colaboración entre los artistas, la cual se realizó en el marco de una residencia de creación/experimentación artística llevada a cabo en las ciudades de Bogotá D.C. (El Lugar) y Cali (Las Dudas), Colombia, durante los meses de junio y julio del año 2019, bajo la iniciativa de Carlos Bernal Barrera. // Los sonidos y textos aquí contenidos son de la autoría de TRIANGULACIONES.
 
