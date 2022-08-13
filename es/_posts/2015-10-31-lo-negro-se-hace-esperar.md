@@ -19,7 +19,7 @@ youtubeId: ''
 
 ###### (video-instalación), _Souvenir de l'impermanence_, exposición del 14 de octubre al 2 de diciembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, Francia.
 
-En el fondo se está pedido, estar perdido como ser ciego, sin capacidad de reconocer; le ignorancia que permite ver. Estando perdido, todo es inesperado y casi nada es esperado; solamente la certeza de lo negro paseándose en su latencia.
+En el fondo se está pedido, estar perdido como ser ciego, sin capacidad de reconocer; la ignorancia que permite ver. Estando perdido, todo es inesperado y casi nada es esperado; solamente la certeza de lo negro paseándose en su latencia.
 
 Lo negro se hace esperar, la espera no espera nada, la espera da atención. La espera no tiene fin, lo negro se hace esperar infinitamente, lo negro deviene lo inesperado, la espera infatigable.
 
