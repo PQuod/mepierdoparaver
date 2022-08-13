@@ -11,7 +11,7 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-###### ![](/mepierdoparaver/imgs/01-20191018_121719-up.jpg)
+![](/mepierdoparaver/imgs/01-20191018_121719-up.jpg)
 
 ###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables env.
 
