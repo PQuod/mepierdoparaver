@@ -19,7 +19,7 @@ youtubeId: ''
 
 ###### (video-instalación), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 
-Juego de repetición. La evocación de una fuerza universal y arcáica que es la gravedad.
+Juego y repetición. La evocación de una fuerza universal y arcáica que es la gravedad.
 
 {% include respiration.html %}
 
