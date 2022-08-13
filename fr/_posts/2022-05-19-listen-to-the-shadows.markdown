@@ -67,6 +67,8 @@ Une promenade erratique où l’on est invité à expérimenter autant l’image
 
 [VOIR LA VERSION NUMÉRIQUE DE l'ÉDITION ICI](https://en.calameo.com/read/006090984b402a8b8f016)
 
+{% include respiration.html %}
+
 Listen to the Shadows est une œuvre composée d'une vidéo, une pièce sonore et une édition d'artiste. Résultat d'une résidence expérimentale de création artistique qui a eu lieu à Șona (Roumanie) pendant l'été 2021. Projet de résidence organisé par le collectif [Sounds Like a Book](https://soundslikeabook.com/).
 
 {% include respiration.html %}
