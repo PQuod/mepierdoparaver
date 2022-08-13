@@ -27,7 +27,7 @@ CORPS + ÂME + ESPRIT = EXPÉRIENCE
 
 {% include respiration.html %}
 
-La répétition dans la technique-matière est capable de produire une superposition de couches sonores qui se complémentent créant ainsi des sonorités impensées. Cela à travers d’un geste manuel qui nourrit le son ; son inexactitude est inhérente à l’humanité (à l’_humanuelleité_) de qui le produit. Ici, une attention particulière est attribuée aux micro-décalages, souvent issus de l’« erreur », car ils peuvent servir comme appel aux sérendipités et désoccultations. De cette manière on est confronté à une évolution du son qui se passe dans le présent, ce qui nécessite et incite à une aptitude d’écoute contemplative.
+La répétition dans la technique-matière est capable de produire une superposition de couches sonores qui se complémentent créant ainsi des sonorités impensées. Cela à travers d’un geste manuel qui nourrit le son ; son inexactitude est inhérente à l’humanité (à l’_humanuelleité_) de qui le produit. Ici, une attention particulière est attribuée aux micro-décalages, souvent issus de l’« erreur », car ils peuvent servir comme appel aux sérendipités et dés-occultations. De cette manière on est confronté à une évolution du son qui se passe dans le présent, ce qui nécessite et incite à une aptitude d’écoute contemplative.
 
 {% include respiration.html %}
 
@@ -35,7 +35,7 @@ EXPÉRIENCE - CONTEMPLATION
 
 {% include respiration.html %}
 
-Dans un monde de croissance démesurée, consumériste, plongé dans l’imposture, où l’apparence prévaut sur l’être, la sincérité devient acte de résistance. Ainsi, dans une tentative de privilégier l’être qui doute des apparences, le « musicien » se présente dès l’erreur : un « interprète » de l’inexacte où le son devient le catalyseur pour des postures d’écoute. Toute trace de représentation se transforme en présenta(c)tion dans le présent. Il s’agit d’une invitation à désoublier la contemplation, l’écoute contemplative.
+Dans un monde de croissance démesurée, consumériste, plongé dans l’imposture, où l’apparence prévaut sur l’être, la sincérité devient acte de résistance. Ainsi, dans une tentative de privilégier l’être qui doute des apparences, le « musicien » se présente dès l’erreur : un « interprète » de l’inexacte où le son devient le catalyseur pour des postures d’écoute. Toute trace de représentation se transforme en présenta(c)tion dans le présent. Il s’agit d’une invitation à dés-oublier la contemplation, l’écoute contemplative.
 
 {% include respiration.html %}
 
