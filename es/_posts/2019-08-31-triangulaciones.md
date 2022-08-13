@@ -21,19 +21,33 @@ El sujeto enfrentado a un instrumento que no conoce, no puede más que mostrar e
 
 Nuestra práctica del sonido es concebida como un experimento desde la búsqueda emancipatoria de las gramáticas musicales predominantes. Una exploración de lo sonoro sin estructuras, reglas, normas o conocimientos previos; una relación con lo sonoro permeada por la experiencia propia. El sonido como algo consubstancial a lo humano. Un acto sin pretensión innovadora –no por esto obsoleto– que implica una re-vuelta, un _volver a_, es decir, un gesto repetitivo. Un acto introyectivo, una repetición del sujeto mismo (“intérprete”) en lo sonoro, yo cuerpo, yo sonido, mi experiencia sonido.
 
+{% include respiration.html %}
+
 CUERPO + ALMA + ESPÍRITU = EXPERIENCIA
+
+{% include respiration.html %}
 
 La repetición técnico-matérica es capaz de producir una superposición de capas sonoras que se complementan creando sonoridades impensadas. Esto a través del gesto manual que alimenta el sonido; su inexactitud es inherente a la humanidad (a la _humanualidad_) de quien lo produce. Aquí, una atención particular se le atribuye a los microdesfases, muchas veces frutos del “error”, ya que estos pueden servir como un llamamiento a posibles serendipias y desocultaciones. De esta forma nos confrontamos a una evolución del sonido ocurriendo en el presente, lo cual necesita e incita a una disposición de escucha contemplativa.
 
+{% include respiration.html %}
+
 EXPERIENCIA - CONTEMPLACIÓN
+
+{% include respiration.html %}
 
 En un mundo de crecimiento desmesurado, consumista, sumergido en la impostura, donde la apariencia predomina frente al ser, la sinceridad deviene acto de resistencia. Así, en un intento de privilegiar ese ser que duda de la apariencia, el “músico” se presenta desde el error: un “intérprete” de la inexactitud donde el sonido se torna catalizador para posturas de escucha. Todo rastro de representación se transforma en presenta(c)ción en el presente. Se trata de una invitación a desolvidar la contemplación, la escucha contemplativa.
 
+{% include respiration.html %}
+
 CONTEMPLACIÓN - DEVENIR
+
+{% include respiration.html %}
 
 La contemplación del acto sonoro repetitivo estructura un espacio donde deviene el ser, un espacio donde lo inconsciente surge de las profundidades para inundar la psique. El sentir y la pulsión atiborran los límites de la percepción consciente, lo racional pierde terreno frente a lo no racional. En este aparente caos se divaga en contenidos de múltiples características, es un sentido profundo: la vida - la muerte.
 
 Asimismo el tiempo fracturado –un pasado, un presente, un futuro–, no tienen cabida, es un todo mezclado desde la experiencia, el espacio-tiempo como cuaternidad, la experiencia decae en un solo punto, un punto donde se condensa todo el ser.
+
+{% include respiration.html %}
 
 EL PRODUCTO FINAL NO ES MÚSICA, EL PRODUCTO FINAL ES EXPERIENCIA.
 
