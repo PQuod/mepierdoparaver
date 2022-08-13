@@ -15,7 +15,7 @@ youtubeId: ''
 
 {% include respiration.html %}
 
-Las bases del dispositivo sonoro están compuestas por el diálogo entre un bajo y una guitarra eléctricos, los cuales son nutridos no solamente por diferentes pedales de efectos sino por elementos de percusión y frotamiento.
+Las bases de este dispositivo sonoro están compuestas por el diálogo entre un bajo y una guitarra eléctricos, los cuales son nutridos no solamente por diferentes pedales de efectos sino por elementos de percusión y frotamiento.
 
 El sujeto enfrentado a un instrumento que no conoce, no puede más que mostrar el desconocimiento del mismo. Desde nuestra perspectiva un instrumento no es solo el utensilio sino también la forma de relacionarse con éste. No hay máscaras, es el sonido accidentado producto de la ignorancia, producto de la “mala” manipulación del mismo.
 
