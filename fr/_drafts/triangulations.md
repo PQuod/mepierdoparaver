@@ -27,11 +27,11 @@ CORPS + ÂME + ESPRIT = EXPÉRIENCE
 
 {% include respiration.html %}
 
-La repetición técnico-matérica es capaz de producir una superposición de capas sonoras que se complementan creando sonoridades impensadas. Esto a través del gesto manual que alimenta el sonido; su inexactitud es inherente a la humanidad (a la _humanualidad_) de quien lo produce. Aquí, una atención particular se le atribuye a los microdesfases, muchas veces frutos del “error”, ya que estos pueden servir como un llamamiento a posibles serendipias y desocultaciones. De esta forma nos confrontamos a una evolución del sonido ocurriendo en el presente, lo cual necesita e incita a una disposición de escucha contemplativa.
+La répétition dans la technique-matière est capable de produire une superposition de couches sonores qui se complémentent créant ainsi des sonorités impensées. Cela à travers d’un geste manuel qui nourrit le son ; son inexactitude est inhérente à l’humanité (à l’_humanuelleité_) de qui le produit. Ici, une attention particulière est attribuée aux micro-décalages, souvent issus de l’« erreur », car ils peuvent servir comme appel aux sérendipités et désoccultations. De cette manière on est confronté à une évolution du son qui se passe dans le présent, ce qui nécessite et incite à une aptitude d’écoute contemplative.
 
 {% include respiration.html %}
 
-EXPERIENCIA - CONTEMPLACIÓN
+EXPÉRIENCE - CONTEMPLATION
 
 {% include respiration.html %}
 
