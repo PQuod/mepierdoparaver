@@ -35,21 +35,21 @@ EXPÉRIENCE - CONTEMPLATION
 
 {% include respiration.html %}
 
-En un mundo de crecimiento desmesurado, consumista, sumergido en la impostura, donde la apariencia predomina frente al ser, la sinceridad deviene acto de resistencia. Así, en un intento de privilegiar ese ser que duda de la apariencia, el “músico” se presenta desde el error: un “intérprete” de la inexactitud donde el sonido se torna catalizador para posturas de escucha. Todo rastro de representación se transforma en presenta(c)ción en el presente. Se trata de una invitación a desolvidar la contemplación, la escucha contemplativa.
+Dans un monde de croissance démesurée, consumériste, plongé dans l’imposture, où l’apparence prévaut sur l’être, la sincérité devient acte de résistance. Ainsi, dans une tentative de privilégier l’être qui doute des apparences, le « musicien » se présente dès l’erreur : un « interprète » de l’inexacte où le son devient le catalyseur pour des postures d’écoute. Toute trace de représentation se transforme en présenta(c)tion dans le présent. Il s’agit d’une invitation à désoublier la contemplation, l’écoute contemplative.
 
 {% include respiration.html %}
 
-CONTEMPLACIÓN - DEVENIR
+CONTEMPLATION - DEVENIR
 
 {% include respiration.html %}
 
-La contemplación del acto sonoro repetitivo estructura un espacio donde deviene el ser, un espacio donde lo inconsciente surge de las profundidades para inundar la psique. El sentir y la pulsión atiborran los límites de la percepción consciente, lo racional pierde terreno frente a lo no racional. En este aparente caos se divaga en contenidos de múltiples características, es un sentido profundo: la vida - la muerte.
+La contemplation de l’acte sonore répétitif structure un espace où devient l’être, un espace où l’inconscient jaillit des profondeurs pour inonder la psyché. Le sentir et la pulsion bourrent les limites de la perception consciente, le rationnel perd du terrain face au non rationnel. Dans cet apparent chaos on divague dans des contenus à caractéristique multiples, c’est un sens profond : la vie - la mort.
 
-Asimismo el tiempo fracturado –un pasado, un presente, un futuro–, no tienen cabida, es un todo mezclado desde la experiencia, el espacio-tiempo como cuaternidad, la experiencia decae en un solo punto, un punto donde se condensa todo el ser.
+De la même manière, le temps fracturé – un passé, un présent, un futur – n’a pas de place, c’est un tout mélangé depuis l’expérience, l’espace-temps comme quaternité, l’expérience décline vers un seul point, un point où se condense tout l’être.
 
 {% include respiration.html %}
 
-EL PRODUCTO FINAL NO ES MÚSICA, EL PRODUCTO FINAL ES EXPERIENCIA.
+LE PRODUIT FINAL N'EST PAS DE LA MUSIQUE, LE PRODUIT FINAL EST EXPÉRIENCE.
 
 {% include respiration.html %}
 
@@ -57,11 +57,11 @@ EL PRODUCTO FINAL NO ES MÚSICA, EL PRODUCTO FINAL ES EXPERIENCIA.
 
 {% include respiration.html %}
 
-[ESCUCHAR AQUÍ (CON AURICULARES PREFERIBLEMENTE)](https://triangulaciones.bandcamp.com)
+[ÉCOUTER ICI (AVEC CASQUE DE PRÉFÉRENCE)](https://triangulaciones.bandcamp.com)
 
 {% include respiration.html %}
 
-###### TRIANGULACIONES son: Carlos Bernal Barrera (bajo eléctrico + máquinas), [Jonnathan Blake Pinto](https://vimeo.com/jonnathanblake) (guitarra eléctrica + máquinas). // La finalización del presente material sonoro no hubiese podido ocurrir sin el apoyo de [Julia Bejarano López](https://vimeo.com/user39594498) quien estuvo a cargo de la mezcla y masterización. // Este documento es el resultado de una colaboración entre los artistas, la cual se realizó en el marco de una residencia de creación/experimentación artística llevada a cabo en las ciudades de Bogotá D.C. (El Lugar) y Cali (Las Dudas), Colombia, durante los meses de junio y julio del año 2019, bajo la iniciativa de Carlos Bernal Barrera. // Los sonidos y textos aquí contenidos son de la autoría de TRIANGULACIONES.
+###### TRIANGULATIONS sont: Carlos Bernal Barrera (basse électrique + machines), [Jonnathan Blake Pinto](https://vimeo.com/jonnathanblake) (guitare électrique + machines). // L'aboutissement du présent matériel sonore n'aurait pas pu exister sans le soutien de [Julia Bejarano López](https://vimeo.com/user39594498) qui à fait le mixage et masterisation. // Ce document est le résultat d'une collaboration entre les deux artistes, dans le cadre d'une résidence de création/expérimentation artistique à Bogotá D.C. (El Lugar) et Cali (Las Dudas), Colombie, pendant les mois de juin et juillet 2019, sur l'initiative de Carlos Bernal Barrera. // Les sons et textes ici contenus on été conçus par TRIANGULATIONS.
 
 {% include respiration.html %}
 
