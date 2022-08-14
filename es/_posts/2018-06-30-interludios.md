@@ -30,71 +30,71 @@ A diferencia de _(in)voluntario_ (2014), serie de dibujos hechos a lapicero, _In
 
 ![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-a.jpg)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-###### (exposition en ligne), _(IN)VOLONTAIRE_, du 17 juin au 15 juillet 2018, Colectivo la Clica.
+###### (exposición en línea), _(IN)VOLONTAIRE_, del 17 de junio al 15 de julio 2018, Colectivo la Clica.
 
 ![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-b.jpg)
 
 ![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-c.jpg)
 
-###### _Interludes_, détails.
+###### _Interludios_, detalles.
 
 ![](/mepierdoparaver/imgs/int-desc-001-014-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-015-028-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-029-042-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-043-056-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-057-070-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-071-084-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-085-098-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-099-112-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-113-126-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-127-140-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-141-154-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-155-168-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-169-182-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ![](/mepierdoparaver/imgs/int-desc-183-196-up.png)
 
-###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 {% include respiration.html %}
 
