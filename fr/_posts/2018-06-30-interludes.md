@@ -97,3 +97,9 @@ Un dessin intermédiaire est un dessin à mi-chemin, un entre-deux, le milieu en
 ![](/mepierdoparaver/imgs/int-desc-183-196-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
