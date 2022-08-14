@@ -18,7 +18,7 @@ youtubeId: ''
 
 ###### (exposición en línea), _(IN)VOLONTAIRE_, del 17 de junio al 15 de julio 2018, Colectivo la Clica.
 
-_Interludios_ (2018) es
+_Interludios_ (2018) es un sitio web efímero compuesto de res páginas web vinculadas entre ellas cíclicamente (página 1 > página 2 > página 3 > página 1 > etc.). Cada una de ellas contiene los productos de las variaciones de un mismo principio: crear dibujos intermedios entre los dibujos de la serie _(in)volontaire_ (2014).
 
 t un site web éphémère composé de trois pages web qui sont liées en boucle entre elles (page 1 > page 2 > page 3 > page 1 > etc.). Chacune de ces pages web contient les produits des variations d’un même principe : créer des dessins intermédiaires parmi les dessins de la série _(in)volontaire_ (2014).
 
