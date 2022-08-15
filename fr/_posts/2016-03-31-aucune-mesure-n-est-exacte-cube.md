@@ -26,6 +26,8 @@ Répéter le geste, prendre le temps qu'il faut – ni plus ni moins –, car le
 
 Par ce processus, l’unicité de chaque résultat est mise en évidence : même si chaque version de la pièce est produite du même fichier-matrice, il n’y aura jamais deux copies exactes. Au fond, il ne reste que la certitude de l'inexact !
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/aucune-mesure-scan02-base-cover-up.jpg)
 
 ###### _Aucune mesure n’est exacte (cube)_, 2016, une des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
