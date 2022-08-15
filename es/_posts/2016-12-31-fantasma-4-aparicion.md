@@ -47,7 +47,7 @@ A partir de mayo del 2016 y durante varios meses, fui a dibujar sobre las ventan
 
 Nunca señalaré sus ubicaciones exactas, ellas deben continuar camufladas, estando únicamente disponibles para una mirada atenta. Ellas se instalan en la desaparición, en lo casi invisible. “Puede ser” es la mejor manera para hablar de ellas. Sin embargo ellas quieren, ellas deben ser vistas.
 
-Para aparecer, el fantasma debe haber existido. De este modo, ¿cómo evocarlas haciendo justicia a su condición? 
+Para aparecer, el fantasma debe haber existido. Entonces, ¿cómo evocarlas haciendo justicia a su condición?
 
 Yo propuse un video que busca poner en valor la plasticidad de los dibujos: su transparencia, su color, su textura, su escala... Así un rayo de luz, una fantasmagoría devela su personalidad, permitiendo a cada fantasma decir _yo soy_.
 
