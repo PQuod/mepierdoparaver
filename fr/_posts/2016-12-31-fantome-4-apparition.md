@@ -12,7 +12,6 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Fantôme 4 \[Apparition\]_, 2017, (extrait), vidéo monocanal, muette, 23:55 env. en boucle.
@@ -38,11 +37,13 @@ on peut imaginer ce que ça donnerait, un an de coupé collé aussi discret que 
 
 (Anna Mermet. Hôtel Pasteur, 2017)
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/fan4-app-3-up.jpg)
 
-###### _Fantôme 4 \[Apparition\]_, 2017, vidéo monocanal, muette, 23:55 env. en boucle.  
-  
-(vue d’exposition), _Un peu de soupçon_, Carlos Bernal Barrera, [Anna Mermet](http://mermet.wixsite.com/annamermet) et [Adrien Abline](http://ablineadrien.com/), exposition du 27 janvier au 10 février 2017, Hôtel Pasteur, Rennes, France.
+###### _Fantôme 4 \[Apparition\]_, 2017, vidéo monocanal, muette, 23:55 env. en boucle.
+
+###### (vue d’exposition), _Un peu de soupçon_, Carlos Bernal Barrera, [Anna Mermet](http://mermet.wixsite.com/annamermet) et [Adrien Abline](http://ablineadrien.com/), exposition du 27 janvier au 10 février 2017, Hôtel Pasteur, Rennes, France.
 
 ![](/mepierdoparaver/imgs/fan4-app-1-up.jpg)
 
