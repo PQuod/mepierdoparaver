@@ -31,15 +31,15 @@ Y como aquí no faltan los vidrios –de por cierto se podrían contar, y así r
 
 {% include respiration.html %}
 
-![/mepierdoparaver/imgs/fan4-app-3-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/fan4-app-3-up.jpg)
+![](/mepierdoparaver/imgs/fan4-app-3-up.jpg)
 
 ###### _Fantasma 4 \[Aparición\]_, 2017, (extrait), video monocanal, mudo, 23:55 aprox. en boucle.
 
 ###### (vista de exposición), _Un peu de soupçon_, Carlos Bernal Barrera, [Anna Mermet](http://mermet.wixsite.com/annamermet) y [Adrien Abline](http://ablineadrien.com/), exposición del 27 de enero al 10 de febrero 2017, Hôtel Pasteur, Rennes, Francia.
 
-![/mepierdoparaver/imgs/fan4-app-1-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/fan4-app-1-up.jpg)
+![](/mepierdoparaver/imgs/fan4-app-1-up.jpg)
 
-![/mepierdoparaver/imgs/fan4-app-2-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/fan4-app-2-up.jpg)
+![](/mepierdoparaver/imgs/fan4-app-2-up.jpg)
 
 ###### _Fantasma 4 \[Aparición\]_, detalles.
 
