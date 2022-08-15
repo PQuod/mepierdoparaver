@@ -1,8 +1,8 @@
 ---
 layout: post
-lang: fr
+lang: es
 date: 2016-03-31 22:00:00 +0000
-title: Aucune mesure n'est exacte (cube)
+title: Ninguna medida es exacta (cubo)
 lang-ref: aucuncube
 categories:
 - divers
@@ -16,9 +16,9 @@ youtubeId: ''
 
 ![](/mepierdoparaver/imgs/pxl_20211014_154120266-night-1-up.jpg)
 
-###### _Aucune mesure n’est exacte (cube)_, 2016, ving-deux des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
+###### _Ninguna medida es exacta (cubo)_, 2016, veintidós actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 
-###### (vue d’exposition), _Cosmo BiB_, exposition du 14 au 30 octobre 2021, Cosmopolis, 10 rue Scribe, 44000 Nantes, France.
+###### (vista de exposición), _Cosmo BiB_, exposición del 14 al 30 de octubre 2021, Cosmopolis, 10 rue Scribe, 44000 Nantes, Francia.
 
 /Fichier unique pour résultat multiple/
 
@@ -28,19 +28,19 @@ Par ce processus, l’unicité de chaque résultat est mise en évidence : même
 
 ![](/mepierdoparaver/imgs/aucune-mesure-scan02-base-cover-up.jpg)
 
-###### _Aucune mesure n’est exacte (cube)_, 2016, une des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
+###### _Ninguna medida es exacta (cubo)_, 2016, una de las actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 
 ![](/mepierdoparaver/imgs/aucune-mesure-scan07-base-up.jpg)
 
-###### _Aucune mesure n’est exacte (cube)_, 2016, une des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
+###### _Ninguna medida es exacta (cubo)_, 2016, una de las actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 
 ![](/mepierdoparaver/imgs/aucune-mesure-scan06-base-up.jpg)
 
-###### _Aucune mesure n’est exacte (cube)_, 2016, une des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
+###### _Ninguna medida es exacta (cubo)_, 2016, una de las actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 
 {% include respiration.html %}
 
-###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
