@@ -5,6 +5,7 @@ date: 2016-03-31 22:00:00 +0000
 title: Ninguna medida es exacta (cubo)
 lang-ref: aucuncube
 categories:
+- dessin
 - divers
 vimeoId: ''
 soundcloudId: ''
