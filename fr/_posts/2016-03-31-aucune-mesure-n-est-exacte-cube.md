@@ -14,6 +14,8 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/aucune-mesure-test-gif02.gif)
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/pxl_20211014_154120266-night-1-up.jpg)
 
 ###### _Aucune mesure n’est exacte (cube)_, 2016, ving-deux des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.

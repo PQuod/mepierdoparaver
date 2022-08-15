@@ -14,6 +14,8 @@ youtubeId: ''
 ---
 ![](/mepierdoparaver/imgs/aucune-mesure-test-gif02.gif)
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/pxl_20211014_154120266-night-1-up.jpg)
 
 ###### _Ninguna medida es exacta (cubo)_, 2016, veintidós actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
