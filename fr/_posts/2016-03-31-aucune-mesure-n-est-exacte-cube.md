@@ -6,7 +6,6 @@ title: Aucune mesure n'est exacte (cube)
 lang-ref: aucuncube
 categories:
 - divers
-- dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''

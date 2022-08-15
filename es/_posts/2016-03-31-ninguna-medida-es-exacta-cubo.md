@@ -6,7 +6,6 @@ title: Ninguna medida es exacta (cubo)
 lang-ref: aucuncube
 categories:
 - divers
-- dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
