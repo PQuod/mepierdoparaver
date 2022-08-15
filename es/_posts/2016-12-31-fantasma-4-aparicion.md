@@ -49,9 +49,9 @@ Nunca señalaré sus ubicaciones exactas, ellas deben continuar camufladas, esta
 
 Para aparecer, el fantasma debe haber existido. Entonces, ¿cómo evocarlas haciendo justicia a su condición?
 
-Yo propuse un video que busca poner en valor la plasticidad de los dibujos: su transparencia, su color, su textura, su escala... Así un rayo de luz, una fantasmagoría devela su personalidad, permitiendo a cada fantasma decir _yo soy_.
+Yo propuse un video que busca realzar la plasticidad de los dibujos: su transparencia, su color, su textura, su escala... Así un rayo de luz, una fantasmagoría devela su personalidad, permitiendo a cada fantasma decir _yo soy_.
 
-Esta aparición ocurrió en boucle en un estantevitrina de la antigua biblioteca de la otrora Facultad de Odontología de Rennes (hoy Hôtel Pasteur), del 27 de enero al 10 de febrero del 2017 durante la exposición titulada _Un peu de soupçon_ (Un poco de sospecha).
+Esta aparición ocurrió en boucle en un estante-vitrina de la antigua biblioteca de la otrora Facultad de Odontología de Rennes (hoy Hôtel Pasteur), del 27 de enero al 10 de febrero 2017 durante la exposición titulada _Un peu de soupçon_ (Un poco de sospecha).
 
 (Febrero 2017)
 
