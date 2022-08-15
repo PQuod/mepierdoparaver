@@ -24,9 +24,7 @@ youtubeId: ''
 
 Repetir el gesto, tomarse el tiempo que haga falta –ni menos ni más–, porque las cosas se hacen haciéndolas. Esta pieza es una progresión, una invitación a una creación aleatoria, a "ser-ahí". Cada gesto deber´â ser vivido como por primera vez; la única acumulación es de experiencia, propia a las "primeras veces". Imprimir todas las páginas del PDF página por página metiendo utilizando una sola y única hoja. Los desfases inherentes a la impresora o las asperezas de la hoja de papel se tornan evidentes una vez finalizado el proceso. ¿Dónde se encuentra la espontaneidad del error? ¿La perfección uniformisante es verdaderamente interesante?
 
-Por este proceso, 
-
-Par ce processus, l’unicité de chaque résultat est mise en évidence : même si chaque version de la pièce est produite du même fichier-matrice, il n’y aura jamais deux copies exactes. Au fond, il ne reste que la certitude de l'inexact.
+Gracias a este proceso, la unicidad de cada resultado es puesto en evidencia: así cada versión sera producida a partir de mismo archivo-matriz, nunca habrán dos copias exactas. En el fondo, solo queda la certeza de lo inexacto.
 
 ![](/mepierdoparaver/imgs/aucune-mesure-scan02-base-cover-up.jpg)
 
