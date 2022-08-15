@@ -22,9 +22,9 @@ youtubeId: ''
 
 /Fichier unique pour résultat multiple/
 
-Répéter le geste, prendre le temps qu'il faut – ni plus ni moins –, car les choses se font en les faisant. Cette pièce est une progression, une invitation à une création aléatoire, à « être-là ». Chaque geste devrait être vécu comme pour la première fois ; l’unique accumulation est celle de l’expérience, celle des « premières fois ». Il s’agit d’imprimer le PDF page par page tout en remettant à chaque fois la même feuille dans la machine. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois toutes les pages imprimées. Où se trouve la spontanéité de l'erreur ? La perfection uniformisante est-elle vraiment intéressante ?
+Répéter le geste, prendre le temps qu'il faut – ni plus ni moins –, car les choses se font en les faisant. Cette pièce est une progression, une invitation à une création aléatoire, à « être-là ». Chaque geste devrait être vécu comme si cétait la première fois ; l’unique accumulation est celle de l’expérience, celle des « premières fois ». Il s’agit d’imprimer le PDF page par page tout en utilisant une seule et même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois termié le processus. Où se trouve la spontanéité de l'erreur ? La perfection uniformisante est-elle vraiment intéressante ?
 
-Par ce processus, l’unicité de chaque résultat est mise en évidence : même si chaque version de la pièce est produite du même fichier-matrice, il n’y aura jamais deux copies exactes. Au fond, il ne reste que la certitude de l'inexact.
+Par ce processus, l’unicité de chaque résultat est mise en évidence : même si chaque version de la pièce est produite du même fichier-matrice, il n’y aura jamais deux copies exactes. Au fond, il ne reste que la certitude de l'inexact !
 
 ![](/mepierdoparaver/imgs/aucune-mesure-scan02-base-cover-up.jpg)
 
