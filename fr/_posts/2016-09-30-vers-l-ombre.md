@@ -21,22 +21,54 @@ categories:
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
 
-###### _Vers l’ombre_, détail ombre portée.
+###### 
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-3-up.jpg)
 
 ###### _Vers l’ombre_, détail installation.
 
+![](/mepierdoparaver/imgs/vers-l-ombre-m-2016-2022-2-up.jpg)
+
+###### _Vers l’ombre_, détail ombre portée.
+
+![](/mepierdoparaver/imgs/vers-l-ombre-m-2016-2022-3-up.jpg)
+
+###### _Vers l’ombre_, détail installation.
+
+![](/mepierdoparaver/imgs/vers-l-ombre-s-2016-2022-2-up.jpg)
+
+###### _Vers l’ombre_, détail ombre portée.
+
+![](/mepierdoparaver/imgs/vers-l-ombre-s-2016-2022-3-up.jpg)
+
+###### _Vers l’ombre_, détail installation.
+
+![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-1-up.jpg)
+
+###### _Vers l’ombre_, détail taille.
+
+![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-4-up.jpg)
+
+###### _Vers l’ombre_, détail installation.
+
+\*
+
 Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
 
 Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
 
-\*
+{% include respiration.html %}
+
+{% include respiration.html %}
 
 \* La quaternité a besoin du différent.
 
-Semi-sphère en acrylique transparent gravée à la pointe sèche, qui éclairée d’en haut, projette des ombres sur la surface où elle est posée.
+{% include respiration.html %}
 
-La subtilité du tracé, le presque invisible sur son support, l’évocation de l’importance de la part de l’ombre dans toutes choses. Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
+###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
-> Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
