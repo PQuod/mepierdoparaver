@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Actualités
-lang-ref: "home"
+lang-ref: home
 lang: fr
-permalink: /home/
----
+permalink: "/home/"
 
+---
 Pas d'actu pour le moment !
 
-*Site en maintenance*
+_Site en maintenance_
+
+{% include respiration.html %}

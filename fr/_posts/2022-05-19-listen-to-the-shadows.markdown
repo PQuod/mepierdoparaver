@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listen to the shadows
-date: 2022-05-08T15:19:10.000+02:00
+date: 2021-09-01 13:19:10 +0000
 lang: fr
 lang-ref: listenshadows
 categories:
@@ -37,7 +37,11 @@ Pièce sonore expérimentale composée de deux sources sonores : D’un côté, 
 
 Le mélange de ces deux couches-là peut être considéré comme une discussion entre mon ombre et moi. Un dialogue qui se produit sans la parole, au milieu d’une promenade erratique qui – peut-être – mène inévitablement au silence.
 
+{% include respiration.html %}
+
 {% include separation.html %}
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/shadows02.jpg)
 
@@ -63,8 +67,16 @@ Une promenade erratique où l’on est invité à expérimenter autant l’image
 
 [VOIR LA VERSION NUMÉRIQUE DE l'ÉDITION ICI](https://en.calameo.com/read/006090984b402a8b8f016)
 
+{% include respiration.html %}
+
 Listen to the Shadows est une œuvre composée d'une vidéo, une pièce sonore et une édition d'artiste. Résultat d'une résidence expérimentale de création artistique qui a eu lieu à Șona (Roumanie) pendant l'été 2021. Projet de résidence organisé par le collectif [Sounds Like a Book](https://soundslikeabook.com/).
+
+{% include respiration.html %}
+
+###### — _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+
+{% include respiration.html %}
 
 {% include end-post.html %}
 
-###### _> Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+{% include respiration.html %}
