@@ -11,47 +11,49 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-3-up.jpg)
 
-###### _Vers l’ombre_, 2016-2022, trois hémi-sphères plastiques gravées à la pointe sèche, 12 cm Ø env, trois socles en bois, ombres, tronc de cerisier taillé à la main, ampoules suspendues au plafond, dimensions variables env.
+###### _Hacia la sombra_, 2016-2022, tres hemi-esferas plásticas grabadas a la punta seca, 12 cm Ø aprox, tres bases en madera, sombras, tronco de cerezo tallado a mano, bombillos suspendidos del techo, dimensiones variables aprox.
 
-###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
+###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-4-up.jpg)
 
+###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
+
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-8-up.jpg)
 
-###### (vues d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
+###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
 
-###### _Vers l’ombre_, détail ombre portée.
+###### _Hacia la sombra_, detalle sombra proyectada.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-3-up.jpg)
 
-###### _Vers l’ombre_, détail installation.
+###### _Hacia la sombra_, detalle instalación.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-m-2016-2022-2-up.jpg)
 
-###### _Vers l’ombre_, détail ombre portée.
+###### _Hacia la sombra_, detalle sombra proyectada.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-m-2016-2022-3-up.jpg)
 
-###### _Vers l’ombre_, détail installation.
+###### _Hacia la sombra_, detalle instalación.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-s-2016-2022-2-up.jpg)
 
-###### _Vers l’ombre_, détail ombre portée.
+###### _Hacia la sombra_, detalle sombra proyectada.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-s-2016-2022-3-up.jpg)
 
-###### _Vers l’ombre_, détail installation.
+###### _Hacia la sombra_, detalle instalación.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-1-up.jpg)
 
-###### _Vers l’ombre_, détail taille.
+###### _Hacia la sombra_, detalle de la talla.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-4-up.jpg)
 
-###### _Vers l’ombre_, détail installation.
+###### _Hacia la sombra_, detalle instalación.
 
 Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
 
