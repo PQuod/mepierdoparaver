@@ -17,6 +17,8 @@ Gran parte de mi trabajo nace de gestos "insensatos" en apariencia: Dibujar labe
 
 La totalidad de práctica artística es atravesada por un eje suplementario que es el estudio de las imágenes que le son propias. En un mundo hiper-mediático, las imágenes pueden servir para otorgarle credibilidad a todo tipo de argumentos. Así yo las observo –y trabajo– con cautela. Evidentemente, lo que me cuestiona son las etiquetas, los atajos, los lugares comunes y los estereotipos. Por eso desconfío de la homogeneización de un arte (demasiado) fotogénico.
 
+(Rennes, Francia)
+
 {% include respiration.html %}
 
 \[ Intuiciones clave: ninguna medida es exacta / la espera como conducta / perderse para ver / ser frontera / H4Y D3M4514D4 LU2 3N 3L MUND0 \]
