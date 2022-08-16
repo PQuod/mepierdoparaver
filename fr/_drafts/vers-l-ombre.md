@@ -19,6 +19,14 @@ categories:
 
 ###### _Vers l’ombre_, vues d'ensemble.
 
+![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
+
+###### _Vers l’ombre_, détail ombre portée.
+
+![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-3-up.jpg)
+
+###### _Vers l’ombre_, détail installation.
+
 Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
 
 Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
