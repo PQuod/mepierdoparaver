@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2017-07-01 17:07:10 +0000
+date: 2017-07-01T17:07:10.000+00:00
 title: Estar frontera
 lang-ref: estarfrontera
 categories:
@@ -15,7 +15,7 @@ youtubeId: ''
 
 ###### _Estar frontera_, 2017, vidéo monocanal, son, 06:22 env. en boucle.
 
-(VIDEO2)
+{% include vimeo.html id='250155243?h=74ca479f03' %}
 
 ###### (vue d'exposition), _Kadzand cartography project!_, restitution de fin de résidence 4 août 2017, 4 Kadzandstraat, 8400 Oostende, Belgique.
 
