@@ -23,6 +23,12 @@ categories:
 
 ###### (vues d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
 
+Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
+
+Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
 
 ###### _Vers l’ombre_, détail ombre portée.
@@ -54,10 +60,6 @@ categories:
 ![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-4-up.jpg)
 
 ###### _Vers l’ombre_, détail installation.
-
-Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
-
-Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
 
 {% include respiration.html %}
 
