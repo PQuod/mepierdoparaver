@@ -13,15 +13,17 @@ categories:
 
 ###### _Vers l’ombre_, 2016-2022, trois hémi-sphères plastiques gravées à la pointe sèche, 12 cm Ø env, trois socles en bois, ombres, tronc de cerisier taillé à la main, ampoules suspendues au plafond, dimensions variables env.
 
+###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
+
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-4-up.jpg)
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-8-up.jpg)
 
-###### _Vers l’ombre_, vues d'ensemble.
+###### (vues d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
 
-###### 
+###### _Vers l’ombre_, détail ombre portée.
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-3-up.jpg)
 
@@ -51,13 +53,9 @@ categories:
 
 ###### _Vers l’ombre_, détail installation.
 
-\*
-
 Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
 
 Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
-
-{% include respiration.html %}
 
 {% include respiration.html %}
 
