@@ -9,10 +9,17 @@ categories:
 - dessin
 
 ---
+![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-3-up.jpg)
 
-Vers l’ombre, 2016-2022, trois hémi-sphères plastiques gravées à la pointe sèche, 12 cm Ø env, trois socles en bois, ombres, tronc de cerisier taillé à la main, ampoules suspendues au plafond, dimensions variables env.
+###### _Vers l’ombre_, 2016-2022, trois hémi-sphères plastiques gravées à la pointe sèche, 12 cm Ø env, trois socles en bois, ombres, tronc de cerisier taillé à la main, ampoules suspendues au plafond, dimensions variables env.
 
-Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses. 
+![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-4-up.jpg)
+
+![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-8-up.jpg)
+
+###### _Vers l’ombre_, vues d'ensemble.
+
+Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
 
 Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
 
