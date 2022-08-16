@@ -21,7 +21,12 @@ La totalidad de práctica artística es atravesada por un eje suplementario que 
 
 {% include respiration.html %}
 
-\[ Intuiciones clave: ninguna medida es exacta / la espera como conducta / perderse para ver / ser frontera / H4Y D3M4514D4 LU2 3N 3L MUND0 \]
+Intuiciones clave:   
+ninguna medida es exacta  
+la espera como conducta  
+perderse para ver  
+ser frontera  
+H4Y D3M4514D4 LU2 3N 3L MUND0
 
 {% include respiration.html %}
 
