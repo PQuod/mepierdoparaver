@@ -35,7 +35,7 @@
           {% if post.categories contains "edition" %}&#9739;{%endif%}
           {% if post.categories contains "volume" %}&#9737;{%endif%}
           {% if post.categories contains "divers" %}&#9158;{%endif%}
-             {{ post.title }}
+          &nbsp;&nbsp;&nbsp;{{ post.title }}
         </a>
       </li>
     {% else %}
@@ -47,7 +47,7 @@
         {% if post.categories contains "edition" %}&#9739;{%endif%}
         {% if post.categories contains "volume" %}&#9737;{%endif%}
         {% if post.categories contains "divers" %}&#9158;{%endif%}
-           {{ post.title }}
+        &nbsp;&nbsp;&nbsp;{{ post.title }}
       </a>
     </li>
     {% endif %}
