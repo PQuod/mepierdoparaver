@@ -30,6 +30,7 @@ H4Y D3M4514D4 LU2 3N 3L MUND0
 
 {% include respiration.html %}
 
-Contacto: mepierdoparaver\[at\]riseup.com
+Contacto:   
+mepierdoparaver\[at\]riseup.com
 
 {% include respiration.html %}
