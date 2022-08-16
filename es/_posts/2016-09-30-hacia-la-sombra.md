@@ -5,8 +5,8 @@ date: 2016-09-30 22:00:00 +0000
 title: Hacia la sombra
 lang-ref: versombre
 categories:
-- dessin
 - volume
+- dessin
 
 ---
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-3-up.jpg)
