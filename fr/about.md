@@ -18,6 +18,8 @@ Une grande partie de mon travail est issue des gestes « déraisonnables » en a
 
 L’ensemble de ma démarche est traversée par un axe supplémentaire qu’est l’étude des images qui lui sont propres. Dans un monde hyper-médiatique, les images peuvent servir de preuve à toute sorte d’arguments. Ainsi, je les observe – et les travaille – avec précaution. Évidemment, ce qui m’y interpelle, ce sont les étiquettes, les raccourcis, les lieux communs et les stéréotypes. C’est pourquoi je suis prudent face à l’uniformisation d’un art (trop) photogénique.
 
+(Rennes, France)
+
 {% include respiration.html %}
 
 \[ Intuitions clés : aucune mesure n’est exacte / l’attente comme conduite / se perdre pour voir / être frontière / 1L Y 4 TR0P D3 LUM13R3 D4N5 L3 M0ND3 \]
