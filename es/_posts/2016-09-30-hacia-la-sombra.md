@@ -55,17 +55,17 @@ categories:
 
 ###### _Hacia la sombra_, detalle instalación.
 
-Grace à la lumière, le presque invisible sur son support évoque l’importance de l’ombre dans toutes choses.
+Gracias a la luz, lo casi invisible sobre su soporte evoca la importancia de la sombre en todas las cosas.
 
-Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
-
-{% include respiration.html %}
-
-\* La quaternité a besoin du différent.
+Esa dimension oculta que a veces dice más que la realidad aparente.
 
 {% include respiration.html %}
 
-###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+\* La cuaternidad necesita lo diferente.
+
+{% include respiration.html %}
+
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
