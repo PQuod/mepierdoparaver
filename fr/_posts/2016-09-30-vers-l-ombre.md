@@ -17,6 +17,8 @@ categories:
 
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-4-up.jpg)
 
+###### (vues d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
+
 ![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-8-up.jpg)
 
 ###### (vues d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
