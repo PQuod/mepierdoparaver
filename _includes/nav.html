@@ -26,7 +26,8 @@
     <ul>
     {% assign related = site.posts | where: "lang", page.lang %}
     {% for post in related %}
-      <li>
+    {% if page.url == post.url %}
+      <li class="active">
         <a href="{{ site.baseurl }}{{ post.url }}">
           {% if post.categories contains "dessin" %}&#8623;{%endif%}
           {% if post.categories contains "video" %}&#10209;{%endif%}
@@ -37,6 +38,19 @@
           {{ post.title }}
         </a>
       </li>
+    {% else %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {% if post.categories contains "dessin" %}&#8623;{%endif%}
+        {% if post.categories contains "video" %}&#10209;{%endif%}
+        {% if post.categories contains "son" %}&#9732;{%endif%}
+        {% if post.categories contains "edition" %}&#9739;{%endif%}
+        {% if post.categories contains "volume" %}&#9737;{%endif%}
+        {% if post.categories contains "divers" %}&#9158;{%endif%}
+        {{ post.title }}
+      </a>
+    </li>
+    {% endif %}
     {% endfor %}
     </ul>
     </div>
