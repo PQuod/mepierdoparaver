@@ -23,6 +23,12 @@ categories:
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
+Gracias a la luz, lo casi invisible sobre su soporte evoca la importancia de la sombre en todas las cosas.
+
+Esa dimension oculta que a veces dice más que la realidad aparente.
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
 
 ###### _Hacia la sombra_, detalle sombra proyectada.
@@ -54,10 +60,6 @@ categories:
 ![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-4-up.jpg)
 
 ###### _Hacia la sombra_, detalle instalación.
-
-Gracias a la luz, lo casi invisible sobre su soporte evoca la importancia de la sombre en todas las cosas.
-
-Esa dimension oculta que a veces dice más que la realidad aparente.
 
 {% include respiration.html %}
 
