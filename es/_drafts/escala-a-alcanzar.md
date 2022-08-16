@@ -23,6 +23,16 @@ youtubeId: ''
 
 ###### _Escala a alcanzar_, detalles.
 
+La base de este proyecto es una actitud desconfiada hacia las cifras, ellas pueden ser engañosas y autoritarias. Este dibujo hecho con cola pegante transparente tiene como proncipal material la repetición, la cual no puede ser siempre legitimada a través de cifras, de cantidades. Fundar la repetición sobre números no solamente envenena la fuerza del descubrimiento sino que corrompe todo deseo de aprendizaje en tanto que experiencia, deviniendo un simple acto automático. Yo me pregunto entonces, ¿dónde se encuentra la espontaneidad del error propia al “ser-ahí”? ¿La perfección uniformizante es verdaderamente interesante?
+
+Así nos hayan hecho creer ciegamente en la exactitud de la técnica, sospecho cada vez más que _ninguna medida es exacta_.
+
+No hay que repetir por repetir. Aquí se trata de privilegiar el valor de la primera vez en la repetición. Cada línea es hecha como la primera vez, cada gesto es vivido como la primera vez; la única acumulación es la de la experiencia, acumulación de “primeras veces”. Cada línea depende de su vecina, así el dibujo se forma, crece, se desarrolla; revelando de esa manera una búsqueda de equilibrio. La búsqueda del equilibrio entre lo “casi invisible” de las líneas y el tamaño de lo que juntas conforman. Se trata de un equilibrio que no pudiendo ser medido, no podrá jamás ser alcanzado por un geómetra. ¿Qué es más importante: lo que llena la totalidad del dibujo o la envergadura que le permite ser llenado? Yo busco ser-ahí. No me fuerzo, hago lo que tengo que hacer. He decidido dibujar sobre la frontera, sobre un ventanal del Espacio cultural Le Volume con cola pegante transparente. No siempre es posible ver las cosas mirándolas directamente de frente. Discreto y a veces fugitivo a la vista, habría que decidir hacerse disponible para poder percibir lo que camufla la transparencia.
+
+La escala a alcanzar no depende absolutamente de cifras, ella nunca será lograda si continuamos a pensar en términos de cantidad, hay que hablar más seguido en términos de calidad. He ahí la invitación que quería hacerles.
+
+¡A partir de ahora me rehuso a asumir el rol de agrimensor !
+
 La base de ce projet est une attitude méfiante à l’égard des chiffres : ils peuvent être trompeurs et autoritaires. Ce dessin fait avec de la colle transparente a pour matériau principal la répétition. Celle-ci ne peut pas toujours être légitimée à travers des chiffres, des quantités. Fonder la répétition sur des nombres empoisonne non seulement la force de la découverte mais corrompt aussi tout dessein d’apprentissage en tant qu’expérience, devenant ainsi un pur acte automatique. Je me demande donc, où se trouve la spontanéité de l’erreur qui appartient à l’« être-là » ? La perfection uniformisante est-elle vraiment intéressante ?
 
 Même si l’on nous a fait croire aveuglement à l’exactitude technique, je soupçonne de plus en plus qu’_aucune mesure n’est exacte_.
