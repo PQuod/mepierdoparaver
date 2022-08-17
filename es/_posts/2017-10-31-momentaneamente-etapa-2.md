@@ -3,7 +3,7 @@ layout: post
 lang: es
 date: 2022-01-31 23:00:00 +0000
 title: Momentáneamente - etapa 2
-lang-ref: momentanement
+lang-ref: momentanement2
 categories:
 - dessin
 
