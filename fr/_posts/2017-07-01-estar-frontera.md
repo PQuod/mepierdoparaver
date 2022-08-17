@@ -11,7 +11,7 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-{% include vimeo.html id=page.vimeoId %}
+{% include vimeo.html id='250158424?h=d67fd2ad60' %}
 
 ###### _Estar frontera_, 2017, vidéo monocanal, son, 06:22 env. en boucle.
 
