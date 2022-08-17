@@ -12,7 +12,7 @@ categories:
 
 ###### _Disponible_, 2016, sérigraphie, 50 exemplaires numérotés & signés sur papier Rivoli 240 gr. env., 70 x 70 cm. env.
 
-###### \[Réalisé aux ateliers de [La Presse Purée](http://www.lapressepuree.fr/). En vente à [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1351-Disponible).\]
+###### \[Réalisé aux ateliers de [La Presse Purée](http://www.lapressepuree.fr/).\]
 
 ###### (vue d’exposition), _Souvenir de l’impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
 
