@@ -32,7 +32,7 @@ categories:
 
 Producto de la repetición de un gesto simple, este dibujo-proliferación está todavía creciendo; siempre podrá ser retomado ulteriormente. Cada vez que es expuesto está terminado, porque se trata de un momento instalado en un flujo más vasto, impermanente.
 
-Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es también adaptación y estancamiento; crecer es ser/estar en el presente.
+Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es también adaptación y estancamiento; crecer es estar siendo en el presente.
 
 {% include respiration.html %}
 
