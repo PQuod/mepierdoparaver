@@ -76,9 +76,9 @@ Ce qui est enterré.
 
 Ce qui est lointain.
 
-Ce qui vole.
-
 Ce qui est en combustion.
+
+Ce qui vole.
 
 {% include respiration.html %}
 
