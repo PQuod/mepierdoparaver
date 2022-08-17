@@ -24,6 +24,8 @@ categories:
 
 L'origine du dessin-prolifération.
 
+Être en équilibre, pour le moment.
+
 {% include respiration.html %}
 
 ###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
