@@ -38,7 +38,11 @@ categories:
 
 ![](/mepierdoparaver/imgs/etre-seuil-lointain-2021-2022-9_-up.jpg)
 
+###### _ser-umbral (lejano)_, 2021-2022, placa de vidrio grabada, vinilo adhesivo transparente (efecto espejo), marco en madera, 90 x 200 cm. aprox.
+
 ![](/mepierdoparaver/imgs/etre-seuil-lointain-2021-2022-5-up.jpg)
+
+###### _ser-umbral (lejano)_, detalle.
 
 {% include respiration.html %}
 
@@ -46,7 +50,11 @@ categories:
 
 ![](/mepierdoparaver/imgs/etre-seuil-combustion-2021-2022-2-up.jpg)
 
+###### _ser-umbral (combustión)_, 2021-2022, espejo grabado, marco en madera, 90 x 200 cm. aprox.
+
 ![](/mepierdoparaver/imgs/etre-seuil-combustion-2021-2022-4-up.jpg)
+
+###### _ser-umbral (combustión)_, detalle.
 
 {% include respiration.html %}
 
