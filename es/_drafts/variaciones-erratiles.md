@@ -20,6 +20,8 @@ categories:
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-3-7-up.jpg)
 
+###### _Variación errátil 1.3_, detalle.
+
 {% include respiration.html %}
 
 {% include separation.html %}
