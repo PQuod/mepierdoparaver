@@ -22,7 +22,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-24-up.jpg)
 
-###### _Momentanément - étape 2_, ombre portée au sol.
+###### _Momentanément - étape 2_, sombra proyectada en el suelo.
 
 Issu de la répétition d’un geste simple, ce dessin-prolifération est encore en train de grandir ; il pourrait être repris ultérieurement. À chaque fois qu’il est exposé il est terminé, car il s’agit d’un moment donné d’un flux plus vaste, impermanent.
 
