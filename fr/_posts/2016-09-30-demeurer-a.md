@@ -8,40 +8,6 @@ categories:
 - dessin
 
 ---
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
-
-###### _Demeurer à_, 2022, diptyque, fusain et mine de plomb sur papier Clairefontaine 120 gr., 50 x 65 cm. env. ch.
-
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
-
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
-
-###### _Demeurer à_, 2022, diptyque, détails.
-
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
-
-###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 50 x 70 cm. env., collection particulière.
-
-![](/mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
-
-![](/mepierdoparaver/imgs/demeurer-ii-14-up.jpg)
-
-![](/mepierdoparaver/imgs/demeurer-ii-13-up.jpg)
-
-![](/mepierdoparaver/imgs/demeurer-ii-16-up.jpg)
-
-###### _Demeurer à_, ensemble indissociable de quatre dessins, détails.
-
-Conçu durant une résidence artistique en 2016 à L’aparté, lieu d’art contemporain, _Demeurer à_ est un ensemble de dessins d’oiseaux faits à la mine de plomb sur un fond recouvert de fusain sur papier noir.
-
-D’apparente monochromie, ces surfaces recèlent des formes figuratives, à qui prend le temps de les apprécier. Le spectateur est ainsi amené vers un état de contemplation où la dialectique entre l’absorption propre au fusain et le reflet de la mine de plomb devient la protagoniste.
-
-J’ai comme principe de travail le geste répétitif, un agir qui se trouve à plusieurs niveaux ; non seulement dans le sujet "oiseau" mais dans le motif abstrait du fond. Ce dernier étant un élément qui se propage dans la feuille à la manière de certains minéraux qu’on trouve dans la nature.
-
-Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline d’une pie en mouvement. Avec ses yeux fermés elle cherche à être au présent. Dévoilé par l’entremise d’une lueur rasante, l’animal furtif, toujours à l’affût, trouvera-t-il le repos, sur cet espace, comme une sorte de refuge à l’intranquillité ?
-
-{% include respiration.html %}
-
 ![](/mepierdoparaver/imgs/demeurer-a-12-up.jpg)
 
 ###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
@@ -73,6 +39,30 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 ![](/mepierdoparaver/imgs/demeurer-a-ins-3-up.jpg)
 
 ###### (vues d’exposition), _Souvenir de l’impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
+
+_Demeurer à_ est un ensemble de dessins d’oiseaux faits à la mine de plomb sur un fond recouvert de fusain sur papier noir.
+
+D’apparente monochromie, ces surfaces recèlent des formes figuratives, à qui prend le temps de les apprécier. Le spectateur est ainsi amené vers un état de contemplation où la dialectique entre l’absorption propre au fusain et le reflet de la mine de plomb devient la protagoniste.
+
+J’ai comme principe de travail le geste répétitif, un agir qui se trouve à plusieurs niveaux ; non seulement dans le sujet "oiseau" mais dans le motif abstrait du fond. Ce dernier étant un élément qui se propage dans la feuille à la manière de certains minéraux qu’on trouve dans la nature.
+
+Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline d’une pie en mouvement. Avec ses yeux fermés elle cherche à être au présent. Dévoilé par l’entremise d’une lueur rasante, l’animal furtif, toujours à l’affût, trouvera-t-il le repos, sur cet espace, comme une sorte de refuge à l’intranquillité ?
+
+{% include respiration.html %}
+
+![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
+
+###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 50 x 70 cm. env., collection particulière.
+
+![/mepierdoparaver/imgs/demeurer-ii-15-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
+
+![/mepierdoparaver/imgs/demeurer-ii-14-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-14-up.jpg)
+
+![/mepierdoparaver/imgs/demeurer-ii-13-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-13-up.jpg)
+
+![/mepierdoparaver/imgs/demeurer-ii-16-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-16-up.jpg)
+
+###### _Demeurer à_, ensemble indissociable de quatre dessins, détails.
 
 ![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
 
