@@ -50,6 +50,10 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 {% include respiration.html %}
 
+{% include separation.html %}
+
+{% include respiration.html %}
+
 ![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
 ###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 50 x 70 cm. env., collection particulière.
@@ -64,6 +68,12 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ###### _Demeurer à_, ensemble indissociable de quatre dessins, détails.
 
+{% include respiration.html %}
+
+{% include separation.html %}
+
+{% include respiration.html %}
+
 ![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
 
 ###### _Demeurer à_, 2022, diptyque, fusain et mine de plomb sur papier Clairefontaine 120 gr., 50 x 65 cm. env. ch.
@@ -71,6 +81,8 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 ![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
 
 ![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
+
+###### _Demeurer à_, diptyque, détails.
 
 {% include respiration.html %}
 
