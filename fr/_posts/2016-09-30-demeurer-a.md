@@ -54,17 +54,17 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 {% include respiration.html %}
 
-![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
+![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
 ###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 50 x 70 cm. env., collection particulière.
 
-![/mepierdoparaver/imgs/demeurer-ii-15-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
+![](/mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
 
-![/mepierdoparaver/imgs/demeurer-ii-14-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-14-up.jpg)
+![](/mepierdoparaver/imgs/demeurer-ii-14-up.jpg)
 
-![/mepierdoparaver/imgs/demeurer-ii-13-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-13-up.jpg)
+![](/mepierdoparaver/imgs/demeurer-ii-13-up.jpg)
 
-![/mepierdoparaver/imgs/demeurer-ii-16-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/demeurer-ii-16-up.jpg)
+![](/mepierdoparaver/imgs/demeurer-ii-16-up.jpg)
 
 ###### _Demeurer à_, ensemble indissociable de quatre dessins, détails.
 
