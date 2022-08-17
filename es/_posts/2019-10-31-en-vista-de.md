@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2019-10-31 23:00:00 +0000
+date: 2019-10-31T23:00:00.000+00:00
 title: En vista de
 lang-ref: auregardde
 categories:
@@ -32,7 +32,7 @@ Así, el video propone al espectador un paseo hacia estados de contemplación do
 
 {% include respiration.html %}
 
-(VIDEO 2)
+{% include vimeo.html id='391048593?h=4bd61081e2' %} 
 
 ###### _ed atsiv ne (sombra)_, 2020, video monocanal, mudo, ∞ aprox. en boucle.
 

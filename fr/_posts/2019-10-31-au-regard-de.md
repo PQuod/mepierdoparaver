@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2019-10-31 23:00:00 +0000
+date: 2019-10-31T23:00:00.000+00:00
 title: 'Au regard de '
 lang-ref: auregardde
 categories:
@@ -32,7 +32,7 @@ Ainsi, la vidéo propose au spectateur une balade vers des états de contemplati
 
 {% include respiration.html %}
 
-(VIDEO 2)
+{% include vimeo.html id='391048593?h=4bd61081e2' %} 
 
 ###### _ed drager ua (ombre)_, 2020, vidéo monocanal, muette, ∞ env. en boucle.
 
