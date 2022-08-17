@@ -54,7 +54,13 @@ categories:
 
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-1-up.jpg)
 
+###### _être-seuil (vol)_, 2021-2022, miroir gravé, cadre en bois, 90 x 200 cm. env.
+
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-4-up.jpg)
+
+###### _être-seuil (vol)_, détail.
+
+{% include respiration.html %}
 
 Ce qui est enterré.
 
@@ -69,6 +75,10 @@ Ce qui est en combustion.
 Ce sont quatre manifestations de l’être-seuil.
 
 Des êtres qui habitent l’entre-deux qui relie les humains au monde, le reflet au reflété.
+
+{% include respiration.html %}
+
+\* La quaternité a besoin du différent.
 
 {% include respiration.html %}
 
