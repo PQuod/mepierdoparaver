@@ -10,11 +10,25 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/img_20200730_223146-up.jpg)
 
+###### _Momentáneamente - etapa 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
+
+###### (vista de exposición), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com)[,](https://cargocollective.com/budwarrior) exposición del 23 al 31 de julio 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, Francia.
+
 ![](/mepierdoparaver/imgs/img_20200730_223340_-up.jpg)
+
+###### _Momentáneamente - etapa 1_, detalle.
 
 ![](/mepierdoparaver/imgs/momentaneamente-6-up.jpg)
 
+###### _Momentáneamente - etapa 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
+
+###### (vista de exposición), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com)[,](https://cargocollective.com/budwarrior) exposición del 23 al 31 de julio 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, Francia.
+
 ![](/mepierdoparaver/imgs/momentaneamente-8-up.jpg)
+
+###### _Momentáneamente - etapa 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
+
+###### (vista de exposición), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com)[,](https://cargocollective.com/budwarrior) exposición del 23 al 31 de julio 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, Francia.
 
 Producto de la repetición de un gesto simple, este dibujo-proliferación está todavía creciendo; podrá ser retomado ulteriormente. Cada vez que es expuesto está terminado, porque se trata de un momento instalado en un flujo más vasto, impermanente.
 
