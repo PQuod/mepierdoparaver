@@ -30,7 +30,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-6_-up.jpg)
 
-###### _être-seuil (enterré)_, détail. 
+###### _être-seuil (enterré)_, détail.
 
 {% include respiration.html %}
 
@@ -67,8 +67,6 @@ categories:
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-4-up.jpg)
 
 ###### _être-seuil (vol)_, détail.
-
-{% include respiration.html %}
 
 {% include respiration.html %}
 
