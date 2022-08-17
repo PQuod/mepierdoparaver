@@ -70,8 +70,6 @@ categories:
 
 {% include respiration.html %}
 
-{% include respiration.html %}
-
 Lo que está enterrado.
 
 Lo lejano.
