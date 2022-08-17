@@ -86,7 +86,7 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 {% include respiration.html %}
 
-###### **—** _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}
 
