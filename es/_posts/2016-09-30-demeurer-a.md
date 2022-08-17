@@ -14,7 +14,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-12d-up.jpg)
 
-###### _Permanecer en_, detalle.
+###### _Permanecer en_, 2016, detalle.
 
 ![](/mepierdoparaver/imgs/demeurer-a-3-up.jpg)
 
@@ -22,7 +22,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-3d-up.jpg)
 
-###### _Permanecer en_, detalle.
+###### _Permanecer en_, 2016, detalle.
 
 ![](/mepierdoparaver/imgs/demeurer-a-8-up.jpg)
 
@@ -30,7 +30,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-8d-up.jpg)
 
-###### _Permanecer en_, detalle.
+###### _Permanecer en_, 2016, detalle.
 
 ![](/mepierdoparaver/imgs/demeurer-a-ins-2-up.jpg)
 
@@ -56,7 +56,7 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
-###### _Permanecer en_, 2017, conjunto indisociable de cuatro dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 50 x 70 cm. aprox., colección particular.
+###### _Permanecer en_, 2017, conjunto indisociable de cuatro dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 50 x 70 cm. aprox. c/u, colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
 
@@ -76,9 +76,7 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
 
-###### _Permanecer en_, 2017, díptico, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox.
-
-###### _Demeurer à_, 2022, diptyque, fusain et mine de plomb sur papier Clairefontaine 120 gr., 50 x 65 cm. env. ch.
+###### _Permanecer en_, 2017, díptico, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 50 x 65 cm. aprox. c/u.
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
 

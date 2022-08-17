@@ -14,7 +14,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-12d-up.jpg)
 
-###### _Demeurer à_, détail.
+###### _Demeurer à_, 2016, détail.
 
 ![](/mepierdoparaver/imgs/demeurer-a-3-up.jpg)
 
@@ -22,7 +22,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-3d-up.jpg)
 
-###### _Demeurer à_, détail.
+###### _Demeurer à_, 2016, détail.
 
 ![](/mepierdoparaver/imgs/demeurer-a-8-up.jpg)
 
@@ -30,7 +30,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-8d-up.jpg)
 
-###### _Demeurer à_, détail.
+###### _Demeurer à_, 2016, détail.
 
 ![](/mepierdoparaver/imgs/demeurer-a-ins-2-up.jpg)
 
@@ -66,7 +66,7 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ![](/mepierdoparaver/imgs/demeurer-ii-16-up.jpg)
 
-###### _Demeurer à_, ensemble indissociable de quatre dessins, détails.
+###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, détails.
 
 {% include respiration.html %}
 
@@ -82,7 +82,7 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
 
-###### _Demeurer à_, diptyque, détails.
+###### _Demeurer à_, 2022, diptyque, détails.
 
 {% include respiration.html %}
 
