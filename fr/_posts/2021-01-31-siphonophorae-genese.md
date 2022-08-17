@@ -27,9 +27,9 @@ categories:
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
-Des lignes et de points collaborant pour former le dessin d’une spirale labyrinthique. Le dessin est ici compris comme l’interaction entre les lignes imprimées et les points vidéo-projetés. 
+Des lignes et de points collaborant pour former le dessin d’une spirale labyrinthique. Le dessin est ici compris comme l’interaction entre les lignes imprimées et les points vidéo-projetés.
 
-Un dessin-pour-le-temps, un dessin basé sur un protocole qui est réalisé  manuellement, avec l’erreur et les micro décalages qui apparaissent et qui caractérisent l’humain.
+Un dessin-pour-le-temps, un dessin basé sur un protocole qui est réalisé  manuellement, en considérant et assumant l’erreur et les micro décalages qui apparaissent et qui caractérisent l’humain.
 
 {% include respiration.html %}
 
