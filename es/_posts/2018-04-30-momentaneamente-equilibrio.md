@@ -12,7 +12,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/momentaneamente-equilibrio-02-up.jpg)
 
-###### _Momentáneamente (equilibrio)_, 2018, placa de acrílico transparente grabado a la punta seca, papel negro, étagère, 20 x 30 cm. env., collection particulière.
+###### _Momentáneamente (equilibrio)_, 2018, placa de acrílico transparente grabado a la punta seca, papel negro, étagère, 30 x 20 cm. env., collection particulière.
 
 ![](/mepierdoparaver/imgs/momentaneamente-equilibrio-03-up.jpg)
 
