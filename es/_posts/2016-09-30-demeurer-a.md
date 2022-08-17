@@ -10,27 +10,27 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/demeurer-a-12-up.jpg)
 
-###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox., colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-a-12d-up.jpg)
 
-###### _Demeurer à_, détail.
+###### _Permanecer en_, detalle.
 
 ![](/mepierdoparaver/imgs/demeurer-a-3-up.jpg)
 
-###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox., colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-a-3d-up.jpg)
 
-###### _Demeurer à_, détail.
+###### _Permanecer en_, detalle.
 
 ![](/mepierdoparaver/imgs/demeurer-a-8-up.jpg)
 
-###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox., colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-a-8d-up.jpg)
 
-###### _Demeurer à_, détail.
+###### _Permanecer en_, detalle.
 
 ![](/mepierdoparaver/imgs/demeurer-a-ins-2-up.jpg)
 
@@ -38,7 +38,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-ins-3-up.jpg)
 
-###### (vues d’exposition), _Souvenir de l’impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
+###### (vistas de exposición), _Souvenir de l’impermanence_, exposición del 14 de octubre al 2 de diciembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, Francia.
 
 _Demeurer à_ est un ensemble de dessins d’oiseaux faits à la mine de plomb sur un fond recouvert de fusain sur papier noir.
 
@@ -56,7 +56,7 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
-###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 50 x 70 cm. env., collection particulière.
+###### _Permanecer en_, 2017, conjunto indisociable de cuatro dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox., colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
 
