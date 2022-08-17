@@ -74,6 +74,14 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ###### (vues d’exposition), _Souvenir de l’impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
 
+![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
+
+###### _Demeurer à_, 2022, diptyque, fusain et mine de plomb sur papier Clairefontaine 120 gr., 50 x 65 cm. env. ch.
+
+![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
+
+![/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg](https://app.forestry.io/sites/svkjbztmwh-d8g/body-media//mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
+
 {% include respiration.html %}
 
 ###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
