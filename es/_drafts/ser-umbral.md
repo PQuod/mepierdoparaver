@@ -20,6 +20,10 @@ categories:
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
+{% include respiration.html %}
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-1_-up.jpg)
 
 ###### _ser-umbral (enterrado)_, 2021-2022, espejo grabado, incrustación en madera, marco en madera, 90 x 200 cm. aprox.
@@ -28,13 +32,25 @@ categories:
 
 ###### _ser-umbral (enterrado)_, detalle.
 
+{% include respiration.html %}
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-lointain-2021-2022-9_-up.jpg)
 
 ![](/mepierdoparaver/imgs/etre-seuil-lointain-2021-2022-5-up.jpg)
 
+{% include respiration.html %}
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-combustion-2021-2022-2-up.jpg)
 
 ![](/mepierdoparaver/imgs/etre-seuil-combustion-2021-2022-4-up.jpg)
+
+{% include respiration.html %}
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-1-up.jpg)
 
