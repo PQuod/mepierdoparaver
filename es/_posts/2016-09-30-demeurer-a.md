@@ -82,11 +82,11 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
 
-###### _Demeurer à_, diptyque, détails.
+###### _Demeurer à_, 2022, diptyque, détails.
 
 {% include respiration.html %}
 
-###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+###### **—** _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
