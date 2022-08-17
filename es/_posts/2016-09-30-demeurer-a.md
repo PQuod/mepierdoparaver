@@ -10,7 +10,7 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/demeurer-a-12-up.jpg)
 
-###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox., colección particular.
+###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-a-12d-up.jpg)
 
@@ -18,7 +18,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-3-up.jpg)
 
-###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox., colección particular.
+###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-a-3d-up.jpg)
 
@@ -26,7 +26,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-8-up.jpg)
 
-###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 35 x 50 cm. aprox., colección particular.
+###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-a-8d-up.jpg)
 
@@ -58,7 +58,7 @@ Sobre un fondo aterciopelado y profundo, se inscribe sobriamente la sliueta cris
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
-###### _Permanecer en_, 2017, conjunto indisociable de cuatro dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 50 x 70 cm. aprox. c/u, colección particular.
+###### _Permanecer en_, 2017, conjunto indisociable de cuatro dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 50 x 70 cm. aprox. c/u, colección particular.
 
 ![](/mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
 
@@ -78,13 +78,13 @@ Sobre un fondo aterciopelado y profundo, se inscribe sobriamente la sliueta cris
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
 
-###### _Permanecer en_, 2017, díptico, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr., 50 x 65 cm. aprox. c/u.
+###### _Permanecer en_, 2017, díptico, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 50 x 65 cm. aprox. c/u.
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
 
-###### _Demeurer à_, 2022, diptyque, détails.
+###### _Permanecer en_, 2022, díptico, detalles.
 
 {% include respiration.html %}
 
