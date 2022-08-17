@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2018-05-01 16:33:39 +0000
+date: 2018-05-01T16:33:39.000+00:00
 title: Ninguna medida es exacta
 lang-ref: aucunemesure
 categories:
@@ -14,6 +14,8 @@ youtubeId: gVltVR8efqE
 {% include youtube.html id=page.youtubeId %}
 
 ###### _Ninguna medida es exacta_, 2018, (extracto de una doble página), cuaderno cuadriculado de 60 páginas, impresión offset, 14,8 x 21 cm. aprox.
+
+###### \[Editado por, y a la venta en [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1376-Aucune-mesure-n-est-exacte).\]
 
 ![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-5.png)
 
@@ -44,10 +46,6 @@ Este cuaderno cuadriculado es la reproducción de un ejemplar realizado manualme
 La presencia de factores físicos, como los desfases inherentes a la impresora o las rugosidades del papel, se vuelve evidente una vez que la totalidad del archivo ha sido impreso. Este gesto de repetición muestra cómo, partiendo de un solo archivo PDF, jamás se obtendrá el mismo resultado.
 
 (aprox.)
-
-{% include respiration.html %}
-
-\[Editado por, y a la venta en [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1376-Aucune-mesure-n-est-exacte).\]
 
 {% include respiration.html %}
 
