@@ -10,7 +10,7 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/demeurer-a-12-up.jpg)
 
-###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 35 x 50 cm. env., collection particulière.
 
 ![](/mepierdoparaver/imgs/demeurer-a-12d-up.jpg)
 
@@ -18,7 +18,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-3-up.jpg)
 
-###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 35 x 50 cm. env., collection particulière.
 
 ![](/mepierdoparaver/imgs/demeurer-a-3d-up.jpg)
 
@@ -26,7 +26,7 @@ categories:
 
 ![](/mepierdoparaver/imgs/demeurer-a-8-up.jpg)
 
-###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 35 x 50 cm. env., collection particulière.
 
 ![](/mepierdoparaver/imgs/demeurer-a-8d-up.jpg)
 
@@ -58,7 +58,7 @@ Essayons de fermer les yeux pour être au présent !
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
-###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 50 x 70 cm. env., collection particulière.
+###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 50 x 70 cm. env., collection particulière.
 
 ![](/mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
 
@@ -78,7 +78,7 @@ Essayons de fermer les yeux pour être au présent !
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
 
-###### _Demeurer à_, 2022, diptyque, fusain et mine de plomb sur papier Clairefontaine 120 gr., 50 x 65 cm. env. ch.
+###### _Demeurer à_, 2022, diptyque, fusain et mine de plomb sur papier Clairefontaine 120 gr. env., 50 x 65 cm. env. ch.
 
 ![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
 
