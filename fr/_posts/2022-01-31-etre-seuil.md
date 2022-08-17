@@ -22,6 +22,8 @@ categories:
 
 {% include respiration.html %}
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-1_-up.jpg)
 
 ###### _être-seuil (enterré)_, 2021-2022, miroir gravé, incrustation en bois, cadre en bois, 90 x 200 cm. env.
@@ -29,6 +31,8 @@ categories:
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-6_-up.jpg)
 
 ###### _être-seuil (enterré)_, détail. 
+
+{% include respiration.html %}
 
 {% include respiration.html %}
 
@@ -42,6 +46,8 @@ categories:
 
 {% include respiration.html %}
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-combustion-2021-2022-2-up.jpg)
 
 ###### _être-seuil (combustion)_, 2021-2022, miroir gravé, cadre en bois, 90 x 200 cm. env.
@@ -52,6 +58,8 @@ categories:
 
 {% include respiration.html %}
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-1-up.jpg)
 
 ###### _être-seuil (vol)_, 2021-2022, miroir gravé, cadre en bois, 90 x 200 cm. env.
@@ -59,6 +67,8 @@ categories:
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-4-up.jpg)
 
 ###### _être-seuil (vol)_, détail.
+
+{% include respiration.html %}
 
 {% include respiration.html %}
 
