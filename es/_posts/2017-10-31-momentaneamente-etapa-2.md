@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2017-10-31 23:00:00 +0000
+date: 2022-01-31 23:00:00 +0000
 title: Momentáneamente - etapa 2
 lang-ref: momentanement
 categories:
