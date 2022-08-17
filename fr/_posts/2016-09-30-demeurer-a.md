@@ -45,18 +45,42 @@ Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline
 
 ![](/mepierdoparaver/imgs/demeurer-a-12-up.jpg)
 
+###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+
 ![](/mepierdoparaver/imgs/demeurer-a-12d-up.jpg)
+
+###### _Demeurer à_, détail.
 
 ![](/mepierdoparaver/imgs/demeurer-a-3-up.jpg)
 
+###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+
 ![](/mepierdoparaver/imgs/demeurer-a-3d-up.jpg)
+
+###### _Demeurer à_, détail.
 
 ![](/mepierdoparaver/imgs/demeurer-a-8-up.jpg)
 
+###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr., 35 x 50 cm. env., collection particulière.
+
 ![](/mepierdoparaver/imgs/demeurer-a-8d-up.jpg)
+
+###### _Demeurer à_, détail.
 
 ![](/mepierdoparaver/imgs/demeurer-a-ins-2-up.jpg)
 
 ![](/mepierdoparaver/imgs/demeurer-a-ins-1-up.jpg)
 
 ![](/mepierdoparaver/imgs/demeurer-a-ins-3-up.jpg)
+
+###### (vues d’exposition), _Souvenir de l’impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
+
+{% include respiration.html %}
+
+###### _— Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
