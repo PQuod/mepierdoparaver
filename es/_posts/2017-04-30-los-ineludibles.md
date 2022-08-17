@@ -10,7 +10,7 @@ categories:
 ---
 {% include vimeo.html id='210568747?h=f1c7dc8f4a' %}
 
-###### _Los ineludibles_, 2017, (extractos), conjunto de diez videos, sonido, 10:30 aprox. c/u. 
+###### _Los ineludibles_, 2017, (extractos), conjunto de diez videos, sonido, 10:30 aprox. c/u.
 
 10 fantasmagorías de Rennes.
 
@@ -20,7 +20,7 @@ La repetición tiene lugar directamente en la línea de tiempo durante el montaj
 
 {% include respiration.html %}
 
-[VOIR LE SITE WEB](https://lesincontournables.tumblr.com/)
+[VER EL SITIO WEB DEL PROYECTO](https://lesincontournables.tumblr.com/)
 
 {% include respiration.html %}
 
