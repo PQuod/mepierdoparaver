@@ -14,13 +14,15 @@ categories:
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-3-2-up.jpg)
 
-###### _Variación errátil 1.3_, 2014, linoléum gravé, 22,8 x 22,8 cm. env.
+###### _Variación errátil 1.3_, 2014, linóleo grabado, 22,8 x 22,8 cm. aprox.
 
 ###### (vista de exposición), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-3-7-up.jpg)
 
 ###### _Variación errátil 1.3_, detalle.
+
+¿En qué momento se puede afirmar que se está andando en círculos en un laberinto?
 
 {% include respiration.html %}
 
@@ -30,9 +32,15 @@ categories:
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-2-1-up.jpg)
 
+###### _Variación errátil 1.2_, 2014, punta de metal sobre papel, mesa, 100 x 70 cm. aprox.
+
+###### (vista de exposición), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
+
 ![](/mepierdoparaver/imgs/variacion-erratil-1-2-7-up.jpg)
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-2-9-up.jpg)
+
+###### _Variación errátil 1.2_, detalles.
 
 {% include respiration.html %}
 
@@ -42,19 +50,25 @@ categories:
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-1-2-up.jpg)
 
+###### _Variación errátil 1.1_, 2014, tinta china blanca sobre papel blanco, 43,6 x 65 cm. aprox.
+
+###### (vista de exposición), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
+
 ![](/mepierdoparaver/imgs/variacion-erratil-1-1-6-up.jpg)
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-1-9-up.jpg)
 
-Je dessine un labyrinthe infini, sans lieu pour l'hésitation.
+###### _Variación errátil 1.1_, detalles.
 
-Déterminé à ralentir, à me perdre, à être-là... sans connaître le chemin.
+Dibujo un laberinto infinito, sin lugar para las dudas.
 
-Chaque sentier peut être convenable si l'on place l’importance au parcours.
+Determinado a ralentizar, a perderme, a ser-ahí... sin conocer el camino.
+
+Cada sendero puede ser el adecuado si se es consciente de "estar yendo".
 
 {% include respiration.html %}
 
-Je me perds juste pour le plaisir de ne pas me trouver, car le parcours est très souvent plus précieux qu'atteindre quoi que ce soit la destination.
+Me pierdo solo por el placer de no encontrarme, porque el recorrido es muchas veces más precioso que alcanzar cualquier destino.
 
 {% include respiration.html %}
 

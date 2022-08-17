@@ -64,11 +64,11 @@ Je dessine un labyrinthe infini, sans lieu pour l'hésitation.
 
 Déterminé à ralentir, à me perdre, à être-là... sans connaître le chemin.
 
-Chaque sentier peut être convenable si l'on place l’attention sur le parcours.
+Chaque sentier peut être convenable si l'on est conscient  d’« être en train d’aller ».
 
 {% include respiration.html %}
 
-Je me perds juste pour le plaisir de ne pas me trouver, car le parcours est très souvent plus précieux qu'atteindre quoi que ce soit la destination.
+Je me perds juste pour le plaisir de ne pas me trouver, car le parcours est très souvent plus précieux que d’atteindre n’importe quelle destination.
 
 {% include respiration.html %}
 
