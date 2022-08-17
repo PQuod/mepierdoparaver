@@ -10,21 +10,37 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/etre-seuil-2021-2022-1-up.jpg)
 
-être-seuil, 2021-2022, ensemble composé de trois miroirs gravés et une plaque de verre gravée, film adhésif transparent (miroir sans tain), cadre en bois, 90 x 200 cm env ch. À gauche : être-seuil (enterré). À droite : être-seuil (lointain). 
+###### _être-seuil_, 2021-2022, ensemble composé de trois miroirs gravés et une plaque de verre gravée, film adhésif transparent (miroir sans tain), cadre en bois, 90 x 200 cm. env. ch. À gauche : _être-seuil (enterré)_. À droite : _être-seuil (lointain)_.
 
-Vue d’exposition : L'ombre
-
-dûe, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts. Cesson-Sévigné, France.
+###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
 
 ![](/mepierdoparaver/imgs/etre-seuil-2021-2022-2-up.jpg)
 
+###### _être-seuil_, 2021-2022, ensemble composé de trois miroirs gravés et une plaque de verre gravée, film adhésif transparent (miroir sans tain), cadre en bois, 90 x 200 cm env ch. À gauche : _être-seuil (vole)_. À droite : _être-seuil (combustion)_.
+
+###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-1_-up.jpg)
+
+###### _être-seuil (enterré)_, 2021-2022, miroir gravé, incrustation en bois, cadre en bois, 90 x 200 cm env.
 
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-6_-up.jpg)
 
+###### _être-seuil (enterré)_, détail. 
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/etre-seuil-lointain-2021-2022-9_-up.jpg)
 
+###### _être-seuil (lointain)_, 2021-2022, plaque de verre gravée, film adhésif transparent (miroir sans tain), cadre en bois, 90 x 200 cm env.
+
 ![](/mepierdoparaver/imgs/etre-seuil-lointain-2021-2022-5-up.jpg)
+
+###### _être-seuil (lointain)_, détail.
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/etre-seuil-combustion-2021-2022-2-up.jpg)
 
