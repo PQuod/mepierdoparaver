@@ -10,9 +10,9 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/img_20200730_223146-up.jpg)
 
-###### _Momentanément - étape 1_, 2017, dessin-prolifération, plaques d’acrylique transparent gravées à la pointe sèche, dimensions variables.  
-  
-(vue d’exposition), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com)[,](https://cargocollective.com/budwarrior) exposition du 23 au 31 juillet 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, France.
+###### _Momentanément - étape 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
+
+###### (vue d’exposition), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com)[,](https://cargocollective.com/budwarrior) exposition du 23 au 31 juillet 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, France.
 
 ![](/mepierdoparaver/imgs/img_20200730_223340_-up.jpg)
 
