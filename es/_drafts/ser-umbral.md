@@ -22,7 +22,11 @@ categories:
 
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-1_-up.jpg)
 
+###### _ser-umbral (enterrado)_, 2021-2022, espejo grabado, incrustación en madera, marco en madera, 90 x 200 cm. aprox.
+
 ![](/mepierdoparaver/imgs/etre-seuil-enterre-2021-2022-6_-up.jpg)
+
+###### _ser-umbral (enterrado)_, detalle.
 
 ![](/mepierdoparaver/imgs/etre-seuil-lointain-2021-2022-9_-up.jpg)
 
