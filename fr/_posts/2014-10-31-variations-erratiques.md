@@ -62,7 +62,7 @@ Je dessine un labyrinthe infini, sans lieu pour l'hésitation.
 
 Déterminé à ralentir, à me perdre, à être-là... sans connaître le chemin.
 
-Chaque sentier peut être convenable si l'on place l’importance au parcours.
+Chaque sentier peut être convenable si l'on place l’attention sur le parcours.
 
 {% include respiration.html %}
 
