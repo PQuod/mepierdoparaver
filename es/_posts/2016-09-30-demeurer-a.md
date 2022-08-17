@@ -44,13 +44,11 @@ Concebido durante una residencia artística en 2016 en L’aparté, lugar de art
 
 De aparente monocromía, estas superficies contienen formas figurativas, para quien se toma el tiempo de apreciarlas. Así, el espectador es conducido hacia un estado de contemplación donde la dialéctica entre la absorción propia al carboncillo y el reflejo de la mina de plomo deviene protagonista.
 
-J’ai comme principe de travail le geste répétitif, un agir qui se trouve à plusieurs niveaux ; non seulement dans le sujet "oiseau" mais dans le motif abstrait du fond. Ce dernier étant un élément qui se propage dans la feuille à la manière de certains minéraux qu’on trouve dans la nature.
+Uno de mis principios de trabajo es el gesto repetitivo, un actuar que se encuentra a diferentes niveles; no solamente en el tema "pájaro" sino también en el patrón abstracto del fondo. Este último siendo un elemento que se propaga en la hoja como ciertos minerales que se encuentran en la naturaleza.
 
-Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline d’une pie en mouvement. Avec ses yeux fermés elle cherche à être au présent. Dévoilé par l’entremise d’une lueur rasante, l’animal furtif, toujours à l’affût, trouvera-t-il le repos, sur cet espace, comme une sorte de refuge à l’intranquillité ?
+Sobre un fondo aterciopelado y profundo, se inscribe sobriamente la sliueta cristalina de una urraca en movimiento. Con sus ojos cerrados ella busca a ser en el presente. Develada por un resplandor rasante, el animal furtivo, siempre al acecho, ¿encontrará reposo en este espacio, cual refugio a la intranquilidad ?
 
-Sobre un fondo aterciopelado y profundo, se inscribe sobriamente la sliueta de una urraca en movimiento. ¿Develada por un resplandor rasante, el animal furtivo, siempre al acecho, encontrará reposo en este espacio, cual refugio a la intranquilidad ?
-
-¡Busquemos cerrar los ojos para ser/estar en el presente!
+¡Tratemos de cerrar los ojos para ser/estar en el presente!
 
 {% include respiration.html %}
 
