@@ -10,11 +10,25 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/img_20200730_223146-up.jpg)
 
+###### _Momentanément - étape 1_, 2017, dessin-prolifération, plaques d’acrylique transparent gravées à la pointe sèche, dimensions variables.  
+  
+(vue d’exposition), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com)[,](https://cargocollective.com/budwarrior) exposition du 23 au 31 juillet 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, France.
+
 ![](/mepierdoparaver/imgs/img_20200730_223340_-up.jpg)
+
+###### _Momentanément - étape 1_, détail.
 
 ![](/mepierdoparaver/imgs/momentaneamente-6-up.jpg)
 
+###### _Momentanément - étape 1_, 2017, dessin-prolifération, plaques d’acrylique transparent gravées à la pointe sèche, dimensions variables.
+
+###### (vue d’exposition), _Pasó, pero nunca lo vi_, exposition du 9 décembre 2017 au 28 février 2018, Jardines de México, Tehuixtla, Morelos, Mexique.
+
 ![](/mepierdoparaver/imgs/momentaneamente-8-up.jpg)
+
+###### _Momentanément - étape 1_, 2017, dessin-prolifération, plaques d’acrylique transparent gravées à la pointe sèche, dimensions variables.
+
+###### (vue d’exposition), _Pasó, pero nunca lo vi_, exposition du 9 décembre 2017 au 28 février 2018, Jardines de México, Tehuixtla, Morelos, Mexique.
 
 Issu de la répétition d’un geste simple, ce dessin-prolifération est encore en train de grandir ; il pourrait être repris ultérieurement. À chaque fois qu’il est exposé il est terminé, car il s’agit d’un moment donné d’un flux plus vaste, impermanent.
 
