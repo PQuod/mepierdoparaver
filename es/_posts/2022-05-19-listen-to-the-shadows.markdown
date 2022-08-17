@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listen to the shadows
-date: 2021-09-01 13:19:10 +0000
+date: 2021-09-01T13:19:10.000+00:00
 lang: es
 lang-ref: listenshadows
 categories:
@@ -9,14 +9,14 @@ categories:
 - son
 - edition
 vimeoId: 636620154?h=19db6d6a52
-soundcloudId: "1136569246"
+soundcloudId: '1136569246'
 
 ---
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Listen to the Shadows (wander)_, 2021, video monocanal, sonido, 02:48 aprox. en boucle.
 
-![](/mepierdoparaver/imgs/shadows01.jpg)
+![](/mepierdoparaver/imgs/listen-to-the-shadows-2021-1_-up.jpg)
 
 ###### A la izquierda: _Listen to the Shadows (wander)_, 2021, video monocanal, sonido, 02:48 aprox. en boucle.
 
