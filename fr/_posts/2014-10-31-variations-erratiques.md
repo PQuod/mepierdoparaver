@@ -22,7 +22,11 @@ categories:
 
 ###### _Variación errátil 1.3_, détail.
 
+{% include respiration.html %}
+
 {% include separation.html %}
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-2-1-up.jpg)
 
@@ -36,7 +40,11 @@ categories:
 
 ###### _Variación errátil 1.2_, détails.
 
+{% include respiration.html %}
+
 {% include separation.html %}
+
+{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-1-2-up.jpg)
 
