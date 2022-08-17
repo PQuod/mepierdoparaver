@@ -8,3 +8,10 @@ categories:
 - dessin
 
 ---
+![](/mepierdoparaver/imgs/img_20200730_223146-up.jpg)
+
+![](/mepierdoparaver/imgs/img_20200730_223340_-up.jpg)
+
+![](/mepierdoparaver/imgs/momentaneamente-6-up.jpg)
+
+![](/mepierdoparaver/imgs/momentaneamente-8-up.jpg)
