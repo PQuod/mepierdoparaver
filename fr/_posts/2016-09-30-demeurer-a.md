@@ -48,6 +48,8 @@ J’ai comme principe de travail le geste répétitif, un agir qui se trouve à 
   
 Sur un fond velouté et profond, s’inscrit sobrement la silhouette cristalline d’une pie en mouvement. Avec ses yeux fermés elle cherche à être au présent. Dévoilé par l’entremise d’une lueur rasante, l’animal furtif, toujours à l’affût, trouvera-t-il le repos, sur cet espace, comme une sorte de refuge à l’intranquillité ?
 
+Essayons de fermer les yeux pour être au présent !
+
 {% include respiration.html %}
 
 {% include separation.html %}
