@@ -10,7 +10,7 @@ categories:
 ---
 {% include vimeo.html id='210568747?h=f1c7dc8f4a' %}
 
-###### _Les incontournables_, 2017, (extraits), ensemble de dix vidéos monocanal, son, 10:30 env. ch. 
+###### _Les incontournables_, 2017, (extraits), ensemble de dix vidéos monocanal, son, 10:30 env. ch.
 
 10 fantasmagories de Rennes.
 
@@ -20,7 +20,7 @@ La répétition a lieu directement dans la ligne de temps pendant le montage, av
 
 {% include respiration.html %}
 
-[VOIR LE SITE WEB](https://lesincontournables.tumblr.com/)
+[VOIR LE SITE WEB DU PROJET](https://lesincontournables.tumblr.com/)
 
 {% include respiration.html %}
 
