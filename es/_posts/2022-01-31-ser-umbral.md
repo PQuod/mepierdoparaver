@@ -62,4 +62,40 @@ categories:
 
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-1-up.jpg)
 
+###### _ser-umbral (combustión)_, 2021-2022, espejo grabado, marco en madera, 90 x 200 cm. aprox.
+
 ![](/mepierdoparaver/imgs/etre-seuil-vol-2021-2022-4-up.jpg)
+
+###### _ser-umbral (combustión)_, detalle.
+
+{% include respiration.html %}
+
+{% include respiration.html %}
+
+Lo que está enterrado.
+
+Lo lejano.
+
+Lo que está en combustión.
+
+Lo que vuela.
+
+{% include respiration.html %}
+
+Cuatro manifestaciones del ser-umbral.
+
+Seres que habitan el punto intermedio que une los humanos con el mundo, el reflejo con lo reflejado.
+
+{% include respiration.html %}
+
+\* La cuaternidad necesita lo diferente.
+
+{% include respiration.html %}
+
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
