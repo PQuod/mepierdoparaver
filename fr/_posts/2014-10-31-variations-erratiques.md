@@ -22,6 +22,8 @@ categories:
 
 ###### _Variación errátil 1.3_, détail.
 
+À quel moment peut-on affirmer que l’on tourne en rond dans un labyrinthe ?
+
 {% include respiration.html %}
 
 {% include separation.html %}
