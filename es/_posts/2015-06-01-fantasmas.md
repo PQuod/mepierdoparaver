@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2015-06-01 11:25:14 +0000
+date: 2015-06-01T11:25:14.000+00:00
 title: Fantasmas
 lang-ref: fantomes
 categories:
@@ -11,6 +11,18 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
+Dibujar sobre las ventanas con cinta adhesiva transparente. 
+
+Un infraleve orgánico y geométrico donde busco perderme. 
+
+El interés por ese umbral, esa frontera de vidrio que delimita los lugares donde he expuesto mi trabajo.
+
+{% include respiration.html %}
+
+Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a continuar...
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/fantome12-up.jpg)
 
 ###### _Fantasma 12 \[Pictura\]_, 2022, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
@@ -23,10 +35,6 @@ youtubeId: ''
 
 ###### (vista de exposición), _Cosmo BiB_, exposición del 14 al 30 de octubre 2021, Cosmopolis, 10 rue Scribe, 44000 Nantes, Francia.
 
-Dibujar sobre las ventanas con cinta adhesiva transparente. Un infraleve orgánico y geométrico donde busco perderme. El interés por ese umbral, esa frontera de vidrio que delimita los lugares donde he expuesto mi trabajo.
-
-{% include respiration.html %}
-
 ![](/mepierdoparaver/imgs/fantome10-up.jpg)
 
 ###### _Fantasma 10 \[Atelier Alain Le Bras\]_, 2020, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
@@ -38,10 +46,6 @@ Dibujar sobre las ventanas con cinta adhesiva transparente. Un infraleve orgáni
 ###### _Fantasma 9 \[El Lugar\]_, 2019, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
 
 ###### (vista de exposición), _El Lugar, Las Dudas_, restitución de fin de residencia 30 y 31 de julio 2019, El Lugar, calle 43A #9-98, Bogotá D.C., Colombia.
-
-Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a continuar...
-
-{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/fantome-8-up.jpg)
 
@@ -60,10 +64,6 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 ###### _Fantasma 6 \[l'Aparté\]_, 2016, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
 
 ###### (vista de exposición), _Souvenir de l'impermanence_, exposición del 14 de octubre al 2 de diciembre 2016, L’aparté lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, Francia.
-
-¿Es posible terminar sin haber comenzado?
-
-{% include respiration.html %}
 
 ![](/mepierdoparaver/imgs/fantome05-up.jpg)
 
@@ -88,6 +88,10 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 ###### _Fantasma_ 2 \[Atelier 3\], 2015, rcinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
 
 ###### (vista de exposición), Atelier 3, exposición el 24 de junio 2015, Universidad Rennes 2 - bâtiment M (Mussat), campus Villejean, place du recteur Henri le Moal, 35000 Rennes, Francia.
+
+{% include respiration.html %}
+
+¿Es posible terminar sin haber comenzado?
 
 {% include respiration.html %}
 
