@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: fr
+lang: es
 date: 2017-11-30 23:00:00 +0000
 title: Momentáneamente - etapa 1
 lang-ref: momentanement1
@@ -16,13 +16,13 @@ categories:
 
 ![](/mepierdoparaver/imgs/momentaneamente-8-up.jpg)
 
-Issu de la répétition d’un geste simple, ce dessin-prolifération est encore en train de grandir ; il pourrait être repris ultérieurement. À chaque fois qu’il est exposé il est terminé, car il s’agit d’un moment donné d’un flux plus vaste, impermanent.
+Producto de la repetición de un gesto simple, este dibujo-proliferación está todavía creciendo; podrá ser retomado ulteriormente. Cada vez que es expuesto está terminado, porque se trata de un momento instalado en un flujo más vasto, impermanente.
 
-Croître n’est seulement une expansion quantitative ni une accumulation passive, c’est aussi adaptation et stagnation ; croître c’est être dans le présent.
+Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es también adaptación y estancamiento; crecer es ser/estar en el presente.
 
 {% include respiration.html %}
 
-###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+###### _— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
