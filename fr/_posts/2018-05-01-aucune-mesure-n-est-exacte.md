@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2018-05-01 16:33:19 +0000
+date: 2018-05-01T16:33:19.000+00:00
 title: Aucune mesure n’est exacte
 lang-ref: aucunemesure
 categories:
@@ -14,6 +14,8 @@ youtubeId: gVltVR8efqE
 {% include youtube.html id=page.youtubeId %}
 
 ###### _Aucune mesure n’est exacte_, 2018, cahier quadrillé de 60 pages, impression offset, 14,8 x 21 cm. env. Vidéo : Lendroit éditions.
+
+###### \[Éditée par, et en vente à [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1376-Aucune-mesure-n-est-exacte).\]
 
 ![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-5.png)
 
@@ -44,10 +46,6 @@ Ce cahier quadrillé a été réalisé manuellement par l’artiste à partir du
 La présence des facteurs physiques, comme les décalages inhérents à l’imprimante ou les aspérités du papier, devient évidente une fois tout le fichier imprimé. Ce geste de répétition montre comment, à partir d’un seul fichier PDF, on n’obtiendra jamais le même résultat.
 
 (env.)
-
-{% include respiration.html %}
-
-\[Éditée par, et en vente à [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1376-Aucune-mesure-n-est-exacte).\]
 
 {% include respiration.html %}
 
