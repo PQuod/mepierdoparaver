@@ -10,7 +10,13 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/variacion-erratil-1-3-1-up.jpg)
 
+###### _Variación errátil 1.3_, 2014, linóleo grabado, 22,8 x 22,8 cm. aprox.
+
 ![](/mepierdoparaver/imgs/variacion-erratil-1-3-2-up.jpg)
+
+###### _Variación errátil 1.3_, 2014, linoléum gravé, 22,8 x 22,8 cm. env.
+
+###### (vista de exposición), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 
 ![](/mepierdoparaver/imgs/variacion-erratil-1-3-7-up.jpg)
 
