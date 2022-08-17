@@ -10,19 +10,19 @@ categories:
 ---
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-19-up.jpg)
 
-###### _Momentáneamente - étape 2_, 2017-2022, acrylique transparent gravé à la pointe sèche, 270 x 180 cm env.
+###### _Momentanément - étape 2_, 2017-2022, acrylique transparent gravé à la pointe sèche, 270 x 180 cm env.
 
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-23-up.jpg)
 
-###### _Momentáneamente - étape 2_, 2017-2022, acrylique transparent gravé à la pointe sèche, 270 x 180 cm env.
+###### _Momentanément - étape 2_, 2017-2022, acrylique transparent gravé à la pointe sèche, 270 x 180 cm env.
 
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-9_-up.jpg)
 
-###### _Momentáneamente - étape 2_, détail.
+###### _Momentanément - étape 2_, détail.
 
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-24-up.jpg)
 
-###### _Momentáneamente - étape 2_, ombre portée au sol.
+###### _Momentanément - étape 2_, ombre portée au sol.
 
 Issu de la répétition d’un geste simple, ce dessin-prolifération est encore en train de grandir ; il pourrait être repris ultérieurement. À chaque fois qu’il est exposé il est terminé, car il s’agit d’un moment donné d’un flux plus vaste, impermanent.
 
