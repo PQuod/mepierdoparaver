@@ -27,7 +27,7 @@ categories:
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
-Lineas y puntos colaboran para formar el dibujo de una espiral laberíntica. El dibujo es aquí entendido como la interacción entre las líneas impresas y los puntos video-proyectados.
+Líneas y puntos colaboran para formar el dibujo de una espiral laberíntica. El dibujo es aquí entendido como la interacción entre las líneas impresas y los puntos video-proyectados.
 
 Un dibujo-para-el-tiempo, un dibujo basado en un protocolo realizado manualmente, con el error y los micro desfaces que aparecen y que caracterizan lo humano.
 
