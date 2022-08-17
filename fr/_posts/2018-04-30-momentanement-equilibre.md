@@ -22,7 +22,7 @@ categories:
 
 {% include respiration.html %}
 
-L'origine du dessin-prolifération.
+Cherchant l'origine du dessin-prolifération.
 
 Être en équilibre, pour le moment.
 
