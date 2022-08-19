@@ -25,7 +25,7 @@ categories:
 
 ###### _Siphonophoræ (genèse)_, 2020-2021, dessin vectoriel, impression laser, vidéo-projection, dimensions variables env.
 
-###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
+###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
 
 Des lignes et de points collaborant pour former le dessin d’une spirale labyrinthique. Le dessin est ici compris comme l’interaction entre les lignes imprimées et les points vidéo-projetés.
 
