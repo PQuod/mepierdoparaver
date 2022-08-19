@@ -5,8 +5,6 @@ lang-ref: home
 lang: es
 
 ---
-¡Nada de nada por el momento!
-
-_Sitio en mantenimiento_
+_Point Point #3_. Exposición colectiva del 10 al 25 de septiembre 2022. Faire de rien, Avranches 50300, Francia.
 
 {% include respiration.html %}
