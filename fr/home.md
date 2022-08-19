@@ -6,8 +6,6 @@ lang: fr
 permalink: "/home/"
 
 ---
-Pas d'actu pour le moment !
-
-_Site en maintenance_
+_Point Point #3_. Faire de rien. Exposition collective du 10 au 25 septembre 2022. Avranches 50300, France.
 
 {% include respiration.html %}
