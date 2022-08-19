@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Actualidades
+title: PRÓXIMAS AVENTURAS
 lang-ref: home
 lang: es
 

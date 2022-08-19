@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Actualités
+title: PROCHAINES AVENTURES
 lang-ref: home
 lang: fr
 permalink: "/home/"
