@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2016-09-30 22:00:00 +0000
+date: 2021-12-31 23:00:00 +0000
 title: Hacia la sombra
 lang-ref: versombre
 categories:
