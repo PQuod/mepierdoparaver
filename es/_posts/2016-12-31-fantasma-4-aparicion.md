@@ -25,7 +25,7 @@ Esto le da corazón a la obra, él silba un poco, se olvida que puede ser oído,
 Que toma posesión, lentamente, de la superficie de un vidrio.  
 Y puede ser que no sea nada, un vidrio, me dirán ustedes.  
 Pero un vidrio más un vidrio más un vidrio, va a terminar siendo un montón de vidrios.  
-Y como aquí no faltan los vidrios –de por cierto se podrían contar, y así realizar la importancia de los vidrios en este lugar– uno se puede imaginar lo que resultaría, de un año de un corte y pegue tan discreto como persistente.
+Y como aquí no faltan los vidrios –de por cierto se podrían contar, y así realizar la importancia de los vidrios en este lugar– uno se puede imaginar lo que resultaría, luego de un año de un corte y pegue tan discreto como persistente.
 
 (Anna Mermet. Hôtel Pasteur, 2017)
 
