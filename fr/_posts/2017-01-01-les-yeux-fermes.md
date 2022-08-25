@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2017-01-01 22:04:16 +0000
+date: 2017-01-01T22:04:16.000+00:00
 title: Les yeux fermés
 lang-ref: yeuxfermes
 categories:
@@ -16,7 +16,7 @@ youtubeId: ''
 
 ###### _Les yeux fermés_, 2017, image animée, muette, ∞ env. en boucle.
 
-Suite à l’invitation de la part d’Adrien Abline, chercheur en arts plastiques, j’ai participé à son projet d’exposition [33 au cube](http://ablineadrien.com/33aucube). Le principe était de penser une œuvre qui allait être exposée dans un coffre fort grand de 33 cm de long, de large et de profondeur loué pour un an à une banque.
+Suite à l’invitation de la part d’Adrien Abline, chercheur en arts plastiques, j’ai participé à son projet d’exposition _33 au cube_. Le principe était de penser une œuvre qui allait être exposée dans un coffre fort grand de 33 cm de long, de large et de profondeur loué pour un an à une banque.
 
 _Les yeux fermés_ est le titre de ma proposition pour ce projet, pour lequel j’ai demandé à Adrien de déposer de l’ombre dans le coffre. Cela à travers un geste simple : ouvrir et fermer la porte du coffre dans le noir total, empêchant ainsi quelque rayon de lumière d’y pénétrer. Simultanément, sur le site internet de [33 au cube](http://ablineadrien.com/33aucube) j’ai proposé un hyperlien vers un dessin animé représentant des yeux qui s’ouvrent et se ferment sans cesse.
 
