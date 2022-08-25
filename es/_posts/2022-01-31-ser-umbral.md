@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2022-01-31 23:00:00 +0000
+date: 2022-01-31T23:00:00.000+00:00
 title: ser-umbral
 lang-ref: etreseuil
 categories:
@@ -70,13 +70,13 @@ categories:
 
 {% include respiration.html %}
 
-Lo que está enterrado.
+Lo que está _enterrado_.
 
-Lo lejano.
+Lo _lejano_.
 
-Lo que está en combustión.
+Lo que está en _combustión_.
 
-Lo que vuela.
+Lo que _vuela_.
 
 {% include respiration.html %}
 
