@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2022-01-31 23:00:00 +0000
+date: 2022-01-31T23:00:00.000+00:00
 title: être-seuil
 lang-ref: etreseuil
 categories:
@@ -70,13 +70,13 @@ categories:
 
 {% include respiration.html %}
 
-Ce qui est enterré.
+Ce qui est _enterré_.
 
-Ce qui est lointain.
+Ce qui est _lointain_.
 
-Ce qui est en combustion.
+Ce qui est en _combustion_.
 
-Ce qui vole.
+Ce qui _vole_.
 
 {% include respiration.html %}
 
