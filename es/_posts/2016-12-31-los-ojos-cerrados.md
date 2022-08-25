@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2016-12-31 23:00:00 +0000
+date: 2016-12-31T23:00:00.000+00:00
 title: Los ojos cerrados
 lang-ref: yeuxfermes
 categories:
@@ -16,7 +16,7 @@ youtubeId: ''
 
 ###### _Los ojos cerrados_, 2017, imagen animada, muda, ∞ aprox. en boucle.
 
-Luego de la invitación de Adrien Abline, investigador en artes plásticas, participé en su proyecto de exposición [33 au cube](http://ablineadrien.com/33aucube). Este tenía como principio pensar una obra que iba a ser expuesta en una caja fuerte de 33 cm de largo, ancho y alto, alquilada durante un año en un banco.
+Luego de la invitación de Adrien Abline, investigador en artes plásticas, participé en su proyecto de exposición _33 au cube_. Este tenía como principio pensar una obra que iba a ser expuesta en una caja fuerte de 33 cm de largo, ancho y alto, alquilada durante un año en un banco.
 
 Los ojos cerrados es el título de mi propuesta, en la cual le pedí a Adrien que depositara sombra en la caja fuerte. Esto a través de un gesto simple: abris y cerrar la puerta de la caja en la oscuridad total, impidiendo así a cualquier rayo de luz penetrar. Simultáneamente, en el sitio web de  [33 au cube](http://ablineadrien.com/33aucube) propuse un hipervínculo hacia una imagen animada que representa unos ojos que se abren y se cierran sin cesar.
 
