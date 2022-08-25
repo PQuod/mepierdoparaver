@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2018-08-31 22:00:00 +0000
+date: 2018-09-30 22:00:00 +0000
 title: Expediciones
 lang-ref: expediciones
 categories:
