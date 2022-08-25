@@ -17,7 +17,7 @@ youtubeId: ''
 ###### _Fantasma 4 \[Aparición\]_, 2017, (extrait), video monocanal, mudo, 23:55 aprox. en boucle.
 
 Una gotita de sangre. Nadie la ha visto.  
-Ella vino a unirse a una pila de manchitas indeterminadas.  
+Ella vino para unirse a una pila de manchitas indeterminadas.  
 Es porque un chico decidió de recortar cosas y pegarlas, y no quiere que lo veamos. Recorta y pega e imagina que de pronto nadie verá jamás ese corte y pegue en medio de las manchas, del polvo, de huellas de dedos, de gotas de sangre. Él imagina los ocupantes del lugar pasando delante de su corte y pegue sin darse cuenta.  
 Y esto lo pone muy contento.  
 Hay una sonrisa pícara en su rostro.  
