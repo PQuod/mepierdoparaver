@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2016-03-31 22:00:00 +0000
+date: 2016-03-31T22:00:00.000+00:00
 title: Aucune mesure n'est exacte (cube)
 lang-ref: aucuncube
 categories:
@@ -12,7 +12,7 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/aucune-mesure-test-gif02.gif)
+![](/mepierdoparaver/imgs/aucune-mesure-test-gif01.gif)
 
 {% include respiration.html %}
 
