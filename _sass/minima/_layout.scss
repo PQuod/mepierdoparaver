@@ -134,7 +134,7 @@ nav a:hover{
   }
 }
 
-.menu, .legende{
+.menu, .legende, .credits{
   background:var(--b-color);
   border: var(--box-border);
   margin-top: 1em;
@@ -147,8 +147,8 @@ nav a:hover{
 }
 
 .credits p{
-  font-size:9px;
-  padding:5px;
+  font-size:11px;
+  margin-bottom:0px;
 }
 
 /* Main */
