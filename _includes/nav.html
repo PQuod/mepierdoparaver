@@ -91,6 +91,7 @@
           <div class="mobile-icon"><a href="{{ site.baseurl }}{{ page.url }}">{{page.icon}}</a></div>
           {% endfor %}
           <div class="mobile-icon"><a href="{{site.baseurl}}/random/">&#8620;</a></div>
+          <br>
           <div class="lang-nav">
             {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
               {% if posts.size == 0 %}

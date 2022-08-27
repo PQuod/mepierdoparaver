@@ -15,7 +15,7 @@ layout: home
         {% if post.categories contains "divers" %}&#9158;{%endif%}
         </div>
         <div class="mobile-post-excerpt">{{ post.excerpt | markdownify }}
-            <p>&#10230; En voir plus &#10229;</p>
+            <p>&#10230; {{ site.data.trad['voirplus'][page.lang] }} &#10229;</p>
         </div>
     </a>
     {% endfor %}
