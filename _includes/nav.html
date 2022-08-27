@@ -1,33 +1,53 @@
 <nav>
-  <div class="titre">
-    <h2>
-      <a href="{{site.baseurl}}/">Carlos BERNAL BARRERA</a>
-    </h2>
-  </div>
-  <div class="header-mobile">
-    {% assign pages=site.pages | where: "lang", page.lang | reverse %}
-      {% for page in pages %}
-      <h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2>
-      {% endfor %}
-    {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
-    {% if posts.size == 0 %}
-      {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-    {% endif %}
-    {% if posts.size > 1 %}
-    {% for post in posts %}
-    <h2 class="lang-mobile">
-        <a class="{{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
-    </h2>
-    {% endfor %}
-    {% endif %}
-  </div>
-  <div class="menu">
-  <h2>{{ site.data.trad['travaux'][page.lang] }}</h2>
-    <ul>
-    {% assign related = site.posts | where: "lang", page.lang %}
-    {% for post in related %}
-    {% if page.url == post.url %}
-      <li class="active">
+  <div class="screen-nav">
+    <div class="titre">
+      <h2>
+        <a href="{{site.baseurl}}/">Carlos BERNAL BARRERA</a>
+      </h2>
+    </div>
+    <div class="header-lowwidth">
+      <div class="menu">
+        {% assign pages=site.pages | where: "lang", page.lang | reverse %}
+        {% for page in pages %}
+        <h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2>
+        {% endfor %}
+        <h2><a href="{{site.baseurl}}/random/">{{ site.data.trad['seperdre'][page.lang] }}</a></h2>
+      </div>
+      <div class="lang-nav">
+        {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
+          {% if posts.size == 0 %}
+            {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+          {% endif %}
+          {% if posts.size > 1 %}
+            {% for post in posts %}
+              <div class="bttn-lang">
+              <h2 class="{% if post.lang == language %}active{% endif %}">
+                <a class="{{post.lang}}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
+              </h2>
+              </div>
+            {% endfor %}
+          {% endif %}
+      </div>
+    </div>
+    <div class="menu">
+    <h2>{{ site.data.trad['travaux'][page.lang] }}</h2>
+      <ul>
+      {% assign related = site.posts | where: "lang", page.lang %}
+      {% for post in related %}
+      {% if page.url == post.url %}
+        <li class="active">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {% if post.categories contains "dessin" %}&#8623;{%endif%}
+            {% if post.categories contains "video" %}&#10209;{%endif%}
+            {% if post.categories contains "son" %}&#9732;{%endif%}
+            {% if post.categories contains "edition" %}&#9739;{%endif%}
+            {% if post.categories contains "volume" %}&#9737;{%endif%}
+            {% if post.categories contains "divers" %}&#9158;{%endif%}
+            &nbsp;&nbsp;&nbsp;{{ post.title }}
+          </a>
+        </li>
+      {% else %}
+      <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {% if post.categories contains "dessin" %}&#8623;{%endif%}
           {% if post.categories contains "video" %}&#10209;{%endif%}
@@ -38,34 +58,53 @@
           &nbsp;&nbsp;&nbsp;{{ post.title }}
         </a>
       </li>
-    {% else %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {% if post.categories contains "dessin" %}&#8623;{%endif%}
-        {% if post.categories contains "video" %}&#10209;{%endif%}
-        {% if post.categories contains "son" %}&#9732;{%endif%}
-        {% if post.categories contains "edition" %}&#9739;{%endif%}
-        {% if post.categories contains "volume" %}&#9737;{%endif%}
-        {% if post.categories contains "divers" %}&#9158;{%endif%}
-        &nbsp;&nbsp;&nbsp;{{ post.title }}
-      </a>
-    </li>
-    {% endif %}
-    {% endfor %}
-    </ul>
-    </div>
-    <div class="legende">
-      <h2>{{ site.data.trad['legende'][page.lang] }}</h2>
-      <ul>
-        <li>&#8623; {{ site.data.trad['dessin'][page.lang] }}</li>
-        <li>&#10209; {{ site.data.trad['video'][page.lang] }}</li>
-        <li>&#9732; {{ site.data.trad['son'][page.lang] }}</li>
-        <li>&#9739; {{ site.data.trad['edition'][page.lang] }}</li>
-        <li>&#9737; {{ site.data.trad['volume'][page.lang] }}</li>
-        <li>&#9158; {{ site.data.trad['divers'][page.lang] }}</li>
+      {% endif %}
+      {% endfor %}
       </ul>
+      </div>
+      <div class="legende">
+        <h2>{{ site.data.trad['legende'][page.lang] }}</h2>
+        <ul>
+          <li>&#8623; {{ site.data.trad['dessin'][page.lang] }}</li>
+          <li>&#10209; {{ site.data.trad['video'][page.lang] }}</li>
+          <li>&#9732; {{ site.data.trad['son'][page.lang] }}</li>
+          <li>&#9739; {{ site.data.trad['edition'][page.lang] }}</li>
+          <li>&#9737; {{ site.data.trad['volume'][page.lang] }}</li>
+          <li>&#9158; {{ site.data.trad['divers'][page.lang] }}</li>
+        </ul>
+      </div>
+      <div class="credits">
+      <p>© Carlos Bernal Barrera ■ Developed by <a href="luciedesaubliaux.fr">Lucie Desaubliaux</a> thx to Jekyll</p>
+      </div>
     </div>
-    <div class="credits">
-    <p>© Carlos Bernal Barrera ■ Developed by <a href="luciedesaubliaux.fr">Lucie Desaubliaux</a> thx to Jekyll</p>
+    <div class="mobile-nav">
+      <div class="titre">
+        <h2>
+          <a href="{{site.baseurl}}/">Carlos BERNAL BARRERA</a>
+        </h2>
+      </div>
+        <div class="mobile-pages">
+          {% assign pages=site.pages | where: "lang", page.lang | reverse %}
+          {% for page in pages %}
+          <div class="mobile-icon"><a href="{{ site.baseurl }}{{ page.url }}">{{page.icon}}</a></div>
+          {% endfor %}
+          <div class="mobile-icon"><a href="{{site.baseurl}}/travaux/">&#9879;</a></div>
+          <div class="mobile-icon"><a href="{{site.baseurl}}/random/">&#8620;</a></div>
+          <div class="lang-nav">
+            {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
+              {% if posts.size == 0 %}
+                {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+              {% endif %}
+              {% if posts.size > 1 %}
+                {% for post in posts %}
+                  <div class="bttn-lang">
+                  <h2 class="{% if post.lang == language %}active{% endif %}">
+                    <a class="{{post.lang}}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
+                  </h2>
+                  </div>
+                {% endfor %}
+              {% endif %}
+          </div>
+        </div>
     </div>
 </nav>
