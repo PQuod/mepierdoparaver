@@ -2,7 +2,9 @@
 <header>
 {% assign pages=site.pages | where: "lang", page.lang | reverse %}
   {% for page in pages %}
+  {% unless page.screen-header-display == "no" %}
   <div class="head-nav"><h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2></div>
+  {% endunless %}
   {% endfor %}
 <div class="head-nav">
   <h2>

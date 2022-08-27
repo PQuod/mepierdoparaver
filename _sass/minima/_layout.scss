@@ -295,6 +295,28 @@ article {
     margin:auto;
   }
 
+  .mobile-post-list a{
+    background:none;
+    color:var(--color);
+  }
+
+  .mobile-post-titre{
+    text-align:center;
+    font-size:12px;
+  }
+
+  .cat-page{
+    margin-bottom:1em;
+  }
+
+  .mobile-post-excerpt{
+    margin-bottom:calc(var(--line-height)*2);
+    p{
+      text-align:center;
+    }
+  }
+
+
   .arrow-top{
     padding-right:0.8em;
   }

@@ -9,7 +9,9 @@
       <div class="menu">
         {% assign pages=site.pages | where: "lang", page.lang | reverse %}
         {% for page in pages %}
+        {% unless page.screen-header-display == "no" %}
         <h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2>
+        {% endunless %}
         {% endfor %}
         <h2><a href="{{site.baseurl}}/random/">{{ site.data.trad['seperdre'][page.lang] }}</a></h2>
       </div>
@@ -84,11 +86,10 @@
         </h2>
       </div>
         <div class="mobile-pages">
-          {% assign pages=site.pages | where: "lang", page.lang | reverse %}
+          {% assign pages=site.pages | where: "lang", page.lang %}
           {% for page in pages %}
           <div class="mobile-icon"><a href="{{ site.baseurl }}{{ page.url }}">{{page.icon}}</a></div>
           {% endfor %}
-          <div class="mobile-icon"><a href="{{site.baseurl}}/travaux/">&#9879;</a></div>
           <div class="mobile-icon"><a href="{{site.baseurl}}/random/">&#8620;</a></div>
           <div class="lang-nav">
             {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}

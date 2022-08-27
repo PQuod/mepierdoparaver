@@ -1,0 +1,22 @@
+---
+layout: home
+---
+  <article class="mobile-post-list">
+    {% assign related = site.posts | where: "lang", page.lang %}
+    {% for post in related %}
+    <a href="{{ site.baseurl }}{{ post.url }}">
+        <h3 class="mobile-post-titre">{{ post.title }}</h3>
+        <div class="cat-page">
+        {% if post.categories contains "dessin" %}&#8623;{%endif%}
+        {% if post.categories contains "video"%}&#10209;{%endif%}
+        {% if post.categories contains "son" %}&#9732;{%endif%}
+        {% if post.categories contains "edition" %}&#9739;{%endif%}
+        {% if post.categories contains "volume" %}&#9737;{%endif%}
+        {% if post.categories contains "divers" %}&#9158;{%endif%}
+        </div>
+        <div class="mobile-post-excerpt">{{ post.excerpt | markdownify }}
+            <p>&#10230; En voir plus &#10229;</p>
+        </div>
+    </a>
+    {% endfor %}
+  </article>
