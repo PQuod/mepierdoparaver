@@ -24,6 +24,12 @@ Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es tambi�
 
 ###### _Momentáneamente - etapa 1_, detalle.
 
+{% include respiration.html %}
+
+{% include separation.html %}
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/momentaneamente-6-up.jpg)
 
 ###### _Momentáneamente - etapa 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
