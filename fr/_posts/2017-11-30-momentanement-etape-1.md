@@ -12,6 +12,8 @@ Issu de la répétition d’un geste simple, ce dessin-prolifération est encore
 
 Croître n’est seulement une expansion quantitative ni une accumulation passive, c’est aussi adaptation et stagnation ; croître c’est être en étant dans le présent.
 
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/img_20200730_223146-up.jpg)
 
 ###### _Momentanément - étape 1_, 2017, acrylique transparent gravé à la pointe sèche, 90 x 60 cm env.
