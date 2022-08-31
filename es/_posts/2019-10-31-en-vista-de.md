@@ -32,7 +32,11 @@ Así, el video propone al espectador un paseo hacia estados de contemplación do
 
 {% include respiration.html %}
 
-{% include vimeo.html id='391048593?h=4bd61081e2' %} 
+{% include separation.html %}
+
+{% include respiration.html %}
+
+{% include vimeo.html id='391048593?h=4bd61081e2' %}
 
 ###### _ed atsiv ne (sombra)_, 2020, video monocanal, mudo, ∞ aprox. en boucle.
 
