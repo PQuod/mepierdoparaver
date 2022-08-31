@@ -1,13 +1,19 @@
 ---
 layout: post
 lang: es
-date: 2022-01-31 23:00:00 +0000
+date: 2022-01-31T23:00:00.000+00:00
 title: Momentáneamente - etapa 2
 lang-ref: momentanement2
 categories:
 - dessin
 
 ---
+Producto de la repetición de un gesto simple, este dibujo-proliferación está todavía creciendo; podrá ser retomado ulteriormente. Cada vez que es expuesto está terminado, porque se trata de un momento instalado en un flujo más vasto, impermanente.
+
+Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es también adaptación y estancamiento; crecer es ser/estar en el presente.
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-19-up.jpg)
 
 ###### _Momentáneamente - etapa 2_, 2017-2022, acrílico transparente grabado a la punta seca, 270 x 180 cm. aprox.
@@ -27,10 +33,6 @@ categories:
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-24-up.jpg)
 
 ###### _Momentáneamente - etapa 2_, sombra proyectada en el suelo.
-
-Producto de la repetición de un gesto simple, este dibujo-proliferación está todavía creciendo; podrá ser retomado ulteriormente. Cada vez que es expuesto está terminado, porque se trata de un momento instalado en un flujo más vasto, impermanente.
-
-Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es también adaptación y estancamiento; crecer es ser/estar en el presente.
 
 {% include respiration.html %}
 
