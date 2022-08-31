@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2016-12-31 23:00:00 +0000
+date: 2016-12-31T23:00:00.000+00:00
 title: Fantôme 4 [Apparition]
 lang-ref: fantomeapparition
 categories:
@@ -41,15 +41,13 @@ on peut imaginer ce que ça donnerait, un an de coupé collé aussi discret que 
 
 ![](/mepierdoparaver/imgs/fan4-app-3-up.jpg)
 
-###### _Fantôme 4 \[Apparition\]_, 2017, vidéo monocanal, muette, 23:55 env. en boucle.
-
-###### (vue d’exposition), _Un peu de soupçon_, Carlos Bernal Barrera, [Anna Mermet](http://mermet.wixsite.com/annamermet) et [Adrien Abline](http://ablineadrien.com/), exposition du 27 janvier au 10 février 2017, Hôtel Pasteur, Rennes, France.
-
 ![](/mepierdoparaver/imgs/fan4-app-1-up.jpg)
 
 ![](/mepierdoparaver/imgs/fan4-app-2-up.jpg)
 
-###### _Fantôme 4 \[Apparition\]_, détails.
+###### _Fantôme 4 \[Apparition\]_, 2017, vidéo monocanal, muette, 23:55 env. en boucle.
+
+###### (vue d’exposition), _Un peu de soupçon_, Carlos Bernal Barrera, [Anna Mermet](http://mermet.wixsite.com/annamermet) et [Adrien Abline](http://ablineadrien.com/), exposition du 27 janvier au 10 février 2017, Hôtel Pasteur, Rennes, France.
 
 Depuis mai 2016 et durant plusieurs mois, je suis allé dessiner sur les vitres de l’Hôtel Pasteur avec du ruban adhésif transparent. Ces interventions habitent dans cet entre-deux qui fait pénétrer la lumière. Je les appelle des fantômes. Fugitifs à la vue, leur caractère presque invisible produit des situations d’infiltration aux événements qui ont lieu dans le bâtiment.
 
