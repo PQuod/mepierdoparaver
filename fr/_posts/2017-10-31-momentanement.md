@@ -1,13 +1,19 @@
 ---
 layout: post
 lang: fr
-date: 2022-01-31 23:00:00 +0000
+date: 2022-01-31T23:00:00.000+00:00
 title: Momentanément - étape 2
 lang-ref: momentanement2
 categories:
 - dessin
 
 ---
+Issu de la répétition d’un geste simple, ce dessin-prolifération est encore en train de grandir ; il pourrait être repris ultérieurement. À chaque fois qu’il est exposé il est terminé, car il s’agit d’un moment donné d’un flux plus vaste, impermanent.
+
+Croître n’est seulement une expansion quantitative ni une accumulation passive, c’est aussi adaptation et stagnation ; croître c’est être dans le présent.
+
+{% include respiration.html %}
+
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-19-up.jpg)
 
 ###### _Momentanément - étape 2_, 2017-2022, acrylique transparent gravé à la pointe sèche, 270 x 180 cm env.
@@ -27,10 +33,6 @@ categories:
 ![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-24-up.jpg)
 
 ###### _Momentanément - étape 2_, ombre portée au sol.
-
-Issu de la répétition d’un geste simple, ce dessin-prolifération est encore en train de grandir ; il pourrait être repris ultérieurement. À chaque fois qu’il est exposé il est terminé, car il s’agit d’un moment donné d’un flux plus vaste, impermanent.
-
-Croître n’est seulement une expansion quantitative ni une accumulation passive, c’est aussi adaptation et stagnation ; croître c’est être dans le présent.
 
 {% include respiration.html %}
 
