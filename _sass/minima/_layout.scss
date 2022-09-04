@@ -304,8 +304,19 @@ article {
     display:block;
     width:90%;
     margin:auto;
+    .lang-nav{
+      margin-bottom:1em;
+    }
     .menu{
       width:fit-content;
+      margin-top:0;
+    }
+  }
+
+  .mobile-footer{
+    .menu{
+        width:fit-content;
+        margin-top:0;
     }
   }
 
@@ -340,6 +351,7 @@ article {
 
   .home{
     padding:1em;
+    margin-bottom:1em;
   }
 
   .mobile-post-list a{

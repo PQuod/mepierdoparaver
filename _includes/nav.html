@@ -103,6 +103,8 @@
             {% endfor %}
           {% endif %}
       </div>
+
+      {% if page.lang-ref == 'trav' %}
           {% assign pages=site.pages | where: "lang", page.lang | reverse %}
           {% for page in pages %}
           {% unless page.lang-ref contains 'trav' %}
@@ -111,6 +113,7 @@
           </div>
           {% endunless %}
           {% endfor %}
+      {% endif %}
           <!-- Se perdre pour voir
           <div class="mobile-icon"><a href="{{site.baseurl}}/random/">&#8620;</a></div>
           -->

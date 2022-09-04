@@ -4,7 +4,17 @@
     {%- include nav.html -%}
     <main aria-label="Content">
         {{ content }}
-        <div class="credits mobile-footer">
+        {% unless page.lang-ref contains "trav" %}
+        <div class="mobile-footer">
+          {% assign pages=site.pages | where: "lang", page.lang | reverse %}
+          {% for page in pages %}
+          <div class="menu">
+          <h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2>
+          </div>
+          {% endfor %}
+        </div>
+      {% endunless %}
+          <div class="credits mobile-footer">
         <p>© {{ "now" | date: "%Y" }} Carlos Bernal Barrera ■ All rights reserved ■ Website developed by <a href="https://luciedesaubliaux.fr">Lucie Desaubliaux</a> thx to Jekyll</p>
         </div>
     </main>
