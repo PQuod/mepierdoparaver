@@ -2,7 +2,9 @@
 layout: default
 ---
 <div class="home">
+    {% unless page.lang-ref contains "trav" %}
     <h2 class="titre-page">{{page.title}}</h2>
+
     <div class="cat-page">
     {% if page.categories contains "dessin" %}&#8623;{%endif%}
     {% if page.categories contains "video"%}&#10209;{%endif%}
@@ -11,7 +13,9 @@ layout: default
     {% if page.categories contains "volume" %}&#9737;{%endif%}
     {% if page.categories contains "divers" %}&#9158;{%endif%}
     </div>
+    {% endunless %}
     {{ content | markdownify }}
     <div class="arrow-top">
       <a href="#top" id="arrow">↑</a>
     </div>
+</div>  

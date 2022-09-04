@@ -3,7 +3,6 @@ layout: page
 title: A propósito
 lang: es
 lang-ref: about
-icon: '&#128483;'
 ---
 Mi andar artístico se ha instalado hasta el ahora entre el video, el dibujo y el sonido. En estos medios, he descubierto cualidades y posibilidades plásticas que me permiten reflexionar sobre la pregunta de la percepción del _tiempo_. Nosotros mantenemos una relación paradójica con el tiempo; sobre esta base he construido mis consideraciones.
 

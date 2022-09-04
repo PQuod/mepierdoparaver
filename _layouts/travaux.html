@@ -1,22 +1,50 @@
 ---
-layout: home
+layout: default
 ---
-  <article class="mobile-post-list">
-    {% assign related = site.posts | where: "lang", page.lang %}
-    {% for post in related %}
-    <a href="{{ site.baseurl }}{{ post.url }}">
-        <h3 class="mobile-post-titre">{{ post.title }}</h3>
-        <div class="cat-page">
-        {% if post.categories contains "dessin" %}&#8623;{%endif%}
-        {% if post.categories contains "video"%}&#10209;{%endif%}
-        {% if post.categories contains "son" %}&#9732;{%endif%}
-        {% if post.categories contains "edition" %}&#9739;{%endif%}
-        {% if post.categories contains "volume" %}&#9737;{%endif%}
-        {% if post.categories contains "divers" %}&#9158;{%endif%}
-        </div>
-        <div class="mobile-post-excerpt">{{ post.excerpt | markdownify }}
-            <p>&#10230; {{ site.data.trad['voirplus'][page.lang] }} &#10229;</p>
-        </div>
-    </a>
-    {% endfor %}
+  <article>
+    <div class="legende">
+    <h2>{{ site.data.trad['travaux'][page.lang] }}</h2>
+      <ul>
+      {% assign related = site.posts | where: "lang", page.lang %}
+      {% for post in related %}
+      {% if page.url == post.url %}
+        <li class="active">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {% if post.categories contains "dessin" %}&#8623;{%endif%}
+            {% if post.categories contains "video" %}&#10209;{%endif%}
+            {% if post.categories contains "son" %}&#9732;{%endif%}
+            {% if post.categories contains "edition" %}&#9739;{%endif%}
+            {% if post.categories contains "volume" %}&#9737;{%endif%}
+            {% if post.categories contains "divers" %}&#9158;{%endif%}
+            &nbsp;&nbsp;&nbsp;{{ post.title }}
+          </a>
+        </li>
+      {% else %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {% if post.categories contains "dessin" %}&#8623;{%endif%}
+          {% if post.categories contains "video" %}&#10209;{%endif%}
+          {% if post.categories contains "son" %}&#9732;{%endif%}
+          {% if post.categories contains "edition" %}&#9739;{%endif%}
+          {% if post.categories contains "volume" %}&#9737;{%endif%}
+          {% if post.categories contains "divers" %}&#9158;{%endif%}
+          &nbsp;&nbsp;&nbsp;{{ post.title }}
+        </a>
+      </li>
+      {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+      <div class="legende">
+        <h2>{{ site.data.trad['legende'][page.lang] }}</h2>
+        <ul>
+          <li>&#8623; {{ site.data.trad['dessin'][page.lang] }}</li>
+          <li>&#10209; {{ site.data.trad['video'][page.lang] }}</li>
+          <li>&#9732; {{ site.data.trad['son'][page.lang] }}</li>
+          <li>&#9739; {{ site.data.trad['edition'][page.lang] }}</li>
+          <li>&#9737; {{ site.data.trad['volume'][page.lang] }}</li>
+          <li>&#9158; {{ site.data.trad['divers'][page.lang] }}</li>
+        </ul>
+      </div>
+
   </article>

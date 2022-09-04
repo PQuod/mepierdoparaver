@@ -6,12 +6,13 @@
   <div class="head-nav"><h2><a href="{{ site.baseurl }}{{ page.url }}">{{page.title}}</a></h2></div>
   {% endunless %}
   {% endfor %}
+<!-- Se perdre pour voir
 <div class="head-nav">
   <h2>
     <a href="{{site.baseurl}}/random/">{{ site.data.trad['seperdre'][page.lang] }}</a>
   </h2>
 </div>
-
+-->
   <div class="lang-nav">
     {% assign posts=site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
       {% assign language=page.lang %}

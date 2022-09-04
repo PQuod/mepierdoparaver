@@ -4,6 +4,9 @@
     {%- include nav.html -%}
     <main aria-label="Content">
         {{ content }}
+        <div class="credits mobile-footer">
+        <p>© {{ "now" | date: "%Y" }} Carlos Bernal Barrera ■ All rights reserved ■ Website developed by <a href="https://luciedesaubliaux.fr">Lucie Desaubliaux</a> thx to Jekyll</p>
+        </div>
     </main>
   {%- include ext-links.html -%}
   {%- include jour-nuit.html -%}

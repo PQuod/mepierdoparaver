@@ -4,7 +4,6 @@ title: À propos
 lang-ref: about
 lang: fr
 permalink: "/about/"
-icon: '&#128483;'
 ---
 Ma démarche artistique s’est installée jusqu’à présent entre le dessin, la vidéo et le son. Dans ces médiums, j’ai découvert des qualités et possibilités plastiques me permettant de réfléchir à la question de la perception du _temps_. Nous entretenons une relation paradoxale avec le temps ; c’est autour de ce constat que j’ai construit mes considérations.
 

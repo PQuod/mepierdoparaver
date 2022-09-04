@@ -4,8 +4,6 @@ title: PROCHAINES AVENTURES
 lang-ref: home
 lang: fr
 permalink: "/home/"
-icon: "&#9963;"
-
 ---
 _Point Point #3_. Exposition collective du 10 au 25 septembre 2022. Faire de rien, Avranches 50300, France.
 
