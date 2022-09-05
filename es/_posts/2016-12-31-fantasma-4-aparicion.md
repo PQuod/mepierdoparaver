@@ -21,7 +21,8 @@ Ella vino para unirse a una pila de manchitas indeterminadas.
 Es porque un chico decidió recortar y pegar cosas,   
 y no quiere que lo veamos. Recorta y pega e imagina que de pronto   
 nadie verá jamás ese corte y pegue en medio de las manchas, del polvo,   
-de huellas de dedos, de gotas de sangre. Él imagina los ocupantes del lugar pasando delante de su corte y pegue sin darse cuenta.  
+de huellas de dedos, de gotas de sangre. Él imagina los ocupantes del lugar   
+pasando delante de su corte y pegue sin darse cuenta.  
 Y esto lo pone muy contento.  
 Hay una sonrisa pícara en su rostro.  
 Esto le da corazón a la obra, él silba un poco, se olvida que puede ser oído,   
