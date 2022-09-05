@@ -18,14 +18,21 @@ youtubeId: ''
 
 Una gotita de sangre. Nadie la ha visto.  
 Ella vino para unirse a una pila de manchitas indeterminadas.  
-Es porque un chico decidió recortar y pegar cosas, y no quiere que lo veamos. Recorta y pega e imagina que de pronto nadie verá jamás ese corte y pegue en medio de las manchas, del polvo, de huellas de dedos, de gotas de sangre. Él imagina los ocupantes del lugar pasando delante de su corte y pegue sin darse cuenta.  
+Es porque un chico decidió recortar y pegar cosas,   
+y no quiere que lo veamos. Recorta y pega e imagina que de pronto   
+nadie verá jamás ese corte y pegue en medio de las manchas, del polvo,   
+de huellas de dedos, de gotas de sangre. Él imagina los ocupantes del lugar pasando delante de su corte y pegue sin darse cuenta.  
 Y esto lo pone muy contento.  
 Hay una sonrisa pícara en su rostro.  
-Esto le da corazón a la obra, él silba un poco, se olvida que puede ser oído, que podría atraer a alguien. De hecho, su corte y pegue es tan discreto que la gente que pasa a su lado no se entera que está invadiendo el lugar.  
+Esto le da corazón a la obra, él silba un poco, se olvida que puede ser oído,   
+que podría atraer a alguien. De hecho, su corte y pegue es tan discreto que la gente  
+que pasa a su lado no se entera que está invadiendo el lugar.  
 Que toma posesión, lentamente, de la superficie de un vidrio.  
 Y puede ser que no sea nada, un vidrio, me dirán ustedes.  
 Pero un vidrio más un vidrio más un vidrio, va a terminar siendo un montón de vidrios.  
-Y como aquí no faltan los vidrios –de por cierto se podrían contar, y así realizar la importancia de los vidrios en este lugar– uno se puede imaginar lo que resultaría, luego de un año de un corte y pegue tan discreto como persistente.
+Y como aquí no faltan los vidrios –de por cierto se podrían contar,   
+y así realizar la importancia de los vidrios en este lugar–   
+uno se puede imaginar lo que resultaría, luego de un año de un corte y pegue tan discreto como persistente.
 
 (Anna Mermet. Hôtel Pasteur, 2017)
 
