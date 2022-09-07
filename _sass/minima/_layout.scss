@@ -265,6 +265,9 @@ article {
 
   .header-lowwidth{
     display:block;
+    .lang-nav, .head-nav:not(:last-of-type){
+      margin-bottom:calc(var(--line-height)/2);
+    }
   }
 }
 
