@@ -5,8 +5,8 @@ date: 2016-03-31T22:00:00.000+00:00
 title: Aucune mesure n'est exacte (cube)
 lang-ref: aucuncube
 categories:
+- edition
 - dessin
-- divers
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
