@@ -20,7 +20,7 @@ soundcloudId: '1136569246'
 
 ###### _Listen to the Shadows (wander)_, 2021, vidéo monocanal, son, 02:48 env. en boucle.
 
-![](/mepierdoparaver/imgs/listen-to-the-shadows-2021-1-up.jpg)
+![](/imgs/listen-to-the-shadows-2021-1-up.jpg)
 
 ###### À gauche : _Listen to the Shadows (wander)_, 2021, vidéo monocanal, son, 02:48 env. en boucle.
 
@@ -42,7 +42,7 @@ Le mélange de ces deux couches-là peut être considéré comme une discussion 
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/shadows02.jpg)
+![](/imgs/shadows02.jpg)
 
 ###### _Listen to the Shadows_, 2021, édition d'artiste, impression laser, 12 x 16 cm. env. Photo : Sounds Like a Book.
 
@@ -56,11 +56,11 @@ Une promenade erratique où l’on est invité à expérimenter autant l’image
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/shadows03.png)
+![](/imgs/shadows03.png)
 
-![](/mepierdoparaver/imgs/shadows04.png)
+![](/imgs/shadows04.png)
 
-![](/mepierdoparaver/imgs/shadows05.png)
+![](/imgs/shadows05.png)
 
 ###### _Listen to the Shadows_, 2021, (extrait double-page), édition d'artiste, impression laser, 12 x 16 cm. env.
 

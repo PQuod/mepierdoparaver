@@ -19,7 +19,7 @@ youtubeId: ''
 
 ###### (vue d'exposition), _Kadzand cartography project!_, restitution de fin de résidence 4 août 2017, 4 Kadzandstraat, 8400 Oostende, Belgique.
 
-![](/mepierdoparaver/imgs/estar-frontera-kadzand-up.jpg)
+![](/imgs/estar-frontera-kadzand-up.jpg)
 
 ###### (vue d'exposition), _Kadzand cartography project!_, restitution de fin de résidence 4 août 2017, 4 Kadzandstraat, 8400 Oostende, Belgique.
 

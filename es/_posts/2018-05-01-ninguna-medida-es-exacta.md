@@ -17,19 +17,19 @@ youtubeId: gVltVR8efqE
 
 ###### \[Editado por, y a la venta en [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1376-Aucune-mesure-n-est-exacte).\]
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-5.png)
+![](/imgs/aucune-mesure-multiple-web-final-5.png)
 
 ###### _Ninguna medida es exacta_, 2018, (extracto de una doble página), cuaderno cuadriculado de 60 páginas, impresión offset, 14,8 x 21 cm. aprox.
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-5-det.png)
+![](/imgs/aucune-mesure-multiple-web-final-5-det.png)
 
 ###### _Ninguna medida es exacta_, detalle.
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-4.png)
+![](/imgs/aucune-mesure-multiple-web-final-4.png)
 
 ###### _Ninguna medida es exacta_, 2018, (extracto de una doble página), cuaderno cuadriculado de 60 páginas, impresión offset, 14,8 x 21 cm. aprox.
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-17.png)
+![](/imgs/aucune-mesure-multiple-web-final-17.png)
 
 ###### _Ninguna medida es exacta_, 2018, (extracto de una doble página), cuaderno cuadriculado de 60 páginas, impresión offset, 14,8 x 21 cm. aprox.
 

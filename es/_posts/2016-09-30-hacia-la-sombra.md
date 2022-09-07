@@ -9,17 +9,17 @@ categories:
 - dessin
 
 ---
-![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-3-up.jpg)
+![](/imgs/vers-l-ombre-emsemble-2016-2022-3-up.jpg)
 
 ###### _Hacia la sombra_, 2016-2022, tres hemi-esferas plásticas grabadas a la punta seca, 12 cm Ø aprox, tres bases en madera, sombras, tronco de cerezo tallado a mano, bombillos suspendidos del techo, dimensiones variables aprox.
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-4-up.jpg)
+![](/imgs/vers-l-ombre-emsemble-2016-2022-4-up.jpg)
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-emsemble-2016-2022-8-up.jpg)
+![](/imgs/vers-l-ombre-emsemble-2016-2022-8-up.jpg)
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
 
@@ -29,35 +29,35 @@ Esa dimension oculta que a veces dice más que la realidad aparente.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
+![](/imgs/vers-l-ombre-l-2016-2022-2-up.jpg)
 
 ###### _Hacia la sombra_, detalle sombra proyectada.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-l-2016-2022-3-up.jpg)
+![](/imgs/vers-l-ombre-l-2016-2022-3-up.jpg)
 
 ###### _Hacia la sombra_, detalle instalación.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-m-2016-2022-2-up.jpg)
+![](/imgs/vers-l-ombre-m-2016-2022-2-up.jpg)
 
 ###### _Hacia la sombra_, detalle sombra proyectada.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-m-2016-2022-3-up.jpg)
+![](/imgs/vers-l-ombre-m-2016-2022-3-up.jpg)
 
 ###### _Hacia la sombra_, detalle instalación.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-s-2016-2022-2-up.jpg)
+![](/imgs/vers-l-ombre-s-2016-2022-2-up.jpg)
 
 ###### _Hacia la sombra_, detalle sombra proyectada.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-s-2016-2022-3-up.jpg)
+![](/imgs/vers-l-ombre-s-2016-2022-3-up.jpg)
 
 ###### _Hacia la sombra_, detalle instalación.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-1-up.jpg)
+![](/imgs/vers-l-ombre-tabouret-socle-2016-2022-1-up.jpg)
 
 ###### _Hacia la sombra_, detalle de la talla.
 
-![](/mepierdoparaver/imgs/vers-l-ombre-tabouret-socle-2016-2022-4-up.jpg)
+![](/imgs/vers-l-ombre-tabouret-socle-2016-2022-4-up.jpg)
 
 ###### _Hacia la sombra_, detalle instalación.
 

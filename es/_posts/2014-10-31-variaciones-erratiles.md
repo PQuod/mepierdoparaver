@@ -8,17 +8,17 @@ categories:
 - dessin
 
 ---
-![](/mepierdoparaver/imgs/variacion-erratil-1-3-1-up.jpg)
+![](/imgs/variacion-erratil-1-3-1-up.jpg)
 
 ###### _Variación errátil 1.3_, 2014, linóleo grabado, 22,8 x 22,8 cm. aprox.
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-3-2-up.jpg)
+![](/imgs/variacion-erratil-1-3-2-up.jpg)
 
 ###### _Variación errátil 1.3_, 2014, linóleo grabado, 22,8 x 22,8 cm. aprox.
 
 ###### (vista de exposición), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-3-7-up.jpg)
+![](/imgs/variacion-erratil-1-3-7-up.jpg)
 
 ###### _Variación errátil 1.3_, detalle.
 
@@ -30,15 +30,15 @@ categories:
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-2-1-up.jpg)
+![](/imgs/variacion-erratil-1-2-1-up.jpg)
 
 ###### _Variación errátil 1.2_, 2014, punta de metal sobre papel, mesa, 100 x 70 cm. aprox.
 
 ###### (vista de exposición), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-2-7-up.jpg)
+![](/imgs/variacion-erratil-1-2-7-up.jpg)
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-2-9-up.jpg)
+![](/imgs/variacion-erratil-1-2-9-up.jpg)
 
 ###### _Variación errátil 1.2_, detalles.
 
@@ -48,15 +48,15 @@ categories:
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-1-2-up.jpg)
+![](/imgs/variacion-erratil-1-1-2-up.jpg)
 
 ###### _Variación errátil 1.1_, 2014, tinta china blanca sobre papel blanco, 43,6 x 65 cm. aprox.
 
 ###### (vista de exposición), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-1-6-up.jpg)
+![](/imgs/variacion-erratil-1-1-6-up.jpg)
 
-![](/mepierdoparaver/imgs/variacion-erratil-1-1-9-up.jpg)
+![](/imgs/variacion-erratil-1-1-9-up.jpg)
 
 ###### _Variación errátil 1.1_, detalles.
 

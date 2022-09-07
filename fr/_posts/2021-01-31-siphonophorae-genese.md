@@ -9,19 +9,19 @@ categories:
 - dessin
 
 ---
-![](/mepierdoparaver/imgs/siphonophorae-genese-2020-2021-2_-up.jpg)
+![](/imgs/siphonophorae-genese-2020-2021-2_-up.jpg)
 
 ###### _Siphonophoræ (genèse)_, 2020-2021, détail, dessin vectoriel, impression laser, vidéo-projection, dimensions variables env.
 
-![](/mepierdoparaver/imgs/siphonophorae-genese-2020-2021-12_-up.jpg)
+![](/imgs/siphonophorae-genese-2020-2021-12_-up.jpg)
 
 ###### _Siphonophoræ (genèse)_, 2020-2021, détail, dessin vectoriel, impression laser, vidéo-projection, dimensions variables env.
 
-![](/mepierdoparaver/imgs/siphonophorae-genese-2020-2021-6_-up.jpg)
+![](/imgs/siphonophorae-genese-2020-2021-6_-up.jpg)
 
 ###### _Siphonophoræ (genèse)_, 2020-2021, détail, dessin vectoriel, impression laser, vidéo-projection, dimensions variables env.
 
-![](/mepierdoparaver/imgs/siphonophorae-genese-2020-2021-19_-up.jpg)
+![](/imgs/siphonophorae-genese-2020-2021-19_-up.jpg)
 
 ###### _Siphonophoræ (genèse)_, 2020-2021, dessin vectoriel, impression laser, vidéo-projection, dimensions variables env.
 

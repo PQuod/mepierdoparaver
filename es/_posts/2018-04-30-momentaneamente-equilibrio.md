@@ -8,15 +8,15 @@ categories:
 - dessin
 
 ---
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-01-up.jpg)
+![](/imgs/momentaneamente-equilibrio-01-up.jpg)
 
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-02-up.jpg)
+![](/imgs/momentaneamente-equilibrio-02-up.jpg)
 
 ###### _Momentáneamente (equilibrio)_, 2018, placa de acrílico transparente grabado a la punta seca, papel negro, étagère, 30 x 20 cm. aprox., colección particular.
 
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-03-up.jpg)
+![](/imgs/momentaneamente-equilibrio-03-up.jpg)
 
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-04-up.jpg)
+![](/imgs/momentaneamente-equilibrio-04-up.jpg)
 
 ###### _Momentáneamente (equilibrio)_, detalles.
 

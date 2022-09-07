@@ -10,7 +10,7 @@ medium:
 - son
 
 ---
-**![](/mepierdoparaver/imgs/grenouilles01.jpg)**
+**![](/imgs/grenouilles01.jpg)**
 
 {% include respiration.html %}
 
@@ -22,7 +22,7 @@ _Le chant des grenouilles_ est notre premier travail (D.I.Y.) édité en ligne e
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/grenouilles02.jpg)
+![](/imgs/grenouilles02.jpg)
 
 {% include respiration.html %}
 

@@ -12,7 +12,7 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/carlosbernal-conlosojoscerrados.gif)
+![](/imgs/carlosbernal-conlosojoscerrados.gif)
 
 ###### _Los ojos cerrados_, 2017, imagen animada, muda, ∞ aprox. en boucle.
 
@@ -28,7 +28,7 @@ Mi propuesta fue acogida del 10 de enero al 1 de febrero 2017.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/33cube-catalogue-web-1.png)
+![](/imgs/33cube-catalogue-web-1.png)
 
 ###### _33 au cube_, 2017, portada del catálogo de exposición.
 

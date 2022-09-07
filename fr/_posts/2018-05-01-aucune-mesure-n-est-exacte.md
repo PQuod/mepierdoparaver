@@ -17,19 +17,19 @@ youtubeId: gVltVR8efqE
 
 ###### \[Éditée par, et en vente à [Lendroit éditions](https://www.lendroit.org/catalogue/fiches/1376-Aucune-mesure-n-est-exacte).\]
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-5.png)
+![](/imgs/aucune-mesure-multiple-web-final-5.png)
 
 ###### _Aucune mesure n'est exacte_, 2018, (extrait double-page), cahier quadrillé de 60 pages, impression offset, 14,8 x 21 cm. env.
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-5-det.png)
+![](/imgs/aucune-mesure-multiple-web-final-5-det.png)
 
 ###### _Aucune mesure n'est exacte_, détail.
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-4.png)
+![](/imgs/aucune-mesure-multiple-web-final-4.png)
 
 ###### _Aucune mesure n'est exacte_, 2018, (extrait double-page), cahier quadrillé de 60 pages, impression offset, 14,8 x 21 cm. env.
 
-![](/mepierdoparaver/imgs/aucune-mesure-multiple-web-final-17.png)
+![](/imgs/aucune-mesure-multiple-web-final-17.png)
 
 ###### _Aucune mesure n'est exacte_, 2018, (extrait double-page), cahier quadrillé de 60 pages, impression offset, 14,8 x 21 cm. env.
 

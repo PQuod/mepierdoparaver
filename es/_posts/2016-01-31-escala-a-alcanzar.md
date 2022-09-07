@@ -11,15 +11,15 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/echelle-a-atteindre-2015-2016-up.jpg)
+![](/imgs/echelle-a-atteindre-2015-2016-up.jpg)
 
 ###### _Escala a alcanzar_, 2015-2016, vista general, cola pegante transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
 
 ###### (vista de exposición), _Échelle à atteindre_, exposición del 26 de febrero al 30 de marzo 2016, Espace culturel Le Volume, Avenue de la Chalotais, 35770 Vern-sur-Seiche, Francia.
 
-![](/mepierdoparaver/imgs/echelle-a-atteindre-2015-2016-det-2-up.jpg)
+![](/imgs/echelle-a-atteindre-2015-2016-det-2-up.jpg)
 
-![](/mepierdoparaver/imgs/echelle-a-atteindre-2015-2016-det-1-up.jpg)
+![](/imgs/echelle-a-atteindre-2015-2016-det-1-up.jpg)
 
 ###### _Escala a alcanzar_, detalles.
 

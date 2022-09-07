@@ -23,29 +23,29 @@ Les images ci-bas appartiennent au livret qui complémente cette aventure.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-1.jpg)
+![](/imgs/le-lieu-les-doutes-book-1.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-2.jpg)
+![](/imgs/le-lieu-les-doutes-book-2.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-3.jpg)
+![](/imgs/le-lieu-les-doutes-book-3.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-4.jpg)
+![](/imgs/le-lieu-les-doutes-book-4.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-5.jpg)
+![](/imgs/le-lieu-les-doutes-book-5.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-6.jpg)
+![](/imgs/le-lieu-les-doutes-book-6.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-7.jpg)
+![](/imgs/le-lieu-les-doutes-book-7.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-8.jpg)
+![](/imgs/le-lieu-les-doutes-book-8.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-9.jpg)
+![](/imgs/le-lieu-les-doutes-book-9.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-10.jpg)
+![](/imgs/le-lieu-les-doutes-book-10.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-11.jpg)
+![](/imgs/le-lieu-les-doutes-book-11.jpg)
 
-![](/mepierdoparaver/imgs/le-lieu-les-doutes-book-12.jpg)
+![](/imgs/le-lieu-les-doutes-book-12.jpg)
 
 ###### _El Lugar, Las Dudas_, 2019, livret CD, édition numérique, 12 x 12 cm. env.
 

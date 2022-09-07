@@ -11,7 +11,7 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/afiche-triangulaciones-up.jpg)
+![](/imgs/afiche-triangulaciones-up.jpg)
 
 {% include respiration.html %}
 
@@ -53,7 +53,7 @@ EL PRODUCTO FINAL NO ES MÚSICA, EL PRODUCTO FINAL ES EXPERIENCIA.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/cd-triangulaciones-cover-up.png)
+![](/imgs/cd-triangulaciones-cover-up.png)
 
 {% include respiration.html %}
 

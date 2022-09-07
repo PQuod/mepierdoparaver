@@ -11,11 +11,11 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/cbernal3-1-up.jpg)
+![](/imgs/cbernal3-1-up.jpg)
 
 ###### _l'Art est fait d'échec_, 2015, bloc de verre reconstruit, projet réalisé en collaboration avec [Marta Veinberga](http://martaveinberga.com/) & Anna Pabērza, 24,5 x 24,5 x 10 cm. env.
 
-![](/mepierdoparaver/imgs/cbernal2-1-up.jpg)
+![](/imgs/cbernal2-1-up.jpg)
 
 ###### _l'Art est fait d'échec_, 2015, bloc de verre reconstruit, projet réalisé en collaboration avec [Marta Veinberga](http://martaveinberga.com/) & Anna Pabērza, 24,5 x 24,5 x 10 cm. env.
 
@@ -23,11 +23,11 @@ Le danger de l’aboutissement de l’inachèvement.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/cbernal4-up.jpg)
+![](/imgs/cbernal4-up.jpg)
 
 ###### (vue d’exposition), _Kā tas nāk_, Mākslinieku Rezidences Mākslas Galerija, exposition du 8 au 20 août 2015, Kuldiga, Lettonie.
 
-![](/mepierdoparaver/imgs/cbernal5-up.jpg)
+![](/imgs/cbernal5-up.jpg)
 
 ###### (vue d’exposition), _Kaip tas įvyko_, Pamėnkalnio Galerija, exposition du 4 au 19 septembre 2015, Vilnius, Lituanie.
 

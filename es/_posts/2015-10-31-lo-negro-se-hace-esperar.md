@@ -15,7 +15,7 @@ youtubeId: ''
 
 ###### _Lo negro se hace esperar_, 2015, video monocanal, sonido, 04:22 aprox.
 
-![](/mepierdoparaver/imgs/lnsfa-expo-2-up.jpg)
+![](/imgs/lnsfa-expo-2-up.jpg)
 
 ###### (video-instalación), _Souvenir de l'impermanence_, exposición del 14 de octubre al 2 de diciembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, Francia.
 

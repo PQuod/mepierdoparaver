@@ -11,23 +11,23 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/dsc_1911-fin-up.jpg)
+![](/imgs/dsc_1911-fin-up.jpg)
 
 ###### _¿A qué vinimos?_, 2019, cinta adhesiva transparente sobre vidrio, dimensiones variables.
 
 ###### (vista de exposición), _Peindure_, exposición del 22 al 31 de marzo 2019, Galerie du 48, Rennes, Francia.
 
-![](/mepierdoparaver/imgs/dsc_1910-fin-up.jpg)
+![](/imgs/dsc_1910-fin-up.jpg)
 
 ###### _¿A qué vinimos?_, 2019, cinta adhesiva transparente sobre vidrio, dimensiones variables.
 
 ###### (vista de exposición), _Peindure_, exposición del 22 al 31 de marzo 2019, Galerie du 48, Rennes, Francia.
 
-![](/mepierdoparaver/imgs/dsc_1892-fin-up.jpg)
+![](/imgs/dsc_1892-fin-up.jpg)
 
-![](/mepierdoparaver/imgs/dsc_1901-fin-up.jpg)
+![](/imgs/dsc_1901-fin-up.jpg)
 
-![](/mepierdoparaver/imgs/dsc_1905-fin-up.jpg)
+![](/imgs/dsc_1905-fin-up.jpg)
 
 ###### _¿A qué vinimos?_, detalles.
 

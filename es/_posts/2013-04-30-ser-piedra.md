@@ -15,7 +15,7 @@ youtubeId: ''
 
 ###### _Ser Piedra_, 2013, video monocanal, sonido, 04:22 aprox.
 
-![](/mepierdoparaver/imgs/carlos-bernal-ser-piedra-3-up.jpg)
+![](/imgs/carlos-bernal-ser-piedra-3-up.jpg)
 
 ###### (video-instalación), _Theorème de Latences : Dynamiques de la (Pour)suite_, Carlos Bernal Barrera & Lou Berave, exposición del 5 al 22 de noviembre 2014, Le Praticable, 2 rue des Portes Mordelaises, 35000 Rennes, Francia.
 

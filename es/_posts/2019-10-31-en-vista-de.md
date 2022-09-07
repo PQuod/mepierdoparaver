@@ -16,7 +16,7 @@ youtubeId: ''
 
 ###### _En vista de_, 2019, (extracto), video monocanal, sonido, 14:03 aprox.
 
-![](/mepierdoparaver/imgs/vlcsnap-00002-up.jpg)
+![](/imgs/vlcsnap-00002-up.jpg)
 
 ###### (vista de exposición), _Brut’image #1 - Sons, cinémas, résistances_, exposición el 7 y 8 de febrero 2020, Les Ateliers de Bitche, Nantes, Francia.
 

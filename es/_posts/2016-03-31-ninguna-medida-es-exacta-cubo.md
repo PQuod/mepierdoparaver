@@ -12,11 +12,11 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/aucune-mesure-test-gif01.gif)
+![](/imgs/aucune-mesure-test-gif01.gif)
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/pxl_20211014_154120266-night-1-up.jpg)
+![](/imgs/pxl_20211014_154120266-night-1-up.jpg)
 
 ###### _Ninguna medida es exacta (cubo)_, 2016, veintidós actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 
@@ -30,15 +30,15 @@ Gracias a este proceso, la unicidad de cada resultado es puesto en evidencia: as
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/aucune-mesure-scan02-base-cover-up.jpg)
+![](/imgs/aucune-mesure-scan02-base-cover-up.jpg)
 
 ###### _Ninguna medida es exacta (cubo)_, 2016, una de las actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 
-![](/mepierdoparaver/imgs/aucune-mesure-scan07-base-up.jpg)
+![](/imgs/aucune-mesure-scan07-base-up.jpg)
 
 ###### _Ninguna medida es exacta (cubo)_, 2016, una de las actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 
-![](/mepierdoparaver/imgs/aucune-mesure-scan06-base-up.jpg)
+![](/imgs/aucune-mesure-scan06-base-up.jpg)
 
 ###### _Ninguna medida es exacta (cubo)_, 2016, una de las actualizaciones posibles de un único archivo PDF, impresión digital sobre papel, 21 x 29,7 cm. aprox.
 

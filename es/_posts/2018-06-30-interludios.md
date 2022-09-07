@@ -12,7 +12,7 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/interlude-1a-gif.gif)
+![](/imgs/interlude-1a-gif.gif)
 
 ###### _Interludios_, 2018, imagen animada, sitio web efímero, dimensiones variables aprox.
 
@@ -28,71 +28,71 @@ A diferencia de _(in)voluntario_ (2014), serie de dibujos hechos a lapicero, _In
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-a.jpg)
+![](/imgs/in-volontaire-interlude-grilla-04-up-a.jpg)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
 ###### (exposición en línea), _(IN)VOLONTAIRE_, del 17 de junio al 15 de julio 2018, Colectivo la Clica.
 
-![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-b.jpg)
+![](/imgs/in-volontaire-interlude-grilla-04-up-b.jpg)
 
-![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-c.jpg)
+![](/imgs/in-volontaire-interlude-grilla-04-up-c.jpg)
 
 ###### _Interludios_, detalles.
 
-![](/mepierdoparaver/imgs/int-desc-001-014-up.png)
+![](/imgs/int-desc-001-014-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-015-028-up.png)
+![](/imgs/int-desc-015-028-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-029-042-up.png)
+![](/imgs/int-desc-029-042-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-043-056-up.png)
+![](/imgs/int-desc-043-056-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-057-070-up.png)
+![](/imgs/int-desc-057-070-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-071-084-up.png)
+![](/imgs/int-desc-071-084-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-085-098-up.png)
+![](/imgs/int-desc-085-098-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-099-112-up.png)
+![](/imgs/int-desc-099-112-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-113-126-up.png)
+![](/imgs/int-desc-113-126-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-127-140-up.png)
+![](/imgs/int-desc-127-140-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-141-154-up.png)
+![](/imgs/int-desc-141-154-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-155-168-up.png)
+![](/imgs/int-desc-155-168-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-169-182-up.png)
+![](/imgs/int-desc-169-182-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/int-desc-183-196-up.png)
+![](/imgs/int-desc-183-196-up.png)
 
 ###### _Interludios_, 2018, dibujo vectorial, sitio web efímero, dimensiones variables aprox.
 

@@ -11,15 +11,15 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/echelle-a-atteindre-2015-2016-up.jpg)
+![](/imgs/echelle-a-atteindre-2015-2016-up.jpg)
 
 ###### _Échelle à atteindre_, 2015-2016, vue de l’ensemble, colle universelle transparente sur vitre, dessin sur place, dimensions variables env.
 
 ###### (vue d’exposition), _Échelle à atteindre_, exposition du 26 février au 30 mars 2016, Espace culturel Le Volume, Avenue de la Chalotais, 35770 Vern-sur-Seiche, France.
 
-![](/mepierdoparaver/imgs/echelle-a-atteindre-2015-2016-det-2-up.jpg)
+![](/imgs/echelle-a-atteindre-2015-2016-det-2-up.jpg)
 
-![](/mepierdoparaver/imgs/echelle-a-atteindre-2015-2016-det-1-up.jpg)
+![](/imgs/echelle-a-atteindre-2015-2016-det-1-up.jpg)
 
 ###### _Échelle à atteindre_, détails.
 

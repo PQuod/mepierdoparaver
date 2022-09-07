@@ -11,23 +11,23 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/dsc_1911-fin-up.jpg)
+![](/imgs/dsc_1911-fin-up.jpg)
 
 ###### _Pourquoi sommes-nous venus ?_, 2019, film adhésif transparent collé sur vitre, dimensions variables.
 
 ###### (vue d’exposition), _Peindure_, exposition du 22 au 31 mars 2019, Galerie du 48, Rennes, France.
 
-![](/mepierdoparaver/imgs/dsc_1910-fin-up.jpg)
+![](/imgs/dsc_1910-fin-up.jpg)
 
 ###### _Pourquoi sommes-nous venus ?_, 2019, film adhésif transparent collé sur vitre, dimensions variables.
 
 ###### (vue d’exposition), _Peindure_, exposition du 22 au 31 mars 2019, Galerie du 48, Rennes, France.
 
-![](/mepierdoparaver/imgs/dsc_1892-fin-up.jpg)
+![](/imgs/dsc_1892-fin-up.jpg)
 
-![](/mepierdoparaver/imgs/dsc_1901-fin-up.jpg)
+![](/imgs/dsc_1901-fin-up.jpg)
 
-![](/mepierdoparaver/imgs/dsc_1905-fin-up.jpg)
+![](/imgs/dsc_1905-fin-up.jpg)
 
 ###### _Pourquoi sommes-nous venus ?_, détails.
 

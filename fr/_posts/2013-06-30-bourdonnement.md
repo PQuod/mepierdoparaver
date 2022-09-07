@@ -16,7 +16,7 @@ youtubeId: ''
 
 ###### _BOURDONNEMENT_, 2013, vidéo monocanal, son, 03:27 env.
 
-![](/mepierdoparaver/imgs/hibiscus2-1-up.jpg)
+![](/imgs/hibiscus2-1-up.jpg)
 
 ###### (vue d’exposition), _Hibiscus #2_, exposition le 13 septembre 2016, Galerie Art & Essai, Université Rennes 2, campus Villejean, place du recteur Henri le Moal, 35000 Rennes, France.
 

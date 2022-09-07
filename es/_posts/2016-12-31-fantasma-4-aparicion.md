@@ -39,11 +39,11 @@ uno se puede imaginar lo que resultaría, luego de un año de un corte y pegue t
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/fan4-app-3-up.jpg)
+![](/imgs/fan4-app-3-up.jpg)
 
-![](/mepierdoparaver/imgs/fan4-app-1-up.jpg)
+![](/imgs/fan4-app-1-up.jpg)
 
-![](/mepierdoparaver/imgs/fan4-app-2-up.jpg)
+![](/imgs/fan4-app-2-up.jpg)
 
 ###### _Fantasma 4 \[Aparición\]_, 2017, (extrait), video monocanal, mudo, 23:55 aprox. en boucle.
 

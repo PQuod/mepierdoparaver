@@ -12,7 +12,7 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/interlude-1a-gif.gif)
+![](/imgs/interlude-1a-gif.gif)
 
 ###### _Interludes_, 2018, image animée, site web éphémère, dimensions variables env.
 
@@ -30,71 +30,71 @@ Un dessin intermédiaire est un dessin à mi-chemin, un entre-deux, le milieu en
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-a.jpg)
+![](/imgs/in-volontaire-interlude-grilla-04-up-a.jpg)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
 ###### (exposition en ligne), _(IN)VOLONTAIRE_, du 17 juin au 15 juillet 2018, Colectivo la Clica.
 
-![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-b.jpg)
+![](/imgs/in-volontaire-interlude-grilla-04-up-b.jpg)
 
-![](/mepierdoparaver/imgs/in-volontaire-interlude-grilla-04-up-c.jpg)
+![](/imgs/in-volontaire-interlude-grilla-04-up-c.jpg)
 
 ###### _Interludes_, détails.
 
-![](/mepierdoparaver/imgs/int-desc-001-014-up.png)
+![](/imgs/int-desc-001-014-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-015-028-up.png)
+![](/imgs/int-desc-015-028-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-029-042-up.png)
+![](/imgs/int-desc-029-042-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-043-056-up.png)
+![](/imgs/int-desc-043-056-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-057-070-up.png)
+![](/imgs/int-desc-057-070-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-071-084-up.png)
+![](/imgs/int-desc-071-084-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-085-098-up.png)
+![](/imgs/int-desc-085-098-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-099-112-up.png)
+![](/imgs/int-desc-099-112-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-113-126-up.png)
+![](/imgs/int-desc-113-126-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-127-140-up.png)
+![](/imgs/int-desc-127-140-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-141-154-up.png)
+![](/imgs/int-desc-141-154-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-155-168-up.png)
+![](/imgs/int-desc-155-168-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-169-182-up.png)
+![](/imgs/int-desc-169-182-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 
-![](/mepierdoparaver/imgs/int-desc-183-196-up.png)
+![](/imgs/int-desc-183-196-up.png)
 
 ###### _Interludes_, 2018, dessin vectoriel, site web éphémère, dimensions variables env.
 

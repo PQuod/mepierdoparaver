@@ -12,11 +12,11 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/aucune-mesure-test-gif01.gif)
+![](/imgs/aucune-mesure-test-gif01.gif)
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/pxl_20211014_154120266-night-1-up.jpg)
+![](/imgs/pxl_20211014_154120266-night-1-up.jpg)
 
 ###### _Aucune mesure n’est exacte (cube)_, 2016, ving-deux des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
 
@@ -30,15 +30,15 @@ Par ce processus, l’unicité de chaque résultat est mise en évidence : même
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/aucune-mesure-scan02-base-cover-up.jpg)
+![](/imgs/aucune-mesure-scan02-base-cover-up.jpg)
 
 ###### _Aucune mesure n’est exacte (cube)_, 2016, une des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
 
-![](/mepierdoparaver/imgs/aucune-mesure-scan07-base-up.jpg)
+![](/imgs/aucune-mesure-scan07-base-up.jpg)
 
 ###### _Aucune mesure n’est exacte (cube)_, 2016, une des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
 
-![](/mepierdoparaver/imgs/aucune-mesure-scan06-base-up.jpg)
+![](/imgs/aucune-mesure-scan06-base-up.jpg)
 
 ###### _Aucune mesure n’est exacte (cube)_, 2016, une des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
 

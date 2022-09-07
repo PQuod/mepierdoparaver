@@ -14,23 +14,23 @@ Croître n’est seulement une expansion quantitative ni une accumulation passiv
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-19-up.jpg)
+![](/imgs/momentaneamente-etapa-2-2017-2022-19-up.jpg)
 
 ###### _Momentanément - étape 2_, 2017-2022, acrylique transparent gravé à la pointe sèche, 270 x 180 cm env.
 
 ###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
 
-![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-23-up.jpg)
+![](/imgs/momentaneamente-etapa-2-2017-2022-23-up.jpg)
 
 ###### _Momentanément - étape 2_, 2017-2022, acrylique transparent gravé à la pointe sèche, 270 x 180 cm env.
 
 ###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
 
-![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-9_-up.jpg)
+![](/imgs/momentaneamente-etapa-2-2017-2022-9_-up.jpg)
 
 ###### _Momentanément - étape 2_, détail.
 
-![](/mepierdoparaver/imgs/momentaneamente-etapa-2-2017-2022-24-up.jpg)
+![](/imgs/momentaneamente-etapa-2-2017-2022-24-up.jpg)
 
 ###### _Momentanément - étape 2_, ombre portée au sol.
 

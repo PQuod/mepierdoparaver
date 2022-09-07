@@ -11,13 +11,13 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/mn-up-a.jpg)
+![](/imgs/mn-up-a.jpg)
 
 ###### _Manera negra_, 2015-2016, lapicero sobre papel, 28,4 x 32,5 cm. aprox.
 
-![](/mepierdoparaver/imgs/mn-up-b.jpg)
+![](/imgs/mn-up-b.jpg)
 
-![](/mepierdoparaver/imgs/mn-up-c.jpg)
+![](/imgs/mn-up-c.jpg)
 
 ###### _Manera negra_, detalles.
 

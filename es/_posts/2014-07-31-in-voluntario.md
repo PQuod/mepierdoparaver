@@ -11,17 +11,17 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/grilla-a-01-72.jpg)
+![](/imgs/grilla-a-01-72.jpg)
 
 ###### _(in)voluntario_, 2014, conjunto de ciento noventa y seis dibujos indisociables, lapicero sobre tíquet de metro, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/grilla-a-01-72-d2.jpg)
+![](/imgs/grilla-a-01-72-d2.jpg)
 
-![](/mepierdoparaver/imgs/grilla-a-01-72-d1.jpg)
+![](/imgs/grilla-a-01-72-d1.jpg)
 
 ###### _(in)voluntario_, detalles.
 
-![](/mepierdoparaver/imgs/dsc_6227-1-up.jpg)
+![](/imgs/dsc_6227-1-up.jpg)
 
 ###### (vista de exposición) _Le changement, Des mutismes et des résistances_, exposición del 4 de septiembre al de 30 octubre 2014, Consulado de la Colombia en París, 12 rue de Berri, 75008, París, Francia.
 

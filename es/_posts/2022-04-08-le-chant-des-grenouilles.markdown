@@ -10,7 +10,7 @@ medium:
 - son
 
 ---
-**![](/mepierdoparaver/imgs/grenouilles01.jpg)**
+**![](/imgs/grenouilles01.jpg)**
 
 {% include respiration.html %}
 
@@ -22,7 +22,7 @@ _El canto de las ranas_ es nuestro primer trabajo (D.I.Y.) publicado en línea y
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/grenouilles02.jpg)
+![](/imgs/grenouilles02.jpg)
 
 {% include respiration.html %}
 

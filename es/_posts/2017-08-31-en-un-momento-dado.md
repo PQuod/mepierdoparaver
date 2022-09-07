@@ -15,13 +15,13 @@ youtubeId: ''
 
 ###### _En un momento dado_, 2017, video monocanal, sonido, 04:03 aprox.
 
-![](/mepierdoparaver/imgs/a-un-certain-moment-2-up.jpg)
+![](/imgs/a-un-certain-moment-2-up.jpg)
 
 ###### _En un momento dado_, 2017, video monocanal, sonido, video-proyección, papel negro pegado sobre madera, 04:03 aprox.
 
 ###### (vista de exposición), _La timidité des hippocampes_, exposición del 12 al 22 de septiembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, Francia.
 
-![](/mepierdoparaver/imgs/a-un-certain-moment-4-up.jpg)
+![](/imgs/a-un-certain-moment-4-up.jpg)
 
 ###### (vista de exposición), _La timidité des hippocampes_, exposición del 12 al 22 de septiembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, Francia.
 
@@ -47,7 +47,7 @@ Proyectar sombras es a mi parecer una forma de equilibrio entre: por un lado, la
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/a-un-certain-moment-1-up.jpg)
+![](/imgs/a-un-certain-moment-1-up.jpg)
 
 ###### (vista de exposición), _La timidité des hippocampes_, exposición del 12 al 22 de septiembre 2017, Maison Internationale de Rennes (MIR), 7 Quai Châteaubriand, 35000 Rennes, Francia.
 

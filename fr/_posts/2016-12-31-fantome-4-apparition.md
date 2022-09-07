@@ -39,11 +39,11 @@ on peut imaginer ce que ça donnerait, un an de coupé collé aussi discret que 
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/fan4-app-3-up.jpg)
+![](/imgs/fan4-app-3-up.jpg)
 
-![](/mepierdoparaver/imgs/fan4-app-1-up.jpg)
+![](/imgs/fan4-app-1-up.jpg)
 
-![](/mepierdoparaver/imgs/fan4-app-2-up.jpg)
+![](/imgs/fan4-app-2-up.jpg)
 
 ###### _Fantôme 4 \[Apparition\]_, 2017, vidéo monocanal, muette, 23:55 env. en boucle.
 

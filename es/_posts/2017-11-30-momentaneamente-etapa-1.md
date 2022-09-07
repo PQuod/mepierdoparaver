@@ -14,13 +14,13 @@ Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es tambi�
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/img_20200730_223146-up.jpg)
+![](/imgs/img_20200730_223146-up.jpg)
 
 ###### _Momentáneamente - etapa 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
 
 ###### (vista de exposición), _Pique-nique au bord du dessin_, Carlos Bernal Barrera & [Valentin Poudret](http://www.valentin-poudret.com), exposición del 23 al 31 de julio 2020, Atelier Alain Le Bras, 10 rue Malherbe, 44000 Nantes, Francia.
 
-![](/mepierdoparaver/imgs/img_20200730_223340_-up.jpg)
+![](/imgs/img_20200730_223340_-up.jpg)
 
 ###### _Momentáneamente - etapa 1_, detalle.
 
@@ -30,13 +30,13 @@ Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es tambi�
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/momentaneamente-6-up.jpg)
+![](/imgs/momentaneamente-6-up.jpg)
 
 ###### _Momentáneamente - etapa 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
 
 ###### (vista de exposición), _Pasó, pero nunca lo vi_, exposición del 9 de diciembre 2017 al 28 de febrero 2018, Jardines de México, Tehuixtla, Morelos, México.
 
-![](/mepierdoparaver/imgs/momentaneamente-8-up.jpg)
+![](/imgs/momentaneamente-8-up.jpg)
 
 ###### _Momentáneamente - etapa 1_, 2017, acrílico transparente grabado a la punta seca, 90 x 60 cm. aprox.
 

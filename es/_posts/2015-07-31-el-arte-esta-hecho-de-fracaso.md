@@ -11,11 +11,11 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/cbernal3-1-up.jpg)
+![](/imgs/cbernal3-1-up.jpg)
 
 ###### _El Arte está hecho de fracaso_, 2015, bloque de vidrio reconstruido, proyecto realizado en colaboración con [Marta Veinberga](http://martaveinberga.com/) & Anna Pabērza, 24,5 x 24,5 x 10 cm. aprox.
 
-![](/mepierdoparaver/imgs/cbernal2-1-up.jpg)
+![](/imgs/cbernal2-1-up.jpg)
 
 ###### _El Arte está hecho de fracaso_, 2015, bloque de vidrio reconstruido, proyecto realizado en colaboración con [Marta Veinberga](http://martaveinberga.com/) & Anna Pabērza, 24,5 x 24,5 x 10 cm. aprox.
 
@@ -23,11 +23,11 @@ El peligro de la consecución de lo inacabado.
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/cbernal4-up.jpg)
+![](/imgs/cbernal4-up.jpg)
 
 ###### (vista de exposición), _Kā tas nāk_, Mākslinieku Rezidences Mākslas Galerija, exposición del 8 al 20 de agosto 2015, Kuldiga, Letonia.
 
-![](/mepierdoparaver/imgs/cbernal5-up.jpg)
+![](/imgs/cbernal5-up.jpg)
 
 ###### (vista de exposición), _Kaip tas įvyko_, Pamėnkalnio Galerija, exposición del 4 al 19 de septiembre 2015, Vilnius, Lituania.
 

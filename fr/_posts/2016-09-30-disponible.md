@@ -8,7 +8,7 @@ categories:
 - divers
 
 ---
-![](/mepierdoparaver/imgs/disponible-2-up.jpg)
+![](/imgs/disponible-2-up.jpg)
 
 ###### _Disponible_, 2016, sérigraphie, 50 exemplaires numérotés & signés sur papier Rivoli 240 gr. env., 70 x 70 cm. env.
 
@@ -16,11 +16,11 @@ categories:
 
 ###### (vue d’exposition), _Souvenir de l’impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
 
-![](/mepierdoparaver/imgs/disponible-6-up.jpg)
+![](/imgs/disponible-6-up.jpg)
 
 ###### _Disponible_, 2016, sérigraphie, 50 exemplaires numérotés & signés sur papier Rivoli 240 gr. env., 70 x 70 cm. env.
 
-![](/mepierdoparaver/imgs/disponible-5-up.jpg)
+![](/imgs/disponible-5-up.jpg)
 
 ###### _Disponible_, détail.
 

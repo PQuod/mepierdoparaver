@@ -11,17 +11,17 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/grilla-a-01-72.jpg)
+![](/imgs/grilla-a-01-72.jpg)
 
 ###### _(in)volontaire_, 2014, ensemble de cent quatre-vingt-seize dessins indissociables, stylo-bille sur ticket de métro, dimensions variables env.
 
-![](/mepierdoparaver/imgs/grilla-a-01-72-d2.jpg)
+![](/imgs/grilla-a-01-72-d2.jpg)
 
-![](/mepierdoparaver/imgs/grilla-a-01-72-d1.jpg)
+![](/imgs/grilla-a-01-72-d1.jpg)
 
 ###### _(in)volontaire_, détails.
 
-![](/mepierdoparaver/imgs/dsc_6227-1-up.jpg)
+![](/imgs/dsc_6227-1-up.jpg)
 
 ###### (vue d'exposition) _Le changement, Des mutismes et des résistances_, exposicition d'arts visuels, 4 septembre au 30 octobre 2014, Consulat de la Colombie à Paris, 12 rue de Berri, 75008, Paris, France.
 

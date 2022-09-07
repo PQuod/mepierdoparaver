@@ -8,15 +8,15 @@ categories:
 - dessin
 
 ---
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-01-up.jpg)
+![](/imgs/momentaneamente-equilibrio-01-up.jpg)
 
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-02-up.jpg)
+![](/imgs/momentaneamente-equilibrio-02-up.jpg)
 
 ###### _Momentanément (équilibre)_, 2018, plaque d’acrylique transparent gravée à la pointe sèche, papier noir, étagère, 30 x 20 cm. env., collection particulière.
 
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-03-up.jpg)
+![](/imgs/momentaneamente-equilibrio-03-up.jpg)
 
-![](/mepierdoparaver/imgs/momentaneamente-equilibrio-04-up.jpg)
+![](/imgs/momentaneamente-equilibrio-04-up.jpg)
 
 ###### _Momentanément (équilibre)_, détails.
 

@@ -16,7 +16,7 @@ youtubeId: ''
 
 ###### _Au regard de_, 2019, (extrait), vidéo monocanal, son, 14:03 env.
 
-![](/mepierdoparaver/imgs/vlcsnap-00002-up.jpg)
+![](/imgs/vlcsnap-00002-up.jpg)
 
 ###### (vue d’exposition), _Brut’image #1 - Sons, cinémas, résistances_, exposition le 7 et 8 février 2020, Les Ateliers de Bitche, Nantes, France.
 

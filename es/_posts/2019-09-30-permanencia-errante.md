@@ -11,39 +11,39 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/01-20191018_121719-up.jpg)
+![](/imgs/01-20191018_121719-up.jpg)
 
 ###### _Permanencia-errante_, 2019, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, vista del exterior, dimensiones variables aprox.
 
 ###### (vista de exposición), _Nouvelles présentations_, exposición del 12 de octubre al 17 de noviembre 2019, Salle des pas-perdus, Parlamento de Bretagne, Rennes, Francia.
 
-![](/mepierdoparaver/imgs/02-20191010_143702-up.jpg)
+![](/imgs/02-20191010_143702-up.jpg)
 
 ###### _Permanencia-errante_, 2019, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, vista del exterior, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/03-dsc_2090-up.jpg)
+![](/imgs/03-dsc_2090-up.jpg)
 
 ###### _Permanencia-errante_, 2019, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, vista del exterior, dimensiones variables aprox.
 
-![](/mepierdoparaver/imgs/04-dsc_2017-up.jpg)
+![](/imgs/04-dsc_2017-up.jpg)
 
 ###### _Permanencia-errante_, 2019, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, vista del interior, dimensiones variables aprox.
 
 ###### (vista de exposición), _Nouvelles présentations_, exposición del 12 de octubre al 17 de noviembre 2019, Salle des pas-perdus, Parlamento de Bretagne, Rennes, Francia.
 
-![](/mepierdoparaver/imgs/05-dsc_2011-up.jpg)
+![](/imgs/05-dsc_2011-up.jpg)
 
 ###### _Permanencia-errante_, vista del interior, detalle.
 
-![](/mepierdoparaver/imgs/06-dsc_2079-up.jpg)
+![](/imgs/06-dsc_2079-up.jpg)
 
 ###### _Permanencia-errante_, vista del interior, detalle.
 
-![](/mepierdoparaver/imgs/07-dsc_2028-up.jpg)
+![](/imgs/07-dsc_2028-up.jpg)
 
 ###### _Permanencia-errante_, detalle de la sombra proyectada en el muro.
 
-![](/mepierdoparaver/imgs/08-20191010_143412-up.jpg)
+![](/imgs/08-20191010_143412-up.jpg)
 
 ###### _Permanencia-errante_, sombra proyectada en el suelo.
 

@@ -11,11 +11,11 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-![](/mepierdoparaver/imgs/d-01-300-up.jpg)
+![](/imgs/d-01-300-up.jpg)
 
 ###### _Reconocer_, 2013, lapicero sobre papel, 29,7 x 21 cm. aprox.
 
-![](/mepierdoparaver/imgs/d-01-300-det-up.jpg)
+![](/imgs/d-01-300-det-up.jpg)
 
 ###### _Reconocer_, detalle.
 

@@ -8,35 +8,35 @@ categories:
 - dessin
 
 ---
-![](/mepierdoparaver/imgs/demeurer-a-12-up.jpg)
+![](/imgs/demeurer-a-12-up.jpg)
 
 ###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 35 x 50 cm. env., collection particulière.
 
-![](/mepierdoparaver/imgs/demeurer-a-12d-up.jpg)
+![](/imgs/demeurer-a-12d-up.jpg)
 
 ###### _Demeurer à_, 2016, détail.
 
-![](/mepierdoparaver/imgs/demeurer-a-3-up.jpg)
+![](/imgs/demeurer-a-3-up.jpg)
 
 ###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 35 x 50 cm. env., collection particulière.
 
-![](/mepierdoparaver/imgs/demeurer-a-3d-up.jpg)
+![](/imgs/demeurer-a-3d-up.jpg)
 
 ###### _Demeurer à_, 2016, détail.
 
-![](/mepierdoparaver/imgs/demeurer-a-8-up.jpg)
+![](/imgs/demeurer-a-8-up.jpg)
 
 ###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 35 x 50 cm. env., collection particulière.
 
-![](/mepierdoparaver/imgs/demeurer-a-8d-up.jpg)
+![](/imgs/demeurer-a-8d-up.jpg)
 
 ###### _Demeurer à_, 2016, détail.
 
-![](/mepierdoparaver/imgs/demeurer-a-ins-2-up.jpg)
+![](/imgs/demeurer-a-ins-2-up.jpg)
 
-![](/mepierdoparaver/imgs/demeurer-a-ins-1-up.jpg)
+![](/imgs/demeurer-a-ins-1-up.jpg)
 
-![](/mepierdoparaver/imgs/demeurer-a-ins-3-up.jpg)
+![](/imgs/demeurer-a-ins-3-up.jpg)
 
 ###### (vues d’exposition), _Souvenir de l’impermanence_, exposition du 14 octobre au 2 décembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, France.
 
@@ -56,17 +56,17 @@ Essayons de fermer les yeux pour être au présent !
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
+![](/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
 ###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 50 x 70 cm. env., collection particulière.
 
-![](/mepierdoparaver/imgs/demeurer-ii-15-up.jpg)
+![](/imgs/demeurer-ii-15-up.jpg)
 
-![](/mepierdoparaver/imgs/demeurer-ii-14-up.jpg)
+![](/imgs/demeurer-ii-14-up.jpg)
 
-![](/mepierdoparaver/imgs/demeurer-ii-13-up.jpg)
+![](/imgs/demeurer-ii-13-up.jpg)
 
-![](/mepierdoparaver/imgs/demeurer-ii-16-up.jpg)
+![](/imgs/demeurer-ii-16-up.jpg)
 
 ###### _Demeurer à_, 2017, ensemble indissociable de quatre dessins, détails.
 
@@ -76,13 +76,13 @@ Essayons de fermer les yeux pour être au présent !
 
 {% include respiration.html %}
 
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
+![](/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
 
 ###### _Demeurer à_, 2022, diptyque, fusain et mine de plomb sur papier Clairefontaine 120 gr. env., 50 x 65 cm. env. ch.
 
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
+![](/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
 
-![](/mepierdoparaver/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
+![](/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
 
 ###### _Demeurer à_, 2022, diptyque, détails.
 
