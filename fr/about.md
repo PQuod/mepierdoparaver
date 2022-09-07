@@ -4,6 +4,7 @@ title: À propos
 lang-ref: about
 lang: fr
 permalink: "/about/"
+
 ---
 Ma démarche artistique s’est installée jusqu’à présent entre le dessin, la vidéo et le son. Dans ces médiums, j’ai découvert des qualités et possibilités plastiques me permettant de réfléchir à la question de la perception du _temps_. Nous entretenons une relation paradoxale avec le temps ; c’est autour de ce constat que j’ai construit mes considérations.
 
@@ -13,7 +14,7 @@ Le moteur principal de mon travail est le besoin de penser – et de comprendre 
 
 Par une pratique attentive au présent, j’ai découvert l’importance de ne pas tout maîtriser, de l'ignorance, la valeur du hasard, de l’accident, de la sérendipité : la découverte de ce que nous n’étions pas en train de chercher. En réponse à ce monde de la technique, de l’efficacité et de la croissance à tout prix, je privilégie le travail avec mes mains, avec des matériaux que je considère simples.
 
-Une grande partie de mon travail est issue des gestes « déraisonnables » en apparence : Dessiner des labyrinthes invisibles – et infinis – et décider de s’y perdre pour voir le monde d’un autre point de vue ; Laisser inachevé un dessin et en même temps affirmer qu’il est abouti, pouvant être repris ultérieurement ; Imprimer des carrés, un par un, sur plusieurs feuilles afin de fabriquer un cahier de notes avec un quadrillage irrégulier ; Coller des morceaux de ruban adhésif transparent, côte à côte, jusqu’à former un dessin invisible sur des vitres des lieux d’exposition, à la manière d’une infiltration ; Enregistrer en vidéo le soleil avec un objectif macro, conçu pour bien observer à des distances rapprochées, et découvrir des univers inaperçus.
+Une grande partie de mon travail est issue des gestes « déraisonnables » en apparence : Dessiner des labyrinthes invisibles – et infinis – et décider de s’y perdre pour voir le monde d’un autre point de vue ; Laisser inachevé un dessin et en même temps affirmer qu’il est abouti, pouvant être repris ultérieurement ; Imprimer des carrés, un par un, sur plusieurs feuilles afin de fabriquer un cahier de notes avec un quadrillage irrégulier ; Coller des morceaux de ruban adhésif transparent, côte à côte, jusqu’à former un dessin invisible sur des vitres des lieux où j'ai exposé mon travail, à la manière d’une infiltration ; Enregistrer en vidéo le soleil avec un objectif macro, conçu pour bien observer à des distances rapprochées, et découvrir des univers inaperçus.
 
 L’ensemble de ma démarche est traversée par un axe supplémentaire qu’est l’étude des images qui lui sont propres. Dans un monde hyper-médiatique, les images peuvent servir de preuve à toute sorte d’arguments. Ainsi, je les observe – et les travaille – avec précaution. Évidemment, ce qui m’y interpelle, ce sont les étiquettes, les raccourcis, les lieux communs et les stéréotypes. C’est pourquoi je suis prudent face à l’uniformisation d’un art (trop) photogénique.
 
@@ -21,7 +22,7 @@ L’ensemble de ma démarche est traversée par un axe supplémentaire qu’est 
 
 {% include respiration.html %}
 
-Intuitions clés :   
+Intuitions clés :  
 aucune mesure n’est exacte  
 l’attente comme conduite  
 se perdre pour voir  
@@ -30,7 +31,7 @@ se perdre pour voir
 
 {% include respiration.html %}
 
-Contact :   
+Contact :  
 mepierdoparaver\[at\]riseup.com
 
 {% include respiration.html %}
