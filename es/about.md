@@ -9,7 +9,7 @@ Mi andar artístico se ha instalado hasta el ahora entre el video, el dibujo y e
 
 El motor principal de mi trabajo es la necesidad de pensar –y entender– el mundo contemporáneo, particularmente la manera en la que el arte forma (y hace) parte, tanto activa como pasivamente. Este propósito es producto de una actitud crítica y desconfiada hacia ciertas “certezas”, en apariencia incuestionables. La manera más potente que he encontrado para ocuparme de dichas cuestiones es la repetición. Para mí ésta es un medio (casi un material) donde la meticulosidad revela estados de espera, reflexión e imaginación.
 
-Ser contemporáneo sería estar en conformidad, pero sobre todo en inadecuación con este presente eficaz, estable, seguro de sí mismo y sin embargo impaciente, narcisista, hiper-consumista, egocéntrico, impostor, sobreprotegido, “angustiosamente” libre, hipocondríaco, acelerado, y demasiado disponible.
+Ser contemporáneo sería estar en conformidad, pero sobre todo en inadecuación con este presente eficaz, estable, seguro de sí mismo y sin embargo impaciente, narcisista, hiper-consumista, egocéntrico, impostor, sobreprotegido, “angustiosamente” libre, hipocondríaco, acelerado y demasiado disponible.
 
 A través de una práctica atenta al presente, he descubierto la importancia de no dominarlo todo, de la ignorancia, el valor del azar, del accidente, de la serendipia: el hallazgo de lo que no se estaba buscando. En respuesta a este mundo de la técnica, de la eficacia y del crecimiento a cualquier precio, he decidido privilegiar el trabajo con mis manos, con materiales que considero simples.
 
