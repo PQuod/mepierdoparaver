@@ -5,12 +5,12 @@
      var hour = new Date().getHours();
      var colombieHour = hour-7;
      if ((colombieHour <= 6) || (colombieHour >= 18)){
-     root.style.setProperty("--color", "#fff");
+     root.style.setProperty("--color", "#fefefe");
      root.style.setProperty("--b-color", "#2c2c2c");
      body.style.setProperty("background-image", 'url("/imgs/fond-nuit.png")');
    }else if ((colombieHour >= 6) && (colombieHour <= 18)){
      root.style.setProperty("--color", "#2c2c2c");
-      root.style.setProperty("--b-color", "#fff");
+      root.style.setProperty("--b-color", "#fefefe");
       root.style.setProperty("--box-border", "3px solid #2c2c2c")
       body.style.setProperty("background-image", 'url("/imgs/fond-jour.png")');
    }
