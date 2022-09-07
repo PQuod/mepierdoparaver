@@ -1,10 +1,11 @@
 ---
 layout: post
 lang: fr
-date: 2021-11-30 23:00:00 +0000
+date: 2021-11-30T23:00:00.000+00:00
 title: Siphonophoræ (genèse)
 lang-ref: siphogenese
 categories:
+- edition
 - video
 - dessin
 
