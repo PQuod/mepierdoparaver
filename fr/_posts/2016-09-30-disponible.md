@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: fr
-date: 2016-09-30 22:00:00 +0000
+date: 2016-09-30T22:00:00.000+00:00
 title: Disponible
 lang-ref: dispo
 categories:
-- divers
+- edition
 
 ---
 ![](/imgs/disponible-2-up.jpg)
