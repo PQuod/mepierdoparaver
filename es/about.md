@@ -5,7 +5,8 @@ lang: es
 lang-ref: about
 
 ---
-**Presentación:**  
+**Presentación:**
+
 Mi andar artístico se ha instalado hasta el ahora entre el video, el dibujo y el sonido. En estos medios, he descubierto cualidades y posibilidades plásticas que me permiten reflexionar sobre la pregunta de la percepción del _tiempo_. Nosotros mantenemos una relación paradójica con el tiempo; sobre esta base he construido mis consideraciones.
 
 El motor principal de mi trabajo es la necesidad de pensar –y entender– el mundo contemporáneo, particularmente la manera en la que el arte forma (y hace) parte, tanto activa como pasivamente. Este propósito es producto de una actitud crítica y desconfiada hacia ciertas “certezas”, en apariencia incuestionables. La manera más potente que he encontrado para ocuparme de dichas cuestiones es la repetición. Para mí ésta es un medio (casi un material) donde la meticulosidad revela estados de espera, reflexión e imaginación.
@@ -22,7 +23,8 @@ La totalidad de mi práctica artística es atravesada por un eje suplementario q
 
 {% include respiration.html %}
 
-**Intuiciones clave:**  
+**Intuiciones clave:**
+
 ninguna medida es exacta  
 la espera como conducta  
 perderse para ver  
@@ -31,7 +33,8 @@ H4Y D3M4514D4 LU2 3N 3L MUND0
 
 {% include respiration.html %}
 
-**Contacto:**  
+**Contacto:**
+
 mepierdoparaver\[at\]riseup.com
 
 {% include respiration.html %}
