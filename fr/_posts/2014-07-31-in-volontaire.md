@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2014-07-31 22:00:00 +0000
+date: 2014-07-31T22:00:00.000+00:00
 title: "(in)volontaire"
 lang-ref: involontaire
 categories:
@@ -31,7 +31,7 @@ En 2014 j'y ai décidé de dessiner des formes organiques de manière aléatoire
 
 Ils sont triés et rangés morphologiquement, cherchant une suite logique qui évoque une image animée en boucle.
 
-Ici, la répétition automatisée et sérialisée des machines a servi de base à la répétition délibérée de mes mains.
+Ici, la répétition automatisée et sérialisée des machines a servi de base à la répétition spontanée-délibérée de mes mains.
 
 {% include respiration.html %}
 

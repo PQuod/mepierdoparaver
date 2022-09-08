@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2014-07-31 22:00:00 +0000
+date: 2014-07-31T22:00:00.000+00:00
 title: "(in)voluntario"
 lang-ref: involontaire
 categories:
@@ -31,7 +31,7 @@ En 2014 decidi dibujar sobre ellos con lapicero azul unas formas orgánicas de m
 
 Ellos fueron clasificados y ordenados morfológicamente, buscando un orden lógico que evoque una imagen animada en boucle.
 
-Acá, la repetición automatizada y serial de las máquinas sirvió como base a la repetición deliberada de mis manos.
+Acá, la repetición automatizada y serial de las máquinas sirvió como base a la repetición espontánea-deliberada de mis manos.
 
 {% include respiration.html %}
 
