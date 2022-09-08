@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2013-10-31 23:00:00 +0000
+date: 2013-10-31T23:00:00.000+00:00
 title: Reconocer
 lang-ref: reconnaitre
 categories:
@@ -23,7 +23,7 @@ youtubeId: ''
 
 {% include respiration.html %}
 
-¡Ver por segunda vez!
+¡(Re)ver por primera vez!
 
 {% include respiration.html %}
 
