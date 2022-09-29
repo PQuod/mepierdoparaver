@@ -6,7 +6,7 @@ lang: fr
 permalink: "/home/"
 
 ---
-_Atelier de serigraphie_. Chargé du cours II-2022. Département d'Arts plastiques. Université Rennes 2 - bâtiment M (Mussat), campus Villejean, place du recteur Henri le Moal, 35000 Rennes, France.
+_Atelier de sérigraphie_. Chargé du cours II-2022. Département d'Arts plastiques. Université Rennes 2 - bâtiment M (Mussat), campus Villejean, place du recteur Henri le Moal, 35000 Rennes, France.
 
 _Exposition et Atelier_. Novembre - décembre 2022. Collège François Truffaut, 35 Rue de la Rabine, 35830 Betton, France.
 
