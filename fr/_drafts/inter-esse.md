@@ -14,6 +14,10 @@ categories:
 
 ###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
 
+{% include respiration.html %}
+
+{% include respiration.html %}
+
 ![](/imgs/pxl_20220910_142200116-up.jpg)
 
 ![](/imgs/pxl_20220910_112811901-up.jpg)
@@ -24,8 +28,22 @@ categories:
 
 {% include respiration.html %}
 
+{% include separation.html %}
+
+{% include respiration.html %}
+
 ![](/imgs/pxl_20220910_142016569-up.jpg)
 
 ![](/imgs/inter-esse-gif.gif)
 
 ###### _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, 15 x 10 cm. env.
+
+{% include respiration.html %}
+
+###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
