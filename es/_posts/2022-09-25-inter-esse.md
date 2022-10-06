@@ -26,13 +26,13 @@ Dos mitades de una misma forma circular han sido instaladas, cada una en una ven
 
 ###### _inter-esse_, 2022, detalles de la mitad visible.
 
-![](/imgs/pxl_20220910_112745619-up.jpg)
-
-###### _inter-esse_, 2022, detalle del reflejo de la mitad visible.
+El sol se presenta aquí como un gran colaborador; bajo ciertas condiciones meteorológicas, su luz produce en el suelo un reflejo tanto de dichas ventanas como de la forma contenida.
 
 {% include respiration.html %}
 
-El sol se presenta aquí como un gran colaborador; bajo ciertas condiciones meteorológicas, su luz produce en el suelo un reflejo tanto de dichas ventanas como de la forma contenida.
+![](/imgs/pxl_20220910_112745619-up.jpg)
+
+###### _inter-esse_, 2022, detalle del reflejo de la mitad visible.
 
 {% include respiration.html %}
 
