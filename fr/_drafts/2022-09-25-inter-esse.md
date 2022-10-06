@@ -20,7 +20,7 @@ categories:
 
 ![](/imgs/pxl_20220910_161129162-up.jpg)
 
-Deux moitiés d’une même forme circulaire ont été posées chacune sur une fenêtre à deux endroits différents de la ville d’Avranches. Elles sont faites avec du film adhésif transparent (miroir sans tain). La première moitié, marqué sur le plan de l’exposition, est placé sur un immeuble voisin à l’Hôtel de ville. La seconde moitié, marqué nulle part, reste à découvrir lors des balades-errances du public dans la ville.
+Deux moitiés d’une même forme circulaire ont été posées, chacune sur une fenêtre, à deux endroits différents de la ville d’Avranches. Elles sont faites avec du film adhésif transparent (miroir sans tain). La première moitié, marqué sur le plan de l’exposition, est placé sur un immeuble voisin à l’Hôtel de ville. La seconde moitié, marqué nulle part, reste à découvrir lors des balades-errances du public dans la ville.
 
 ###### _inter-esse_, 2022, détails de la moitié visible.
 
