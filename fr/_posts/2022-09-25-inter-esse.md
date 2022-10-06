@@ -52,7 +52,7 @@ Le soleil se présente ici comme un grand collaborateur ; sous certaines conditi
 
 Pour compléter l’expérience, j’ai proposé une carte postale qui par un jeu de matière opaque/réfléchissante, sert de piste sensible aux marchants qui risquent de croiser la moitié ignorée de l’œuvre.
 
-_Inter-esse_, invite à être entre, à habiter l’espace-temps intermédiaire entre deux formes-moments qui se complètent.
+_inter-esse_, invite à être entre, à habiter l’espace-temps intermédiaire entre deux formes-moments qui se complètent.
 
 {% include respiration.html %}
 
