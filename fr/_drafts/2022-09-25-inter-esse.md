@@ -14,9 +14,9 @@ categories:
 
 ###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
 
-{% include respiration.html %}
+Deux moitiés d’une même forme circulaire ont été posées chacune sur une fenêtre à deux endroits différents de la ville d’Avranches. Elles sont faites avec du film adhésif transparent (miroir sans tain). La première moitié, marqué sur le plan de l’exposition, est placé sur un immeuble voisin à l’Hôtel de ville. La seconde moitié, marqué nulle part, reste à découvrir lors des balades-errances du public dans la ville.
 
-{% include respiration.html %}
+Le soleil se présente ici comme un grand collaborateur ; sous certaines conditions météorologiques, sa lumière produit un reflet par terre desdites fenêtres ainsi que de ses formes contenues.{% include respiration.html %}
 
 ![](/imgs/pxl_20220910_142200116-up.jpg)
 
@@ -25,6 +25,10 @@ categories:
 ![](/imgs/pxl_20220910_161129162-up.jpg)
 
 ###### _inter-esse_, 2022, détails de la moitié visible.
+
+![](/imgs/pxl_20220910_112745619-up.jpg)
+
+###### _inter-esse_, 2022, détail du reflet de la moitié visible.
 
 {% include respiration.html %}
 
@@ -47,6 +51,10 @@ XXX
 ###### À droite : _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
 
 ###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
+
+Pour compléter l’expérience, j’ai proposé une carte postale qui par un jeu de matière opaque/réfléchissante, sert de piste sensible aux marchants qui risquent de croiser la moitié ignorée de l’œuvre.
+
+_Inter-esse_, invite à être entre, à habiter l’espace-temps intermédiaire entre deux formes-moments qui se complètent.
 
 {% include respiration.html %}
 
