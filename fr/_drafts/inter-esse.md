@@ -24,8 +24,8 @@ categories:
 
 {% include respiration.html %}
 
+![](/imgs/pxl_20220910_142016569-up.jpg)
+
 ![](/imgs/inter-esse-gif.gif)
 
 ###### _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, 15 x 10 cm. env.
-
-![](/imgs/pxl_20220910_142016569-up.jpg)
