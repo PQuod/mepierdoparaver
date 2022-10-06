@@ -32,7 +32,7 @@ Deux moitiés d’une même forme circulaire ont été posées, chacune sur une 
 
 {% include respiration.html %}
 
-Le soleil se présente ici comme un grand collaborateur ; sous certaines conditions météorologiques, sa lumière produit un reflet par terre desdites fenêtres ainsi que de ses formes contenues.
+Le soleil se présente ici comme un grand collaborateur ; sous certaines conditions météorologiques, sa lumière produit par terre un reflet desdites fenêtres ainsi que de la forme contenue.
 
 {% include respiration.html %}
 
