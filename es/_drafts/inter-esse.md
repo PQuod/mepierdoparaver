@@ -46,19 +46,19 @@ El sol se presenta aquí como un gran colaborador; bajo ciertas condiciones mete
 
 ![](/imgs/pxl_20220910_142016569-up.jpg)
 
-###### À gauche : _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, 15 x 10 cm. env.
+###### A la izquierda: _inter-esse (piste)_, 2022, tarjeta postal, impresión offset, barniz selectivo brillante sobre barniz mate, 15 x 10 cm. aprox.
 
-###### À droite : _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
+###### A la derecha: _inter-esse_, 2022, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, mitad visible, dimensiones variables aprox.
 
-###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
+###### (vista de exposición), _Point . #3_, exposición del 10 al 25 de septiembre 2022, obra en espacio público, Avranches, Francia.
 
-Pour compléter l’expérience, j’ai proposé une carte postale qui par un jeu de matière opaque/réfléchissante, sert de piste sensible aux marchants qui risquent de croiser la moitié ignorée de l’œuvre.
+Para completar la experiencia, propuse una tarjeta postal que a através de un juego de materia opaca/reflejante, sirve como pista sensible a los caminantes que podrían cruzarse con la mitad ignorada de la obra.
 
-_inter-esse_, invite à être entre, à habiter l’espace-temps intermédiaire entre deux formes-moments qui se complètent.
+_inter-esse_, invita a ser/estar entre, a habitar el espacio-tiempo intermedio entre dos formas-momentos que se complementan.
 
 {% include respiration.html %}
 
-###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
 {% include respiration.html %}
 
