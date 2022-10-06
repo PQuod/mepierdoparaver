@@ -10,7 +10,9 @@ categories:
 ---
 ![](/imgs/pxl_20220910_112703454-up.jpg)
 
-###### inter-esse, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
+###### _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
+
+###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
 
 ![](/imgs/pxl_20220910_142200116-up.jpg)
 
