@@ -46,7 +46,7 @@ El sol se presenta aquí como un gran colaborador; bajo ciertas condiciones mete
 
 ![](/imgs/pxl_20220910_142016569-up.jpg)
 
-###### A la izquierda: _inter-esse (piste)_, 2022, tarjeta postal, impresión offset, barniz selectivo brillante sobre barniz mate, 15 x 10 cm. aprox.
+###### A la izquierda: _inter-esse (piste)_, 2022, tarjeta postal manipulada, impresión offset, barniz selectivo brillante sobre barniz mate, 15 x 10 cm. aprox.
 
 ###### A la derecha: _inter-esse_, 2022, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, mitad visible, dimensiones variables aprox.
 

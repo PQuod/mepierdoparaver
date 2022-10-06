@@ -46,7 +46,7 @@ Le soleil se présente ici comme un grand collaborateur ; sous certaines conditi
 
 ![](/imgs/pxl_20220910_142016569-up.jpg)
 
-###### À gauche : _inter-esse (piste)_, 2022, carte postale, impression offset, vernis sélectif brillant sur vernis mate, 15 x 10 cm. env.
+###### À gauche : _inter-esse (piste)_, 2022, carte postale manipulée, impression offset, vernis sélectif brillant sur vernis mate, 15 x 10 cm. env.
 
 ###### À droite : _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions variables env.
 
