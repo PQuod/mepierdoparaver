@@ -10,7 +10,7 @@ categories:
 ---
 ![](/imgs/pxl_20220910_112703454-up.jpg)
 
-###### _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
+###### _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions variables env.
 
 ###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
 
@@ -48,7 +48,7 @@ Le soleil se présente ici comme un grand collaborateur ; sous certaines conditi
 
 ###### À gauche : _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, 15 x 10 cm. env.
 
-###### À droite : _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
+###### À droite : _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions variables env.
 
 ###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
 
