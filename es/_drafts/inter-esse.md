@@ -20,19 +20,19 @@ categories:
 
 ![](/imgs/pxl_20220910_161129162-up.jpg)
 
-###### _inter-esse_, 2022, détails de la moitié visible.
+###### _inter-esse_, 2022, detalles de la mitad visible.
 
-Deux moitiés d’une même forme circulaire ont été posées, chacune sur une fenêtre, à deux endroits différents de la ville d’Avranches. Elles sont faites avec du film adhésif transparent (miroir sans tain). La première moitié, marqué sur le plan de l’exposition, est placé sur un immeuble voisin à l’Hôtel de ville. La seconde moitié, marqué nulle part, reste à découvrir lors des balades-errances du public dans la ville.
+Dos mitades de una misma forma circular han sido instaladas, cada una en una ventana, en dos lugares diferentes de la ciudad de Avranches. Ellas están hechas con vinilo adhesivo transparente (efecto espejo). La primera mitad, indicada en el plano de la exposición, está ubicada en un inmueble vecino al ayuntamiento. La segunda mitad, indicada en ninguna parte, queda por ser descubierta durante paseos-errancias del público en la ciudad.
 
 {% include respiration.html %}
 
 ![](/imgs/pxl_20220910_112745619-up.jpg)
 
-###### _inter-esse_, 2022, détail du reflet de la moitié visible.
+###### _inter-esse_, 2022, detalle del reflejo de la mitad visible.
 
 {% include respiration.html %}
 
-Le soleil se présente ici comme un grand collaborateur ; sous certaines conditions météorologiques, sa lumière produit par terre un reflet desdites fenêtres ainsi que de la forme contenue.
+El sol se presenta aquí como un gran colaborador; bajo ciertas condiciones meteorológicas, su luz produce en el suelo un reflejo tanto de dichas ventanas como de la forma contenida.
 
 {% include respiration.html %}
 
@@ -42,7 +42,7 @@ Le soleil se présente ici comme un grand collaborateur ; sous certaines conditi
 
 ![](/imgs/inter-esse-gif.gif)
 
-###### _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, 15 x 10 cm. env.
+###### _inter-esse (piste)_, 2022, tarjeta postal, impresión offset, barniz selectivo brillante sobre barniz mate, 15 x 10 cm. aprox.
 
 ![](/imgs/pxl_20220910_142016569-up.jpg)
 
