@@ -14,7 +14,7 @@ categories:
 
 ###### (vista de exposición), _Point . #3_, exposición del 10 al 25 de septiembre 2022, obra en espacio público, Avranches, Francia.
 
-Dos mitades de una misma forma circular han sido instaladas, cada una en una ventana, en dos lugares diferentes de la ciudad de Avranches. Ellas están hechas con vinilo adhesivo transparente (efecto espejo). La primera mitad, indicada en el plano de la exposición, está ubicada en un inmueble vecino al ayuntamiento. La segunda mitad, indicada en ninguna parte, queda por ser descubierta durante paseos-errancias del público en la ciudad.
+Dos mitades de una misma forma circular han sido instaladas, cada una en una ventana, en dos lugares diferentes de la ciudad de Avranches. Ellas están hechas con vinilo adhesivo transparente (efecto espejo). La primera mitad, indicada en el plano de la exposición, está ubicada en un inmueble vecino al ayuntamiento. La segunda mitad, indicada en ninguna parte, queda por ser descubierta durante los paseos-errancias del público en la ciudad.
 
 {% include respiration.html %}
 
