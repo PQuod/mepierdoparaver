@@ -8,3 +8,4 @@ categories:
 - dessin
 
 ---
+![](/imgs/pxl_20220910_112703454-up.jpg)
