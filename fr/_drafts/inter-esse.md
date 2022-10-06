@@ -10,12 +10,12 @@ categories:
 ---
 ![](/imgs/pxl_20220910_112703454-up.jpg)
 
-![](/imgs/pxl_20220910_112811901-up.jpg)
-
-![](/imgs/pxl_20220910_142016569-up.jpg)
+###### inter-esse, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
 
 ![](/imgs/pxl_20220910_142200116-up.jpg)
 
+![](/imgs/pxl_20220910_112811901-up.jpg)
+
 ![](/imgs/pxl_20220910_161129162-up.jpg)
 
-![](/imgs/pxl_20220910_161243351-up.jpg)
+![](/imgs/pxl_20220910_142016569-up.jpg)
