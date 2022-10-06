@@ -22,4 +22,10 @@ categories:
 
 ###### _inter-esse_, 2022, détails de la moitié visible.
 
+{% include respiration.html %}
+
+![](/imgs/inter-esse-gif.gif)
+
+###### _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, .
+
 ![](/imgs/pxl_20220910_142016569-up.jpg)
