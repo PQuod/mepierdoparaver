@@ -20,4 +20,6 @@ categories:
 
 ![](/imgs/pxl_20220910_161129162-up.jpg)
 
+###### _inter-esse_, 2022, détails de la moitié visible.
+
 ![](/imgs/pxl_20220910_142016569-up.jpg)
