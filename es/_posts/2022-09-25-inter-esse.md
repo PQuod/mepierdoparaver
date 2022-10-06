@@ -40,7 +40,7 @@ El sol se presenta aquí como un gran colaborador; bajo ciertas condiciones mete
 
 {% include respiration.html %}
 
-![](/imgs/inter-esse-gif.gif)
+![](/imgs/inter-esse-gif-boucle.gif)
 
 ###### _inter-esse (piste)_, 2022, tarjeta postal, impresión offset, barniz selectivo brillante sobre barniz mate, 15 x 10 cm. aprox.
 
