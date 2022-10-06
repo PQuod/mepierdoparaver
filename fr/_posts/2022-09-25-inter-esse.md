@@ -28,15 +28,25 @@ categories:
 
 {% include respiration.html %}
 
+XXX
+
+{% include respiration.html %}
+
 {% include separation.html %}
 
 {% include respiration.html %}
 
-![](/imgs/pxl_20220910_142016569-up.jpg)
-
 ![](/imgs/inter-esse-gif.gif)
 
 ###### _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, 15 x 10 cm. env.
+
+![](/imgs/pxl_20220910_142016569-up.jpg)
+
+###### À gauche : _inter-esse (piste)_, 2022, carte postale, impression offset, vernis selectif brillant sur vernis mate, 15 x 10 cm. env.
+
+###### À droite : _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions varialbes env.
+
+###### (vue d’exposition), _Point . #3_, exposition du 10 au 25 septembre 2022, œuvre en espace public, Avranches, France.
 
 {% include respiration.html %}
 
