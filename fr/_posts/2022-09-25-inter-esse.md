@@ -40,7 +40,7 @@ Le soleil se présente ici comme un grand collaborateur ; sous certaines conditi
 
 {% include respiration.html %}
 
-![](/imgs/inter-esse-gif.gif)
+![](/imgs/inter-esse-gif-boucle.gif)
 
 ###### _inter-esse (piste)_, 2022, carte postale, impression offset, vernis sélectif brillant sur vernis mate, 15 x 10 cm. env.
 
