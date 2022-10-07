@@ -10,7 +10,7 @@ categories:
 - dessin
 
 ---
-{% include vimeo.html id='757941908' %} <!-- Inscrire le numéro de la vidéo entre les deux apostrophes après id -->
+{% include vimeo.html id='757941908?h' %} 
 
 ###### _Siphonophoræ (genèse)_, 2020-2021, dessin vectoriel, impression laser, vidéo-projection, dimensions variables env.
 

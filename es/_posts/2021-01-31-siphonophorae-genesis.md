@@ -11,7 +11,7 @@ categories:
 
 ---
 
-{% include vimeo.html id='[757941908?h=1c147faca0](https://player.vimeo.com/video/757941908?h=1c147faca0 "https://player.vimeo.com/video/757941908?h=1c147faca0")' %}
+{% include vimeo.html id='757941908?h' %}
 <!-- Inscrire le numéro de la vidéo entre les deux apostrophes après id -->
 
 ###### _Siphonophoræ (génesis)_, 2020-2021, dibujo vectorial, impresión laser, video-proyección, dimensiones variables aprox.
