@@ -10,6 +10,14 @@ categories:
 - dessin
 
 ---
+
+{% include vimeo.html id='757941908' %}
+<!-- Inscrire le numéro de la vidéo entre les deux apostrophes après id -->
+
+###### _Siphonophoræ (génesis)_, 2020-2021, dibujo vectorial, impresión laser, video-proyección, dimensiones variables aprox.
+
+###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
+
 ![](/imgs/siphonophorae-genese-2020-2021-2_-up.jpg)
 
 ###### _Siphonophoræ (génesis)_, 2020-2021, detalle, dibujo vectorial, impresión laser, video-proyección, dimensiones variables aprox.
