@@ -40,6 +40,8 @@ Un dessin-pour-le-temps, un dessin basé sur un protocole qui est réalisé  man
 
 ###### (vue d’exposition), _L’ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, France.
 
+{% include respiration.html %}
+
 ###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
 
 {% include respiration.html %}

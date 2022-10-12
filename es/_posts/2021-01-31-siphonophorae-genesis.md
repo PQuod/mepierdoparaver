@@ -10,7 +10,6 @@ categories:
 - dessin
 
 ---
-
 {% include vimeo.html id='757941908?h=1c147faca0' %}
 
 ###### _Siphonophoræ (génesis)_, 2020-2021, dibujo vectorial, impresión laser, video-proyección, dimensiones variables aprox.
@@ -40,6 +39,8 @@ Un dibujo-para-el-tiempo, un dibujo basado en un protocolo realizado manualmente
 ###### _Siphonophoræ (génesis)_, 2020-2021, dibujo vectorial, impresión laser, video-proyección, dimensiones variables aprox.
 
 ###### (vista de exposición), _L’ombre dûe_, exposición del 22 de febrero al 6 de abril 2022, Galerie Pictura, Le Pont des Arts, Cesson-Sévigné, Francia.
+
+{% include respiration.html %}
 
 ###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
 
