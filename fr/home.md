@@ -6,6 +6,6 @@ lang: fr
 permalink: "/home/"
 
 ---
-_Atelier de sérigraphie_. Chargé du cours II-2022. Département d'Arts plastiques. Université Rennes 2 - bâtiment M (Mussat), campus Villejean, place du recteur Henri le Moal, 35000 Rennes, France.
+_Atelier de sérigraphie_. Chargé du cours (L2) I-2023. Département d'Arts plastiques. Université Rennes 2 - bâtiment M (Mussat), campus Villejean, 35000 Rennes, France.
 
 {% include respiration.html %}
