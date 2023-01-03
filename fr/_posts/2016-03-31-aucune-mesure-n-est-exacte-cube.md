@@ -18,7 +18,7 @@ youtubeId: ''
 
 ![](/imgs/pxl_20211014_154120266-night-1-up.jpg)
 
-###### _Aucune mesure n’est exacte (cube)_, 2016, ving-deux des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
+###### _Aucune mesure n’est exacte (cube)_, 2016, vingt-deux des actualisations possibles d'un même fichier PDF, impression numérique sur papier, 21 x 29,7 cm. env.
 
 ###### (vue d’exposition), _Cosmo BiB_, exposition du 14 au 30 octobre 2021, Cosmopolis, 10 rue Scribe, 44000 Nantes, France.
 
