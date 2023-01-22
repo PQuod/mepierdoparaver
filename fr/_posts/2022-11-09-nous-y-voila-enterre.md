@@ -26,6 +26,8 @@ categories:
 
 Et alors ?
 
+{% include respiration.html %}
+
 ![](/imgs/pxl_20221110_132430281-night-up.jpg)
 
 ###### _Nous y voilà (enterré)_, 2020-2022, souche de noisetier nettoyée, poncée et teinté, 80 x 65 x 60 cm. env.

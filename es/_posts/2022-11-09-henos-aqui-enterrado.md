@@ -26,6 +26,8 @@ categories:
 
 ¿Y qué?
 
+{% include respiration.html %}
+
 ![](/imgs/pxl_20221110_132430281-night-up.jpg)
 
 ###### _Henos aquí (enterrado)_, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
