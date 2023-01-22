@@ -24,6 +24,8 @@ categories:
 
 ###### (vue d’exposition), _Habiter entre_, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
 
+Et alors ?
+
 ![](/imgs/skuldur-30-up.jpg)
 
 ###### _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env.
