@@ -24,7 +24,7 @@ categories:
 
 ###### (vista de exposición), _Habiter entre_, exposición del 10 de noviembre al 13 de diciembre 2022, CDI du Collège François Truffaut, 35830 Betton, Francia.
 
-¿y qué?
+¿Y qué?
 
 {% include respiration.html %}
 
