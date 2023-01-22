@@ -8,7 +8,7 @@ categories:
 - volume
 
 ---
-###### ![](/imgs/pxl_20221110_125804532-night-up.jpg)
+![](/imgs/pxl_20221110_125804532-night-up.jpg)
 
 ###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
 
