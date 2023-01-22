@@ -32,6 +32,8 @@ categories:
 
 ###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
 
+###### (vista de exposición), _Skuldur_, exposición del 17 al 20 de septiembre 2020, Hôtel dieu, Rennes, Francia.
+
 {% include respiration.html %}
 
 ###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
