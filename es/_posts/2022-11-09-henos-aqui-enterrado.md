@@ -10,11 +10,7 @@ categories:
 ---
 ![](/imgs/pxl_20221110_133414006-night-up.jpg)
 
-###### _Henos aquí (enterrado)_, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
-
 ![](/imgs/pxl_20221110_133255335-night-up.jpg)
-
-###### _Henos aquí (enterrado)_, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
 
 ![](/imgs/pxl_20221110_133133012-night-up.jpg)
 
@@ -40,11 +36,13 @@ categories:
 
 ![](/imgs/pxl_20221110_125804532-night-up.jpg)
 
-###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox.
-
 ![](/imgs/pxl_20221110_132043070-night-up.jpg)
 
 ###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox.
+
+![](/imgs/pxl_20221110_132610277-night-up.jpg)
+
+###### _Henos aquí_, detalle.
 
 {% include respiration.html %}
 
