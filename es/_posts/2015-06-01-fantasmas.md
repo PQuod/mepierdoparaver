@@ -11,9 +11,9 @@ soundcloudId: ''
 youtubeId: ''
 
 ---
-Dibujar sobre las ventanas con cinta adhesiva transparente. 
+Dibujar sobre las ventanas con cinta adhesiva transparente.
 
-Un infraleve orgánico y geométrico donde busco perderme. 
+Un infraleve orgánico y geométrico donde busco perderme.
 
 El interés por ese umbral, esa frontera de vidrio que delimita los lugares donde he expuesto mi trabajo.
 
@@ -23,6 +23,13 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 
 {% include respiration.html %}
 
+![](/imgs/pxl_20221110_132825408-night-up.jpg)
+
+###### _Fantasma 13 \[François Truffaut\]_, 2022, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
+
+###### (vue d’exposition), _Habiter entre_, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
+
+  
 ![](/imgs/fantome12-up.jpg)
 
 ###### _Fantasma 12 \[Pictura\]_, 2022, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
