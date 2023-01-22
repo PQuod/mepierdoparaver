@@ -31,3 +31,13 @@ categories:
 ###### Al frente : _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
 
 ###### (vue d’exposition), _Habiter entre_, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
+
+{% include respiration.html %}
+
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
