@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: es
-date: 2022-02-01 23:00:00 +0000
+date: 2022-01-29 23:00:00 +0000
 title: Henos aquí (enterrado)
-lang-ref: 'henosaquienterrado '
+lang-ref: henosaquienterra
 categories:
 - volume
 
