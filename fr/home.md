@@ -10,6 +10,6 @@ _Atelier de sérigraphie_. Chargé du cours (L2) I-2023. Département d'Arts pla
 
 _Ateliers d’arts plastiques auprès du public scolaire_. Mars 2023. L’aparté, lieu d’art contemporain. Lac de Trémelin, 35750 Iffendic, France.
 
-_Lèche-Vitrines_. Exposition en espace publique. Octobre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, France.
+_Lèche-Vitrines_. Exposition en espace public. Octobre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, France.
 
 {% include respiration.html %}
