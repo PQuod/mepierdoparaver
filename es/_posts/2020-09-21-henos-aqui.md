@@ -14,7 +14,7 @@ categories:
 
 ![](/imgs/pxl_20221110_132043070-night-up.jpg)
 
-###### _Henos aquí_, detalle. 
+###### _Henos aquí_, detalle.
 
 ![](/imgs/pxl_20221110_132430281-night-up.jpg)
 
@@ -31,3 +31,13 @@ categories:
 ![](/imgs/skuldur-30-up.jpg)
 
 ###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
+
+{% include respiration.html %}
+
+###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
