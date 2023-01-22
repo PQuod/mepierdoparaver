@@ -34,6 +34,26 @@ categories:
 
 {% include respiration.html %}
 
+{% include separation.html %}
+
+{% include respiration.html %}
+
+![](/imgs/pxl_20221110_125804532-night-up.jpg)
+
+###### _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env.
+
+![](/imgs/pxl_20221110_132043070-night-up.jpg)
+
+###### _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env.
+
+![](/imgs/skuldur-30-up.jpg)
+
+###### _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env. Photo : Alix Desaubliaux.
+
+###### (vue d’exposition), _Skuldur_, exposition du 17 au 20 septembre 2020, Hôtel dieu, Rennes, France.
+
+{% include respiration.html %}
+
 Oui et alors ?
 
 {% include respiration.html %}
