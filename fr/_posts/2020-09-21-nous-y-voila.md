@@ -24,7 +24,11 @@ categories:
 
 ###### (vue d’exposition), _Habiter entre_, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
 
+{% include respiration.html %}
+
 {% include separation.html %}
+
+{% include respiration.html %}
 
 ![](/imgs/skuldur-30-up.jpg)
 
