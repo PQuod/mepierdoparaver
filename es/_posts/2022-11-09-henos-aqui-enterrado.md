@@ -34,6 +34,32 @@ categories:
 
 {% include respiration.html %}
 
+{% include separation.html %}
+
+{% include respiration.html %}
+
+![](/imgs/pxl_20221110_125804532-night-up.jpg)
+
+###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox.
+
+![](/imgs/pxl_20221110_132043070-night-up.jpg)
+
+###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox.
+
+{% include respiration.html %}
+
+{% include separation.html %}
+
+{% include respiration.html %}
+
+![](/imgs/skuldur-30-up.jpg)
+
+###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox. Foto : Alix Desaubliaux.
+
+###### (vista de exposición), _Skuldur_, exposición del 17 al 20 de septiembre 2020, Hôtel dieu, Rennes, Francia.
+
+{% include respiration.html %}
+
 ¿Si y qué?
 
 {% include respiration.html %}
