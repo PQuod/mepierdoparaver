@@ -10,11 +10,7 @@ categories:
 ---
 ![](/imgs/pxl_20221110_133414006-night-up.jpg)
 
-###### _Nous y voilà (enterré)_, 2020-2022, souche de noisetier nettoyée, poncée et teinté, 80 x 65 x 60 cm. env.
-
 ![](/imgs/pxl_20221110_133255335-night-up.jpg)
-
-###### _Nous y voilà (enterré)_, 2020-2022, souche de noisetier nettoyée, poncée et teinté, 80 x 65 x 60 cm. env.
 
 ![](/imgs/pxl_20221110_133133012-night-up.jpg)
 
@@ -40,11 +36,13 @@ categories:
 
 ![](/imgs/pxl_20221110_125804532-night-up.jpg)
 
-###### _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env.
-
 ![](/imgs/pxl_20221110_132043070-night-up.jpg)
 
 ###### _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env.
+
+![](/imgs/pxl_20221110_132610277-night-up.jpg)
+
+###### _Nous y voilà_, détail.
 
 ![](/imgs/skuldur-30-up.jpg)
 
