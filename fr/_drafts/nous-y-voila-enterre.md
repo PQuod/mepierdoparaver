@@ -33,3 +33,13 @@ Et alors ?
 ###### Devant : _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env.
 
 ###### (vue d’exposition), _Habiter entre_, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
+
+{% include respiration.html %}
+
+###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
