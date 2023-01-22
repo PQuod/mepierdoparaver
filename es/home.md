@@ -7,6 +7,8 @@ lang: es
 ---
 _Taller de serigrafía_. Encargado del curso (L2) I-2023. Departamento de Artes plásticas. Universidad Rennes 2 - bâtiment M (Mussat), campus Villejean, 35000 Rennes, Francia.
 
+_Talleres de artes plásticas con un público escolar_. Marzo 2023. L’aparté, lieu d’art contemporain. Lac de Trémelin, 35750 Iffendic, Francia.
+
 _Lèche-Vitrines_. Exposición en espacio público. Octubre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, Francia.
 
 {% include respiration.html %}
