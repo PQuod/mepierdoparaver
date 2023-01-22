@@ -38,7 +38,7 @@ categories:
 
 {% include respiration.html %}
 
-¿Y qué?
+¿Si y qué?
 
 {% include respiration.html %}
 
