@@ -38,7 +38,7 @@ categories:
 
 {% include respiration.html %}
 
-Et alors ?
+Oui et alors ?
 
 {% include respiration.html %}
 
