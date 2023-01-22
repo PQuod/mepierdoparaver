@@ -24,7 +24,9 @@ categories:
 
 ###### (vista de exposición), _Habiter entre_, exposición del 10 de noviembre al 13 de diciembre 2022, CDI du Collège François Truffaut, 35830 Betton, Francia.
 
-¿Y qué?
+{% include respiration.html %}
+
+{% include separation.html %}
 
 {% include respiration.html %}
 
@@ -33,6 +35,10 @@ categories:
 ###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
 
 ###### (vista de exposición), _Skuldur_, exposición del 17 al 20 de septiembre 2020, Hôtel dieu, Rennes, Francia.
+
+{% include respiration.html %}
+
+¿Y qué?
 
 {% include respiration.html %}
 
