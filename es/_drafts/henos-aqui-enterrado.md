@@ -25,3 +25,9 @@ categories:
 ###### _Henos aquí (enterrado)_, detalle.
 
 ![](/imgs/pxl_20221110_132430281-night-up.jpg)
+
+###### _Henos aquí (enterrado)_, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
+
+###### Al frente : _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
+
+###### (vue d’exposition), _Habiter entre_, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
