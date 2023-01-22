@@ -26,8 +26,20 @@ categories:
 
 Et alors ?
 
+{% include respiration.html %}
+
 ![](/imgs/skuldur-30-up.jpg)
 
 ###### _Nous y voilà_, 2020, souche de noisetier taillée, 38 x 48 x 54 cm. env.
 
 ###### (vue d’exposition), _Skuldur_, exposition du 17 au 20 septembre 2020, Hôtel dieu, Rennes, France.
+
+{% include respiration.html %}
+
+###### **_—_** _Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas)._
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
