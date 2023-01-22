@@ -26,6 +26,8 @@ categories:
 
 ¿y qué?
 
+{% include respiration.html %}
+
 ![](/imgs/skuldur-30-up.jpg)
 
 ###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
