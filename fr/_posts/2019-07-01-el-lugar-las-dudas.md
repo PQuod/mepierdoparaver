@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-date: 2019-07-01 08:30:15 +0000
+date: 2019-07-01T08:30:15.000+00:00
 title: Le Lieu, Les Doutes
 lang-ref: lugardudas
 categories:
@@ -16,6 +16,16 @@ _El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de
 {% include respiration.html %}
 
 [ÉCOUTER ICI (AVEC CASQUE DE PRÉFÉRENCE)](https://mepierdoparaver.bandcamp.com/releases)
+
+{% include respiration.html %}
+
+![](/imgs/20200208_194430-up.jpg)
+
+###### (vue d’exposition), _Brut’image #1 - Sons, cinémas, résistances_, exposition le 7 et 8 février 2020, Les Ateliers de Bitche, Nantes, France.
+
+{% include respiration.html %}
+
+{% include separation.html %}
 
 {% include respiration.html %}
 
