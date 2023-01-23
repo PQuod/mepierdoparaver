@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: es
-date: 2019-06-30 22:00:00 +0000
+date: 2019-06-30T22:00:00.000+00:00
 title: El Lugar, Las Dudas
 lang-ref: lugardudas
 categories:
@@ -16,6 +16,16 @@ _El Lugar, Las Dudas_ es el resultado (una selección) de mis experimentaciones 
 {% include respiration.html %}
 
 [ESCUCHAR ACÁ (CON AURICULARES PREFERENTEMENTE)](https://mepierdoparaver.bandcamp.com/releases)
+
+{% include respiration.html %}
+
+![](/imgs/20200208_194430-up.jpg)
+
+###### (vista de exposición), _Brut’image #1 - Sons, cinémas, résistances_, exposición el 7 y 8 de febrero 2020, Les Ateliers de Bitche, Nantes, Francia.
+
+{% include respiration.html %}
+
+{% include separation.html %}
 
 {% include respiration.html %}
 
