@@ -8,7 +8,7 @@ categories:
 - volume
 
 ---
-Es decir...C'est-à-dire...
+C'est-à-dire...
 
 {% include respiration.html %}
 
