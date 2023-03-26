@@ -28,7 +28,7 @@ soundcloudId: '1136569246'
 
 ###### (vue d’exposition), _L'ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, centre culturel Le Pont des arts, Parc de Bourgchevreuil, 35510 Cesson-Sévigné, France.
 
-Vidéo expérimentale où j'essaie de dialoguer avec mon ombre à travers de la marche
+Vidéo expérimentale où la marche est une méthode pour essayer d'écouter mon ombre, de dialoguer avec elle.
 
 {% include respiration.html %}
 
@@ -78,7 +78,7 @@ Une promenade erratique où l’on est invité à expérimenter autant l’image
 
 {% include respiration.html %}
 
-Listen to the Shadows est une œuvre composée d'une vidéo, une pièce sonore et une édition d'artiste. Résultat d'une résidence expérimentale de création artistique qui a eu lieu à Șona (Roumanie) pendant l'été 2021. Projet de résidence organisé par le collectif [Sounds Like a Book](https://soundslikeabook.com/).
+Listen to the Shadows est une œuvre composée d'une vidéo, deux pièces sonores et une édition d'artiste. Résultat d'une résidence expérimentale de création artistique qui a eu lieu à Șona (Roumanie) pendant l'été 2021. Projet de résidence organisé par le collectif [Sounds Like a Book](https://soundslikeabook.com/).
 
 {% include respiration.html %}
 
