@@ -24,9 +24,19 @@ soundcloudId: '1136569246'
 
 ###### (vista de exposición), _L’ombre dûe_, exposición ddel 22 de febrero al 6 de abril 2022, Galerie Pictura, centro cultural Le Pont des arts, Parc de Bourgchevreuil, 35510 Cesson-Sévigné, Francia.
 
-{% include soundcloud.html id=page.soundcloudId %}
+Video experimental donde el caminar es un método para intentar escuchar mi sombra, dialogar con ella.
 
-###### _Listen to the Shadows (dialogue)_, 2021, pieza sonora, sonido estéreo, 12:36 aprox.
+{% include respiration.html %}
+
+{% include separation.html %}
+
+{% include respiration.html %}
+
+{% include soundcloud.html id='1477798993' %}
+
+{% include soundcloud.html id='1477799008' %}
+
+###### _Listen to the Shadows (dialogue)_, 2021, piezas sonoras, sonido estéreo, 12:36 aprox.
 
 Pieza sonora experimental compuesta de dos fuentes: Por una parte, la grabación con un micrófono de contacto del sonido de una sombra que –misteriosamente– revela pulsaciones profundas y uniformemente rítmicas. Por otra parte, la grabación de una sesión de improvisación sonora con un controlador midi que muestra un intuitifo y ecléctico flujo de sonoridades.
 
@@ -64,7 +74,7 @@ Una caminata errática donde se invita a experimentar tanto la imagen de un soni
 
 {% include respiration.html %}
 
-_Listen to the Shadows_ es una obra compuesta de un video, una pieza sonora y un libro de artista. Resultado de una residencia experimental de creación artística que tuvo lugar en Sona (Rumania) durante el verando 2021. Proyecto de residencia organizado por el colectivo [Sounds Like a Book](https://soundslikeabook.com/).
+_Listen to the Shadows_ es una obra compuesta de un video, dos piezas sonoras y un libro de artista. Resultado de una residencia experimental de creación artística que tuvo lugar en Sona (Rumania) durante el verando 2021. Proyecto de residencia organizado por el colectivo [Sounds Like a Book](https://soundslikeabook.com/).
 
 {% include respiration.html %}
 
