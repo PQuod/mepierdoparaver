@@ -28,12 +28,9 @@ soundcloudId: '1136569246'
 
 ###### (vue d’exposition), _L'ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, centre culturel Le Pont des arts, Parc de Bourgchevreuil, 35510 Cesson-Sévigné, France.
 
-{% include soundcloud.html id='fb5282667cc447b084f169b086b3b25c' %}
+{% include soundcloud.html id='1477798993' %}
 
-{% include soundcloud.html id='' %}
-<!-- Inscrire le numéro du morceau entre les deux apostrophes après id -->
-
-https://soundcloud.com/mepierdoparaver/listen-to-the-shadows-dialogue-a?si=fb5282667cc447b084f169b086b3b25c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="[https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1477798993&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1477798993&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1477798993&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true")"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="[https://soundcloud.com/mepierdoparaver](https://soundcloud.com/mepierdoparaver "https://soundcloud.com/mepierdoparaver")" title="mepierdoparaver" target="_blank" style="color: #cccccc; text-decoration: none;">mepierdoparaver</a> · <a href="[https://soundcloud.com/mepierdoparaver/listen-to-the-shadows-dialogue-a](https://soundcloud.com/mepierdoparaver/listen-to-the-shadows-dialogue-a "https://soundcloud.com/mepierdoparaver/listen-to-the-shadows-dialogue-a")" title="Listen to the Shadows (dialogue) - A" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to the Shadows (dialogue) - A</a></div>
 
 ###### _Listen to the Shadows (dialogue)_, 2021, pièce sonore, son stéréo, 12:36 env.
 
