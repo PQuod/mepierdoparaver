@@ -28,7 +28,7 @@ soundcloudId: '1136569246'
 
 ###### (vue d’exposition), _L'ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, centre culturel Le Pont des arts, Parc de Bourgchevreuil, 35510 Cesson-Sévigné, France.
 
-{% include soundcloud.html id='https://on.soundcloud.com/GtaKu' %}
+{% include soundcloud.html id='GtaKu' %}
 
 ###### _Listen to the Shadows (dialogue)_, 2021, pièce sonore, son stéréo, 12:36 env.
 
