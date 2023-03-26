@@ -28,7 +28,12 @@ soundcloudId: '1136569246'
 
 ###### (vue d’exposition), _L'ombre dûe_, exposition du 22 février au 6 avril 2022, Galerie Pictura, centre culturel Le Pont des arts, Parc de Bourgchevreuil, 35510 Cesson-Sévigné, France.
 
-{% include soundcloud.html id='GtaKu' %}
+{% include soundcloud.html id='fb5282667cc447b084f169b086b3b25c' %}
+
+{% include soundcloud.html id='' %}
+<!-- Inscrire le numéro du morceau entre les deux apostrophes après id -->
+
+https://soundcloud.com/mepierdoparaver/listen-to-the-shadows-dialogue-a?si=fb5282667cc447b084f169b086b3b25c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 ###### _Listen to the Shadows (dialogue)_, 2021, pièce sonore, son stéréo, 12:36 env.
 
