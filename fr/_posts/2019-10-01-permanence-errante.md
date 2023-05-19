@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2019-10-01 07:25:51 +0000
+date: '2019-10-01 07:25:51 +0000'
 title: Permanence-errante
 lang-ref: permanencerrante
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/01-20191018_121719-up.jpg)
 
 ###### _Permanence-errante_, 2019, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, vue de l'extérieur, dimensions variables env.

@@ -1,17 +1,21 @@
 ---
 layout: post
 lang: fr
-date: 2017-01-01T22:04:16.000+00:00
+date: 2017-01-01T22:04:16.000Z
 title: Les yeux fermés
 lang-ref: yeuxfermes
 categories:
-- dessin
-- divers
+  - dessin
+  - divers
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/carlosbernal-conlosojoscerrados.gif)
 
 ###### _Les yeux fermés_, 2017, image animée, muette, ∞ env. en boucle.

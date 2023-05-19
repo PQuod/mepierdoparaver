@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: es
-date: 2022-01-31T23:00:00.000+00:00
+date: 2022-01-31T23:00:00.000Z
 title: ser-umbral
 lang-ref: etreseuil
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/etre-seuil-2021-2022-1-up.jpg)
 
 ###### _ser-umbral_, 2021-2022, conjunto compuesto de tres espejos grabados y una placa de vidrio grabada, vinilo adhesivo transparente (efecto espejo), marco en madera, 90 x 200 cm. aprox. c/u. A la izquierda: _ser-umbral (enterrado)_. A la derecha: _ser-umbral (lejano)_.

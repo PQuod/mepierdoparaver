@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: es
-date: 2017-04-30 22:00:00 +0000
+date: '2017-04-30 22:00:00 +0000'
 title: Los ineludibles
 lang-ref: incontournables
 categories:
-- video
-
+  - video
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id='210568747?h=f1c7dc8f4a' %}
 
 ###### _Los ineludibles_, 2017, (extractos), conjunto de diez videos, sonido, 10:30 aprox. c/u.

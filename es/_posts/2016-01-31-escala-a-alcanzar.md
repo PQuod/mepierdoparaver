@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: es
-date: 2016-01-31 23:00:00 +0000
+date: '2016-01-31 23:00:00 +0000'
 title: Escala a alcanzar
 lang-ref: echelleatteindre
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/echelle-a-atteindre-2015-2016-up.jpg)
 
 ###### _Escala a alcanzar_, 2015-2016, vista general, cola pegante transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.

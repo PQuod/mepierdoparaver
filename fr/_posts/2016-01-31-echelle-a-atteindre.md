@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2016-01-31 23:00:00 +0000
+date: '2016-01-31 23:00:00 +0000'
 title: Échelle à atteindre
 lang-ref: echelleatteindre
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/echelle-a-atteindre-2015-2016-up.jpg)
 
 ###### _Échelle à atteindre_, 2015-2016, vue de l’ensemble, colle universelle transparente sur vitre, dessin sur place, dimensions variables env.

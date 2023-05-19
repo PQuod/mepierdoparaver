@@ -1,17 +1,21 @@
 ---
 layout: post
 lang: es
-date: 2019-01-01 13:14:49 +0000
+date: '2019-01-01 13:14:49 +0000'
 title: Desecación
 lang-ref: dessiccation
 categories:
-- dessin
-- volume
+  - dessin
+  - volume
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/disseccation-01.jpg)
 
 ###### _Desecación_, 2019, yeso tallado a mano, placa de yeso pigmentado realizado por [Hélène Farges](https://helenefarges.net/), 14 x 9 x 1,2 cm. aprox. Foto : Alix Desaubliaux.

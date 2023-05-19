@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: es
-date: 2019-09-30 22:00:00 +0000
+date: '2019-09-30 22:00:00 +0000'
 title: Permanencia-errante
 lang-ref: permanencerrante
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/01-20191018_121719-up.jpg)
 
 ###### _Permanencia-errante_, 2019, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, vista del exterior, dimensiones variables aprox.

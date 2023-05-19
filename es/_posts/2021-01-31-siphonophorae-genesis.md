@@ -1,15 +1,19 @@
 ---
 layout: post
 lang: es
-date: 2021-11-30T23:00:00.000+00:00
+date: 2021-11-30T23:00:00.000Z
 title: Siphonophoræ (génesis)
 lang-ref: siphogenese
 categories:
-- edition
-- video
-- dessin
-
+  - edition
+  - video
+  - dessin
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id='757941908?h=1c147faca0' %}
 
 ###### _Siphonophoræ (génesis)_, 2020-2021, dibujo vectorial, impresión laser, video-proyección, dimensiones variables aprox.

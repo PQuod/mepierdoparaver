@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2017-08-31 22:00:00 +0000
+date: '2017-08-31 22:00:00 +0000'
 title: À un certain moment
 lang-ref: certainmoment
 categories:
-- video
+  - video
 vimeoId: 235543490?h=d0e5e4bd1c
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _À un certain moment_, 2017, vidéo monocanal, son, 04:03 env.

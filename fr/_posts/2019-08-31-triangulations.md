@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2019-08-31 22:00:00 +0000
+date: '2019-08-31 22:00:00 +0000'
 title: TRIANGULATIONS
 lang-ref: triangulaciones
 categories:
-- son
+  - son
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/afiche-triangulaciones-up.jpg)
 
 {% include respiration.html %}

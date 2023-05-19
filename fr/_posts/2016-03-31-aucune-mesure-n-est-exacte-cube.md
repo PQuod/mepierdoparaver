@@ -1,17 +1,21 @@
 ---
 layout: post
 lang: fr
-date: 2016-03-31T22:00:00.000+00:00
+date: 2016-03-31T22:00:00.000Z
 title: Aucune mesure n'est exacte (cube)
 lang-ref: aucuncube
 categories:
-- edition
-- dessin
+  - edition
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/aucune-mesure-test-gif01.gif)
 
 {% include respiration.html %}

@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2016-09-30 22:00:00 +0000
+date: '2016-09-30 22:00:00 +0000'
 title: Demeurer à
 lang-ref: demeurera
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/demeurer-a-12-up.jpg)
 
 ###### _Demeurer à_, 2016, série de dessins, fusain et mine de plomb sur papier Clairefontaine Maya 120 gr. env., 35 x 50 cm. env., collection particulière.

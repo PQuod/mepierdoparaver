@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: es
-date: 2016-09-30 22:00:00 +0000
+date: '2016-09-30 22:00:00 +0000'
 title: Permanecer en
 lang-ref: demeurera
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/demeurer-a-12-up.jpg)
 
 ###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.

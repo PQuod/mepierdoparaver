@@ -1,17 +1,21 @@
 ---
 layout: post
 lang: es
-date: 2016-12-31T23:00:00.000+00:00
-title: Fantasma 4 [Aparición]
+date: 2016-12-31T23:00:00.000Z
+title: 'Fantasma 4 [Aparición]'
 lang-ref: fantomeapparition
 categories:
-- dessin
-- video
+  - dessin
+  - video
 vimeoId: 203028277?h=163290669b
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Fantasma 4 \[Aparición\]_, 2017, (extrait), video monocanal, mudo, 23:55 aprox. en boucle.

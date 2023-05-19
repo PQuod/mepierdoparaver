@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2017-11-30T23:00:00.000+00:00
+date: 2017-11-30T23:00:00.000Z
 title: Momentanément - étape 1
 lang-ref: momentanement1
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 Issu de la répétition d’un geste simple, ce dessin-prolifération est encore en train de grandir ; il pourrait toujours être repris ultérieurement. À chaque fois qu’il est exposé il est terminé, car il s’agit d’un moment donné d’un flux plus vaste, impermanent.
 
 Croître n’est seulement une expansion quantitative ni une accumulation passive, c’est aussi adaptation et stagnation ; croître c’est être en étant dans le présent.

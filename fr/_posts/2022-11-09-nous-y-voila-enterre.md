@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2022-01-29 23:00:00 +0000
+date: '2022-01-29 23:00:00 +0000'
 title: Nous y voilà
 lang-ref: henosaquienterra
 categories:
-- volume
-
+  - volume
+_template: post
 ---
+
+
+
+
 C'est-à-dire...
 
 {% include respiration.html %}

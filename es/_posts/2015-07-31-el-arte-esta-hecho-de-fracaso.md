@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: es
-date: 2015-07-31 22:00:00 +0000
+date: '2015-07-31 22:00:00 +0000'
 title: El Arte está hecho de fracaso
 lang-ref: artechec
 categories:
-- volume
+  - volume
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/cbernal3-1-up.jpg)
 
 ###### _El Arte está hecho de fracaso_, 2015, bloque de vidrio reconstruido, proyecto realizado en colaboración con [Marta Veinberga](http://martaveinberga.com/) & Anna Pabērza, 24,5 x 24,5 x 10 cm. aprox.

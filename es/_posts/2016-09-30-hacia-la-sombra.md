@@ -1,14 +1,18 @@
 ---
 layout: post
 lang: es
-date: 2021-12-31 23:00:00 +0000
+date: '2021-12-31 23:00:00 +0000'
 title: Hacia la sombra
 lang-ref: versombre
 categories:
-- volume
-- dessin
-
+  - volume
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/vers-l-ombre-emsemble-2016-2022-3-up.jpg)
 
 ###### _Hacia la sombra_, 2016-2022, tres hemi-esferas plásticas grabadas a la punta seca, 12 cm Ø aprox, tres bases en madera, sombras, tronco de cerezo tallado a mano, bombillos suspendidos del techo, dimensiones variables aprox.

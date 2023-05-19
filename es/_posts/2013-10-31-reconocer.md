@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: es
-date: 2013-10-31T23:00:00.000+00:00
+date: 2013-10-31T23:00:00.000Z
 title: Reconocer
 lang-ref: reconnaitre
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/d-01-300-up.jpg)
 
 ###### _Reconocer_, 2013, lapicero sobre papel, 29,7 x 21 cm. aprox.

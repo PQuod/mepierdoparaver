@@ -1,17 +1,21 @@
 ---
 layout: post
 lang: fr
-date: 2016-12-31T23:00:00.000+00:00
-title: Fantôme 4 [Apparition]
+date: 2016-12-31T23:00:00.000Z
+title: 'Fantôme 4 [Apparition]'
 lang-ref: fantomeapparition
 categories:
-- video
-- dessin
+  - video
+  - dessin
 vimeoId: 203028277?h=163290669b
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Fantôme 4 \[Apparition\]_, 2017, (extrait), vidéo monocanal, muette, 23:55 env. en boucle.

@@ -1,17 +1,21 @@
 ---
 layout: post
 lang: fr
-date: 2018-06-30 22:00:00 +0000
+date: '2018-06-30 22:00:00 +0000'
 title: Interludes
 lang-ref: interludes
 categories:
-- divers
-- dessin
+  - divers
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/interlude-1a-gif.gif)
 
 ###### _Interludes_, 2018, image animée, site web éphémère, dimensions variables env.

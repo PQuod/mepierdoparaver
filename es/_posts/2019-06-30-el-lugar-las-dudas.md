@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: es
-date: 2019-06-30T22:00:00.000+00:00
-title: El Lugar, Las Dudas
+date: 2019-06-30T22:00:00.000Z
+title: 'El Lugar, Las Dudas'
 lang-ref: lugardudas
 categories:
-- son
+  - son
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 _El Lugar, Las Dudas_ es el resultado (una selección) de mis experimentaciones sonoras en solitario con el bajo eléctrico. Las he realizado durante una residencia de creación/experimentación en Colombia entre junio y julio 2019. Dichas experimentaciones finalmente tomaron forma de disco (en versión digital) compuesto de ocho pistas.
 
 {% include respiration.html %}

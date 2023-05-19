@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2019-02-28 23:00:00 +0000
+date: '2019-02-28 23:00:00 +0000'
 title: Pourquoi sommes-nous venus ?
 lang-ref: aquevinimos
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/dsc_1911-fin-up.jpg)
 
 ###### _Pourquoi sommes-nous venus ?_, 2019, film adhésif transparent collé sur vitre, dimensions variables.

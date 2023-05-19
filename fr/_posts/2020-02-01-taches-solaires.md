@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2020-02-01 16:24:37 +0000
+date: '2020-02-01 16:24:37 +0000'
 title: Taches solaires
 lang-ref: tachessolaires
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/dsc_2217-up.jpg)
 
 ![](/imgs/dsc_2215-up.jpg)

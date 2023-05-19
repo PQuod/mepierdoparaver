@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2018-04-30 22:00:00 +0000
+date: '2018-04-30 22:00:00 +0000'
 title: Momentanément (équilibre)
 lang-ref: momentaneamenteeq
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/momentaneamente-equilibrio-01-up.jpg)
 
 ![](/imgs/momentaneamente-equilibrio-02-up.jpg)

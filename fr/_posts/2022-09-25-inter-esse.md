@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2022-09-25 22:00:00 +0000
+date: '2022-09-25 22:00:00 +0000'
 title: inter-esse
 lang-ref: interesse
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/pxl_20220910_112703454-up.jpg)
 
 ###### _inter-esse_, 2022, film adhésif transparent (miroir sans tain) gravé à la pointe sèche collé sur vitre, moitié visible, dimensions variables env.

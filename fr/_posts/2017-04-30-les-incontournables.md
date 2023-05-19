@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2017-04-30 22:00:00 +0000
+date: '2017-04-30 22:00:00 +0000'
 title: Les incontournables
 lang-ref: incontournables
 categories:
-- video
-
+  - video
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id='210568747?h=f1c7dc8f4a' %}
 
 ###### _Les incontournables_, 2017, (extraits), ensemble de dix vidéos monocanal, son, 10:30 env. ch.

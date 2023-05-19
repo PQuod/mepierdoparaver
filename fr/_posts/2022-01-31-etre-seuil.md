@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2022-01-31T23:00:00.000+00:00
+date: 2022-01-31T23:00:00.000Z
 title: être-seuil
 lang-ref: etreseuil
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/etre-seuil-2021-2022-1-up.jpg)
 
 ###### _être-seuil_, 2021-2022, ensemble composé de trois miroirs gravés et une plaque de verre gravée, film adhésif transparent (miroir sans tain), cadre en bois, 90 x 200 cm. env. ch. À gauche : _être-seuil (enterré)_. À droite : _être-seuil (lointain)_.

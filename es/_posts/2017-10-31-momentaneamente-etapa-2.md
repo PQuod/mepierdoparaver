@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: es
-date: 2022-01-31T23:00:00.000+00:00
+date: 2022-01-31T23:00:00.000Z
 title: Momentáneamente - etapa 2
 lang-ref: momentanement2
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 Producto de la repetición de un gesto simple, este dibujo-proliferación está todavía creciendo; podrá ser retomado ulteriormente. Cada vez que es expuesto está terminado, porque se trata de un momento instalado en un flujo más vasto, impermanente.
 
 Crecer no es solamente expansión cuantitativa ni acumulación pasiva, es también adaptación y estancamiento; crecer es ser/estar en el presente.

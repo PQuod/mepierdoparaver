@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2013-10-31T23:00:00.000+00:00
+date: 2013-10-31T23:00:00.000Z
 title: Reconnaître
 lang-ref: reconnaitre
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/d-01-300-up.jpg)
 
 ###### _Reconnaître_, 2013, stylo-bille sur papier, 29,7 x 21 cm. env.

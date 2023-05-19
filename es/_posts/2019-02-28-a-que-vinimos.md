@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: es
-date: 2019-02-28 23:00:00 +0000
-title: "¿A qué vinimos?"
+date: '2019-02-28 23:00:00 +0000'
+title: ¿A qué vinimos?
 lang-ref: aquevinimos
 categories:
-- dessin
+  - dessin
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/dsc_1911-fin-up.jpg)
 
 ###### _¿A qué vinimos?_, 2019, cinta adhesiva transparente sobre vidrio, dimensiones variables.

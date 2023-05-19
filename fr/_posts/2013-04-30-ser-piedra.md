@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2013-04-30 22:00:00 +0000
+date: '2013-04-30 22:00:00 +0000'
 title: Être Pierre
 lang-ref: serpiedra
 categories:
-- video
+  - video
 vimeoId: 67186863?h=26ee378cb3
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Être Pierre_, 2013, vidéo monocanal, son, 04:22 env.

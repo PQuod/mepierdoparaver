@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: fr
-date: 2014-10-31 23:00:00 +0000
+date: '2014-10-31 23:00:00 +0000'
 title: Variations erratiques
 lang-ref: variationserratiques
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/variacion-erratil-1-3-1-up.jpg)
 
 ###### _Variación errátil 1.3_, 2014, linoléum gravé, 22,8 x 22,8 cm. env.

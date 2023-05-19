@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2015-07-31 22:00:00 +0000
+date: '2015-07-31 22:00:00 +0000'
 title: l'Art est fait d'échec
 lang-ref: artechec
 categories:
-- volume
+  - volume
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 ![](/imgs/cbernal3-1-up.jpg)
 
 ###### _l'Art est fait d'échec_, 2015, bloc de verre reconstruit, projet réalisé en collaboration avec [Marta Veinberga](http://martaveinberga.com/) & Anna Pabērza, 24,5 x 24,5 x 10 cm. env.

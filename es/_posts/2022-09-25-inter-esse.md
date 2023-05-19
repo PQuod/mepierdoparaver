@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: es
-date: 2022-09-25 22:00:00 +0000
+date: '2022-09-25 22:00:00 +0000'
 title: inter-esse
 lang-ref: interesse
 categories:
-- dessin
-
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/pxl_20220910_112703454-up.jpg)
 
 ###### _inter-esse_, 2022, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, mitad visible, dimensiones variables aprox.

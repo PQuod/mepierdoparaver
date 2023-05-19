@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: es
-date: 2017-07-01T17:16:56.000+00:00
+date: 2017-07-01T17:16:56.000Z
 title: Estar frontera
 lang-ref: estarfrontera
 categories:
-- video
+  - video
 vimeoId: 250158424?h=d67fd2ad60
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id='250158424?h=d67fd2ad60' %}
 
 ###### _Estar frontera_, 2017, video monocanal, sonido, 06:22 aprox. en boucle.

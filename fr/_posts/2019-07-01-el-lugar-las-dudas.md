@@ -1,16 +1,20 @@
 ---
 layout: post
 lang: fr
-date: 2019-07-01T08:30:15.000+00:00
-title: Le Lieu, Les Doutes
+date: 2019-07-01T08:30:15.000Z
+title: 'Le Lieu, Les Doutes'
 lang-ref: lugardudas
 categories:
-- son
+  - son
 vimeoId: ''
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 _El Lugar, Las Dudas_ (Le Lieu, Les Doutes) est le résultat (une sélection) de mes expérimentations sonores en solo avec la basse électrique. Je les ai réalisées pendant une résidence de création/expérimentation en Colombie entre juin et juillet 2019. Ces expérimentations ont finalement pris forme de disque (en version numérique) avec huit morceaux.
 
 {% include respiration.html %}

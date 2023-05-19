@@ -1,14 +1,18 @@
 ---
 layout: post
 lang: fr
-date: 2021-12-31 23:00:00 +0000
+date: '2021-12-31 23:00:00 +0000'
 title: Vers l’ombre
 lang-ref: versombre
 categories:
-- volume
-- dessin
-
+  - volume
+  - dessin
+_template: post
 ---
+
+
+
+
 ![](/imgs/vers-l-ombre-emsemble-2016-2022-3-up.jpg)
 
 ###### _Vers l’ombre_, 2016-2022, trois hémi-sphères plastiques gravées à la pointe sèche, 12 cm Ø env, trois socles en bois, ombres, tronc de cerisier taillé à la main, ampoules suspendues au plafond, dimensions variables env.

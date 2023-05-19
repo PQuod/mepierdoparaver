@@ -1,17 +1,21 @@
 ---
 layout: post
 lang: fr
-date: 2019-10-31T23:00:00.000+00:00
+date: 2019-10-31T23:00:00.000Z
 title: 'Au regard de '
 lang-ref: auregardde
 categories:
-- son
-- video
+  - son
+  - video
 vimeoId: 351389664?h=dbfd97dcde
 soundcloudId: ''
 youtubeId: ''
-
+_template: post
 ---
+
+
+
+
 {% include vimeo.html id=page.vimeoId %}
 
 ###### _Au regard de_, 2019, (extrait), vidéo monocanal, son, 14:03 env.

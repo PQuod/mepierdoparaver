@@ -1,13 +1,17 @@
 ---
 layout: post
 lang: es
-date: 2016-09-30T22:00:00.000+00:00
+date: 2016-09-30T22:00:00.000Z
 title: Disponible
 lang-ref: dispo
 categories:
-- edition
-
+  - edition
+_template: post
 ---
+
+
+
+
 ![](/imgs/disponible-2-up.jpg)
 
 ###### _Disponible_, 2016, serigrafía, 50 ejemplares numerados y firmados sobre papel  Rivoli 240 gr. aprox., 70 x 70 cm. aprox.
