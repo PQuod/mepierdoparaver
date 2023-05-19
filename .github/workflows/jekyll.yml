@@ -46,7 +46,7 @@ jobs:
         env:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.CLIENTID }}
           TINA_TOKEN: ${{ secrets.TOKEN }}
-        run: npx tinacms build
+        run: npm install && npx tinacms build
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
