@@ -44,8 +44,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Build TinaCMS
         env:
-          TINA_CLIENT_ID: ${{ secrets.CLIENTID }}
-          TINA_TOKEN: ${{ secrets.TOKEN }}
+          TINA_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: npm install && npx tinacms build
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
