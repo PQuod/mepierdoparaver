@@ -1,16 +1,12 @@
 ---
 layout: post
 lang: es
-date: '2022-01-29 23:00:00 +0000'
+date: 2022-01-29T23:00:00.000Z
 title: Henos aquí
 lang-ref: henosaquienterra
 categories:
   - volume
-_template: post
 ---
-
-
-
 
 Es decir...
 
@@ -22,19 +18,19 @@ Es decir...
 
 ![](/imgs/pxl_20221110_133133012-night-up.jpg)
 
-###### _Henos aquí (enterrado)_, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
+###### *Henos aquí (consejera)*, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
 
 ![](/imgs/pxl_20221110_133103788-night-up.jpg)
 
-###### _Henos aquí (enterrado)_, detalle.
+###### *Henos aquí (consejera)*, detalle.
 
 ![](/imgs/pxl_20221110_132430281-night-up.jpg)
 
-###### Al frente: _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
+###### Al frente: *Henos aquí*, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. env.
 
-###### Al fondo: _Henos aquí (enterrado)_, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
+###### Al fondo: *Henos aquí (consejera)*, 2020-2022, tocón de avellano limpiado, lijado y teñido, 80 x 65 x 60 cm. aprox.
 
-###### (vue d’exposition), _Habiter entre_, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
+###### (vue d’exposition), *Habiter entre*, exposition du 10 novembre au 13 décembre 2022, CDI du Collège François Truffaut, 35830 Betton, France.
 
 {% include respiration.html %}
 
@@ -46,11 +42,11 @@ Es decir...
 
 ![](/imgs/pxl_20221110_132043070-night-up.jpg)
 
-###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox.
+###### *Henos aquí*, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox.
 
 ![](/imgs/pxl_20221110_132610277-night-up.jpg)
 
-###### _Henos aquí_, detalle.
+###### *Henos aquí*, detalle.
 
 {% include respiration.html %}
 
@@ -60,9 +56,9 @@ Es decir...
 
 ![](/imgs/skuldur-30-up.jpg)
 
-###### _Henos aquí_, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox. Foto : Alix Desaubliaux.
+###### *Henos aquí*, 2020, tocón de avellano tallado, 38 x 48 x 54 cm. aprox. Foto : Alix Desaubliaux.
 
-###### (vista de exposición), _Skuldur_, exposición del 17 al 20 de septiembre 2020, Hôtel dieu, Rennes, Francia.
+###### (vista de exposición), *Skuldur*, exposición del 17 al 20 de septiembre 2020, Hôtel dieu, Rennes, Francia.
 
 {% include respiration.html %}
 
@@ -70,7 +66,7 @@ Es decir...
 
 {% include respiration.html %}
 
-###### — _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### — *Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente).*
 
 {% include respiration.html %}
 
