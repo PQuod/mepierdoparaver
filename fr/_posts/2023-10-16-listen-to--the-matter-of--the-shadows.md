@@ -11,3 +11,13 @@ categories:
 ![](</Listen to (the matter of) the shadows SCAN (300) UP.jpg>)
 
 ###### *Listen to (the matter of) the shadows*, 2022, sérigraphie, 50 exemplaires numérotés & signés, 30 x 50 cm. env.
+
+![](</Listen to (the matter of) the shadows SCAN (300) -1 UP.jpg>)
+
+![](</Listen to (the matter of) the shadows SCAN (300) -2 UP.jpg>)
+
+![](</Listen to (the matter of) the shadows SCAN (300) -3 UP.jpg>)
+
+###### *Listen to (the matter of) the shadows*, détails.
+
+![](</PXL_20230924_143905435.NIGHT-1 UP.jpg>)
