@@ -8,7 +8,7 @@ categories:
   - edition
 ---
 
-Sérigraphie sonore ?
+Qu'est-ce qui caractérise la matière des ombres ?
 
 ![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN_300_UP.jpg)
 
@@ -22,6 +22,12 @@ Sérigraphie sonore ?
 
 ###### *Listen to (the matter of) the shadows*, détails.
 
+{% include respiration.html %}
+
+Ombre gazeuse, matière granuleuse.
+
+{% include respiration.html %}
+
 ![](/imgs/PXL_20230924_143905435.NIGHT-1-UP.jpg)
 
 ###### *Listen to (the matter of) the shadows*, 2022, sérigraphie à douze couches, 20 exemplaires numérotés & signés sur papier Clairefontaine 120 gr. env., 30 x 42 cm. env.
@@ -30,9 +36,7 @@ Sérigraphie sonore ?
 
 {% include respiration.html %}
 
-Qu'est-ce qui caractérise la matière des ombres ?
-
-Ombre gazeuse, matière granuleuse.
+Transduction en sérigraphie de la vidéo *Listen to the shadows (wander)* (2021).
 
 {% include respiration.html %}
 
