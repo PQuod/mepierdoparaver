@@ -10,6 +10,8 @@ categories:
 
 Qu'est-ce qui caractérise la matière des ombres ?
 
+{% include respiration.html %}
+
 ![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN_300_UP.jpg)
 
 ###### *Listen to (the matter of) the shadows*, 2022, sérigraphie à douze couches, 20 exemplaires numérotés & signés sur papier Clairefontaine 120 gr. env., 30 x 42 cm. env.
