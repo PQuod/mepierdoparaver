@@ -8,7 +8,7 @@ categories:
   - edition
 ---
 
-¿Qué caracteriza la materia de las sombras?
+¿Qué caracteriza la materialidad de las sombras?
 
 {% include respiration.html %}
 
