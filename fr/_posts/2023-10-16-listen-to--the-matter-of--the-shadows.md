@@ -8,7 +8,7 @@ categories:
   - edition
 ---
 
-Qu'est-ce qui caractérise la matière des ombres ?
+Qu'est-ce qui caractérise la materialité des ombres ?
 
 {% include respiration.html %}
 
