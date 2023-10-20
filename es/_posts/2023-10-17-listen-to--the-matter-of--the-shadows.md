@@ -8,7 +8,9 @@ categories:
   - edition
 ---
 
-¿Serigrafía sonora?
+¿Qué caracteriza la materia de las sombras?
+
+{% include respiration.html %}
 
 ![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN_300_UP.jpg)
 
@@ -22,6 +24,12 @@ categories:
 
 ###### *Listen to (the matter of) the shadows*, detalles.
 
+{% include respiration.html %}
+
+Sombra gaseosa, materia granulosa.
+
+{% include respiration.html %}
+
 ![](/imgs/PXL_20230924_143905435.NIGHT-1-UP.jpg)
 
 ###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 120 gr. aprox., 30 x 42 cm. aprox.
@@ -30,9 +38,7 @@ categories:
 
 {% include respiration.html %}
 
-¿Qué caracteriza la materia de las sombras?
-
-Sombra gaseosa, materia granulosa.
+Transduction en serigrafía del video *Listen to the shadows (wander)* (2021).
 
 {% include respiration.html %}
 
