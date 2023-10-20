@@ -8,6 +8,8 @@ categories:
   - edition
 ---
 
+¿Serigrafía sonora?
+
 ![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN_300_UP.jpg)
 
 ###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 120 gr. aprox., 30 x 42 cm. aprox.
@@ -25,6 +27,12 @@ categories:
 ###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 120 gr. aprox., 30 x 42 cm. aprox.
 
 ###### (vista de exposición), *Portes ouvertes d'ateliers d'artistes*, exposición del 22 al 24 de septiembre 2023, Rennes, Francia.
+
+{% include respiration.html %}
+
+¿Qué caracteriza la materia de las sombras?
+
+Sombra gaseosa, materia granulosa.
 
 {% include respiration.html %}
 
