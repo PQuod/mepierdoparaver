@@ -8,7 +8,7 @@ categories:
   - edition
 ---
 
-![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN-300-UP.jpg)
+![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN_300_UP.jpg)
 
 ###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 120 gr. aprox., 30 x 42 cm. aprox.
 
