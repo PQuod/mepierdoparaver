@@ -1,4 +1,11 @@
+---
+layout: page
+title: À propos
+lang-ref: about
+lang: fr
+permalink: "/about/"
 
+---
 **Présentation :**
 
 Ma démarche artistique s’est installée jusqu’à présent entre le dessin, la vidéo, le son, la sculpture et l'installation. Dans ces médiums, j’ai découvert des qualités et possibilités plastiques me permettant de réfléchir à la question de la perception du *temps*. Nous entretenons une relation paradoxale avec le temps ; c’est autour de ce constat que j’ai construit mes considérations.
