@@ -397,6 +397,7 @@ export default defineConfig({
             ],
 
           },
+          ...pagesFields(),
         ],
         ui: {
           allowedActions: {
