@@ -1,8 +1,6 @@
 
 **Présentation :**
 
-TEST
-
 Ma démarche artistique s’est installée jusqu’à présent entre le dessin, la vidéo, le son, la sculpture et l'installation. Dans ces médiums, j’ai découvert des qualités et possibilités plastiques me permettant de réfléchir à la question de la perception du *temps*. Nous entretenons une relation paradoxale avec le temps ; c’est autour de ce constat que j’ai construit mes considérations.
 
 Le moteur principal de mon travail est le besoin de penser – et de comprendre – le monde contemporain, et notamment la manière dont l’art y appartient, tant activement que passivement. Ce dessein est le produit d’une attitude critique et méfiante envers tout un ensemble de « certitudes », en apparence inquestionnables. La manière la plus puissante que j’ai trouvée pour m’occuper de ces questionnements est la répétition. Pour moi, celle-ci est un moyen (presque un matériau) où la méticulosité est révélatrice des états d’attente, de réflexion et d’imagination.
