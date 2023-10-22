@@ -6,18 +6,27 @@ export function pagesFields() {
       type: "string",
       name: "layout",
       label: "layout",
+      ui: {
+        component: () => null
+      }
     },
     {
       type: "string",
       name: "title",
       label: "Titre",
       required: true,
+      ui: {
+        component: () => null
+      }
     },
     {
       type: "string",
       name: "lang",
       label: "Langue",
       options: ["fr", "es"],
+      ui: {
+        component: () => null
+      }
     },
     {
       type: "string",
@@ -25,11 +34,17 @@ export function pagesFields() {
       nameOverride: "lang-ref",
       label: "Titre commun aux deux langues",
       required: true,
+      ui: {
+        component: () => null
+      }
     },
     {
       type: "string",
       name: "permalink",
       label: "permalink",
+      ui: {
+        component: () => null
+      }
     },
   ] as TinaField[];
 }

@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: A propósito
+lang: es
+lang-ref: about
+---
 **Presentación:**
 
 Mi andar artístico se ha instalado hasta el ahora entre el video, el dibujo, el sonido la escultura y la instalación. En estos medios, he descubierto cualidades y posibilidades plásticas que me permiten reflexionar sobre la pregunta de la percepción del *tiempo*. Nosotros mantenemos una relación paradójica con el tiempo; sobre esta base he construido mis consideraciones.
