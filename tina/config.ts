@@ -2,7 +2,6 @@ import { defineConfig } from "tinacms";
 import { pagesFields } from "./templates";
 import { postFields } from "./templates";
 
-
 // Your hosting provider likely exposes this as an environment variable
 const branch = 'main';
 
@@ -137,7 +136,6 @@ export default defineConfig({
               }
             ],
           },
-          ...pagesFields(),
         ],
         ui: {
           allowedActions: {
@@ -395,7 +393,6 @@ export default defineConfig({
                 ],
               }
             ],
-
           },
         ],
         ui: {
