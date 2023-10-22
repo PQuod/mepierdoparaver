@@ -1,4 +1,5 @@
 import type { TinaField } from "tinacms";
+
 export function pagesFields() {
   return [
     {
