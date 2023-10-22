@@ -21,9 +21,9 @@
   top:50%;
   left:50%;
   margin-top: -25px;
-margin-left: -56px;
-width:112px;
-height:50px;
+  margin-left: -56px;
+  width:112px;
+  height:50px;
   color:#f9f9f9;
   border:3px solid var(--color);
   background:var(--b-color);
@@ -388,6 +388,9 @@ article {
 
   .titre-page{
     font-size:14px;
+    word-wrap: break-word;
+    white-space: normal;
+    line-height:1.5em;
   }
 
   .separation, .end-post{
