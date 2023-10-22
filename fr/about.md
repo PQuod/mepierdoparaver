@@ -1,3 +1,9 @@
+---
+layout: page
+title: A propos
+lang: fr
+lang-ref: about
+---
 
 **Présentation :**
 
