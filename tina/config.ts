@@ -137,6 +137,7 @@ export default defineConfig({
               }
             ],
           },
+          ...pagesFields(),
         ],
         ui: {
           allowedActions: {
@@ -394,6 +395,7 @@ export default defineConfig({
                 ],
               }
             ],
+
           },
         ],
         ui: {
