@@ -19,6 +19,8 @@ Une grande partie de mon travail est issue des gestes « déraisonnables » en a
 
 L’ensemble de ma démarche est traversée par un axe supplémentaire qu’est l’étude des images qui lui sont propres. Dans un monde hyper-médiatique, les images peuvent servir de preuve à toute sorte d’arguments. Ainsi, je les observe – et les travaille – avec précaution. Évidemment, ce qui m’y interpelle, ce sont les étiquettes, les raccourcis, les lieux communs et les stéréotypes. C’est pourquoi je suis prudent face à l’uniformisation d’un art (trop) photogénique.
 
+À peu près.
+
 (Rennes, France)
 
 {% include respiration.html %}
