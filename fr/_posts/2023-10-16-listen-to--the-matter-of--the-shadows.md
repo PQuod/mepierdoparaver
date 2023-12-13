@@ -14,7 +14,7 @@ Qu'est-ce qui caractérise la materialité des ombres ?
 
 ![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN_300_UP.jpg)
 
-###### *Listen to (the matter of) the shadows*, 2022, sérigraphie à douze couches, 20 exemplaires numérotés & signés sur papier Clairefontaine 120 gr. env., 30 x 42 cm. env.
+###### *Listen to (the matter of) the shadows*, 2022, sérigraphie à douze couches, 20 exemplaires numérotés & signés sur papier Clairefontaine 250 gr. env., 30 x 42 cm. env.
 
 ![](</imgs/Listen-to-the-matter-of-the-shadow-sSCAN-300-1 UP.jpg>)
 
@@ -32,7 +32,7 @@ Ombre gazeuse, matière granuleuse.
 
 ![](/imgs/PXL_20230924_143905435.NIGHT-1-UP.jpg)
 
-###### *Listen to (the matter of) the shadows*, 2022, sérigraphie à douze couches, 20 exemplaires numérotés & signés sur papier Clairefontaine 120 gr. env., 30 x 42 cm. env.
+###### *Listen to (the matter of) the shadows*, 2022, sérigraphie à douze couches, 20 exemplaires numérotés & signés sur papier Clairefontaine 250 gr. env., 30 x 42 cm. env.
 
 ###### (vue d’exposition), *Portes ouvertes d'ateliers d'artistes*, exposition du 22 au 24 septembre 2023, Rennes, France.
 
