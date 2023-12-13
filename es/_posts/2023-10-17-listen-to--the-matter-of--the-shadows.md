@@ -14,7 +14,7 @@ categories:
 
 ![](/imgs/Listen-to-the-matter-of-the-shadows-SCAN_300_UP.jpg)
 
-###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 120 gr. aprox., 30 x 42 cm. aprox.
+###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 250 gr. aprox., 30 x 42 cm. aprox.
 
 ![](</imgs/Listen-to-the-matter-of-the-shadow-sSCAN-300-1 UP.jpg>)
 
@@ -32,7 +32,7 @@ Sombra gaseosa, materia granulosa.
 
 ![](/imgs/PXL_20230924_143905435.NIGHT-1-UP.jpg)
 
-###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 120 gr. aprox., 30 x 42 cm. aprox.
+###### *Listen to (the matter of) the shadows*, 2022, serigrafía a doce capas, 20 ejemplares numerados y firmados sobre papel Clairefontaine 250 gr. aprox., 30 x 42 cm. aprox.
 
 ###### (vista de exposición), *Portes ouvertes d'ateliers d'artistes*, exposición del 22 al 24 de septiembre 2023, Rennes, Francia.
 
