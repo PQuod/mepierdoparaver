@@ -6,7 +6,9 @@ lang-ref: home
 permalink: /home/
 ---
 
-*Atelier de sérigraphie*. Chargé du cours (L2) II-2023. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
+Des exploits, des chefs-d’œuvre. Performance lors du vernissage avec l'équipe de la Fédération Française d'Art (FFA). 25 avril 2024. Frac Sud, MuCEM et \[mac]. Commissaire général : Jean-Marc Huitorel. Marseille, France.
+
+*Atelier de sérigraphie*. Chargé du cours (L2) I-2024. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
 
 *Les murailles n'ont pas seulement des oreilles*. Installation en espace public. Visible à partir du 15 octobre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, France.
 
