@@ -6,7 +6,7 @@ lang-ref: home
 permalink: /home/
 ---
 
-Des exploits, des chefs-d’œuvre. Performance lors du vernissage avec l'équipe de la Fédération Française d'Art (FFA). 25 avril 2024. Frac Sud, MuCEM et \[mac]. Commissaire général : Jean-Marc Huitorel. Marseille, France.
+*Des exploits, des chefs-d’œuvre*. Performance lors du vernissage avec l'équipe de la Fédération Française d'Art (FFA). 25 avril 2024. Frac Sud, MuCEM et \[mac]. Commissaire de l'exposition : Jean-Marc Huitorel. Marseille, France.
 
 *Atelier de sérigraphie*. Chargé du cours (L2) I-2024. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
 
