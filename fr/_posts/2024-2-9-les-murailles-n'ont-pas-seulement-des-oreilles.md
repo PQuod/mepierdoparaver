@@ -24,7 +24,7 @@ categories:
 
 ###### (vista de exposición), *Les murailles n'ont pas seulement des oreilles*, visible à partir du 15 octobre 2023, 7 jours/7 et 24h/24h, Superflux, Voir l’art se faire. Bazouges-la-Pérouse, France.
 
-![](/imgs/PXL_20231015_093132085_DET_UP.jpg)
+![](/imgs/PXL_20231015_093400895_DET_UP.jpg)
 
 ###### *Les murailles n'ont pas seulement des oreilles*, detalle.
 
@@ -33,8 +33,6 @@ categories:
 ###### *Les murailles n'ont pas seulement des oreilles*, 2023, série de miroirs gravés, installation dans l'espace public, dimensions variables env.
 
 ###### (vista de exposición), *Les murailles n'ont pas seulement des oreilles*, visible à partir du 15 octobre 2023, 7 jours/7 et 24h/24h, Superflux, Voir l’art se faire. Bazouges-la-Pérouse, France.
-
-![](/imgs/PXL_20231015_093132085_DET_UP.jpg)
 
 ###### *Les murailles n'ont pas seulement des oreilles*, detalle.
 
@@ -47,6 +45,10 @@ categories:
 ![](/imgs/PXL_20231015_092859092_DET_UP.jpg)
 
 ###### *Les murailles n'ont pas seulement des oreilles*, detalle.
+
+![](/imgs/PXL_20231015_113911288.NIGHT_UP.jpg)
+
+###### (vista de exposición), *Les murailles n'ont pas seulement des oreilles*, visible à partir du 15 octobre 2023, 7 jours/7 et 24h/24h, Superflux, Voir l’art se faire. Bazouges-la-Pérouse, France.
 
 Dans les rues de Bazouges-la-Pérouse se trouvent six pièces dispersées par l’artiste. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
 
