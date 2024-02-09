@@ -48,10 +48,6 @@ categories:
 
 ###### *Les murailles n'ont pas seulement des oreilles*, detalle.
 
-![](/imgs/PXL_20231015_113911288.NIGHT_UP.jpg)
-
-###### (vista de exposición), *Les murailles n'ont pas seulement des oreilles*, visible à partir du 15 octobre 2023, 7 jours/7 et 24h/24h, Superflux, Voir l’art se faire. Bazouges-la-Pérouse, France.
-
 Dans les rues de Bazouges-la-Pérouse se trouvent six pièces dispersées par l’artiste. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
 
 Le paysage est transformé symboliquement autant par la présence des incrustations que par celle du spectateur qui décide d’habiter l’espace en marchant, avec un regard contemplatif.
@@ -61,6 +57,10 @@ Le paysage est transformé symboliquement autant par la présence des incrustati
 Que contiennent ces incrustations ?
 
 Sommes-nous face au *presque-visible* ou au *presque-invisible* ?
+
+![](/imgs/PXL_20231015_113911288.NIGHT_UP.jpg)
+
+###### (vista de exposición), *Les murailles n'ont pas seulement des oreilles*, visible à partir du 15 octobre 2023, 7 jours/7 et 24h/24h, Superflux, Voir l’art se faire. Bazouges-la-Pérouse, France.
 
 \* En maçonnerie, les chantepleures sont des fentes verticales, situées généralement en bas des murs, dont la fonction est de laisser couler le surplus d’eau pour éviter l’affaissement et un éventuel effondrement du bâti.
 
