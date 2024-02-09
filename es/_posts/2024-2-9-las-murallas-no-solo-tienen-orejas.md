@@ -28,42 +28,6 @@ Sommes-nous face au presque-visible ou au presque-invisible ?
 
 {% include respiration.html %}
 
-![](/imgs/pxl_20220910_142200116-up.jpg)
-
-![](/imgs/pxl_20220910_112811901-up.jpg)
-
-![](/imgs/pxl_20220910_161129162-up.jpg)
-
-###### *inter-esse*, 2022, detalles de la mitad visible.
-
-El sol se presenta aquí como un gran colaborador; bajo ciertas condiciones meteorológicas, su luz produce en el suelo un reflejo tanto de dichas ventanas como de la forma contenida.
-
-{% include respiration.html %}
-
-![](/imgs/pxl_20220910_112745619-up.jpg)
-
-###### *inter-esse*, 2022, detalle del reflejo de la mitad visible.
-
-{% include respiration.html %}
-
-{% include separation.html %}
-
-{% include respiration.html %}
-
-![](/imgs/inter-esse-gif-boucle.gif)
-
-###### *inter-esse (piste)*, 2022, tarjeta postal, impresión offset, barniz selectivo brillante sobre barniz mate, 15 x 10 cm. aprox.
-
-![](/imgs/pxl_20220910_142016569-up.jpg)
-
-###### A la izquierda: *inter-esse (piste)*, 2022, tarjeta postal manipulada, impresión offset, barniz selectivo brillante sobre barniz mate, 15 x 10 cm. aprox.
-
-###### A la derecha: *inter-esse*, 2022, vinilo adhesivo transparente (efecto espejo) grabado a la punta seca y pegado al vidrio, mitad visible, dimensiones variables aprox.
-
-###### (vista de exposición), *Point . #3*, exposición del 10 al 25 de septiembre 2022, obra en espacio público, Avranches, Francia.
-
-Para completar la experiencia, propuse una tarjeta postal que a através de un juego de materia opaca/reflejante, sirve como pista sensible a los caminantes que podrían cruzarse con la mitad ignorada de la obra.
-
 *inter-esse*, invita a ser/estar entre, a habitar el espacio-tiempo intermedio entre dos formas-momentos que se complementan.
 
 {% include respiration.html %}
