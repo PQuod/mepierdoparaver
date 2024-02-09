@@ -62,10 +62,6 @@ Sommes-nous face au presque-visible ou au presque-invisible ?
 
 {% include respiration.html %}
 
-*inter-esse*, invita a ser/estar entre, a habitar el espacio-tiempo intermedio entre dos formas-momentos que se complementan.
-
-{% include respiration.html %}
-
 ###### — *Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente).*
 
 {% include respiration.html %}
