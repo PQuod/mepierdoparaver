@@ -56,7 +56,7 @@ Le paysage est transformé symboliquement autant par la présence des incrustati
 
 Que contiennent ces incrustations ?
 
-Sommes-nous face au presque-visible ou au presque-invisible ?
+Sommes-nous face au *presque-visible* ou au *presque-invisible* ?
 
 \* En maçonnerie, les chantepleures sont des fentes verticales, situées généralement en bas des murs, dont la fonction est de laisser couler le surplus d’eau pour éviter l’affaissement et un éventuel effondrement du bâti.
 
