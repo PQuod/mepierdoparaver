@@ -58,6 +58,8 @@ Que contiennent ces incrustations ?
 
 Sommes-nous face au *presque-visible* ou au *presque-invisible* ?
 
+{% include respiration.html %}
+
 ![](/imgs/PXL_20231015_113911288.NIGHT_UP.jpg)
 
 ###### (vue d'exposition), *Les murailles n'ont pas seulement des oreilles*, visible à partir du 15 octobre 2023, 7 jours/7 et 24h/24h, Superflux, Voir l’art se faire. Bazouges-la-Pérouse, France.
