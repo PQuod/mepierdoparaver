@@ -18,6 +18,16 @@ categories:
 
 ###### *Les murailles n'ont pas seulement des oreilles*, detalle.
 
+![](/imgs/PXL_20231015_093400895_UP.jpg)
+
+###### *Les murailles n'ont pas seulement des oreilles*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
+
+###### (vista de exposición), *Les murailles n'ont pas seulement des oreilles*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, France.
+
+![](/imgs/PXL_20231015_093400895_DET_UP.jpg)
+
+###### *Les murailles n'ont pas seulement des oreilles*, detalle.
+
 Dans les rues de Bazouges-la-Pérouse se trouvent six pièces dispersées par l’artiste. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
 
 Le paysage est transformé symboliquement autant par la présence des incrustations que par celle du spectateur qui décide d’habiter l’espace en marchant, avec un regard contemplatif.
