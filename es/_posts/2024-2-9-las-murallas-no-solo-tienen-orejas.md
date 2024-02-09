@@ -12,7 +12,7 @@ categories:
 
 ###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, France.
+###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 ![](/imgs/PXL_20231015_093453655_DET_UP.jpg)
 
@@ -22,7 +22,7 @@ categories:
 
 ###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, France.
+###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 ![](/imgs/PXL_20231015_093400895_DET_UP.jpg)
 
@@ -32,7 +32,7 @@ categories:
 
 ###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, France.
+###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 ###### *Las murallas no solo tienen orejas*, detalle.
 
@@ -40,7 +40,7 @@ categories:
 
 ###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, France.
+###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 ![](/imgs/PXL_20231015_092859092_DET_UP.jpg)
 
@@ -55,6 +55,10 @@ Le paysage est transformé symboliquement autant par la présence des incrustati
 Que contiennent ces incrustations ?
 
 Sommes-nous face au presque-visible ou au presque-invisible ?
+
+![](/imgs/PXL_20231015_113911288.NIGHT_UP.jpg)
+
+###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 \* En maçonnerie, les chantepleures sont des fentes verticales, situées généralement en bas des murs, dont la fonction est de laisser couler le surplus d’eau pour éviter l’affaissement et un éventuel effondrement du bâti.
 
