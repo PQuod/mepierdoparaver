@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Las murallas no solo tienen orejas
+title: Las paredes no solo tienen orejas
 lang: es
 lang-ref: murallaoreja
 date: 2023-10-14T22:00:00.000Z
@@ -10,41 +10,41 @@ categories:
 
 ![](/imgs/PXL_20231015_093453655_UP.jpg)
 
-###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
+###### *Las paredes no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
+###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 ![](/imgs/PXL_20231015_093453655_DET_UP.jpg)
 
-###### *Las murallas no solo tienen orejas*, detalle.
+###### *Las paredes no solo tienen orejas*, detalle.
 
 ![](/imgs/PXL_20231015_093400895_UP.jpg)
 
-###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
+###### *Las paredes no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
+###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 ![](/imgs/PXL_20231015_093400895_DET_UP.jpg)
 
-###### *Las murallas no solo tienen orejas*, detalle.
+###### *Las paredes no solo tienen orejas*, detalle.
 
 ![](/imgs/PXL_20231015_093132085_UP.jpg)
 
-###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
+###### *Las paredes no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
+###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
-###### *Las murallas no solo tienen orejas*, detalle.
+###### *Las paredes no solo tienen orejas*, detalle.
 
 ![](/imgs/PXL_20231015_092859092_UP.jpg)
 
-###### *Las murallas no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
+###### *Las paredes no solo tienen orejas*, 2023, serie de espejos grabados, instalación en espacio público, dimensiones variables aprox.
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
+###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 ![](/imgs/PXL_20231015_092859092_DET_UP.jpg)
 
-###### *Las murallas no solo tienen orejas*, detalle.
+###### *Las paredes no solo tienen orejas*, detalle.
 
 Dans les rues de Bazouges-la-Pérouse se trouvent six pièces dispersées par l’artiste. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
 
@@ -58,7 +58,7 @@ Sommes-nous face au presque-visible ou au presque-invisible ?
 
 ![](/imgs/PXL_20231015_113911288.NIGHT_UP.jpg)
 
-###### (vista de exposición), *Las murallas no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
+###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
 \* En maçonnerie, les chantepleures sont des fentes verticales, situées généralement en bas des murs, dont la fonction est de laisser couler le surplus d’eau pour éviter l’affaissement et un éventuel effondrement du bâti.
 
