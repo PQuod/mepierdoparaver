@@ -46,15 +46,12 @@ categories:
 
 ###### *Las paredes no solo tienen orejas*, detalle.
 
-Dans les rues de Bazouges-la-Pérouse se trouvent six pièces dispersées par l’artiste. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
+En las calles de Bazouges-la-Pérouse se encuentran seis piezas que he diseminado. Se trata de una serie de objetos reflejates incrustados en los desagües\* de ciertos muros del pueblo.
 
-Le paysage est transformé symboliquement autant par la présence des incrustations que par celle du spectateur qui décide d’habiter l’espace en marchant, avec un regard contemplatif.
+El paisaje es transformado simbólicamente tanto por la presencia de las incrustaciones como por la del espectador que decide habitar el espacio al caminar, con una mirada contemplativa. "Las paredes no solo tienen orejas" invita a los caminantes del pueblo no solamente a detectarlas sino sobretodo a verlas, a verse.
 
-« Les murailles n’ont pas seulement des oreilles » invite les marcheurs du village non seulement à les repérer mais surtout à les voir, à s’y voir.
-
-Que contiennent ces incrustations ?
-
-Sommes-nous face au presque-visible ou au presque-invisible ?
+¿Qué contienen esas incrustaciones?
+¿Estamos frente a lo *casi-visible* o a lo *casi-invisible*?
 
 {% include respiration.html %}
 
@@ -62,7 +59,7 @@ Sommes-nous face au presque-visible ou au presque-invisible ?
 
 ###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
-\* En maçonnerie, les chantepleures sont des fentes verticales, situées généralement en bas des murs, dont la fonction est de laisser couler le surplus d’eau pour éviter l’affaissement et un éventuel effondrement du bâti.
+\* (*Chantepleure* en francés) En albañilería, las *chantepleureles* son rendijas verticales, generalmente ubicadas en la base de los muros, cuya función es dejar correr el exceso de agua para evitar el hundimiento y eventual colapso de la construcción.
 
 {% include respiration.html %}
 
