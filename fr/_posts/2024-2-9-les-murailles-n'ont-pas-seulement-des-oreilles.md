@@ -48,7 +48,7 @@ categories:
 
 ###### *Les murailles n'ont pas seulement des oreilles*, détail.
 
-Dans les rues de Bazouges-la-Pérouse se trouvent six pièces dispersées par l’artiste. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
+Dans les rues de Bazouges-la-Pérouse se trouvent six pièces que j'ai dispersées. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
 
 Le paysage est transformé symboliquement autant par la présence des incrustations que par celle du spectateur qui décide d’habiter l’espace en marchant, avec un regard contemplatif.
 
