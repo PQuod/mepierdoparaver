@@ -50,12 +50,9 @@ categories:
 
 Dans les rues de Bazouges-la-Pérouse se trouvent six pièces que j'ai dispersées. Il s’agit d’une série objets réfléchissants incrustés dans les chantepleures\* de certains murs du village.
 
-Le paysage est transformé symboliquement autant par la présence des incrustations que par celle du spectateur qui décide d’habiter l’espace en marchant, avec un regard contemplatif.
-
-« Les murailles n’ont pas seulement des oreilles » invite les marcheurs du village non seulement à les repérer mais surtout à les voir, à s’y voir.
+Le paysage est transformé symboliquement autant par la présence des incrustations que par celle du spectateur qui décide d’habiter l’espace en marchant, avec un regard contemplatif. « Les murailles n’ont pas seulement des oreilles » invite les marcheurs du village non seulement à les repérer mais surtout à les voir, à s’y voir.
 
 Que contiennent ces incrustations ?
-
 Sommes-nous face au *presque-visible* ou au *presque-invisible* ?
 
 {% include respiration.html %}
