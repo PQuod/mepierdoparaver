@@ -59,7 +59,7 @@ El paisaje es transformado simbólicamente tanto por la presencia de las incrust
 
 ###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
-\* (*Chantepleure* en francés) En albañilería, las *chantepleureles* son rendijas verticales, generalmente ubicadas en la base de los muros, cuya función es dejar correr el exceso de agua para evitar el hundimiento y eventual colapso de la construcción.
+\* (*Chantepleure* en francés) En albañilería, las *chantepleures* son rendijas verticales, generalmente ubicadas en la base de los muros, cuya función es dejar correr el exceso de agua para evitar el hundimiento y eventual colapso de la construcción.
 
 {% include respiration.html %}
 
