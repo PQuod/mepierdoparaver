@@ -34,6 +34,8 @@ categories:
 
 ###### (vista de exposición), *Las paredes no solo tienen orejas*, visible a partir del 15 de octubre 2023, 7días/7 24h/24h, Bazouges-la-Pérouse, Francia.
 
+![](/imgs/PXL_20231015_093132085_DET__UP.jpg)
+
 ###### *Las paredes no solo tienen orejas*, detalle.
 
 ![](/imgs/PXL_20231015_092859092_UP.jpg)
