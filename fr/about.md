@@ -7,7 +7,7 @@ lang-ref: about
 
 **Présentation :**
 
-Dans ma pratique j’utilise et m’approprie les langages du dessin, de la vidéo, du son, de la sculpture et de l’installation. Le moteur principal de mon travail est le besoin de résonner avec la matière pour tenter de penser – et de comprendre – le monde contemporain, notamment la manière dont l’art y appartient, tant activement que passivement. Ce dessein est le produit d’une attitude critique et méfiante envers tout un ensemble de « certitudes », en apparence inquestionnables.
+Ma pratique artistique s’est installée jusqu’à présent entre le dessin, la vidéo, le son, la sculpture et l'installation. Le moteur principal de mon travail est le besoin de résonner avec la matière pour tenter de penser – et de comprendre – le monde contemporain, notamment la manière dont l’art y appartient, tant activement que passivement. Ce dessein est le produit d’une attitude critique et méfiante envers tout un ensemble de « certitudes », en apparence inquestionnables.
 
 Je détecte dans mon horizon deux chemins complémentaires. D’un côté, la question de la perception du *temps*, car il me semble que nous entretenons une relation paradoxale avec lui. De l’autre, un intérêt intuitif – mais pas pour autant exclusif – pour la qualité transparente et translucide de la matière, où le binôme *presque-invisible* / *presque-visible* s’avère être un très bon l’outil pour cohabiter l’intervalle qu’est l’existence-même.
 
