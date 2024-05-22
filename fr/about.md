@@ -37,6 +37,6 @@ se perdre pour voir\
 
 **Contact :**
 
-mepierdoparaver\[at]riseup.com
+mepierdoparaver\[at]riseup.net
 
 {% include respiration.html %}
