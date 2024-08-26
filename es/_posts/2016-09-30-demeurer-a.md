@@ -1,40 +1,36 @@
 ---
 layout: post
+title: Permanecer en (o la conferencia de las urracas)
 lang: es
-date: '2016-09-30 22:00:00 +0000'
-title: Permanecer en
 lang-ref: demeurera
+date: 2016-09-30T22:00:00.000Z
 categories:
   - dessin
-_template: post
 ---
-
-
-
 
 ![](/imgs/demeurer-a-12-up.jpg)
 
-###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
+###### *Permanecer en (o la conferencia de las urracas)*, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
 
 ![](/imgs/demeurer-a-12d-up.jpg)
 
-###### _Permanecer en_, 2016, detalle.
+###### *Permanecer en (o la conferencia de las urracas)*, 2016, detalle.
 
 ![](/imgs/demeurer-a-3-up.jpg)
 
-###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
+###### *Permanecer en (o la conferencia de las urracas)*, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
 
 ![](/imgs/demeurer-a-3d-up.jpg)
 
-###### _Permanecer en_, 2016, detalle.
+###### *Permanecer en (o la conferencia de las urracas)*, 2016, detalle.
 
 ![](/imgs/demeurer-a-8-up.jpg)
 
-###### _Permanecer en_, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
+###### *Permanecer en (o la conferencia de las urracas)*, 2016, serie de dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 35 x 50 cm. aprox., colección particular.
 
 ![](/imgs/demeurer-a-8d-up.jpg)
 
-###### _Permanecer en_, 2016, detalle.
+###### *Permanecer en (o la conferencia de las urracas)*, 2016, detalle.
 
 ![](/imgs/demeurer-a-ins-2-up.jpg)
 
@@ -42,9 +38,9 @@ _template: post
 
 ![](/imgs/demeurer-a-ins-3-up.jpg)
 
-###### (vistas de exposición), _Souvenir de l’impermanence_, exposición del 14 de octubre al 2 de diciembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, Francia.
+###### (vistas de exposición), *Souvenir de l’impermanence*, exposición del 14 de octubre al 2 de diciembre 2016, L’aparté, lieu d’art contemporain, Lac de Trémelin, 35750 Iffendic, Francia.
 
-Concebido durante una residencia artística en 2016 en L’aparté, lugar de arte contemporáneo, _Permanecer en_ es un conjunto de dibujos de pájaros hechos a la mina de plomo sobre un fondo recubierto de carboncillo sobre papel negro.
+Concebido durante una residencia artística en 2016 en L’aparté, lugar de arte contemporáneo, *Permanecer en* es un conjunto de dibujos de pájaros hechos a la mina de plomo sobre un fondo recubierto de carboncillo sobre papel negro.
 
 De aparente monocromía, estas superficies contienen formas figurativas, para quien se toma el tiempo de apreciarlas. Así, el espectador es conducido hacia un estado de contemplación donde la dialéctica entre la absorción propia al carboncillo y el reflejo de la mina de plomo deviene protagonista.
 
@@ -62,7 +58,7 @@ Sobre un fondo aterciopelado y profundo, se inscribe sobriamente la sliueta cris
 
 ![](/imgs/carlos-bernal-barrera-demeurer-a-ensemble-indissociable-2017-up.jpg)
 
-###### _Permanecer en_, 2017, conjunto indisociable de cuatro dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 50 x 70 cm. aprox. c/u, colección particular.
+###### *Permanecer en (o la conferencia de las urracas)*, 2017, conjunto indisociable de cuatro dibujos, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 50 x 70 cm. aprox. c/u, colección particular.
 
 ![](/imgs/demeurer-ii-15-up.jpg)
 
@@ -72,7 +68,7 @@ Sobre un fondo aterciopelado y profundo, se inscribe sobriamente la sliueta cris
 
 ![](/imgs/demeurer-ii-16-up.jpg)
 
-###### _Permanecer en_, 2017, conjunto indisociable de cuatro dibujos, detalles.
+###### *Permanecer en (o la conferencia de las urracas)*, 2017, conjunto indisociable de cuatro dibujos, detalles.
 
 {% include respiration.html %}
 
@@ -82,17 +78,17 @@ Sobre un fondo aterciopelado y profundo, se inscribe sobriamente la sliueta cris
 
 ![](/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-up.jpg)
 
-###### _Permanecer en_, 2017, díptico, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 50 x 65 cm. aprox. c/u.
+###### *Permanecer en (o la conferencia de las urracas)*, 2017, díptico, carboncillo y mina de plomo sobre papel Clairefontaine Maya 120 gr. aprox., 50 x 65 cm. aprox. c/u.
 
 ![](/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-2-up.jpg)
 
 ![](/imgs/carlos-bernal-barrera-demeurer-a-diptyque-2022-det-1-up.jpg)
 
-###### _Permanecer en_, 2022, díptico, detalles.
+###### *Permanecer en (o la conferencia de las urracas)*, 2022, díptico, detalles.
 
 {% include respiration.html %}
 
-###### **—** _Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente)._
+###### **—** *Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente).*
 
 {% include respiration.html %}
 
