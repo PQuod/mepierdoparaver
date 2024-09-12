@@ -6,9 +6,7 @@ lang-ref: home
 permalink: /home/
 ---
 
-*Des exploits, des chefs-d’œuvre*. 25 avril - 8 septembre 2024. Performance lors du vernissage avec l'équipe de la Fédération Française d'Art (FFA). Frac Sud, MuCEM et \[mac]. Commissaire de l'exposition : Jean-Marc Huitorel. Marseille, France.
-
-*Portes ouvertes d'ateliers d'artistes*. 13 - 15 septembre 2024. Atelier BONJOURE. Rennes, France.
+*Portes ouvertes d'ateliers d'artistes*. 13 et 14 septembre 2024. Atelier BONJOURE. Rennes, France.
 
 {% include separation.html %}
 
