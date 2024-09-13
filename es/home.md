@@ -7,6 +7,8 @@ lang-ref: home
 
 *Puertas abiertas de talleres de artistas*. 13 y 14 de septiembre 2024. Taller BONJOURE. Rennes, Francia.
 
+*Residencia investigación-experimentación*. Otoño 2024. Taller BONJOURE. Rennes, Francia.
+
 {% include separation.html %}
 
 *Las paredes no solo tienen orejas*. Instalación en espacio público. Visible a partir del 15 de octubre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, Francia.
