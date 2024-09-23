@@ -23,6 +23,12 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 
 {% include respiration.html %}
 
+![](</imgs/PXL_20240913_151159646.NIGHT UP.jpg>)
+
+###### *Fantasma 15 \[BONJOURE]*, 2024, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
+
+###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
+
 ![](</imgs/PXL_20240323_093305786.NIGHT UP.jpg>)
 
 ###### *Fantasma 14 \[Confort Moderne]*, 2024, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
