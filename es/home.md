@@ -5,8 +5,6 @@ lang: es
 lang-ref: home
 ---
 
-*Puertas abiertas de talleres de artistas*. 13 y 14 de septiembre 2024. Taller BONJOURE. Rennes, Francia.
-
 *Residencia investigación-experimentación*. Otoño 2024. Taller BONJOURE. Rennes, Francia.
 
 {% include separation.html %}
