@@ -6,8 +6,6 @@ lang-ref: home
 permalink: /home/
 ---
 
-*Portes ouvertes d'ateliers d'artistes*. 13 et 14 septembre 2024. Atelier BONJOURE. Rennes, France.
-
 *Résidence recherche-expérimentation*. Automne 2024. Atelier BONJOURE. Rennes, France.
 
 {% include separation.html %}
