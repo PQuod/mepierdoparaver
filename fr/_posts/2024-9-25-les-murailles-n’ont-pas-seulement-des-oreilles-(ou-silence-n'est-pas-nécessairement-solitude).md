@@ -37,3 +37,13 @@ categories:
 ###### *Les murailles n’ont pas seulement des oreilles (ou silence n'est pas nécessairement solitude)*, 2024, miroir gravé, Ø 50 cm env.
 
 ###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
+
+{% include respiration.html %}
+
+###### — *Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).*
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
