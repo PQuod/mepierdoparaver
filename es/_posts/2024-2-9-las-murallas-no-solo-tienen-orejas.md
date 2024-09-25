@@ -48,7 +48,7 @@ categories:
 
 ###### *Las paredes no solo tienen orejas*, detalle.
 
-En las calles de Bazouges-la-Pérouse se encuentran seis piezas que he diseminado. Se trata de una serie de objetos reflejates incrustados en los desagües\* de ciertos muros del pueblo.
+En las calles de Bazouges-la-Pérouse se encuentran seis piezas que he diseminado. Se trata de una serie de objetos reflejantes incrustados en los desagües\* de ciertos muros del pueblo.
 
 El paisaje es transformado simbólicamente tanto por la presencia de las incrustaciones como por la del espectador que decide habitar el espacio al caminar, con una mirada contemplativa. "Las paredes no solo tienen orejas" invita a los caminantes del pueblo no solamente a detectarlas sino sobretodo a verlas, a verse.
 
