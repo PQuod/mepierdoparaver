@@ -16,6 +16,8 @@ categories:
 
 Habiter le seuil, sans reflet, sans double, en silence.
 
+{% include respiration.html %}
+
 ![](</imgs/PXL_20240913_155342357.NIGHT-2 -UP.jpg>)
 
 ###### *Les murailles n’ont pas seulement des oreilles (ou silence n'est pas solitude)*, 2024, miroir gravé, Ø 50 cm env.
