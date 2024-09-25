@@ -16,6 +16,8 @@ categories:
 
 Habitar el umbral, sin reflejo, sin doble, en silencio.
 
+{% include respiration.html %}
+
 ![](</imgs/PXL_20240913_155342357.NIGHT-2 -UP.jpg>)
 
 ###### *Las paredes no solo tienen orejas (o silencio no es soledad)*, 2024, espejo grabado, Ø 50 cm aprox.
