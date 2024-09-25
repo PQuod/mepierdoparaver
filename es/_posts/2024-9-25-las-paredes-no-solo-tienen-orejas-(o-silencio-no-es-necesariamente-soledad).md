@@ -14,6 +14,8 @@ categories:
 
 ###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
 
+Habitar el umbral, sin reflejo, sin doble, en silencio.
+
 ![](</imgs/PXL_20240913_155342357.NIGHT-2 -UP.jpg>)
 
 ###### *Las paredes no solo tienen orejas (o silencio no es necesariamente soledad)*, 2024, espejo grabado, Ø 50 cm aprox.
