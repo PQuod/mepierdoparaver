@@ -35,3 +35,13 @@ categories:
 ###### *Las paredes no solo tienen orejas (o silencio no es necesariamente soledad)*, 2024, espejo grabado, Ø 50 cm aprox.
 
 ###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
+
+{% include respiration.html %}
+
+###### — *Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente).*
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
