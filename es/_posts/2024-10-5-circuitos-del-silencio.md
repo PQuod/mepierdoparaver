@@ -20,21 +20,25 @@ El espacio habitado por el silencio.
 {% include respiration.html %}
 
 ![](</imgs/PXL_20241004_142041293.NIGHT-1 -UP.jpg>)
+
 ![](</imgs/PXL_20241004_142105513.NIGHT-2 -UP.jpg>)
 
 ###### *Circuits du silence*, detalle 1.
 
 ![](</imgs/PXL_20241004_142203629.NIGHT-3 -UP.jpg>)
+
 ![](/imgs/PXL_20241004_142237973.NIGHT-4.jpg)
 
 ###### *Circuits du silence*, detalle 2.
 
 ![](</imgs/PXL_20241004_142328006.NIGHT-5 -UP.jpg>)
+
 ![](</imgs/PXL_20241004_142343288.NIGHT-6 -UP.jpg>)
 
 ###### *Circuits du silence*, detalle 3.
 
 ![](</imgs/PXL_20241004_142421869.NIGHT-7 -UP.jpg>)
+
 ![](</imgs/PXL_20241004_142434462.NIGHT-8 -UP.jpg>)
 
 ###### *Circuits du silence*, detalle 4.
