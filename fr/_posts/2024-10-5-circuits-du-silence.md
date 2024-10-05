@@ -25,7 +25,7 @@ L'espace habité par le silence.
 ###### *Circuits du silence*, détail 1.
 
 ![](</imgs/PXL_20241004_142203629.NIGHT-3 -UP.jpg>)
-![](</imgs/PXL_20241004_142237973.NIGHT -4.jpg>)
+![](/imgs/PXL_20241004_142237973.NIGHT-4.jpg)
 
 ###### *Circuits du silence*, détail 2.
 
