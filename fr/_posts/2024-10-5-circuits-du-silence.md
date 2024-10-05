@@ -14,6 +14,12 @@ categories:
 
 ###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
 
+![](</imgs/PXL_20241004_142929492.NIGHT-9 -UP.jpg>)
+
+###### *Circuits du silence*, 2024, ensemble indissociable de quatre sérigraphies, 10 ensembles numérotés & signés, base transparente sur papier cartonné miroir argenté, 21 x 29,7 cm. env.
+
+###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
+
 Quatre formes dont se fait le dialogue silencieux entre soi et son reflet.
 L'espace habité par le silence.
 
@@ -42,14 +48,6 @@ L'espace habité par le silence.
 ![](</imgs/PXL_20241004_142434462.NIGHT-8 -UP.jpg>)
 
 ###### *Circuits du silence*, détails de la variation 4.
-
-{% include respiration.html %}
-
-![](</imgs/PXL_20241004_142929492.NIGHT-9 -UP.jpg>)
-
-###### *Circuits du silence*, 2024, ensemble indissociable de quatre sérigraphies, 10 ensembles numérotés & signés, base transparente sur papier cartonné miroir argenté, 21 x 29,7 cm. env.
-
-###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
 
 {% include respiration.html %}
 
