@@ -10,7 +10,7 @@ categories:
 
 ![](</imgs/PXL_20241004_143006256.NIGHT-10 -UP.jpg>)
 
-###### *Circuits du silence*, 2024, ensemble indissociable de quatre sérigraphies, base transparente sur papier cartonné miroir argenté, 21 x 29,7 cm. env.
+###### *Circuits du silence*, 2024, ensemble indissociable de quatre sérigraphies, 10 ensembles numérotés & signés, base transparente sur papier cartonné miroir argenté, 21 x 29,7 cm. env.
 
 ###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
 
@@ -43,7 +43,7 @@ L'espace habité par le silence.
 
 ![](</imgs/PXL_20241004_142929492.NIGHT-9 -UP.jpg>)
 
-###### *Circuits du silence*, 2024, ensemble indissociable de quatre sérigraphies, base transparente sur papier cartonné miroir argenté, 21 x 29,7 cm. env.
+###### *Circuits du silence*, 2024, ensemble indissociable de quatre sérigraphies, 10 ensembles numérotés & signés, base transparente sur papier cartonné miroir argenté, 21 x 29,7 cm. env.
 
 ###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
 
