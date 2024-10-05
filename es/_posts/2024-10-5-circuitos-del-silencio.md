@@ -6,6 +6,7 @@ lang-ref: circuitosilencio
 date: 2024-09-18T22:00:00.000Z
 categories:
   - dessin
+  - edition
 ---
 
 ![](</imgs/PXL_20241004_143006256.NIGHT-10 -UP.jpg>)
