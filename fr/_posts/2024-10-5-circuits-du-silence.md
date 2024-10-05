@@ -14,7 +14,7 @@ categories:
 
 ###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
 
-Quatre formes dont se fait le dialogue en silence entre soi et son reflet.
+Quatre formes dont se fait le dialogue silencieux entre soi et son reflet.
 L'espace habité par le silence.
 
 {% include respiration.html %}
