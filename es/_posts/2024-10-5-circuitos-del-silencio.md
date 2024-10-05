@@ -12,7 +12,7 @@ categories:
 
 ###### *Circuitos del silencio*, 2024, conjunto indisociable de cuatro serigrafías, 10 conjuntos numerados y firmados, base transparente sobre papel acartonado plateado, 21 x 29,7 cm. aprox.
 
-###### (vue d'exposition), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
+###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
 
 Cuatro formas en las que se da el diálogo silencioso entre uno y su reflejo.
 El espacio habitado por el silencio.
@@ -49,7 +49,7 @@ El espacio habitado por el silencio.
 
 ###### *Circuitos del silencio*, 2024, conjunto indisociable de cuatro serigrafías, 10 conjuntos numerados y firmados, base transparente sobre papel acartonado plateado, 21 x 29,7 cm. aprox.
 
-###### (vue d'exposition), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
+###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
 
 {% include respiration.html %}
 
