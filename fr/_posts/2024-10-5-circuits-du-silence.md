@@ -25,7 +25,7 @@ Comment l'espace est-il habité par le silence ?
 
 ###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
 
-Le dialogue silencieux entre soi et son reflet prend ici forme !
+Le dialogue silencieux entre soi et son reflet tente de prendre ici forme !
 
 {% include respiration.html %}
 
