@@ -9,6 +9,10 @@ categories:
   - edition
 ---
 
+¿Cómo el espacio es habitado por el silencio ?
+
+{% include respiration.html %}
+
 ![](</imgs/PXL_20241004_143006256.NIGHT-10 -UP.jpg>)
 
 ###### *Circuitos del silencio*, 2024, conjunto indisociable de cuatro serigrafías, 10 conjuntos numerados y firmados, base transparente sobre papel acartonado plateado, 21 x 29,7 cm. aprox.
@@ -21,8 +25,7 @@ categories:
 
 ###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
 
-Cuatro formas en las que se da el diálogo silencioso entre uno y su reflejo.
-El espacio habitado por el silencio.
+¡El diálogo silencioso entre uno y su reflejo toma aqui forma!
 
 {% include respiration.html %}
 
