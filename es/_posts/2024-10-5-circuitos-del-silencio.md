@@ -25,7 +25,7 @@ categories:
 
 ###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
 
-¡El diálogo silencioso entre uno y su reflejo toma aqui forma!
+¡El diálogo silencioso entre uno y su reflejo trata de tomar aquí forma!
 
 {% include respiration.html %}
 
