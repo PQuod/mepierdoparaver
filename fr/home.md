@@ -6,9 +6,9 @@ lang-ref: home
 permalink: /home/
 ---
 
-*SLB: NOMAD!*. Exposition collective. Commisariat: Sounds Like a Book. 4 au 8 novembre 2024. Belgrade, Serbie.
+*SLB: NOMAD!*. Exposition collective du 4 au 8 novembre 2024. Commisariat: Sounds Like a Book. Belgrade, Serbie.
 
-*SLB: NOMAD!*. Exposition collective. Commisariat: Sounds Like a Book. 9 au 14 novembre 2024. Berlin, Allemagne.
+*SLB: NOMAD!*. Exposition collective du 9 au 14 novembre 2024. Commisariat: Sounds Like a Book. Berlin, Allemagne.
 
 *Résidence recherche-expérimentation*. Automne 2024. Atelier BONJOURE. Rennes, France.
 
