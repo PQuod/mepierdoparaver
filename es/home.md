@@ -5,6 +5,10 @@ lang: es
 lang-ref: home
 ---
 
+*SLB: NOMAD!*. Exposción colectiva. Commisariado: Sounds Like a Book. 4 al 8 de noviembre 2024. Belgrado, Serbia.
+
+*SLB: NOMAD!*. Exposción colectiva. Commisariado: Sounds Like a Book. 9 al 14 noviembre 2024. Berlín, Alemania.
+
 *Residencia investigación-experimentación*. Otoño 2024. Taller BONJOURE. Rennes, Francia.
 
 {% include separation.html %}
