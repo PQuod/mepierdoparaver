@@ -12,7 +12,7 @@ permalink: /home/
 
 *Atelier de sérigraphie*. Chargé du cours (L2) II-2024. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
 
-{% include separation.html %}
+{% include respiration.html %}
 
 **Pérenne :**
 
