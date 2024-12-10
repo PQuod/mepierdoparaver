@@ -6,13 +6,7 @@ lang-ref: home
 permalink: /home/
 ---
 
-*SLB: NOMAD!*. Exposition collective du 4 au 8 novembre 2024. Commisariat: Sounds Like a Book. Footnote Centre. Belgrade, Serbie.
-
-*SLB: NOMAD!*. Exposition collective du 9 au 14 novembre 2024. Commisariat: Sounds Like a Book. Berlin, Allemagne.
-
 *Résidence recherche-expérimentation*. Automne 2024. Atelier BONJOURE. Rennes, France.
-
-{% include separation.html %}
 
 *Les murailles n'ont pas seulement des oreilles*. Installation en espace public. Visible à partir du 15 octobre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, France.
 
