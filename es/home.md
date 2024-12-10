@@ -11,7 +11,7 @@ lang-ref: home
 
 *Taller de serigrafía*. Encargado del curso (L2) II-2024. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
 
-{% include separation.html %}
+{% include respiration.html %}
 
 **Perenne:**
 
