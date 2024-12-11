@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PROCHAINES AVENTURES
+title: AVENTURES
 lang: fr
 lang-ref: home
 permalink: /home/
