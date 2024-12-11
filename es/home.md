@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PRÓXIMAS AVENTURAS
+title: AVENTURAS
 lang: es
 lang-ref: home
 ---
