@@ -8,9 +8,7 @@ permalink: /home/
 
 **En cours :**
 
-*Résidence recherche-expérimentation*. Automne 2024. Atelier BONJOURE. Rennes, France.
-
-*Atelier de sérigraphie*. Chargé du cours (L2) II-2024. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
+*Atelier de sérigraphie*. Chargé du cours (L2) I-2025. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
 
 {% include respiration.html %}
 
