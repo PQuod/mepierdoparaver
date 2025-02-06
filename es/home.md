@@ -7,9 +7,7 @@ lang-ref: home
 
 **En curso:**
 
-*Residencia investigación-experimentación*. Otoño 2024. Taller BONJOURE. Rennes, Francia.
-
-*Taller de serigrafía*. Encargado del curso (L2) II-2024. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
+*Taller de serigrafía*. Encargado del curso (L2) I-2025. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
 
 {% include respiration.html %}
 
