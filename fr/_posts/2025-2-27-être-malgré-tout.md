@@ -16,7 +16,7 @@ choix,
 
 ![](/imgs/PXL_20250227_144513581_Nig_UP.jpg)
 
-###### *être-malgré-tout*, 2024, sérigraphie, 15 exemplaires numérotés & signés, papier Fedrigoni 350 gr. env., 102 x 72 cm. env.
+###### *être-malgré-tout*, 2024, sérigraphie, 15 exemplaires numérotés & signés, papier cartonné 450 gr. env., 102 x 72 cm. env.
 
 résistances,
 
