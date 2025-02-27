@@ -18,7 +18,7 @@ elecciones,
 
 ###### *ser-a-pesar-de-todo*, 2024, serigrafía, 15 ejemplares numerados y firmados, papel cartón 455 gr. aprox., 102 x 72 cm. aprox.
 
-###### \[Realizada en los talleres de [la asociación Le Parti](https://leparti.net/).]
+###### \[Realizada en los talleres de la asociación [Le Parti](https://leparti.net/).]
 
 resistencias,
 
