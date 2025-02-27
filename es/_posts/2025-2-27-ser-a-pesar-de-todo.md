@@ -26,13 +26,13 @@ realidades.
 
 {% include respiration.html %}
 
-![](/imgs/PXL_20250227_144849920_N_UP.jpg)
+![](/imgs/PXL_20250227_144849920_Ng_UP.jpg)
 
-![](/imgs/PXL_20250227_144729292_N_UP.jpg)
+![](/imgs/PXL_20250227_144729292_Ng_UP.jpg)
 
-![](/imgs/PXL_20250227_145031285_N_UP.jpg)
+![](/imgs/PXL_20250227_145031285_Ng_UP.jpg)
 
-![](/imgs/PXL_20250227_144750817_N_UP.jpg)
+![](/imgs/PXL_20250227_144750817_Ng_UP.jpg)
 
 ###### *ser-a-pesar-de-todo*, detalles.
 
