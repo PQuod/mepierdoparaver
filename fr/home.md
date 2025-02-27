@@ -10,6 +10,10 @@ permalink: /home/
 
 *Atelier de sérigraphie*. Chargé du cours (L2) I-2025. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
 
+**À venir :**
+
+*Pré Festival Sinestesia*. Exposition collective. 22 mars 2025. Hôtel Pasteur. Rennes, France.
+
 {% include respiration.html %}
 
 **Pérennes :**
