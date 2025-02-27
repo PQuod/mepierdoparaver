@@ -14,8 +14,6 @@ permalink: /home/
 
 *Pré Festival Sinestesia*. Exposition collective. 22 mars 2025. Hôtel Pasteur. Rennes, France.
 
-{% include respiration.html %}
-
 **Pérennes :**
 
 *Les murailles n'ont pas seulement des oreilles*. Installation en espace public. Visible à partir du 15 octobre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, France.
