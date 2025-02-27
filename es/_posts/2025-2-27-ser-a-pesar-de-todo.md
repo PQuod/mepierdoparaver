@@ -16,3 +16,15 @@ aventuras,
 elecciones,
 resistencias,
 realidades.
+
+![](/imgs/PXL_20250227_144849920_UP.jpg)
+
+![](/imgs/PXL_20250227_144729292_UP.jpg)
+
+![](/imgs/PXL_20250227_145031285_UP.jpg)
+
+![](/imgs/PXL_20250227_144750817_UP.jpg)
+
+###### *ser-a-pesar-de-todo*, detalles.
+
+¡A la testarudez!
