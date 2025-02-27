@@ -28,3 +28,13 @@ réalités.
 ###### *être-malgré-tout*, détails.
 
 À l'entêtement !
+
+{% include respiration.html %}
+
+###### ***—*** *Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).*
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
