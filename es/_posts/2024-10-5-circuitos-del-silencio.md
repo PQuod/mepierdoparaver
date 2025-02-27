@@ -17,6 +17,8 @@ categories:
 
 ###### *Circuitos del silencio*, 2024, conjunto indisociable de cuatro serigrafías, 10 conjuntos numerados y firmados, base transparente sobre papel acartonado plateado, 21 x 29,7 cm. aprox.
 
+###### \[Realizada en el taller [BONJOURE](https://www.instagram.com/atelier_bonjoure/).]
+
 ###### (vista de exposición), *Début de résidence*, exposición el 13 y 14 de septiembre 2024, Taller BONJOURE, Rennes, Francia.
 
 ![](</imgs/PXL_20241004_142929492.NIGHT-9 -UP.jpg>)
