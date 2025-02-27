@@ -21,6 +21,4 @@ réalités.
 
 ![](/imgs/PXL_20250227_144729292.NIGHT-2%2520UP.jpg)
 
-######
-
 ###### être-malgré-tout, détails.
