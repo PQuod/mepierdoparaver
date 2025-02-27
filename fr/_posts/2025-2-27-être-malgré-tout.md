@@ -18,7 +18,7 @@ choix,
 
 ###### *être-malgré-tout*, 2024, sérigraphie, 15 exemplaires numérotés & signés, papier cartonné 450 gr. env., 102 x 72 cm. env.
 
-###### \[Realisée aux ateliers de [l'association Le Parti](https://leparti.net/).]
+###### \[Realisée aux ateliers de l'association [Le Parti](https://leparti.net/).]
 
 résistances,
 
