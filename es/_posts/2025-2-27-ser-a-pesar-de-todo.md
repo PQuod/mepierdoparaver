@@ -13,9 +13,14 @@ categories:
 ###### *ser-a-pesar-de-todo*, 2024, serigrafía, 15 ejemplares numerados y firmados, papel Fedrigoni 350 gr. aprox., 102 x 72 cm. aprox.
 
 aventuras,
+
 elecciones,
+
 resistencias,
+
 realidades.
+
+{% include respiration.html %}
 
 ![](/imgs/PXL_20250227_144849920_UP.jpg)
 
@@ -28,3 +33,13 @@ realidades.
 ###### *ser-a-pesar-de-todo*, detalles.
 
 ¡A la testarudez!
+
+{% include respiration.html %}
+
+###### ***—*** *— Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente).*
+
+{% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
