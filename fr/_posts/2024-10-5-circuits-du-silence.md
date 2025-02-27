@@ -17,6 +17,8 @@ Comment l'espace est-il habité par le silence ?
 
 ###### *Circuits du silence*, 2024, ensemble indissociable de quatre sérigraphies, 10 ensembles numérotés & signés, base transparente sur papier cartonné miroir argenté, 21 x 29,7 cm. env.
 
+###### \[Realisée à l'atelier [BONJOURE](https://www.instagram.com/atelier_bonjoure/).]
+
 ###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
 
 ![](</imgs/PXL_20241004_142929492.NIGHT-9 -UP.jpg>)
