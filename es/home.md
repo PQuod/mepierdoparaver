@@ -9,6 +9,10 @@ lang-ref: home
 
 *Taller de serigrafía*. Encargado del curso (L2) I-2025. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
 
+**Venideras:**
+
+*Pre Festival Sinestesia*. Exposición colectiva. 22 de marzo 2025. Hôtel Pasteur. Rennes, Francia.
+
 {% include respiration.html %}
 
 **Perennes:**
