@@ -14,7 +14,7 @@ permalink: /home/
 
 **À venir :**
 
-*Pré Festival Sinestesia*. Exposition collective. 22 mars 2025. Hôtel Pasteur. Rennes, France.
+*Festival Sinestesia*. Exposition collective. 22 mars 2025. Hôtel Pasteur. Rennes, France.
 
 **Pérennes :**
 
