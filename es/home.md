@@ -13,7 +13,7 @@ lang-ref: home
 
 **Venideras:**
 
-*Pre Festival Sinestesia*. Exposición colectiva. 22 de marzo 2025. Hôtel Pasteur. Rennes, Francia.
+*Festival Sinestesia*. Exposición colectiva. 22 de marzo 2025. Hôtel Pasteur. Rennes, Francia.
 
 **Perennes:**
 
