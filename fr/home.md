@@ -12,9 +12,13 @@ permalink: /home/
 
 *Pratique des images*. Chargé du cours avec Garance Dor (L1) I-2025. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
 
+{% include respiration.html %}
+
 **À venir :**
 
 *Festival Sinestesia*. Exposition collective. 22 mars 2025. Hôtel Pasteur. Rennes, France.
+
+{% include respiration.html %}
 
 **Pérennes :**
 
