@@ -22,7 +22,7 @@ categories:
 
 {% include respiration.html %}
 
-L’ombre est l’obscurité devenue visible et tangible !
+L’ombre est obscurité devenue visible et tangible !
 
 {% include respiration.html %}
 
