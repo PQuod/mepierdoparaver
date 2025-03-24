@@ -22,7 +22,7 @@ categories:
 
 {% include respiration.html %}
 
-¡La sombra es la oscuridad vuelta visible y tangible!
+¡La sombra es oscuridad vuelta visible y tangible!
 
 {% include respiration.html %}
 
