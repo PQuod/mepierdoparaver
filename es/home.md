@@ -13,12 +13,6 @@ lang-ref: home
 
 {% include respiration.html %}
 
-**Venideras:**
-
-*Festival Sinestesia*. Exposición colectiva. 22 de marzo 2025. Hôtel Pasteur. Rennes, Francia.
-
-{% include respiration.html %}
-
 **Perennes:**
 
 *Las paredes no solo tienen orejas*. Instalación en espacio público. Visible a partir del 15 de octubre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, Francia.
