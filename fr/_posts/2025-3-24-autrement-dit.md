@@ -12,13 +12,13 @@ categories:
 
 ###### *Autrement dit*, 2024-2025, ombre, terre, acier, dimensions variables env.
 
-###### (vue d’exposition), *Festival Sinestesia*, exposition le 22 mars 2025, Hôtel Pasteur, Rennes, France.
+###### (vue d’exposition), *Sinestesia Fêtart*, exposition le 22 mars 2025, Hôtel Pasteur, Rennes, France.
 
 ![](/imgs/PXL_20250322_203921402NIGHT-4-UP.jpg)
 
 ###### *Autrement dit*, 2024-2025, ombre, terre, acier, dimensions variables env.
 
-###### (vue d’exposition), *Festival Sinestesia*, exposition le 22 mars 2025, Hôtel Pasteur, Rennes, France.
+###### (vue d’exposition), *Sinestesia Fêtart*, exposition le 22 mars 2025, Hôtel Pasteur, Rennes, France.
 
 {% include respiration.html %}
 
