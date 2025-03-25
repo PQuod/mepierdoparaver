@@ -23,6 +23,12 @@ Aún no he terminado, solo me he detenido; lo cual no quiere decir que vaya a co
 
 {% include respiration.html %}
 
+![](/imgs/PXL_20250322_142642755NIGHT-1-UP.jpg)
+
+###### *Fantasma 16 \[Hôtel Pasteur]*, 2025, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
+
+###### (vista de exposición), *Festival Sinestesia*, exposición el 22 de mars 2025, Hôtel Pasteur, Rennes, Francia.
+
 ![](</imgs/PXL_20240913_151159646.NIGHT UP.jpg>)
 
 ###### *Fantasma 15 \[BONJOURE]*, 2024, cinta adhesiva transparente sobre vidrio, dibujo en el lugar, dimensiones variables aprox.
