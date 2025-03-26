@@ -12,13 +12,13 @@ categories:
 
 ###### *En otros términos*, 2024-2025, sombra, tierra, acero, dimensiones variables aprox.
 
-###### (vista de exposición), *Sinestesia Fêtart*,, exposición el 22 de marzo 2025, Hôtel Pasteur, Rennes, Francia.
+###### (vista de exposición), *Sinestesia Fêtart*, exposición el 22 de marzo 2025, Hôtel Pasteur, Rennes, Francia.
 
 ![](/imgs/PXL_20250322_203921402NIGHT-4-UP.jpg)
 
 ###### *En otros términos*, 2024-2025, sombra, tierra, acero, dimensiones variables aprox.
 
-###### (vista de exposición), *Sinestesia Fêtart*,, exposición el 22 de marzo 2025, Hôtel Pasteur, Rennes, Francia.
+###### (vista de exposición), *Sinestesia Fêtart*, exposición el 22 de marzo 2025, Hôtel Pasteur, Rennes, Francia.
 
 {% include respiration.html %}
 
