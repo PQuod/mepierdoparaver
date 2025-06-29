@@ -14,7 +14,7 @@ permalink: /home/
 
 {% include respiration.html %}
 
-**Pérennes :**
+**Pérennes (d'un certain point de vue) :**
 
 *Les murailles n'ont pas seulement des oreilles*. Installation en espace public. Visible à partir du 15 octobre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, France.
 
