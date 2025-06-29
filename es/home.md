@@ -13,7 +13,7 @@ lang-ref: home
 
 {% include respiration.html %}
 
-**Perennes:**
+**Perennes (desde un cierto punto de vista):**
 
 *Las paredes no solo tienen orejas*. Instalación en espacio público. Visible a partir del 15 de octubre 2023. Superflux, Voir l’art se faire. 35560 Bazouges-la-Pérouse, Francia.
 
