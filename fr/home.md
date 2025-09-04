@@ -8,9 +8,7 @@ permalink: /home/
 
 **En cours :**
 
-*Atelier de sérigraphie*. Chargé du cours (L2) I-2025. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
-
-*Pratique des images*. Chargé du cours avec Garance Dor (L1) I-2025. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
+*Atelier de sérigraphie*. Chargé du cours (L2) II-2025. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
 
 {% include respiration.html %}
 
