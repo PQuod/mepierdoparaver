@@ -8,7 +8,7 @@ permalink: /home/
 
 **À venir :**
 
-Exposition d'affiches imprimées à quatre mains avec Camille Depalle, dans le cadre de son projet *Il y avait des murs vides*. Visible du 10 octobre 2025 au 4 janvier 2026. FRAC Bretagne. Rennes, France.
+Exposition d'affiches en sérigraphie, imprimées à quatre mains avec Camille Depalle, dans le cadre de son projet *Il y avait des murs vides*. Visible du 10 octobre 2025 au 4 janvier 2026. FRAC Bretagne. Rennes, France.
 
 {% include respiration.html %}
 
