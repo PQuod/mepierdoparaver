@@ -19,7 +19,7 @@ categories:
 
 ###### \[Realizada en el taller [BONJOURE](https://www.instagram.com/atelier_bonjoure/).]
 
-En tipografía, antes de la invención de los caracteres móviles, el calderón servía para marcar el fin y el inicio de un párrafo. Luego de su desaparición, reapareció en el dominio de la informática para señalar de nuevo el fin de un párrafo, esta vez como un carácter invisible (no imprimible).
+En tipografía, antes de la invención de los caracteres móviles, el calderón servía para marcar el fin y el inicio de un párrafo. Luego de su desaparición, reapareció en el dominio de la informática para señalar de nuevo el fin de un párrafo, esta vez como un caracter invisible (no imprimible).
 
 Esta imagen, que pretende representar un monumento, rinde homenaje a todos los caracteres invisibles e invisibilizados. Un monumento imaginario en un espacio abstracto: un dibujo que se reivindica como escultura en potencia.
 
