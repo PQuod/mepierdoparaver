@@ -11,7 +11,7 @@ categories:
 
 ![](/imgs/Monument_au_caractere_invisible_BASE_UP.jpg)
 
-###### *Monumento al caracter invisible*, 2021-2025, expectativa, dibujo vectorial, 10.5 x 14.7 cm. aproximadamente.
+###### *Monumento al caracter invisible*, 2021-2025, expectativa, dibujo vectorial, 10.5 x 14.7 cm. aprox.
 
 ![](/imgs/Monument_au_caractere_invisible_UP.jpg)
 
