@@ -8,4 +8,3 @@ categories:
   - edition
 ---
 
-![](/imgs/Monument_au_caractere_invisible_UP.jpg)![](/imgs/Monument_au_caractere_invisible_BASE_UP.jpg)
