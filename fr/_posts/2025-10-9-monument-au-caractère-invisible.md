@@ -21,7 +21,7 @@ categories:
 
 En typographie, avant l’invention des caractères mobiles, le pied-de-mouche servait à marquer la fin ou le début d’un paragraphe. Après sa disparition, il a réapparu dans le domaine informatique pour signaler à nouveau la fin d’un paragraphe, cette fois sous forme de caractère invisible (non imprimable).
 
-Cette image, qui prétend représenter un monument, rend hommage à tous les caractères invisibles et invisibilisés. Un monument imaginaire dans un espace abstrait : un dessin qui se revendique comme une sculpture en puissance.
+Cette image, qui prétend représenter un monument, rend hommage à tous les caractères invisibles et invisibilisés. Un monument imaginaire dans un espace abstrait : un dessin imprimé qui se revendique comme une sculpture en puissance.
 
 {% include respiration.html %}
 
