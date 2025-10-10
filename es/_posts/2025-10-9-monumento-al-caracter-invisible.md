@@ -15,7 +15,7 @@ categories:
 
 ![](/imgs/Monument_au_caractere_invisible_UP.jpg)
 
-###### *Monumento al caracter invisible*, 2021-2025, serigrafía, 140 ejemplares numerados y firmados, 10.5 x 14.7 cm. aprox.
+###### *Monumento al caracter invisible*, 2021-2025, 2da edición, serigrafía, 140 ejemplares numerados y firmados, 10.5 x 14.7 cm. aprox.
 
 ###### \[Realizada en el taller [BONJOURE](https://www.instagram.com/atelier_bonjoure/).]
 
