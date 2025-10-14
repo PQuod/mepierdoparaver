@@ -8,7 +8,7 @@ permalink: /home/
 
 **À venir :**
 
-*Tubitatif*. Initiative de co-création/exposition (avec Charly Graviassy, Adrien Abline et des étudiant.e.s en Arts Plastiques à l'Université Rennes 2). TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
+*Tubitatif*. Initiative de co-création/exposition (avec Charly Graviassy, Adrien Abline et des étudiantxs en Arts Plastiques à l'Université Rennes 2). TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
 
 {% include respiration.html %}
 
