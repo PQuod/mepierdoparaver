@@ -6,13 +6,9 @@ lang-ref: home
 permalink: /home/
 ---
 
-**À venir :**
+**En cours :**
 
 *Tubitatif*. Initiative de co-création/exposition (avec Charly Graviassy, Adrien Abline et des étudiantxs en Arts Plastiques à l'Université Rennes 2). TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
-
-{% include respiration.html %}
-
-**En cours :**
 
 Exposition d'affiches en sérigraphie, imprimées à quatre mains avec Camille Depalle, dans le cadre de son projet *Il y avait des murs vides*. Visible du 10 octobre 2025 au 4 janvier 2026. FRAC Bretagne. Rennes, France.
 
