@@ -6,6 +6,12 @@ lang-ref: home
 permalink: /home/
 ---
 
+**À venir :**
+
+Séance d'écoute lors du finissage de *Tubitatif*. 16 janvier 2026. TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
+
+{% include respiration.html %}
+
 **En cours :**
 
 *Tubitatif*. Initiative de co-création/exposition (avec Charly Graviassy, Adrien Abline et des étudiantxs en Arts Plastiques à l'Université Rennes 2). TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
