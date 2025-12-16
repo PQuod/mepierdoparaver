@@ -5,6 +5,12 @@ lang: es
 lang-ref: home
 ---
 
+**Por venir :**
+
+Sesión de escucha 'K7' durante el cierre de *Tubitatif*. 16 de enero 2026, 18h. TOKONOMA Research Room. Universidad Rennes 2 – Campus la Harpe. Rennes, Francia.
+
+{% include respiration.html %}
+
 **En curso:**
 
 *Tubitatif*. Iniciativa de co-creación/exposición (con Charly Graviassy, Adrien Abline y estudiantes en Artes Plásticas de la Universidad Rennes 2). TOKONOMA Research Room. Universidad Rennes 2 – Campus la Harpe. Rennes, Francia.
