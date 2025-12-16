@@ -8,7 +8,7 @@ permalink: /home/
 
 **À venir :**
 
-Séance d'écoute lors du finissage de *Tubitatif*. 16 janvier 2026. TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
+Séance d'écoute 'K7' lors du finissage de *Tubitatif*. 16 janvier 2026, 18h. TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
 
 {% include respiration.html %}
 
