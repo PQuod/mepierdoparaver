@@ -16,7 +16,7 @@ Workshop *Le geste de répéter*. 12 au 16 janvier 2026. Licence 2. Département
 
 **En cours :**
 
-*Tubitatif*. Initiative de co-création/exposition (avec Charly Graviassy, Adrien Abline et des étudiantxs en Arts Plastiques à l'Université Rennes 2). TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
+*Tubitatif*. Initiative de co-création/exposition (avec Charly Graviassy, Adrien Abline et des étudiantxs en Arts Plastiques à l'Université Rennes 2). 28 novembre 2025 au 16 janvier 2026. TOKONOMA Research Room. Université Rennes 2 – Campus de la Harpe. Rennes, France.
 
 Exposition d'affiches en sérigraphie, imprimées à quatre mains avec Camille Depalle, dans le cadre de son projet *Il y avait des murs vides*. Visible du 10 octobre 2025 au 22 mars 2026. FRAC Bretagne. Rennes, France.
 
