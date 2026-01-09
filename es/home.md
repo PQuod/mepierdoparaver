@@ -7,7 +7,7 @@ lang-ref: home
 
 **Por venir:**
 
-Sesión de escucha 'K7' durante el cierre de *Tubitatif*. 16 de enero 2026, 18h. TOKONOMA Research Room. Universidad Rennes 2 – Campus la Harpe. Rennes, Francia.
+Sesión de escucha *Resonar entre* durante el cierre de *Tubitatif*. 16 de enero 2026, 18h. TOKONOMA Research Room. Universidad Rennes 2 – Campus la Harpe. Rennes, Francia.
 
 {% include respiration.html %}
 
