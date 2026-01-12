@@ -9,11 +9,11 @@ lang-ref: home
 
 Sesión de escucha *Resonar entre* durante el cierre de *Tubitatif*. 16 de enero 2026, 18h. TOKONOMA Research Room. Universidad Rennes 2 – Campus la Harpe. Rennes, Francia.
 
-Workshop *El gesto de repetir*. 12 al 16 de enero 2026. Licencia 2. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
-
 {% include respiration.html %}
 
 **En curso:**
+
+Workshop *El gesto de repetir*. 12 al 16 de enero 2026. Licencia 2. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
 
 *Tubitatif*. Iniciativa de co-creación/exposición (con Charly Graviassy, Adrien Abline y estudiantes en Artes Plásticas de la Universidad Rennes 2). 28 de noviembre 2025 al 16 de enero 2026. TOKONOMA Research Room. Universidad Rennes 2 – Campus la Harpe. Rennes, Francia.
 
