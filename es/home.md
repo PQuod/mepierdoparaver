@@ -7,7 +7,7 @@ lang-ref: home
 
 **Por venir:**
 
-Sinestesia.
+*Sinestesia*. ¡Pronto más información!
 
 {% include respiration.html %}
 
