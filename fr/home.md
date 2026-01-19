@@ -8,7 +8,7 @@ permalink: /home/
 
 **À venir :**
 
-Sinestesia.
+*Sinestesia*. Bientôt plus d'information !
 
 {% include respiration.html %}
 
