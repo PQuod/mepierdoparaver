@@ -3,9 +3,10 @@ layout: post
 title: Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)
 lang: fr
 lang-ref: murailles silence solitude
-date: 2024-09-12T22:00:00.000Z
+date: 2026-01-15T23:00:00.000Z
 categories:
   - dessin
+  - volume
 ---
 
 ![](/imgs/PXL_20260115_174749885NIGHT-6-UP.jpg)
