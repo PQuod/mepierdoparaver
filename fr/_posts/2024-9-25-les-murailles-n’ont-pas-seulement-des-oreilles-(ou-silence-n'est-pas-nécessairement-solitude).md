@@ -9,13 +9,21 @@ categories:
   - volume
 ---
 
-![](/imgs/PXL_20260115_174749885NIGHT-6-UP.jpg)
+![](/imgs/PXL_20260115_174028092NIGHT-1-UP.jpg)
 
 ###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2026, miroir gravé de Ø 50 cm env., racine de cerisier de 60 x 170 x 50 cm env., planche en contreplaqué de 120 x 120 cm env.
 
 ###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, 35000 Rennes, France.
 
 L’oiseau rejoint le ciel avec la terre.
+
+{% include respiration.html %}
+
+![](/imgs/PXL_20260115_174749885NIGHT-6-UP.jpg)
+
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2026, miroir gravé de Ø 50 cm env., racine de cerisier de 60 x 170 x 50 cm env., planche en contreplaqué de 120 x 120 cm env.
+
+###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, 35000 Rennes, France.
 
 La plante rejoint le soleil avec le monde souterrain.
 
