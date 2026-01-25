@@ -3,9 +3,10 @@ layout: post
 title: Las paredes no solo tienen orejas (silencio no es soledad)
 lang: es
 lang-ref: murailles silence solitude
-date: 2024-09-12T22:00:00.000Z
+date: 2026-01-15T23:00:00.000Z
 categories:
   - dessin
+  - volume
 ---
 
 ![](</imgs/PXL_20240913_155236695.NIGHT-1 -UP.jpg>)
