@@ -11,7 +11,7 @@ categories:
 
 ![](/imgs/PXL_20260115_174749885NIGHT-6-UP.jpg)
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2026, miroir gravé de Ø 50 cm env., racine de cerisier de 60 x 170 x 50 cm env., planche en contreplaque de 120 x 120 cm env.
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2026, miroir gravé de Ø 50 cm env., racine de cerisier de 60 x 170 x 50 cm env., planche en contreplaqué de 120 x 120 cm env.
 
 ###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, 35000 Rennes, France.
 
@@ -21,11 +21,7 @@ Habiter le seuil, sans reflet, sans double, en silence.
 
 ![](/imgs/PXL_20260115_173937880NIGHT-1-UP.jpg)
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2026, miroir gravé de Ø 50 cm env., racine de cerisier de 60 x 170 x 50 cm env., planche en contreplaque de 120 x 120 cm env.
-
 ###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, 35000 Rennes, France.
-
-{% include respiration.html %}
 
 L’oiseau rejoint le ciel avec la terre.
 La plante rejoint le soleil avec le monde souterrain.
@@ -34,15 +30,15 @@ La plante rejoint le soleil avec le monde souterrain.
 
 ![](/imgs/PXL_20260115_174654668NIGHT-5-UP.jpg)
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléchissante du miroir.
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléchissante du miroir gravé.
 
 ![](/imgs/PXL_20260115_174153886NIGHT-2-UP.jpg)
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail du dos du miroir.
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail du dos du miroir gravé.
 
 ![](/imgs/PXL_20260115_174454130NIGHT-3-UP.jpg)
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléchissante du miroir, où se reflète une peinture de Charly Graviassy.
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléchissante du miroir gravé, où se reflète une peinture de Charly Graviassy.
 
 {% include respiration.html %}
 
