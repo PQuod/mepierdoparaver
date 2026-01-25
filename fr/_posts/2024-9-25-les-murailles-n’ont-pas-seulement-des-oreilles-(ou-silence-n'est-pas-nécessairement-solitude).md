@@ -31,7 +31,13 @@ La plante rejoint le soleil avec le monde souterrain.
 
 {% include respiration.html %}
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail.
+![](/imgs/PXL_20260115_174654668NIGHT-5-UP.jpg)
+
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléhissante du miroir.
+
+![](/imgs/PXL_20260115_174153886NIGHT-2-UP.jpg)
+
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail du dos du miroir.
 
 {% include respiration.html %}
 
