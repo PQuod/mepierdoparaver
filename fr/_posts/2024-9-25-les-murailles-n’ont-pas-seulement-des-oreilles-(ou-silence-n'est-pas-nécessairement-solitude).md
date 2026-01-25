@@ -15,7 +15,9 @@ categories:
 
 ###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, 35000 Rennes, France.
 
-Habiter le seuil, sans reflet, sans double, en silence.
+L’oiseau rejoint le ciel avec la terre.
+
+La plante rejoint le soleil avec le monde souterrain.
 
 {% include respiration.html %}
 
@@ -23,9 +25,7 @@ Habiter le seuil, sans reflet, sans double, en silence.
 
 ###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, 35000 Rennes, France.
 
-L’oiseau rejoint le ciel avec la terre.
-
-La plante rejoint le soleil avec le monde souterrain.
+Habiter le seuil, sans reflet, sans double, en silence.
 
 {% include respiration.html %}
 
