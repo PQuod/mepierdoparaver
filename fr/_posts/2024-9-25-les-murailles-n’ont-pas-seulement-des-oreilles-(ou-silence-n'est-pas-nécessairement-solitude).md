@@ -8,37 +8,18 @@ categories:
   - dessin
 ---
 
-![](</imgs/PXL_20240913_155236695.NIGHT-1 -UP.jpg>)
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2026, miroir gravé de Ø 50 cm env., racine de cerisier de 60 x 170 x 50 cm env., planche en contreplaque de 120 x 120 cm env.
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2024, miroir gravé, Ø 50 cm env.
-
-###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
-
-Habiter le seuil, sans reflet, sans double, en silence.
+###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, 35000 Rennes, France.
 
 {% include respiration.html %}
 
-![](</imgs/PXL_20240913_155342357.NIGHT-2 -UP.jpg>)
+Habiter le seuil, sans reflet, sans double, en silence.
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2024, miroir gravé, Ø 50 cm env.
+L’oiseau rejoint le ciel avec la terre.
+La plante rejoint le soleil avec le monde souterrain.
 
-###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
-
-![](</imgs/PXL_20240913_155431611.NIGHT-3 -UP.jpg>)
-
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail.
-
-![](</imgs/PXL_20240913_155508647.NIGHT-4 -UP.jpg>)
-
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2024, miroir gravé, Ø 50 cm env.
-
-###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
-
-![](</imgs/PXL_20240913_155555997.NIGHT-5 -UP.jpg>)
-
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, 2023-2024, miroir gravé, Ø 50 cm env.
-
-###### (vue d'exposition), *Début de résidence*, exposition le 13 et 14 septembre 2024, Atelier BONJOURE, Rennes, France.
+{% include respiration.html %}
 
 {% include respiration.html %}
 
