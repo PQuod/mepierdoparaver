@@ -33,11 +33,15 @@ La plante rejoint le soleil avec le monde souterrain.
 
 ![](/imgs/PXL_20260115_174654668NIGHT-5-UP.jpg)
 
-###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléhissante du miroir.
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléchissante du miroir.
 
 ![](/imgs/PXL_20260115_174153886NIGHT-2-UP.jpg)
 
 ###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail du dos du miroir.
+
+![](/imgs/PXL_20260115_174454130NIGHT-3-UP.jpg)
+
+###### *Les murailles n’ont pas seulement des oreilles (silence n'est pas solitude)*, détail de la face réfléchissante du miroir, où se reflète une peinture de Charly Graviassy.
 
 {% include respiration.html %}
 
