@@ -11,15 +11,17 @@ categories:
 
 ![](/imgs/PXL_20260115_174028092NIGHT-1-UP.jpg)
 
-###### *Las paredes no solo tienen orejas (silencio no es soledad)*, 2023-2026, espejo grabado de Ø 50 cm aprox., raíz de cerezo de 60 x 170 x 50 cm aprox., placa de contrachapado de 120 x 120 cm aprox.
+###### *Las paredes no solo tienen orejas (silencio no es soledad)*, 2023-2026, espejo grabado de Ø 50 cm aprox., raíz de cerezo de 60 x 170 x 50 cm aprox., placa de contrachapado de 120 x 120 cm aprox.
 
 ###### (vista de exposición), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera y Charly Graviassy, exposición del 28 de noviembre 2025 al 16 de enero 2026, Espacio Tokonoma, Rennes, Francia.
 
 El pájaro junta el cielo con la tierra.
 
+{% include respiration.html %}
+
 ![](/imgs/PXL_20260115_174749885NIGHT-6-UP.jpg)
 
-###### *Las paredes no solo tienen orejas (silencio no es soledad)*, 2023-2026, espejo grabado de Ø 50 cm aprox., raíz de cerezo de 60 x 170 x 50 cm aprox., placa de contrachapado de 120 x 120 cm aprox.
+###### *Las paredes no solo tienen orejas (silencio no es soledad)*, 2023-2026, espejo grabado de Ø 50 cm aprox., raíz de cerezo de 60 x 170 x 50 cm aprox., placa de contrachapado de 120 x 120 cm aprox.
 
 ###### (vista de exposición), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera y Charly Graviassy, exposición del 28 de noviembre 2025 al 16 de enero 2026, Espacio Tokonoma, Rennes, Francia.
 
@@ -29,7 +31,7 @@ La planta junta el sol con el mundo subtrerráneo.
 
 ![](/imgs/PXL_20260115_173937880NIGHT-1-UP.jpg)
 
-###### (vista de exposición), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 janvier 2026, Espace Tokonoma, Rennes, France.
+###### (vista de exposición), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera y Charly Graviassy, exposición del 28 de noviembre 2025 al 16 de enero 2026, Espacio Tokonoma, Rennes, Francia.
 
 Habitar el umbral, sin reflejo, sin doble, en silencio.
 
@@ -37,15 +39,15 @@ Habitar el umbral, sin reflejo, sin doble, en silencio.
 
 ![](/imgs/PXL_20260115_174654668NIGHT-5-UP.jpg)
 
-###### *Las paredes no solo tienen orejas (silencio no es soledad)*, detalle de la cara reflejante del espejo grabado.
+###### *Las paredes no solo tienen orejas (silencio no es soledad)*, detalle de la cara reflectante del espejo grabado.
 
 ![](/imgs/PXL_20260115_174153886NIGHT-2-UP.jpg)
 
-###### *Las paredes no solo tienen orejas (silencio no es soledad)*, detalle de la parte trasera del espejo grabado.
+###### *Las paredes no solo tienen orejas (silencio no es soledad)*, detalle del dorso del espejo grabado.
 
 ![](/imgs/PXL_20260115_174454130NIGHT-3-UP.jpg)
 
-###### *Las paredes no solo tienen orejas (silencio no es soledad)*, detalle de la cara reflejante del espejo grabado, donde se refleja una pintura de Charly Graviassy.
+###### *Las paredes no solo tienen orejas (silencio no es soledad)*, detalle de la cara reflectante del espejo grabado, donde se refleja una pintura de Charly Graviassy.
 
 {% include respiration.html %}
 
