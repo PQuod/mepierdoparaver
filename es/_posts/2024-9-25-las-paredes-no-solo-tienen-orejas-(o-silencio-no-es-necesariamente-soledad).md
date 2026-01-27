@@ -15,7 +15,7 @@ categories:
 
 ###### (vista de exposición), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera y Charly Graviassy, exposición del 28 de noviembre 2025 al 16 de enero 2026, Espacio Tokonoma, Rennes, Francia.
 
-El pájaro junta el cielo con la tierra.
+El pájaro junta al cielo con la tierra.
 
 {% include respiration.html %}
 
@@ -25,7 +25,7 @@ El pájaro junta el cielo con la tierra.
 
 ###### (vista de exposición), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera y Charly Graviassy, exposición del 28 de noviembre 2025 al 16 de enero 2026, Espacio Tokonoma, Rennes, Francia.
 
-La planta junta el sol con el mundo subtrerráneo.
+La planta junta al sol con el mundo subterráneo.
 
 {% include respiration.html %}
 
