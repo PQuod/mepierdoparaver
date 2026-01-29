@@ -49,8 +49,6 @@ Esa dimension oculta que a veces dice más que la realidad aparente.
 
 ###### *Hacia la sombra*, detalle instalación.
 
-\* La cuaternidad necesita lo diferente.
-
 {% include respiration.html %}
 
 ###### — *Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente).*
