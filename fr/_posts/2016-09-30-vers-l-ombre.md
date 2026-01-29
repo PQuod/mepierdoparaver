@@ -49,8 +49,6 @@ Cette dimension cachée qui en dit parfois plus long que la réalité apparente.
 
 ###### *Vers l’ombre*, détail installation.
 
-\* La quaternité a besoin du différent.
-
 {% include respiration.html %}
 
 ###### ***—*** *Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).*
