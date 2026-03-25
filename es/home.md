@@ -13,8 +13,6 @@ lang-ref: home
 
 **En curso:**
 
-Exposición de afiches en serigrafía, impresos a cuatro manos con Camille Depalle, en el marco de su proyecto *Il y avait des murs vides*. Visible del 10 de octubre 2025 al 22 de marzo 2026. FRAC Bretagne. Rennes, Francia.
-
 *Taller de serigrafía*. Encargado del curso (L2) I-2026. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
 
 {% include respiration.html %}
