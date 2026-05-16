@@ -7,7 +7,7 @@ lang-ref: home
 
 **Por venir:**
 
-*Sinestesia*. ¡Pronto más información!
+*Solsticio*. ¡Pronto más información!
 
 {% include respiration.html %}
 
