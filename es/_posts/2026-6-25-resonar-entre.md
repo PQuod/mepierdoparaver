@@ -9,23 +9,23 @@ categories:
   - edition
 ---
 
-*Resonar entre* es una composición sonora que explora la materialidad del gesto creativo. Realizada a partir de sonidos producidos por l·x·s estudiantes de Artes plásticas de la Universidad Rennes 2, captados en pleno taller, mientras que ell·x·s pintaban, grabavan, esculpían… Dichos sonidos corresponden a la materia en transformación, al momento en el que ella deviene obra.
+*Resonar entre* es una composición sonora que explora la materialidad del gesto creativo. Realizada a partir de sonidos producidos por l·x·s estudiantes de Artes plásticas de la Universidad Rennes 2, captados en pleno taller, mientras que pintaban, grabavan, esculpían… Dichos sonidos corresponden a la materia en transformación, al momento en el que ella deviene obra.
 
-Pour saisir cette dimension intime, j’ai utilisé un microphone piézoélectrique, conçu pour capter les vibrations par contact direct avec la matière et les transduire en son audible. La seule contrainte que je me suis imposée : travailler exclusivement avec des bandes magnétiques (cassettes), tant pour l’enregistrement que pour la diffusion. Ce choix visait à préserver la granularité, le souffle et le bruit blanc propres à l’analogique, afin d’accentuer la matérialité physique du support.
+Para captar esta dimension íntima, utilicé un micrófono piezoeléctrico, concebido para captar las vibraciones por contacto directo con la materia para luego transducirlas en sonido audible. La única restricción que me impuse: trabajar exclusivamente con bandas magnéticas (casetes), tanto para la grabación como para la difusión. Esta elección apuntaba a preservar la granularidad, el silbido y el ruido blanco propios a lo analógico, con el fin de acentuar la materialidad física del soporte.
 
-Le travail de composition s’est ensuite enrichi d’outils numériques, créant une hybridation entre analogique et digital. Cette rencontre me semble puissante et symbolique : elle confère au son une densité organique, autrement subie ou inexistante.
+El trabajo de composición fue así completado con herramientas digitales, creando una hibridación con lo analógico. Este encuentro me parece potente y simbólico: le otorga al sonido una densidad orgánica, de otra forma sufrida o inexistente.
 
-En écoutant attentivement ces sons, j’ai découvert leur qualité commune : la subtilité des vibrations inframinces, presque invisibles (ou inaudibles pour être justes), qui accompagnent la genèse de l’œuvre. Faire entendre ce « presque inaudible » du geste créatif, c’est révéler une poésie cachée dans l’acte de faire.
+Escuchando atentamente estos sonidos, he descubierto su cualidad común: la sutileza de las vibraciones infraleves, casi invisibles (o inaudibles para ser justos), que acompañan la génesis de la obra. Dar a escuchar ese "casi inaudible" del gesto creativo, es revelar una poesía escondida en el acto de hacer.
 
-Cette pièce quadriphonique fait résonner dans l’espace des sons originels – ceux qui n’existent que parce que l’artiste est en train de créer. Unx artiste absorbé·e dans son geste, travaillant la matière avec ses mains, dans l’instant présent.
+Esta pieza cuadrifónica hace resonar en el espacio sonidos originales – aquellos que solo existen mientras el artista está creando. Unx artista sumergido en su gesto, trabajando la materia con sus manos, en el instante presente.
 
-Au fond, cette pièce sonore vise à interroger la résonance entre l’artiste et la matière par les questions suivantes :
+En el fondo, esta pieza sonora interroga la resonancia entre artista y materia a través de los siguientes cuestionamientos:
 
-* Quel est le son d’une œuvre en train de naître ?
-* Dans quelle mesure peut-on considérer le geste de l’artiste comme une façon d’entrer en résonance avec la matière ?
-* Sous quelles conditions cette résonance devient-elle un dialogue ?
-* Que nous dit la matière en réponse à ce que lui dit l’artiste – et inversement ?
-* Est-il souhaitable d’avoir toujours une résonance lors d’un geste créatif ?
+* ¿Cómo suena una obra mientras está naciendo?
+* ¿En qué medida se puede considerar el gesto del artista como una forma de entrar en resonancia con la materia?
+* ¿Bajo qué condiciones esta resonancia se vuelve un diálogo?
+* ¿Qué nos dice la materia en respuesta a lo que le dicen l·x·s artistas – et inversamente?
+* ¿Es deseable que siempre haya resonancia durante el gesto creativo?
 
 {% include respiration.html %}
 
@@ -33,11 +33,11 @@ Au fond, cette pièce sonore vise à interroger la résonance entre l’artiste 
 
 {% include respiration.html %}
 
-Je remercie vivement Adrien Abline (scrolleur), Gaëtan Jourdaine (perceur des toiles), Alan Kervarec (émailleur céramiste), Hugo Morin (peintre sur bois), Antoine Rannov (graveur sur bois), Maëlle Resmond (peinteresse) ainsi que quelques autres sculpteur·x·s et peintr·x·s anonymes, dont la présence à l’atelier de la Harpe a rendu cette proposition possible. Un grand merci également à mes complices Adrien Abline et Charly Graviassy pour avoir partagé l’aventure tubitative, et à John Cornu pour son soutien et sa confiance.
+Agradezco enormemente a Adrien Abline (scrolleador), Gaëtan Jourdaine (perforador de lienzos), Alan Kervarec (esmaltador ceramista), Hugo Morin (pintor de madera), Antoine Rannov (grabador de madera), Maëlle Resmond (pintora) así que otrxs escultor·x·s y pintor·x·s anónimos, cuya presencia en el taller de la Harpe hizo posible esta proposición. Un gran agradecimiento igualmente a mis cómplices Adrien Abline y Charly Graviassy por haber compartido la aventura tubitativa, y a John Cornu por su apoyo y confianza.
 
-Cette proposition a été réalisée par Carlos Bernal Barrera dans le cadre de l’exposition collective *tubitatif*, réunissant Adrien Abline, Carlos Bernal Barrera & Charly Graviassy, à l’espace Tokonoma (Rennes), du 28 novembre 2025 au 16 janvier 2026.
+Esta propuesta fué realizada por Carlos Bernal Barrera en el marco de la exposición colectiva *tubitativo*, reuniendo a Adrien Abline, Carlos Bernal Barrera y Charly Graviassy, en el espacio Tokonoma (Rennes), del 28 de Noviembre 2025 al 16 de Enero 2026.
 
-Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version stéréo de la pièce sonore. Editée à 20 exemplaires numérotés, cet objet sert à sa documentation et diffusion.
+Esta experiencia se completó con la auto-edición D.I.Y. en casete de la versión estéreo de la pieza sonora. Editada a 20 ejemplares numerados, objeto que sirve para su documentación y difusión.
 
 {% include respiration.html %}
 
