@@ -13,7 +13,7 @@ categories:
 
 ###### *Résonner entre*, 2026, installation sonore pour quatre lecteurs k7, 23:40 env.
 
-###### (Vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 de janvier 2026, Espace Tokonoma, Rennes, France.
+###### (vue d'exposition), *Tubitatif*, Adrien Abline, Carlos Bernal Barrera et Charly Graviassy, exposition du 28 novembre 2025 au 16 de janvier 2026, Espace Tokonoma, Rennes, France.
 
 *Résonner entre* est une composition sonore qui explore la matérialité du geste créatif. Elle a été réalisée à partir des sons produits par les étudiant·x·s en Arts plastiques de l’Université Rennes 2, captés au cœur de l’atelier, alors qu’iels peignaient, gravaient, sculptaient… Ces sons sont ceux de la matière en transformation, au moment où elle devient œuvre.
 
