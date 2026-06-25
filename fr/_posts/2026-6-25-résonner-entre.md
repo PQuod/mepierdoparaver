@@ -53,3 +53,7 @@ Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version 
 ###### *résonner entre*, 2026, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
 
 {% include respiration.html %}
+
+{% include end-post.html %}
+
+{% include respiration.html %}
