@@ -26,7 +26,11 @@ Au fond, cette pièce sonore vise à interroger la résonance entre l’artiste 
 • Que nous dit la matière en réponse à ce que lui dit l’artiste – et inversement ?
 • Est-il souhaitable d’avoir toujours une résonance lors d’un geste créatif ?
 
+{% include respiration.html %}
+
 ***
+
+{% include respiration.html %}
 
 Je remercie vivement Adrien Abline (scrolleur), Gaëtan Jourdaine (perceur des toiles), Alan Kervarec (émailleur céramiste), Hugo Morin (peintre sur bois), Antoine Rannov (graveur sur bois), Maëlle Resmond (peinteresse) ainsi que quelques autres sculpteur·x·s et peintr·x·s anonymes, dont la présence à l’atelier de la Harpe a rendu cette proposition possible. Un grand merci également à mes complices Adrien Abline et Charly Graviassy pour avoir partagé l’aventure tubitative, et à John Cornu pour son soutien et sa confiance.
 
@@ -36,7 +40,7 @@ Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version 
 
 {% include respiration.html %}
 
-{% include soundcloud.html id="253A2346265124" %}
+{% include soundcloud.html id="2346265124" %}
 
 ###### *résonner entre*, 2026, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
 
