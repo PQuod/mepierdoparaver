@@ -20,11 +20,12 @@ En écoutant attentivement ces sons, j’ai découvert leur qualité commune : l
 Cette pièce quadriphonique fait résonner dans l’espace des sons originels – ceux qui n’existent que parce que l’artiste est en train de créer. Unx artiste absorbé·e dans son geste, travaillant la matière avec ses mains, dans l’instant présent.
 
 Au fond, cette pièce sonore vise à interroger la résonance entre l’artiste et la matière par les questions suivantes :
-• Quel est le son d’une œuvre en train de naître ?
-• Dans quelle mesure peut-on considérer le geste de l’artiste comme une façon d’entrer en résonance avec la matière ?
-• Sous quelles conditions cette résonance devient-elle un dialogue ?
-• Que nous dit la matière en réponse à ce que lui dit l’artiste – et inversement ?
-• Est-il souhaitable d’avoir toujours une résonance lors d’un geste créatif ?
+
+* Quel est le son d’une œuvre en train de naître ?
+* Dans quelle mesure peut-on considérer le geste de l’artiste comme une façon d’entrer en résonance avec la matière ?
+* Sous quelles conditions cette résonance devient-elle un dialogue ?
+* Que nous dit la matière en réponse à ce que lui dit l’artiste – et inversement ?
+* Est-il souhaitable d’avoir toujours une résonance lors d’un geste créatif ?
 
 {% include respiration.html %}
 
