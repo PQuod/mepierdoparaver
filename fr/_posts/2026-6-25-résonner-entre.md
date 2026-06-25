@@ -11,7 +11,7 @@ categories:
 
 {% include youtube.html id="BVrfm_OsCZw" %}
 
-###### *résonner entre*, 2026, installation sonore pour quatre lecteurs k7, 23:40 env.
+###### *Résonner entre*, 2026, installation sonore pour quatre lecteurs k7, 23:40 env.
 
 *Résonner entre* est une composition sonore qui explore la matérialité du geste créatif. Elle a été réalisée à partir des sons produits par les étudiant·x·s en Arts plastiques de l’Université Rennes 2, captés au cœur de l’atelier, alors qu’iels peignaient, gravaient, sculptaient… Ces sons sont ceux de la matière en transformation, au moment où elle devient œuvre.
 
@@ -51,11 +51,11 @@ Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version 
 
 ![](/imgs/PXL_20260625_093221298.NIGHT-3_UP.jpg)
 
-###### *résonner entre*, 2026, k7 D.I.Y., livret en sérigraphie, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
+###### *Résonner entre*, 2026, k7 D.I.Y., livret en sérigraphie, version stéréo de la pièce originellement quadriphonique, 23:40 env.
 
 {% include soundcloud.html id="2346265124" %}
 
-###### *résonner entre*, 2026, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
+###### *Résonner entre*, 2026, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
 
 {% include respiration.html %}
 
