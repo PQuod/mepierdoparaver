@@ -5,12 +5,6 @@ lang: es
 lang-ref: home
 ---
 
-**Por venir:**
-
-*Solsticio*. ¡Pronto más información!
-
-{% include respiration.html %}
-
 **En curso:**
 
 *Taller de serigrafía*. Encargado del curso (L2) I-2026. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
