@@ -9,6 +9,8 @@ categories:
   - edition
 ---
 
+{% include youtube.html id="BVrfm_OsCZw" %}
+
 *Resonar entre* es una composición sonora que explora la materialidad del gesto creativo. Realizada a partir de sonidos producidos por l·x·s estudiantes de Artes plásticas de la Universidad Rennes 2, captados en pleno taller, mientras que pintaban, grababan, esculpían… Dichos sonidos corresponden a la materia en transformación, al momento en el que ella deviene obra.
 
 Para captar esta dimensión íntima, utilicé un micrófono piezoeléctrico, concebido para captar las vibraciones por contacto directo con la materia para luego transducirlas en sonido audible. La única restricción que me impuse: trabajar exclusivamente con bandas magnéticas (casetes), tanto para la grabación como para la difusión. Esta elección apuntaba a preservar la granularidad, el silbido y el ruido blanco propios a lo analógico, con el fin de acentuar la materialidad física del soporte.
@@ -21,11 +23,11 @@ Esta pieza cuadrifónica hace resonar en el espacio sonidos originales – aquel
 
 En el fondo, esta pieza sonora interroga la resonancia entre artista y materia a través de los siguientes cuestionamientos:
 
-* ¿Cómo suena una obra mientras está naciendo?
-* ¿En qué medida se puede considerar el gesto del artista como una forma de entrar en resonancia con la materia?
-* ¿Bajo qué condiciones esta resonancia se vuelve un diálogo?
-* ¿Qué nos dice la materia en respuesta a lo que le dicen l·x·s artistas – e inversamente?
-* ¿Es deseable que siempre haya resonancia durante el gesto creativo?
+• ¿Cómo suena una obra mientras está naciendo?
+• ¿En qué medida se puede considerar el gesto del artista como una forma de entrar en resonancia con la materia?
+• ¿Bajo qué condiciones esta resonancia se vuelve un diálogo?
+• ¿Qué nos dice la materia en respuesta a lo que le dicen l·x·s artistas – e inversamente?
+• ¿Es deseable que siempre haya resonancia durante el gesto creativo?
 
 {% include respiration.html %}
 
