@@ -49,11 +49,11 @@ Esta experiencia se completó con la auto-edición D.I.Y. en casete de la versi�
 
 ![](/imgs/PXL_20260625_093221298.NIGHT-3_UP.jpg)
 
-###### *résonner entre*, 2026, k7 D.I.Y., livret en sérigraphie, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
+###### *Resonar entre*, 2026, casete D.I.Y., livrito en serigrafía, versión estéreo de la pieza originalmente cuadrifónica, 23:40 aprox.
 
 {% include soundcloud.html id="2346265124" %}
 
-###### *résonner entre*, 2026, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
+###### *Resonar entre*, 2026, versión estéreo de la pieza originalmente cuadrifónica, 23:40 aprox.
 
 {% include respiration.html %}
 
