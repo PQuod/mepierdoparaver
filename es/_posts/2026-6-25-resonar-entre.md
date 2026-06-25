@@ -61,6 +61,10 @@ Esta experiencia se completó con la auto-edición D.I.Y. en casete de la versi�
 
 {% include respiration.html %}
 
+###### — *Aún quedan fotos por ver (así la fotografía, obviamente, no sea suficiente).*
+
+{% include respiration.html %}
+
 {% include end-post.html %}
 
 {% include respiration.html %}
