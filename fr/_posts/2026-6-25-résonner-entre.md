@@ -9,7 +9,7 @@ categories:
   - edition
 ---
 
-{% include youtube.html id="https://youtu.be/BVrfm_OsCZw" %}
+{% include youtube.html id="BVrfm_OsCZw" %}
 
 ###### *résonner entre*, 2026, installation sonore pour quatre lecteurs k7, 23:40 env.
 
