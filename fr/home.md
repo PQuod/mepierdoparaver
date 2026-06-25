@@ -6,12 +6,6 @@ lang-ref: home
 permalink: /home/
 ---
 
-**À venir :**
-
-*Solstice*. Bientôt plus d'information !
-
-{% include respiration.html %}
-
 **En cours :**
 
 *Atelier de sérigraphie*. Chargé du cours (L2) I-2026. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
