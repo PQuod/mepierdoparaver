@@ -28,7 +28,7 @@ Au fond, cette pièce sonore vise à interroger la résonance entre l’artiste 
 
 {% include respiration.html %}
 
-***
+{% include separation.html %}
 
 {% include respiration.html %}
 
@@ -39,6 +39,14 @@ Cette proposition a été réalisée par Carlos Bernal Barrera dans le cadre de 
 Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version stéréo de la pièce sonore. Editée à 20 exemplaires numérotés, cet objet sert à sa documentation et diffusion.
 
 {% include respiration.html %}
+
+![](/imgs/PXL_20260625_093135637.NIGHT-1_UP.jpg)
+
+![](/imgs/PXL_20260625_093155423.NIGHT-2_UP.jpg)
+
+![](/imgs/PXL_20260625_093221298.NIGHT-3_UP.jpg)
+
+###### *résonner entre*, 2026, k7 D.I.Y., livret en sérigraphie, versión stéréo de la pièce originellement quadriphonique, 23:40 env.
 
 {% include soundcloud.html id="2346265124" %}
 
