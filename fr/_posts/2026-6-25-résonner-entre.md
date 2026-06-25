@@ -61,7 +61,7 @@ Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version 
 
 {% include respiration.html %}
 
-###### ***—*** *Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).*
+###### — *Il reste encore des photos à voir (bien que la photo, bien sûr, ne suffise pas).*
 
 {% include respiration.html %}
 
