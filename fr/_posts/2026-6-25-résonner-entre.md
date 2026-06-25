@@ -11,6 +11,8 @@ categories:
 
 {% include youtube.html id="https://youtu.be/BVrfm_OsCZw" %}
 
+###### *résonner entre*, 2026, installation sonore pour quatre lecteurs k7, 23:40 env.
+
 *Résonner entre* est une composition sonore qui explore la matérialité du geste créatif. Elle a été réalisée à partir des sons produits par les étudiant·x·s en Arts plastiques de l’Université Rennes 2, captés au cœur de l’atelier, alors qu’iels peignaient, gravaient, sculptaient… Ces sons sont ceux de la matière en transformation, au moment où elle devient œuvre.
 
 Pour saisir cette dimension intime, j’ai utilisé un microphone piézoélectrique, conçu pour capter les vibrations par contact direct avec la matière et les transduire en son audible. La seule contrainte que je me suis imposée : travailler exclusivement avec des bandes magnétiques (cassettes), tant pour l’enregistrement que pour la diffusion. Ce choix visait à préserver la granularité, le souffle et le bruit blanc propres à l’analogique, afin d’accentuer la matérialité physique du support.
