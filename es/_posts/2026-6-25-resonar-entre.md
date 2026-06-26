@@ -23,7 +23,7 @@ El trabajo de composición fue así completado con herramientas digitales, crean
 
 Escuchando atentamente estos sonidos, he descubierto su cualidad común: la sutileza de las vibraciones infraleves, casi invisibles (o inaudibles para ser justos), que acompañan la génesis de la obra. Dar a escuchar ese "casi inaudible" del gesto creativo es revelar una poesía escondida en el acto de hacer.
 
-Esta pieza cuadrifónica hace resonar en el espacio sonidos originales – aquellos que solo existen mientras el artista está creando. Unx artista sumergido en su gesto, trabajando la materia con sus manos, en el instante presente.
+Esta pieza cuadrifónica hace resonar en el espacio sonidos originales – aquellos que solo existen mientras el artistx está creando. Unx artista sumergido en su gesto, trabajando la materia con sus manos, en el instante presente.
 
 En el fondo, esta pieza sonora interroga la resonancia entre artista y materia a través de los siguientes cuestionamientos:
 
