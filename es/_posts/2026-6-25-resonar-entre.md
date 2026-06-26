@@ -17,7 +17,7 @@ categories:
 
 *Resonar entre* es una composición sonora que explora la materialidad del gesto creativo. Realizada a partir de sonidos producidos por l·x·s estudiantes de Artes plásticas de la Universidad Rennes 2, captados en pleno taller, mientras que pintaban, grababan, esculpían… Dichos sonidos corresponden a la materia en transformación, al momento en el que ella deviene obra.
 
-Para captar esta dimensión íntima, utilicé un micrófono piezoeléctrico, concebido para captar las vibraciones por contacto directo con la materia para luego transducirlas en sonido audible. La única restricción que me impuse: trabajar exclusivamente con bandas magnéticas (casetes), tanto para la grabación como para la difusión. Esta elección apuntaba a preservar la granularidad, el silbido y el ruido blanco propios a lo analógico, con el fin de acentuar la materialidad física del soporte.
+Para registrar esa dimensión íntima utilicé un micrófono piezoeléctrico, concebido para captar las vibraciones por contacto directo con la materia, para luego transducirlas en sonido audible. La única restricción que me impuse: trabajar exclusivamente con bandas magnéticas (casetes), tanto para la grabación como para la difusión. Esta elección apuntaba a preservar la granularidad, el silbido y el ruido blanco propios a lo analógico, con el fin de acentuar la materialidad física del soporte.
 
 El trabajo de composición fue así completado con herramientas digitales, creando una hibridación con lo analógico. Este encuentro me parece potente y simbólico: le otorga al sonido una densidad orgánica, de otra forma sufrida o inexistente.
 
