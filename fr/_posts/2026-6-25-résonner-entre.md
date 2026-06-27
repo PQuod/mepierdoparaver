@@ -43,7 +43,7 @@ Je remercie vivement Adrien Abline (scrolleur), Gaëtan Jourdaine (perceur des t
 
 Cette proposition a été réalisée par Carlos Bernal Barrera dans le cadre de l’exposition collective *tubitatif*, réunissant Adrien Abline, Carlos Bernal Barrera & Charly Graviassy, à l’espace Tokonoma (Rennes), du 28 novembre 2025 au 16 janvier 2026.
 
-Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version stéréo de la pièce sonore. Editée à 20 exemplaires numérotés, cet objet sert à sa documentation et diffusion.
+Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version stéréo de la pièce sonore. Editée à 16 exemplaires numérotés, cet objet sert à sa documentation et diffusion.
 
 {% include respiration.html %}
 
@@ -53,7 +53,7 @@ Cette expérience se complète par l’auto-édition D.I.Y. en k7 de la version 
 
 ![](/imgs/PXL_20260625_093221298.NIGHT-3_UP.jpg)
 
-###### *Résonner entre*, 2026, k7 D.I.Y., livret en sérigraphie, version stéréo de la pièce originellement quadriphonique, 23:40 env.
+###### *Résonner entre*, 2026, k7 D.I.Y., livret en sérigraphie, version stéréo de la pièce originellement quadriphonique, 16 exemplaires numérotés, 23:40 env.
 
 {% include soundcloud.html id="2346265124" %}
 
