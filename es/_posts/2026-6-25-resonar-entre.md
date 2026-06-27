@@ -43,7 +43,7 @@ Agradezco enormemente a Adrien Abline (scrolleador), Gaëtan Jourdaine (perforad
 
 Esta propuesta fue realizada por Carlos Bernal Barrera en el marco de la exposición colectiva *tubitatif*, reuniendo a Adrien Abline, Carlos Bernal Barrera y Charly Graviassy, en el espacio Tokonoma (Rennes), del 28 de Noviembre 2025 al 16 de Enero 2026.
 
-Esta experiencia se completó con la auto-edición D.I.Y. en casete de la versión estéreo de la pieza sonora. Se editó en 20 ejemplares numerados, objeto que sirve para su documentación y difusión.
+Esta experiencia se completó con la auto-edición D.I.Y. en casete de la versión estéreo de la pieza sonora. Se editó en 16 ejemplares numerados, objeto que sirve para su documentación y difusión.
 
 {% include respiration.html %}
 
@@ -53,7 +53,7 @@ Esta experiencia se completó con la auto-edición D.I.Y. en casete de la versi�
 
 ![](/imgs/PXL_20260625_093221298.NIGHT-3_UP.jpg)
 
-###### *Resonar entre*, 2026, casete D.I.Y., livrito en serigrafía, versión estéreo de la pieza originalmente cuadrifónica, 23:40 aprox.
+###### *Resonar entre*, 2026, casete D.I.Y., livrito en serigrafía, versión estéreo de la pieza originalmente cuadrifónica, 16 ejemplares numerados, 23:40 aprox.
 
 {% include soundcloud.html id="2346265124" %}
 
