@@ -6,6 +6,12 @@ lang-ref: home
 permalink: /home/
 ---
 
+**À venir :**
+
+*Portes ouvertes des ateliers d'artistes 2026*. Ouverture de mon atelier au publique en général. 16 au 18 octobre 2026. Rennes, France.
+
+{% include respiration.html %}
+
 **En cours :**
 
 *Atelier de sérigraphie*. Chargé du cours (L2) I-2026. Département d'Arts plastiques. Université Rennes 2. Rennes, France.
