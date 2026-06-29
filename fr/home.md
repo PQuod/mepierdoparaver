@@ -8,7 +8,7 @@ permalink: /home/
 
 **À venir :**
 
-*Portes ouvertes des ateliers d'artistes 2026*. Ouverture de mon atelier au publique en général. 16 au 18 octobre 2026. Rennes, France.
+*Portes ouvertes des ateliers d'artistes 2026*. Ouverture de mon atelier au publique en général. Événement organisé par la Ville de Rennes - Rennes Métropole. 16 au 18 octobre 2026. Rennes, France.
 
 {% include respiration.html %}
 
