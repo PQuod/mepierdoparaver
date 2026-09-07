@@ -13,7 +13,7 @@ lang-ref: home
 
 **En curso:**
 
-*Taller de serigrafía*. Encargado del curso (L2) I-2026. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
+*Taller de serigrafía*. Encargado del curso (L2) II-2026. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
 
 {% include respiration.html %}
 
