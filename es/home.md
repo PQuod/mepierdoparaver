@@ -5,12 +5,6 @@ lang: es
 lang-ref: home
 ---
 
-**À venir :**
-
-*Puertas abiertas de los talleres de artistas 2026*. Apertura de mi taller al público en general. Evento organizado por la Ciudad de Rennes - Rennes Metrópolis. 16 al 18 de octobre 2026. Rennes, Francia.
-
-{% include respiration.html %}
-
 **En curso:**
 
 *Taller de serigrafía*. Encargado del curso (L2) II-2026. Departamento de Artes plásticas. Universidad Rennes 2. Rennes, Francia.
